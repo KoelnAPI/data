@@ -16,7 +16,6 @@ import json
 import argparse
 import pyproj
 import osr
-from pprint import pprint
 
 
 out_projection = pyproj.Proj("+proj=latlong +datum=WGS84")
@@ -52,9 +51,17 @@ def convert(path, output_name_prefix):
         }
         num += 1
     # convert shapes
+    #print fields.keys()
     for r in sf.shapeRecords():
         shape = r.shape
         record = r.record
+        rec_id = None
+        if 'NUMMER' in fields:
+            rec_id = record[fields['NUMMER']['sequence_number']]
+        elif 'OBJECTID' in fields:
+            rec_id = record[fields['OBJECTID']['sequence_number']]
+        elif 'ID' in fields:
+            rec_id = record[fields['ID']['sequence_number']]
         feature = shape.__geo_interface__
         projected_feature = {
             'type': 'Feature',
@@ -62,7 +69,7 @@ def convert(path, output_name_prefix):
                 'coordinates': [],
                 'type': 'Polygon'  # hard coded...
             },
-            'id': record[fields['NUMMER']['sequence_number']],
+            'id': rec_id,
             'properties': {}
         }
         # add properties from records
