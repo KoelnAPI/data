@@ -13,3 +13,10 @@ Dieses Repository hält einige offene Datensätze der Stadt Köln bereit, um
 deren Anwendung zu erleichtern. Durch den Gebrauch von GitHub soll es zudem
 einfacher sein, Änderungen und Aktualisierungen an den Daten nachvollziehen
 zu können.
+
+## Content / Inhalt
+
+### geo-base - Geographical base data
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/geo-base)
+

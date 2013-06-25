@@ -29,8 +29,9 @@ Source Links:
 
 ## Open tasks
 
-* Add everything from official repository
 * Write automated conversion from shapefile to GeoJSON, KML
+* Create topoligically correct simplified versions
+* Check automatically for updates on source site
 
 
 ## Detailed folder contents
