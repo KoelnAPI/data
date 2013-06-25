@@ -87,11 +87,69 @@ def convert(path, output_name_prefix):
             projected_feature['geometry']['coordinates'].append(projected_ring)
         geojson['features'].append(projected_feature)
     write_geojson(geojson, output_name_prefix + '.geojson')
+    write_kml(geojson, output_name_prefix, output_name_prefix + '.kml')
 
 
 def write_geojson(data, path):
     f = open(path, 'wb')
     f.write(json.dumps(data, sort_keys=True, indent=4))
+    f.close()
+
+
+def write_kml(data, name, path):
+    placemarks = ''
+    for feature in data['features']:
+        properties = ''
+        coordinates = ''
+        for prop in feature['properties']:
+            val = feature['properties'][prop]
+            if type(val) == unicode:
+                val = val.encode('utf-8')
+            properties += '<SimpleData name="%s">%s</SimpleData>\n' % (prop, val)
+        for point in feature['geometry']['coordinates'][0]:
+            coordinates += "%s,%s\n" % (point[0], point[1])
+        placemarks += '''<Placemark>
+            <Style>
+                <LineStyle>
+                    <color>ff0000ff</color>
+                </LineStyle>
+                <PolyStyle>
+                    <fill>0</fill>
+                </PolyStyle>
+            </Style>
+            <ExtendedData>
+                <SchemaData schemaUrl="#%s">
+                    %s
+                </SchemaData>
+            </ExtendedData>
+            <Polygon>
+                <outerBoundaryIs>
+                    <LinearRing>
+                        <coordinates>
+                            %s
+                        </coordinates>
+                    </LinearRing>
+                </outerBoundaryIs>
+            </Polygon>
+        </Placemark>''' % (name, properties, coordinates)
+    kml = '''<?xml version="1.0" encoding="utf-8" ?>
+        <kml xmlns="http://www.opengis.net/kml/2.2">
+            <Document>
+                <Folder>
+                    <name>%s</name>
+                    <Schema id="%s" name="%s">
+                        <SimpleField name="Name" type="string"/>
+                        <SimpleField name="Description" type="string"/>
+                        <SimpleField name="NUMMER" type="string"/>
+                        <SimpleField name="SHAPE_AREA" type="float"/>
+                        <SimpleField name="SHAPE_LEN" type="float"/>
+                    </Schema>
+                    %s
+                </Folder>
+            </Document>
+        </kml>''' % (name, name, name, placemarks)
+    f = open(path, 'wb')
+    f.write(kml)
     f.close()
 
 
