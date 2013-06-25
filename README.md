@@ -4,8 +4,9 @@ Convenient Open Data Repository for Cologne
 ## Description
 
 This repository re-publishes some open datasets for the city of Cologne
-in order to facilitate applications of that data. By using GitHub it
-should also become easier to follow changes and updates in the datasets.
+and offers alternative formats and specific tools in order to facilitate 
+the applications of that data. By using GitHub it should also become 
+easy to follow changes and updates in the datasets.
 
 ## Beschreibung
 
