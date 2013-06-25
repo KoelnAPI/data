@@ -16,10 +16,22 @@ zu können.
 
 ## Content / Inhalt
 
-### geo-base - Geographical base data
+### data
+
+This folder contains data, raw and converted. See README files inside the sectsion
+for additional info.
+
+#### geo-base - Geographical base data
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/geo-base)
 
-### transport - Open Transport Data
+#### transport - Open Transport Data
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/transport)
+
+### tools
+
+This is the place for tools and utilities, such as the Shapefile-to-GeoJSON converter
+which helps to automatize the conversion process from one format to another.
+
+See README files inside the folder for additional info.
