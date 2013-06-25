@@ -33,8 +33,7 @@ Source Links:
 
 ## Detailed folder contents
 
-* source: Original, unmodified data as downloaded from the City of Cologne
-* stadtbezirke.geojson: City districts (Stadtbezirke) in GeoJSON format, WGS84 coordinates
-* stadtbezirke.kml: City districts in KML format
-* umweltzone.geojson: Environmental (air) protection zone in GeoJSON format
-* umweltzone.kml: Environmental (air) protection zone in KML format
+* _source: Original, unmodified data as downloaded from the City of Cologne
+* stadtbezirke: Highest level city districts (Stadtbezirke)
+* stadtteile: Second level city districts (Stadtbezirke)
+* umweltzone: Environmental (air) protection zone
