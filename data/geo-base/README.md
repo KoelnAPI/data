@@ -33,6 +33,6 @@ Source Links:
 
 ## Detailed folder contents
 
-source: Original, unmodified data as downloaded from the City of Cologne
-districts.geojson: City districts (Stadtbezirke) in GeoJSON format, WGS84 coordinates
-districts.kml: City districts in KML format
+* source: Original, unmodified data as downloaded from the City of Cologne
+* districts.geojson: City districts (Stadtbezirke) in GeoJSON format, WGS84 coordinates
+* districts.kml: City districts in KML format
