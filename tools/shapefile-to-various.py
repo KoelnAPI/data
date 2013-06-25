@@ -52,12 +52,9 @@ def convert(path, output_name_prefix):
         }
         num += 1
     # convert shapes
-    #pprint(fields)
-    num = 0
     for r in sf.shapeRecords():
         shape = r.shape
         record = r.record
-        #print "Record:", record
         feature = shape.__geo_interface__
         projected_feature = {
             'type': 'Feature',
@@ -72,7 +69,7 @@ def convert(path, output_name_prefix):
         for key in fields:
             fieldname = fields[key]['name']
             val = record[fields[key]['sequence_number']]
-            if fieldname == 'NAME':
+            if type(val) == str:
                 val = val.decode('latin-1')
             projected_feature['properties'][fieldname] = val
         for ring in feature['coordinates']:
@@ -82,7 +79,6 @@ def convert(path, output_name_prefix):
                 projected_ring.append(p)
             projected_feature['geometry']['coordinates'].append(projected_ring)
         geojson['features'].append(projected_feature)
-        num += 1
     write_geojson(geojson, output_name_prefix + '.geojson')
 
 
