@@ -21,10 +21,9 @@ All data courtesy of Stadtverwaltung Köln.
 
 Source Links:
 
-* [http://www.offenedaten-koeln.de/offene-daten/?did=14](Stadtbezirke/City districts)
-* http://www.offenedaten-koeln.de/offene-daten/?did=15
-* http://www.offenedaten-koeln.de/offene-daten/?did=31
-
+* [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
+* [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
+* [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
 
 ## Open tasks
 
