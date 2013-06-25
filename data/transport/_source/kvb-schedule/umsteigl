@@ -1,0 +1,94 @@
+0000262 02____ STR 3     1 02____ STR 3     1 002 Äußere Kanalstr.
+0000262 02____ STR 3     1 02____ STR 3     1 002 Äußere Kanalstr.
+0000262 02____ STR 3     0 02____ STR 3     0 002 Äußere Kanalstr.
+0000262 02____ STR 3     0 02____ STR 3     0 002 Äußere Kanalstr.
+0000262 02____ STR 3     0 02____ STR 3     1 005 Äußere Kanalstr.
+0000262 02____ STR 3     1 02____ STR 3     0 005 Äußere Kanalstr.
+0000001 02____ STR 1     1 02____ STR 1     1 002 Heumarkt
+0000001 02____ STR 1     1 02____ STR 1     1 002 Heumarkt
+0000001 02____ STR 1     0 02____ STR 1     0 002 Heumarkt
+0000001 02____ STR 1     0 02____ STR 1     0 002 Heumarkt
+0000002 02____ STR 1     1 02____ STR 1     1 002 Neumarkt
+0000002 02____ STR 1     1 02____ STR 1     1 002 Neumarkt
+0000002 02____ STR 1     1 02____ STR 1     0 003 Neumarkt
+0000002 02____ STR 1     0 02____ STR 1     1 003 Neumarkt
+0000002 02____ STR 1     1 02____ STR 3     1 005 Neumarkt
+0000002 02____ STR 3     1 02____ STR 1     1 005 Neumarkt
+0000002 02____ STR 1     1 02____ STR 3     0 005 Neumarkt
+0000002 02____ STR 3     0 02____ STR 1     1 005 Neumarkt
+0000002 02____ STR 1     0 02____ STR 1     0 002 Neumarkt
+0000002 02____ STR 1     0 02____ STR 1     0 002 Neumarkt
+0000002 02____ STR 1     0 02____ STR 3     1 005 Neumarkt
+0000002 02____ STR 3     1 02____ STR 1     0 005 Neumarkt
+0000002 02____ STR 1     0 02____ STR 3     0 005 Neumarkt
+0000002 02____ STR 3     0 02____ STR 1     0 005 Neumarkt
+0000002 02____ STR 3     1 02____ STR 3     1 002 Neumarkt
+0000002 02____ STR 3     1 02____ STR 3     1 002 Neumarkt
+0000002 02____ STR 3     1 02____ STR 3     0 003 Neumarkt
+0000002 02____ STR 3     0 02____ STR 3     1 003 Neumarkt
+0000002 02____ STR 3     0 02____ STR 3     0 003 Neumarkt
+0000002 02____ STR 3     0 02____ STR 3     0 003 Neumarkt
+0000007 02____ STR 3     0 02____ STR 3     0 003 Appellhofplatz
+0000007 02____ STR 3     0 02____ STR 3     0 003 Appellhofplatz
+0000007 02____ STR 3     0 02____ STR 3     1 004 Appellhofplatz
+0000007 02____ STR 3     1 02____ STR 3     0 004 Appellhofplatz
+0000007 02____ STR 3     1 02____ STR 3     1 003 Appellhofplatz
+0000007 02____ STR 3     1 02____ STR 3     1 003 Appellhofplatz
+0000027 02____ STR 1     1 02____ STR 1     1 005 Rudolfplatz
+0000027 02____ STR 1     1 02____ STR 1     1 005 Rudolfplatz
+0000027 02____ STR 1     1 02____ STR 1     0 005 Rudolfplatz
+0000027 02____ STR 1     0 02____ STR 1     1 005 Rudolfplatz
+0000027 02____ STR 1     0 02____ STR 1     0 005 Rudolfplatz
+0000027 02____ STR 1     0 02____ STR 1     0 005 Rudolfplatz
+0000030 02____ STR 3     0 02____ STR 3     0 003 Friesenplatz
+0000030 02____ STR 3     0 02____ STR 3     0 003 Friesenplatz
+0000030 02____ STR 3     0 02____ STR 3     1 003 Friesenplatz
+0000030 02____ STR 3     1 02____ STR 3     0 003 Friesenplatz
+0000030 02____ STR 3     1 02____ STR 3     1 003 Friesenplatz
+0000030 02____ STR 3     1 02____ STR 3     1 003 Friesenplatz
+0000039 02____ STR 1     0 02____ STR 1     0 002 Deutzer Freiheit
+0000039 02____ STR 1     0 02____ STR 1     0 002 Deutzer Freiheit
+0000039 02____ STR 1     1 02____ STR 1     1 002 Deutzer Freiheit
+0000039 02____ STR 1     1 02____ STR 1     1 002 Deutzer Freiheit
+0000041 02____ STR 1     1 02____ STR 1     1 002 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     1 02____ STR 1     1 002 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     1 02____ STR 1     0 003 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     0 02____ STR 1     1 003 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     1 02____ STR 3     0 005 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 3     0 02____ STR 1     1 005 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     0 02____ STR 1     0 002 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     0 02____ STR 1     0 002 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 1     0 02____ STR 3     0 005 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 3     0 02____ STR 1     0 005 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 3     0 02____ STR 3     0 003 Bf Deutz / Messe  LANXESS arena
+0000041 02____ STR 3     0 02____ STR 3     0 003 Bf Deutz / Messe  LANXESS arena
+0000261 02____ STR 1     0 02____ STR 1     0 002 Weiden Zentrum
+0000261 02____ STR 1     0 02____ STR 1     0 002 Weiden Zentrum
+0000570 02____ STR 4     0 02____ STR 4     0 002 Mülheim Wiener Platz
+0000570 02____ STR 4     0 02____ STR 4     0 002 Mülheim Wiener Platz
+0000578 02____ STR 3     0 02____ STR 3     0 002 Buchheim Herler Str.
+0000578 02____ STR 3     0 02____ STR 3     0 002 Buchheim Herler Str.
+0000578 02____ STR 3     0 02____ STR 3     1 003 Buchheim Herler Str.
+0000578 02____ STR 3     1 02____ STR 3     0 003 Buchheim Herler Str.
+0000578 02____ STR 3     1 02____ STR 3     1 002 Buchheim Herler Str.
+0000578 02____ STR 3     1 02____ STR 3     1 002 Buchheim Herler Str.
+0000608 02____ STR 4     0 02____ STR 4     0 003 Leuchterstr.
+0000608 02____ STR 4     0 02____ STR 4     0 003 Leuchterstr.
+0000608 02____ STR 4     0 02____ STR 4     1 003 Leuchterstr.
+0000608 02____ STR 4     1 02____ STR 4     0 003 Leuchterstr.
+0000608 02____ STR 4     1 02____ STR 4     1 003 Leuchterstr.
+0000608 02____ STR 4     1 02____ STR 4     1 003 Leuchterstr.
+0000178 02____ STR 1     0 02____ STR 1     0 030 Aachener Str./Gürtel
+0000178 02____ STR 1     0 02____ STR 1     0 030 Aachener Str./Gürtel
+0000631 02____ STR 4     0 02____ STR 4     1 003 Keupstr.
+0000631 02____ STR 4     1 02____ STR 4     0 003 Keupstr.
+0000631 02____ STR 4     0 02____ STR 4     0 003 Keupstr.
+0000631 02____ STR 4     0 02____ STR 4     0 003 Keupstr.
+0000631 02____ STR 4     1 02____ STR 4     1 003 Keupstr.
+0000631 02____ STR 4     1 02____ STR 4     1 003 Keupstr.
+0000251 02____ STR 3     0 02____ STR 3     0 002 Venloer Str./Gürtel
+0000251 02____ STR 3     0 02____ STR 3     0 002 Venloer Str./Gürtel
+0000251 02____ STR 3     0 02____ STR 3     1 002 Venloer Str./Gürtel
+0000251 02____ STR 3     1 02____ STR 3     0 002 Venloer Str./Gürtel
+0000251 02____ STR 3     1 02____ STR 3     1 002 Venloer Str./Gürtel
+0000251 02____ STR 3     1 02____ STR 3     1 002 Venloer Str./Gürtel
