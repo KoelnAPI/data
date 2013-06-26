@@ -23,6 +23,7 @@ Source Links:
 
 * [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
 * [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
+* [Strassen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
 * [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
 * [Stimmbezirke](http://www.offenedaten-koeln.de/offene-daten/?did=48)
 * [Bundestagswahlkreise](http://www.offenedaten-koeln.de/offene-daten/?did=47)
@@ -39,6 +40,7 @@ Source Links:
 * _source: Original, unmodified data as downloaded from the City of Cologne
 * stadtbezirke: Highest level city districts (Stadtbezirke)
 * stadtteile: Second level city districts (Stadtbezirke)
+* strassen: Streets as paths (lines)
 * stimmbezirke: Election districts (smallest units)
 * umweltzone: Environmental (air) protection zone
 * wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013
