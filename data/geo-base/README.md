@@ -23,8 +23,9 @@ Source Links:
 
 * [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
 * [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
-* [Strassen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
-* [Strassenabschnitte](http://www.offenedaten-koeln.de/offene-daten/?did=64)
+* [Straßen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
+* [Straßenabschnitte](http://www.offenedaten-koeln.de/offene-daten/?did=64)
+* [Straßenknoten](http://www.offenedaten-koeln.de/offene-daten/?did=65)
 * [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
 * [Stimmbezirke](http://www.offenedaten-koeln.de/offene-daten/?did=48)
 * [Bundestagswahlkreise](http://www.offenedaten-koeln.de/offene-daten/?did=47)
@@ -41,10 +42,11 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 ## Detailed folder contents
 
 * _source: Original, unmodified data as downloaded from the City of Cologne
-* stadtbezirke: Highest level city districts (Stadtbezirke)
-* stadtteile: Second level city districts (Stadtbezirke)
+* stadtbezirke: Highest level city districts (Stadtbezirke) as polygons
+* stadtteile: Second level city districts (Stadtbezirke) as polygons
 * strassen: Streets as paths (lines)
 * strassenabschnitte: Street segments as paths (lines)
-* stimmbezirke: Election districts (smallest units)
-* umweltzone: Environmental (air) protection zone
-* wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013
+* strassenknoten: Street nodes, e.g. crossings (point data)
+* stimmbezirke: Election districts (smallest units) as polygons
+* umweltzone: Environmental (air) protection zone boundaries as polygons
+* wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013 as polygons
