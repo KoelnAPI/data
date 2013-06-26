@@ -35,4 +35,4 @@ for additional info.
 This is the place for tools and utilities, such as the Shapefile-to-GeoJSON converter
 which helps to automatize the conversion process from one format to another.
 
-See README files inside the folder for additional info.
+[Read more](https://github.com/marians/datahub-cgn/tree/master/tools)
