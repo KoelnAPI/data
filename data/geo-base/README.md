@@ -36,8 +36,10 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 ## Open tasks
 
 * Write automated conversion from shapefile to GeoJSON, KML
-* Create topoligically correct simplified versions
+* Create topoligically correct simplified versions for faster display on the web
+* Create TopoJSON versions
 * Check automatically for updates on source site
+* Add [Address data](http://www.offenedaten-koeln.de/offene-daten/?did=60) in a meaningful format (point data with GeoJSON weighing more than 80 MB and KML above 150 MB)
 
 
 ## Detailed folder contents
