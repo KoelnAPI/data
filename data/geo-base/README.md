@@ -23,6 +23,7 @@ Source Links:
 
 * [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
 * [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
+* [Stadtviertel](http://www.offenedaten-koeln.de/offene-daten/?did=58)
 * [Straßen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
 * [Straßenabschnitte](http://www.offenedaten-koeln.de/offene-daten/?did=64)
 * [Straßenknoten](http://www.offenedaten-koeln.de/offene-daten/?did=65)
@@ -42,8 +43,9 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 ## Detailed folder contents
 
 * _source: Original, unmodified data as downloaded from the City of Cologne
-* stadtbezirke: Highest level city districts (Stadtbezirke) as polygons
-* stadtteile: Second level city districts (Stadtbezirke) as polygons
+* stadtbezirke: Highest level city districts as polygons
+* stadtteile: Second level city districts as polygons
+* stadtviertel: Neighbourhoods as polygons
 * strassen: Streets as paths (lines)
 * strassenabschnitte: Street segments as paths (lines)
 * strassenknoten: Street nodes, e.g. crossings (point data)
