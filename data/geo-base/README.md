@@ -15,7 +15,7 @@ werden hier GeoJSON und KML Exporte der Grenzen angeboten. Das Detail-Level ist 
 den Originaldaten unverändert.
 
 
-## Source / Attribution
+## Source / Attribution / License
 
 All data courtesy of Stadtverwaltung Köln.
 
@@ -24,9 +24,12 @@ Source Links:
 * [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
 * [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
 * [Strassen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
+* [Strassenabschnitte](http://www.offenedaten-koeln.de/offene-daten/?did=64)
 * [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
 * [Stimmbezirke](http://www.offenedaten-koeln.de/offene-daten/?did=48)
 * [Bundestagswahlkreise](http://www.offenedaten-koeln.de/offene-daten/?did=47)
+
+All data in this folder is licensed under CC-BY license by the Cologne city administration.
 
 ## Open tasks
 
@@ -41,6 +44,7 @@ Source Links:
 * stadtbezirke: Highest level city districts (Stadtbezirke)
 * stadtteile: Second level city districts (Stadtbezirke)
 * strassen: Streets as paths (lines)
+* strassenabschnitte: Street segments as paths (lines)
 * stimmbezirke: Election districts (smallest units)
 * umweltzone: Environmental (air) protection zone
 * wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013
