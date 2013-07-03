@@ -44,7 +44,6 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 
 ## Detailed folder contents
 
-* _source: Original, unmodified data as downloaded from the City of Cologne
 * stadtbezirke: Highest level city districts as polygons
 * stadtteile: Second level city districts as polygons
 * stadtviertel: Neighbourhoods as polygons
@@ -54,3 +53,5 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 * stimmbezirke: Election districts (smallest units) as polygons
 * umweltzone: Environmental (air) protection zone boundaries as polygons
 * wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013 as polygons
+
+Folder named "_source" contains original, unmodified data as downloaded from the source site
