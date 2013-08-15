@@ -1,3 +1,10 @@
+# Download script for downloading the source in the current folder.
+#
+# Execute this script from within the same directory as work directory, like this:
+#   
+#   sh ./download.sh
+
+
 SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=31"
 NAME="Umweltzone"
 FINAL_FOLDER=$NAME
