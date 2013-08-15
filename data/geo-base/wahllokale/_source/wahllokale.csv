@@ -1,0 +1,910 @@
+﻿OBJECTID;NR_STIMMBEZIRK800;WLK_NAME;WLK_ADRESSE;ROLLSTUHLGERECHT;WLK_STADTTEIL;POSTZUSTELLBEZIRK;KOORX;KOORY;STIMMBEZIRK_STADTTEIL;KOMMUNALWAHLBEZIRK;LANDTAGSWAHLKREIS;BUNDESTAGSWAHLKREIS
+1;80604;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+2;50411;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+3;30208;Kath. Grundschule Berrenrather Str.;Berrenrather Str. 179;0;Sülz;50937;771217,9933;6607107,485;Sülz;16;14;94
+4;20905;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+5;20813;Ernst-Moritz-Arndt-Schule;Mainstr. 75;1;Rodenkirchen;50996;779546,0401;6600734,578;Rodenkirchen;14;13;94
+6;30405;Clarenbach-Stift;Peter-von-Fliesteden-Str. 1;1;Braunsfeld;50933;767501,9767;6610327,685;Braunsfeld;19;14;94
+7;40602;Kath. Grundschule Wilhelm-Schreiber-Str.;Wilhelm-Schreiber-Str. 56;1;Ossendorf;50827;768197,3379;6616214,482;Ossendorf;24;15;95
+8;40110;Berufskolleg Ehrenfeld;Weinsbergstr. 72;1;Ehrenfeld;50823;770690,4794;6610866,662;Ehrenfeld;22;15;95
+9;40216;Eichendorff-Realschule;Dechenstr. 1;1;Neuehrenfeld;50825;769889,9454;6614020,035;Neuehrenfeld;23;15;95
+10;10309;Fachhochschule Thürmchenswall;Thürmchenswall 48;0;Altstadt/Nord;50668;774853,7947;6612260,765;Altstadt/Nord;4;18;93
+11;30101;Kath. Grundschule Lohrbergstr.;Lohrbergstr. 46;1;Klettenberg;50939;770676,905;6605455,352;Klettenberg;16;14;94
+12;60501;Soziales Zentrum Lino-Club e.V.;Unnauer Weg 96a;1;Lindweiler;50767;767182,0051;6622030,255;Lindweiler;28;16;95
+13;80902;Grundschule Europaring;Europaring 51;0;Neubrück;51109;785569,6054;6609387,74;Neubrück;45;18;93
+14;10505;Berufskolleg Deutzer Freiheit;Eumeniusstr. 4;1;Deutz;50679;777090,8993;6609978,651;Deutz;6;18;93
+15;10111;Theo-Burauen-Schule;Severinswall 40;0;Altstadt/Süd;50678;775324,1968;6607699,092;Altstadt/Süd;1;13;94
+16;10213;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+17;60701;Landwirtschaftskammer;Gartenstr. 11;1;Esch/Auweiler;50765;762541,8483;6621640,121;Esch/Auweiler;28;16;95
+18;10404;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+19;90706;Grundschule Leuchterstr.;Leuchterstr. 25;1;Dünnwald;51069;783498,0211;6620753,041;Dünnwald;38;19;101
+20;70903;Eduard-Mörike-Schule;Mörikeweg 2;1;Grengel;51147;790250,1334;6599154,525;Grengel;9;17;93
+21;30110;Grundschule Stenzelbergstr.;Stenzelbergstr. 3;1;Klettenberg;50939;771487,9362;6605504,909;Klettenberg;16;14;94
+22;80106;Grundschule Lohmarer Str.;Lohmarer Str. 11;1;Humboldt/Gremberg;51105;779870,2714;6608698,872;Humboldt/Gremberg;43;18;93
+23;80903;Grundschule Europaring;Europaring 51;0;Neubrück;51109;785569,6054;6609387,74;Neubrück;45;18;93
+24;10512;Realschule Im Hasental;Im Hasental 41;0;Deutz;50679;776996,2518;6608786,298;Deutz;6;18;93
+25;50602;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+26;30227;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+27;71106;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+28;50505;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+29;30225;Förderschule Redwitzstr.;Redwitzstr. 80;1;Sülz;50937;770712,1653;6607559,044;Sülz;17;14;94
+30;90112;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+31;40202;Seniorenzentrum;Peter-Bauer-Str. 2;1;Neuehrenfeld;50823;771419,5751;6612531,411;Neuehrenfeld;22;15;95
+32;40501;Kath. Grundschule Mengenicher Str.;Mengenicher Str. 28;1;Bocklemünd/Mengenich;50829;763962,627;6617023,264;Bocklemünd/Mengenich;25;15;95
+33;70508;Kopernikusschule;Bonner Str. 40;1;Eil;51145;787145,3698;6601546,941;Eil;8;17;93
+34;40206;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+35;90412;Gesamtschule Holweide;Burgwiesenstr. 125;1;Holweide;51067;783619,6497;6614630,397;Holweide;40;19;101
+36;80504;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+37;50608;Hauptschule Paul-Humburg-Straße;Paul-Humburg-Str. 13;1;Longerich;50737;770456,5953;6620090,368;Longerich;30;16;95
+38;30704;Albert Schweitzer-Grundschule;Breslauer Str. 11;1;Weiden;50858;761926,681;6610013,502;Weiden;20;14;94
+39;60902;Bürgerzentrum Chorweiler;Pariser Platz 1;1;Chorweiler;50765;767914,1211;6625200,121;Chorweiler;27;16;95
+40;80905;Kath. Grundschule Andreas-Hermes-Str.;Andreas-Hermes-Str. 2;1;Neubrück;51109;786101,567;6610319,112;Neubrück;45;18;93
+41;90520;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+42;60305;Grundschule Riphahnstr.;Riphahnstr. 40a;1;Seeberg;50769;768266,6809;6624821,432;Seeberg;26;16;95
+43;90515;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+44;30903;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+45;30104;Kath. Grundschule Lohrbergstr.;Lohrbergstr. 46;1;Klettenberg;50939;770676,905;6605455,352;Klettenberg;16;14;94
+46;30402;Grundschule Geilenkircher Str.;Geilenkircher Str. 52;1;Braunsfeld;50933;767783,8159;6610926,303;Braunsfeld;19;14;94
+47;20403;Europaschule Köln;Raderthalgürtel 3;1;Raderthal;50968;773696,2953;6604022,004;Raderthal;12;13;94
+48;30609;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+49;70901;Eduard-Mörike-Schule;Mörikeweg 2;1;Grengel;51147;790250,1334;6599154,525;Grengel;9;17;93
+50;71602;Grundschule Konrad-Adenauer-Str.;Konrad-Adenauer-Str. 20;0;Finkenberg;51149;786564,9603;6602987,508;Finkenberg;8;17;93
+51;70706;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+52;80812;Kath. Grundschule Forststr.;Forststr. 20;1;Rath/Heumar;51107;788639,2006;6606586,816;Rath/Heumar;41;17;93
+53;50610;Hauptschule Paul-Humburg-Straße;Paul-Humburg-Str. 13;1;Longerich;50737;770456,5953;6620090,368;Longerich;30;16;95
+54;71101;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+55;90601;Peter-Petersen Grundschule;Am Rosenmaar 3;1;Höhenhaus;51061;783466,7197;6620062,258;Höhenhaus;38;19;101
+56;71202;Kita Viehtrift;Viehtrift 5;1;Lind;51147;790499,8955;6594748,256;Lind;10;17;93
+57;70202;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Westhoven;7;17;93
+58;71408;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+59;21002;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Sürth;14;13;94
+60;50305;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+61;40116;Kath. Grundschule Everhardstr.;Everhardstr. 60;1;Ehrenfeld;50823;771327,4324;6612301,422;Ehrenfeld;22;15;95
+62;10203;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+63;40204;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+64;71603;Lise-Meitner-Gesamtschule;Stresemannstr. 36;1;Finkenberg;51149;786294,5923;6603450,567;Finkenberg;8;17;93
+65;20814;Berufsförderungswerk Köln;Sürther Str. 171;1;Rodenkirchen;50999;779712,4857;6599717,542;Rodenkirchen;14;13;94
+66;40119;Schule Leyendecker Str.;Leyendeckerstr. 20;0;Ehrenfeld;50825;769446,9128;6613421,764;Ehrenfeld;24;15;95
+67;50112;Peter-Ustinov-Schule;Neusser Str. 421;1;Nippes;50733;773798,8303;6616273,37;Nippes;32;15;95
+68;80205;Grundschule Kapitelstr.;Kapitelstr. 24;1;Kalk;51103;779712,2211;6610707,394;Kalk;42;18;93
+69;30102;Kath. Grundschule Lohrbergstr.;Lohrbergstr. 46;1;Klettenberg;50939;770676,905;6605455,352;Klettenberg;16;14;94
+70;20609;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+71;10115;Konrad-Adenauer-Realschule;Frankstr. 26;1;Altstadt/Süd;50676;773046,4466;6609290,742;Altstadt/Süd;3;13;94
+72;40208;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+73;80208;Schule Der kleine Prinz;Vietorstr. 38;0;Kalk;51103;779204,835;6610481,808;Kalk;42;18;93
+74;90905;Regenbogenschule;Peter-Grieß-Str. 5-7;0;Flittard;51061;778209,6397;6620802,944;Flittard;37;19;101
+75;10506;Berufskolleg Deutzer Freiheit;Eumeniusstr. 4;1;Deutz;50679;777090,8993;6609978,651;Deutz;6;18;93
+76;10109;Grundschule Zwirnerstr.;Zwirnerstr. 15;1;Altstadt/Süd;50678;775010,345;6608049,01;Altstadt/Süd;1;13;94
+77;70707;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+78;61201;Vereinshaus Worringen;St.-Tönnis-Str. 68;1;Worringen;50769;763814,4848;6632362,863;Worringen;29;16;95
+79;40214;Grundschule Nußbaumerstr.;Nußbaumerstr. 254;0;Neuehrenfeld;50825;770526,1895;6613883,4;Neuehrenfeld;23;15;95
+80;10312;Hansa-Gymnasium;Hansaring 56;0;Neustadt/Nord;50670;773772,8788;6612086,78;Altstadt/Nord;5;18;93
+81;10423;Grundschule Balthasarstr.;Balthasarstr. 87;0;Neustadt/Nord;50670;774813,6148;6613025,62;Neustadt/Nord;5;18;93
+82;50102;Förderschule Auguststr.;Auguststr. 1;0;Nippes;50733;773833,2707;6614230,191;Nippes;32;15;95
+83;30218;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+84;90708;Grundschule Leuchterstr.;Leuchterstr. 25;1;Dünnwald;51069;783498,0211;6620753,041;Dünnwald;38;19;101
+85;71003;Pestalozzi-Schule;Sportplatzstr. 82;1;Wahnheide;51147;790604,5189;6597421,398;Wahnheide;10;17;93
+86;61102;Kath. Grundschule Gutnickstr.;Gutnickstr. 37;1;Roggendorf/Thenhoven;50769;762189,1772;6629262,722;Roggendorf/Thenhoven;29;16;95
+87;50508;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+88;71504;Kath. Grundschule Hinter der Kirche;Hinter der Kirche 3;1;Langel;51143;779843,6046;6593951,803;Langel;11;17;93
+89;80702;Grundschule Diesterwegstr.;Diesterwegstr. 69;1;Brück;51109;787705,1875;6612022,067;Brück;41;17;93
+90;30702;Albert Schweitzer-Grundschule;Breslauer Str. 11;1;Weiden;50858;761926,681;6610013,502;Weiden;20;14;94
+91;70102;Janusz-Korczak-Schule;Am Altenberger Kreuz 14;0;Poll;51105;778056,82;6606958,395;Poll;7;17;93
+92;20605;Evang. Kirchengemeinde;Carl-Jatho-Str. 1;0;Rondorf;50997;774877,4577;6598555,029;Rondorf;15;13;94
+93;60103;Grundschule Spoerkelhof;Spoerkelhof 7;0;Merkenich;50769;774027,9712;6626092,933;Merkenich;29;16;95
+94;50402;Kita Feldgärtenstr.;Feldgärtenstr. 109a;1;Niehl;50735;774516,1754;6619187,228;Niehl;30;16;95
+95;40401;Kardinal-Frings-Schule;Vogelsanger Str. 453;1;Vogelsang;50829;765852,3508;6613409,309;Vogelsang;25;15;95
+96;40303;Grundschule Erlenweg;Erlenweg 16;0;Bickendorf;50827;767442,3545;6615107,309;Bickendorf;24;15;95
+97;80602;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+98;70501;Grundschule Konrad-Adenauer-Str.;Konrad-Adenauer-Str. 20;0;Finkenberg;51149;786564,9603;6602987,508;Eil;8;17;93
+99;40219;Hauptschule Baadenbergerstr.;Baadenberger Str. 111;0;Neuehrenfeld;50825;770180,103;6615040,072;Neuehrenfeld;23;15;95
+100;21303;Ketteler-Schule;Kettelerstr. 14;1;Meschenich;50997;771648,015;6596505,068;Meschenich;15;13;94
+101;70111;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+102;20903;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+103;40120;Schule Leyendecker Str.;Leyendeckerstr. 20;0;Ehrenfeld;50825;769446,9128;6613421,764;Ehrenfeld;24;15;95
+104;50606;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+105;70203;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Westhoven;7;17;93
+106;90117;Rhein-Gymnasium;Düsseldorfer Str. 13;1;Mülheim;51063;779510,4221;6615777,968;Mülheim;37;19;101
+107;20701;Pflanzen Mohr;Bonner Landstr. 100;1;Hahnwald;50996;776006,3438;6599106,751;Hahnwald;15;13;94
+108;70604;Berufskolleg Porz;Hauptstr. 426;1;Porz;51143;785539,5728;6601141,073;Porz;11;17;93
+109;10504;Berufskolleg Deutzer Freiheit;Eumeniusstr. 4;1;Deutz;50679;777090,8993;6609978,651;Deutz;6;18;93
+110;10232;Berufskolleg an der Lindenstraß;Lindenstr. 78;1;Neustadt/Süd;50674;771853,969;6609391,587;Neustadt/Süd;3;13;94
+111;50709;Kath. Grundschule Osterather Str.;Osterather Str. 13;0;Bilderstöckchen;50739;772258,999;6613972,988;Bilderstöckchen;31;15;95
+112;71409;Grundschule Irisweg;Irisweg 2;1;Zündorf;51143;785571,1335;6598711,537;Zündorf;11;17;93
+113;20607;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+114;60601;Erich-Ohser-Schule;Schulstr. 16;0;Pesch;50767;765005,609;6620755,958;Pesch;28;16;95
+115;30504;Grundschule Wendelinstr.;Wendelinstr. 64;0;Müngersdorf;50933;765907,0729;6610941,218;Müngersdorf;20;14;94
+116;40302;Kita Ossendorfer Weg;Ossendorfer Weg 17;1;Bickendorf;50827;766979,653;6615752,747;Bickendorf;25;15;95
+117;50114;Peter-Ustinov-Schule;Neusser Str. 421;1;Nippes;50733;773798,8303;6616273,37;Nippes;32;15;95
+118;10303;Königin-Luise-Schule;Alte Wallgasse 10;1;Altstadt/Nord;50672;772928,1224;6610539,914;Altstadt/Nord;4;18;93
+119;30233;Hauptschule Mommsenstraße;Mommsenstr. 5;1;Sülz;50935;769627,9076;6606754,489;Sülz;17;14;94
+120;70503;Grundschule Schulstr. Porz;Schulstr. 23;0;Eil;51145;788095,8205;6602404,613;Eil;8;17;93
+121;71412;Grundschule Irisweg;Irisweg 2;1;Zündorf;51143;785571,1335;6598711,537;Zündorf;11;17;93
+122;10313;Industrie- u. Handelskammer;Unter Sachsenhausen 10;1;Altstadt/Nord;50667;773815,9207;6611147,041;Altstadt/Nord;4;18;93
+123;10212;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+124;70401;Friedrich-List-Schule;Breitenbachstr. 2;0;Gremberghoven;51149;785478,8694;6603914,72;Gremberghoven;8;17;93
+125;90413;Gesamtschule Holweide;Burgwiesenstr. 125;1;Holweide;51067;783619,6497;6614630,397;Holweide;40;19;101
+126;30216;Elsa-Brandström-Realschule;Berrenrather Str. 488;0;Sülz;50937;769583,2235;6604950,044;Sülz;17;14;94
+127;90907;Regenbogenschule;Peter-Grieß-Str. 5-7;0;Flittard;51061;778209,6397;6620802,944;Flittard;37;19;101
+128;10311;Hansa-Gymnasium;Hansaring 56;0;Neustadt/Nord;50670;773772,8788;6612086,78;Altstadt/Nord;5;18;93
+129;30306;Grundschule Bachemer Str.;Bachemer Str. 69;0;Lindenthal;50931;770251,7902;6608797,415;Lindenthal;18;14;94
+130;10306;Ursulinenschule;Machabäerstr. 47;1;Altstadt/Nord;50668;774792,8482;6611842,206;Altstadt/Nord;4;18;93
+131;71002;Pestalozzi-Schule;Sportplatzstr. 82;1;Wahnheide;51147;790604,5189;6597421,398;Wahnheide;10;17;93
+132;30905;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+133;61206;Vereinshaus Worringen;St.-Tönnis-Str. 68;1;Worringen;50769;763814,4848;6632362,863;Worringen;29;16;95
+134;30202;Hildegard-von-Bingen-Schule;Leybergstr. 1;1;Sülz;50939;771779,1908;6606583,121;Sülz;16;14;94
+135;70306;Senioren-Pflegeheim;Kölner Str. 64;1;Ensen;51149;783949,0388;6603332,007;Ensen;7;17;93
+136;71403;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+137;10107;Berufskolleg Ulrepforte;Ulrichgasse 1;1;Altstadt/Süd;50678;774005,741;6608165,407;Altstadt/Süd;1;13;94
+138;10509;Gymnasium Thusneldastr.;Thusneldastr. 15-17;1;Deutz;50679;777171,2648;6609855,509;Deutz;6;18;93
+139;71102;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+140;20802;Gymnasium Rodenkirchen;Sürther Str. 55;1;Rodenkirchen;50996;779060,1929;6601464,888;Rodenkirchen;12;13;94
+141;90522;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+142;30320;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+143;90517;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+144;10219;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;2;13;94
+145;30312;Evang. Gemeindehaus;Lindenthalgürtel 30;0;Lindenthal;50935;769561,0328;6607723,721;Lindenthal;18;14;94
+146;21003;Brüder-Grimm-Schule;Sürther Hauptstr. 149;1;Sürth;50999;780687,0939;6597665,787;Sürth;14;13;94
+147;90109;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+148;30213;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+149;90304;Grundschule Alte Wipperfürther Straße;Alte Wipperfürther Str. 49;0;Buchheim;51065;781051,0303;6613510,03;Buchheim;35;19;101
+150;20504;Grundschule Rosenzweigweg;Rosenzweigweg 3;0;Zollstock;50969;773019,6572;6605089,077;Zollstock;13;13;94
+151;40601;Montessori Grundschule Am Pistorhof;Am Pistorhof 11;1;Ossendorf;50827;769098,4585;6615275,12;Ossendorf;24;15;95
+152;21102;Johannes-Gutenberg-Schule;Kuckucksweg 4;1;Godorf;50997;776119,1182;6595157,02;Godorf;15;13;94
+153;30803;Kita Siegstr.;Siegstr. 12;0;Lövenich;50859;759677,138;6611237,883;Lövenich;21;14;94
+154;30219;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+155;10425;Oberfinanzdirektion Rheinland;Riehler Platz 2;1;Neustadt/Nord;50668;775428,7127;6613179,876;Neustadt/Nord;5;18;93
+156;40507;Gesamtschule Tollerstr.;Toller Str. 16;1;Bocklemünd/Mengenich;50829;764866,79;6617544,186;Bocklemünd/Mengenich;25;15;95
+157;21301;Ketteler-Schule;Kettelerstr. 14;1;Meschenich;50997;771648,015;6596505,068;Meschenich;15;13;94
+158;30106;Grundschule Stenzelbergstr.;Stenzelbergstr. 3;1;Klettenberg;50939;771487,9362;6605504,909;Klettenberg;16;14;94
+159;10206;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+160;30805;Pfarrheim St. Severin;Kirchgasse 1;1;Lövenich;50859;760189,145;6611574,833;Lövenich;21;14;94
+161;90602;Peter-Petersen Grundschule;Am Rosenmaar 3;1;Höhenhaus;51061;783466,7197;6620062,258;Höhenhaus;38;19;101
+162;30301;Evang. Gemeindehaus;Lindenthalgürtel 30;0;Lindenthal;50935;769561,0328;6607723,721;Lindenthal;18;14;94
+163;71411;Grundschule Irisweg;Irisweg 2;1;Zündorf;51143;785571,1335;6598711,537;Zündorf;11;17;93
+164;60304;Grundschule Riphahnstr.;Riphahnstr. 40a;1;Seeberg;50769;768266,6809;6624821,432;Seeberg;26;16;95
+165;80404;Grundschule Weimarer Str.;Weimarer Str. 28;1;Höhenberg;51103;781659,0732;6611624,18;Höhenberg;44;18;93
+166;90111;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+167;10223;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;3;13;94
+168;50103;Förderschule Auguststr.;Auguststr. 1;0;Nippes;50733;773833,2707;6614230,191;Nippes;32;15;95
+169;90114;Gymnasium Genovevastr;Genovevastr. 58;0;Mülheim;51063;780097,3788;6615063,343;Mülheim;36;19;101
+170;10216;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+171;60105;Grundschule Spoerkelhof;Spoerkelhof 7;0;Merkenich;50769;774027,9712;6626092,933;Merkenich;29;16;95
+172;60306;Henry-Ford-Realschule;Karl-Marx-Allee 43;0;Seeberg;50769;769192,4744;6624842,33;Seeberg;26;16;95
+173;10310;Hansa-Gymnasium;Hansaring 56;0;Neustadt/Nord;50670;773772,8788;6612086,78;Altstadt/Nord;5;18;93
+174;50408;Erich-Kästner-Gymnasium;Castroper Str. 7;0;Niehl;50735;775172,8156;6616584,837;Niehl;34;16;95
+175;90506;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+176;30604;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+177;10205;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+178;50503;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+179;80710;Kath. Grundschule Olpener Str.;Olpener Str. 930;0;Brück;51109;787954,0165;6611566,1;Brück;41;17;93
+180;90404;Kath. Grundschule Neufelder Str.;Neufelder Str. 2;0;Holweide;51067;785377,2217;6615932,808;Holweide;40;19;101
+181;30808;Johanniter-Schule;Kölner Str. 37;0;Lövenich;50859;760786,2255;6611880,264;Lövenich;21;14;94
+182;70902;Eduard-Mörike-Schule;Mörikeweg 2;1;Grengel;51147;790250,1334;6599154,525;Grengel;9;17;93
+183;10510;Gymnasium Thusneldastr.;Thusneldastr. 15-17;1;Deutz;50679;777171,2648;6609855,509;Deutz;6;18;93
+184;10225;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+185;10214;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+186;71201;Kita Viehtrift;Viehtrift 5;1;Lind;51147;790499,8955;6594748,256;Lind;10;17;93
+187;70107;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+188;90701;Grundschule Am Portzenacker;Am Portzenacker 1b;1;Dünnwald;51069;782451,5363;6621483,36;Dünnwald;38;19;101
+189;10218;Humboldt-Gymnasium;Kartäuserwall 40;1;Altstadt/Süd;50676;773535,0759;6608347,955;Neustadt/Süd;2;13;94
+190;80807;Kath. Grundschule Forststr.;Forststr. 20;1;Rath/Heumar;51107;788639,2006;6606586,816;Rath/Heumar;41;17;93
+191;40205;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+192;60405;Anna-Langohr-GGS;Lebensbaumweg 51;1;Heimersdorf;50767;768349,1275;6623012,762;Heimersdorf;26;16;95
+193;70705;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+194;60303;Grundschule Riphahnstr.;Riphahnstr. 40a;1;Seeberg;50769;768266,6809;6624821,432;Seeberg;26;16;95
+195;50101;Förderschule Auguststr.;Auguststr. 1;0;Nippes;50733;773833,2707;6614230,191;Nippes;32;15;95
+196;40109;Berufskolleg Ehrenfeld;Weinsbergstr. 72;1;Ehrenfeld;50823;770690,4794;6610866,662;Ehrenfeld;22;15;95
+197;50611;Kath. Grundschule Longericher Hauptstr.;Longericher Hauptstr. 83;0;Longerich;50739;768656,526;6620670,835;Longerich;30;16;95
+198;30302;Förderschule Redwitzstr.;Redwitzstr. 80;1;Sülz;50937;770712,1653;6607559,044;Lindenthal;18;14;94
+199;10209;Berufskolleg Südstadt;Zugweg 48;1;Neustadt/Süd;50677;774370,1759;6606745,489;Neustadt/Süd;2;13;94
+200;61202;Grundschule An den Kaulen;An den Kaulen 62;0;Worringen;50769;763415,2612;6633355,742;Worringen;29;16;95
+201;30318;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+202;50401;Kita Feldgärtenstr.;Feldgärtenstr. 109a;1;Niehl;50735;774516,1754;6619187,228;Niehl;30;16;95
+203;20402;Europaschule Köln;Raderthalgürtel 3;1;Raderthal;50968;773696,2953;6604022,004;Raderthal;12;13;94
+204;21007;Ev. Kirchengem. Sürth/Weiß;Auferstehungskirchweg 7;1;Sürth;50999;779952,2925;6597261,077;Sürth;14;13;94
+205;70402;Friedrich-List-Schule;Breitenbachstr. 2;0;Gremberghoven;51149;785478,8694;6603914,72;Gremberghoven;8;17;93
+206;50708;Joseph-DuMont-Berufskolleg;Escher Str. 217;1;Bilderstöckchen;50739;771566,0543;6615212,735;Bilderstöckchen;31;15;95
+207;10503;Berufskolleg Deutzer Freiheit;Eumeniusstr. 4;1;Deutz;50679;777090,8993;6609978,651;Deutz;6;18;93
+208;10507;Nicolaus-August-Otto-Schule;Eitorfer Str. 16;1;Deutz;50679;777406,5595;6609912,227;Deutz;6;18;93
+209;30313;Evang. Gemeindehaus;Lindenthalgürtel 30;0;Lindenthal;50935;769561,0328;6607723,721;Lindenthal;18;14;94
+210;10511;Gymnasium Thusneldastr.;Thusneldastr. 15-17;1;Deutz;50679;777171,2648;6609855,509;Deutz;6;18;93
+211;10105;Kath. Grundschule Trierer Str.;Trierer Str. 8;1;Altstadt/Süd;50676;773295,7513;6608543,944;Altstadt/Süd;1;13;94
+212;60706;Konrad-Adenauer-Schule;Martinusstr. 28;0;Esch/Auweiler;50765;762960,5518;6623147,401;Esch/Auweiler;28;16;95
+213;70708;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+214;30224;Schiller-Gymnasium;Nikolausstr. 55;1;Sülz;50937;771410,4719;6607804,146;Sülz;17;14;94
+215;60605;Schulzentrum Pesch;Schulstr. 18;1;Pesch;50767;764958,7355;6620963,856;Pesch;28;16;95
+216;60603;Erich-Ohser-Schule;Schulstr. 16;0;Pesch;50767;765005,609;6620755,958;Pesch;28;16;95
+217;80501;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+218;61002;Grundschule Ernstbergstr.;Ernstbergstr. 2;1;Blumenberg;50765;766107,9472;6628380,961;Blumenberg;27;16;95
+219;10403;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+220;40107;Pfarrheim St. Joseph;Geisselstr. 1;0;Ehrenfeld;50823;770446,4428;6611921,971;Ehrenfeld;22;15;95
+221;90302;Hauptschule Wuppertaler Straße;Wuppertaler Str. 19;1;Buchheim;51067;781806,0285;6614229,156;Buchheim;35;19;101
+222;10231;Berufskolleg an der Lindenstraß;Lindenstr. 78;1;Neustadt/Süd;50674;771853,969;6609391,587;Neustadt/Süd;3;13;94
+223;30507;Kita Ecole Maternelle;Im Rapsfeld 32;1;Müngersdorf;50933;763432,433;6612174,736;Müngersdorf;20;14;94
+224;30310;Kath. Grundschule Lindenburger Allee;Lindenburger Allee 38;1;Lindenthal;50931;769922,0606;6608423,486;Lindenthal;18;14;94
+225;20512;Alfred-Müller-Armack-Berufskolleg;Brüggener Str. 1;0;Zollstock;50969;772359,1235;6604527,584;Zollstock;13;13;94
+226;50111;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+227;50704;Grundschule Alzeyer Str;Alzeyer Str. 12;0;Bilderstöckchen;50739;771276,6594;6616097,609;Bilderstöckchen;31;15;95
+228;71503;Kath. Grundschule Hinter der Kirche;Hinter der Kirche 3;1;Langel;51143;779843,6046;6593951,803;Langel;11;17;93
+229;70601;Max-Planck-Realschule;Planckstr. 14;1;Porz;51145;786838,6315;6601377,289;Porz;8;17;93
+230;30231;Hauptschule Mommsenstraße;Mommsenstr. 5;1;Sülz;50935;769627,9076;6606754,489;Sülz;17;14;94
+231;30408;Griechisches Lyzeum;Aachener Str. 443;0;Braunsfeld;50933;768709,3902;6610097,991;Braunsfeld;19;14;94
+232;40111;Berufskolleg Ehrenfeld;Weinsbergstr. 72;1;Ehrenfeld;50823;770690,4794;6610866,662;Ehrenfeld;22;15;95
+233;80103;Grundschule Westerwaldstr.;Westerwaldstr. 90;0;Humboldt/Gremberg;51105;778810,7264;6608714,496;Humboldt/Gremberg;43;18;93
+234;50507;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+235;60604;Schulzentrum Pesch;Schulstr. 18;1;Pesch;50767;764958,7355;6620963,856;Pesch;28;16;95
+236;30212;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+237;30105;Kath. Grundschule Lohrbergstr.;Lohrbergstr. 46;1;Klettenberg;50939;770676,905;6605455,352;Klettenberg;16;14;94
+238;10305;Rathaus Spanischer Bau;Rathausplatz 1;1;Altstadt/Nord;50667;774629,9856;6610474,418;Altstadt/Nord;4;18;93
+239;90405;Kita Piccoloministr.;Piccoloministr. 531;0;Holweide;51067;784968,0805;6616623,851;Holweide;40;19;101
+240;40502;Kath. Grundschule Mengenicher Str.;Mengenicher Str. 28;1;Bocklemünd/Mengenich;50829;763962,627;6617023,264;Bocklemünd/Mengenich;25;15;95
+241;90303;Hauptschule Wuppertaler Straße;Wuppertaler Str. 19;1;Buchheim;51067;781806,0285;6614229,156;Buchheim;35;19;101
+242;40123;Schule Leyendecker Str.;Leyendeckerstr. 20;0;Ehrenfeld;50825;769446,9128;6613421,764;Ehrenfeld;23;15;95
+243;30603;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+244;30710;Schulzentrum Weiden;Ostlandstr. 39;1;Weiden;50858;761240,4476;6609758,904;Weiden;21;14;94
+245;40211;Grundschule Nußbaumerstr.;Nußbaumerstr. 254;0;Neuehrenfeld;50825;770526,1895;6613883,4;Neuehrenfeld;23;15;95
+246;60104;Grundschule Spoerkelhof;Spoerkelhof 7;0;Merkenich;50769;774027,9712;6626092,933;Merkenich;29;16;95
+247;60803;Heinrich-Mann-Gymnasium;Fühlinger Weg 4;1;Volkhoven/Weiler;50765;766231,0212;6624518,769;Volkhoven/Weiler;26;16;95
+248;10409;Montessori-Grundschule;Gilbachstr. 20;0;Neustadt/Nord;50672;772417,3145;6611640,767;Neustadt/Nord;4;18;93
+249;40304;Grundschule Erlenweg;Erlenweg 16;0;Bickendorf;50827;767442,3545;6615107,309;Bickendorf;24;15;95
+250;90401;Kath. Grundschule Neufelder Str.;Neufelder Str. 2;0;Holweide;51067;785377,2217;6615932,808;Holweide;40;19;101
+251;21001;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Sürth;14;13;94
+252;40402;Kardinal-Frings-Schule;Vogelsanger Str. 453;1;Vogelsang;50829;765852,3508;6613409,309;Vogelsang;25;15;95
+253;10113;Theo-Burauen-Schule;Severinswall 40;0;Altstadt/Süd;50678;775324,1968;6607699,092;Altstadt/Süd;1;13;94
+254;50310;SBK Sozial-Betriebe-Köln gGmbH;Boltensternstr. 16;1;Riehl;50735;777039,7668;6615385,657;Riehl;33;16;95
+255;10301;Königin-Luise-Schule;Alte Wallgasse 10;1;Altstadt/Nord;50672;772928,1224;6610539,914;Altstadt/Nord;4;18;93
+256;30107;Grundschule Stenzelbergstr.;Stenzelbergstr. 3;1;Klettenberg;50939;771487,9362;6605504,909;Klettenberg;16;14;94
+257;40605;Kath. Grundschule Wilhelm-Schreiber-Str.;Wilhelm-Schreiber-Str. 56;1;Ossendorf;50827;768197,3379;6616214,482;Ossendorf;24;15;95
+258;10117;Konrad-Adenauer-Realschule;Frankstr. 26;1;Altstadt/Süd;50676;773046,4466;6609290,742;Altstadt/Süd;3;13;94
+259;30602;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+260;30217;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+261;10401;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+262;10502;Rheinische RVK;Mindener Str. 2;1;Deutz;50679;776102,121;6610240,28;Deutz;6;18;93
+263;30906;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+264;30501;Clarenbachwerk Haus Andreas;Neuer Grüner Weg 21;1;Müngersdorf;50933;765546,1158;6611338,737;Müngersdorf;19;14;94
+265;71406;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+266;80505;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+267;10402;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+268;80811;Kath. Grundschule Forststr.;Forststr. 20;1;Rath/Heumar;51107;788639,2006;6606586,816;Rath/Heumar;41;17;93
+269;70301;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Ensen;7;17;93
+270;30203;Hildegard-von-Bingen-Schule;Leybergstr. 1;1;Sülz;50939;771779,1908;6606583,121;Sülz;16;14;94
+271;10103;Berufskolleg Perlengraben;Perlengraben 101;1;Altstadt/Süd;50676;773961,1611;6608870,046;Altstadt/Süd;1;13;94
+272;40209;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+273;30902;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+274;90608;Grundschule Honschaftsstr.;Honschaftsstr. 312;1;Höhenhaus;51061;782850,1325;6618251,718;Höhenhaus;38;19;101
+275;50410;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+276;30222;Kath. Grundschule Berrenrather Str.;Berrenrather Str. 179;0;Sülz;50937;771217,9933;6607107,485;Sülz;17;14;94
+277;80810;Kath. Grundschule Forststr.;Forststr. 20;1;Rath/Heumar;51107;788639,2006;6606586,816;Rath/Heumar;41;17;93
+278;30305;Universität zu Köln;Albertus-Magnus-Platz 0;1;Lindenthal;50931;771175,6467;6608590,829;Lindenthal;18;14;94
+279;60502;Grundschule Soldiner Str.;Soldiner Str. 68;1;Lindweiler;50767;766684,839;6622347,874;Lindweiler;28;16;95
+280;50122;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;33;15;95
+281;20508;Seniorenhaus Rosenpark;Bernhard-Feilchenfeld-Str. 5;1;Zollstock;50969;772956,8265;6606270,61;Zollstock;13;13;94
+282;40215;Grundschule Nußbaumerstr.;Nußbaumerstr. 254;0;Neuehrenfeld;50825;770526,1895;6613883,4;Neuehrenfeld;23;15;95
+283;80203;Adolph-Kolping-Schule;Falckensteinstr. 34;1;Kalk;51103;779921,7082;6611464,882;Kalk;42;18;93
+284;40307;Kath. Grundschule Erlenweg;Erlenweg 16;0;Bickendorf;50827;767442,3545;6615107,309;Bickendorf;24;15;95
+285;20604;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+286;90122;Kath. Grundschule Luzerner Weg;Luzerner Weg 72;1;Mülheim;51063;780179,8604;6618850,669;Mülheim;37;19;101
+287;30317;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+288;10217;Humboldt-Gymnasium;Kartäuserwall 40;1;Altstadt/Süd;50676;773535,0759;6608347,955;Neustadt/Süd;2;13;94
+289;90906;Regenbogenschule;Peter-Grieß-Str. 5-7;0;Flittard;51061;778209,6397;6620802,944;Flittard;37;19;101
+290;40217;Eichendorff-Realschule;Dechenstr. 1;1;Neuehrenfeld;50825;769889,9454;6614020,035;Neuehrenfeld;23;15;95
+291;90609;Grundschule Honschaftsstr.;Honschaftsstr. 312;1;Höhenhaus;51061;782850,1325;6618251,718;Höhenhaus;38;19;101
+292;90504;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+293;20203;Pfarrheim St. Maria-Königin;Goethestr. 84;0;Marienburg;50968;776045,0015;6603166,134;Marienburg;12;13;94
+294;90402;Kath. Grundschule Neufelder Str.;Neufelder Str. 2;0;Holweide;51067;785377,2217;6615932,808;Holweide;40;19;101
+295;70608;Kita an der Lukaskirche;Mühlenstr. 2a;0;Porz;51143;785548,2788;6600155,445;Porz;11;17;93
+296;50404;St. Katharina Altenzentrum;Feldgärtenstr. 109;1;Niehl;50735;774681,6425;6619163,434;Niehl;30;16;95
+297;90505;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+298;30713;Schulzentrum Weiden;Ostlandstr. 39;1;Weiden;50858;761240,4476;6609758,904;Weiden;20;14;94
+299;90902;St. Sebastianus;Pützlachstr. 37;1;Flittard;51061;776491,4234;6621755,687;Flittard;37;19;101
+300;40114;Kath. Grundschule Everhardstr.;Everhardstr. 60;1;Ehrenfeld;50823;771327,4324;6612301,422;Ehrenfeld;22;15;95
+301;50603;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+302;10110;Grundschule Zwirnerstr.;Zwirnerstr. 15;1;Altstadt/Süd;50678;775010,345;6608049,01;Altstadt/Süd;1;13;94
+303;80503;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+304;80201;Adolph-Kolping-Schule;Falckensteinstr. 34;1;Kalk;51103;779921,7082;6611464,882;Kalk;42;18;93
+305;20204;Pfarrheim St. Maria-Königin;Goethestr. 84;0;Marienburg;50968;776045,0015;6603166,134;Marienburg;12;13;94
+306;90118;Rhein-Gymnasium;Düsseldorfer Str. 13;1;Mülheim;51063;779510,4221;6615777,968;Mülheim;37;19;101
+307;50707;Joseph-DuMont-Berufskolleg;Escher Str. 217;1;Bilderstöckchen;50739;771566,0543;6615212,735;Bilderstöckchen;31;15;95
+308;60703;Konrad-Adenauer-Schule;Martinusstr. 28;0;Esch/Auweiler;50765;762960,5518;6623147,401;Esch/Auweiler;28;16;95
+309;80701;Grundschule Diesterwegstr.;Diesterwegstr. 69;1;Brück;51109;787705,1875;6612022,067;Brück;41;17;93
+310;80202;Adolph-Kolping-Schule;Falckensteinstr. 34;1;Kalk;51103;779921,7082;6611464,882;Kalk;42;18;93
+311;10408;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+312;30229;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+313;10234;Berufskolleg 3;Richard-Wagner-Str. 47;1;Neustadt/Süd;50674;771863,3748;6609812,585;Neustadt/Süd;3;13;94
+314;20601;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+315;20201;Martin-Luther-Haus;Mehlemer Str. 27;0;Marienburg;50968;776019,512;6604056,562;Marienburg;12;13;94
+316;10314;Hauptschule Gereonswall;Gereonswall 57;0;Altstadt/Nord;50670;773477,4906;6611697,231;Altstadt/Nord;4;18;93
+317;80305;Hauptschule Nürnberger Straße;Nürnberger Str. 10;1;Höhenberg;51103;781901,5325;6610513,748;Vingst;43;18;93
+318;80708;Kath. Grundschule Olpener Str.;Olpener Str. 930;0;Brück;51109;787954,0165;6611566,1;Brück;41;17;93
+319;61001;Grundschule Ernstbergstr.;Ernstbergstr. 2;1;Blumenberg;50765;766107,9472;6628380,961;Blumenberg;27;16;95
+320;80809;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+321;90509;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+322;60606;Schulzentrum Pesch;Schulstr. 18;1;Pesch;50767;764958,7355;6620963,856;Pesch;28;16;95
+323;20505;Pfarrheim St. Pius;Irmgardstr. 13;0;Zollstock;50969;772921,0164;6605621,812;Zollstock;13;13;94
+324;30322;Apostelgymnasium;Biggestr. 2;1;Lindenthal;50931;769849,5122;6609350,864;Lindenthal;18;14;94
+325;40103;Grundschule Lindenbornstr.;Lindenbornstr. 15;1;Ehrenfeld;50823;769732,324;6611675,394;Ehrenfeld;22;15;95
+326;30502;Grundschule Wendelinstr.;Wendelinstr. 64;0;Müngersdorf;50933;765907,0729;6610941,218;Müngersdorf;19;14;94
+327;80806;Kath. Grundschule Forststr.;Forststr. 20;1;Rath/Heumar;51107;788639,2006;6606586,816;Rath/Heumar;41;17;93
+328;50705;Joseph-DuMont-Berufskolleg;Escher Str. 217;1;Bilderstöckchen;50739;771566,0543;6615212,735;Bilderstöckchen;31;15;95
+329;90704;Schule Berliner Str.;Berliner Str. 975;1;Dünnwald;51069;783801,2737;6621656,568;Dünnwald;38;19;101
+330;40203;Seniorenzentrum;Peter-Bauer-Str. 2;1;Neuehrenfeld;50823;771419,5751;6612531,411;Neuehrenfeld;23;15;95
+331;20904;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+332;30503;Grundschule Wendelinstr.;Wendelinstr. 64;0;Müngersdorf;50933;765907,0729;6610941,218;Müngersdorf;19;14;94
+333;71601;Grundschule Konrad-Adenauer-Str.;Konrad-Adenauer-Str. 20;0;Finkenberg;51149;786564,9603;6602987,508;Finkenberg;8;17;93
+334;50119;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;32;15;95
+335;30806;Pfarrheim St. Severin;Kirchgasse 1;1;Lövenich;50859;760189,145;6611574,833;Lövenich;21;14;94
+336;20501;Grundschule Rosenzweigweg;Rosenzweigweg 3;0;Zollstock;50969;773019,6572;6605089,077;Zollstock;13;13;94
+337;20811;Ernst-Moritz-Arndt-Schule;Mainstr. 75;1;Rodenkirchen;50996;779546,0401;6600734,578;Rodenkirchen;14;13;94
+338;80705;Kath. Grundschule Olpener Str.;Olpener Str. 930;0;Brück;51109;787954,0165;6611566,1;Brück;41;17;93
+339;60904;Grundschule Merianstr.;Merianstr. 7;1;Chorweiler;50765;767861,5868;6626122,395;Chorweiler;27;16;95
+340;80301;Grundschule Heßhofstr.;Heßhofstr. 45;1;Vingst;51107;781861,8624;6609099,953;Vingst;43;18;93
+341;30601;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+342;80601;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+343;90502;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+344;71105;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+345;30608;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+346;90612;Willy-Brandt-Gesamtschule;Im Weidenbruch 214;1;Höhenhaus;51061;784137,5569;6618418,797;Höhenhaus;38;19;101
+347;70709;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+348;90519;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+349;50303;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+350;30228;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+351;90305;Grundschule Alte Wipperfürther Straße;Alte Wipperfürther Str. 49;0;Buchheim;51065;781051,0303;6613510,03;Buchheim;35;19;101
+352;20514;Alfred-Müller-Armack-Berufskolleg;Brüggener Str. 1;0;Zollstock;50969;772359,1235;6604527,584;Zollstock;13;13;94
+353;50706;Joseph-DuMont-Berufskolleg;Escher Str. 217;1;Bilderstöckchen;50739;771566,0543;6615212,735;Bilderstöckchen;31;15;95
+354;80703;Grundschule Diesterwegstr.;Diesterwegstr. 69;1;Brück;51109;787705,1875;6612022,067;Brück;41;17;93
+355;71405;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+356;90107;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+357;60901;Bürgerzentrum Chorweiler;Pariser Platz 1;1;Chorweiler;50765;767914,1211;6625200,121;Chorweiler;27;16;95
+358;90501;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+359;10302;Königin-Luise-Schule;Alte Wallgasse 10;1;Altstadt/Nord;50672;772928,1224;6610539,914;Altstadt/Nord;4;18;93
+360;40115;Kath. Grundschule Everhardstr.;Everhardstr. 60;1;Ehrenfeld;50823;771327,4324;6612301,422;Ehrenfeld;22;15;95
+361;40117;Geschwister-Scholl-Schule;Gravenreuthstr. 10;0;Ehrenfeld;50823;770485,2211;6612934,12;Ehrenfeld;22;15;95
+362;80104;Grundschule Westerwaldstr.;Westerwaldstr. 90;0;Humboldt/Gremberg;51105;778810,7264;6608714,496;Humboldt/Gremberg;43;18;93
+363;80107;Grundschule Lohmarer Str.;Lohmarer Str. 11;1;Humboldt/Gremberg;51105;779870,2714;6608698,872;Humboldt/Gremberg;43;18;93
+364;90106;Johann-Bendel-Realschule;Danzierstr. 146a;1;Mülheim;51063;779356,1558;6614046,074;Mülheim;36;19;101
+365;10416;Schule Blumenthalstr;Blumenthalstr. 10;0;Neustadt/Nord;50670;774709,1844;6613286,056;Neustadt/Nord;5;18;93
+366;90603;Peter-Petersen Grundschule;Am Rosenmaar 3;1;Höhenhaus;51061;783466,7197;6620062,258;Höhenhaus;38;19;101
+367;10108;Grundschule Zwirnerstr.;Zwirnerstr. 15;1;Altstadt/Süd;50678;775010,345;6608049,01;Altstadt/Süd;1;13;94
+368;30505;Grundschule Wendelinstr.;Wendelinstr. 64;0;Müngersdorf;50933;765907,0729;6610941,218;Müngersdorf;20;14;94
+369;90407;Berthold-Otto-Schule;Buschfeldstr. 46;1;Holweide;51067;783656,3687;6616154,445;Holweide;40;19;101
+370;40122;Michael-Ende-Schule;Platenstr. 7;0;Ehrenfeld;50825;769654,6694;6612992,786;Ehrenfeld;22;15;95
+371;50405;Kinder- und Jugendhaus;Boltensternstr. 126;0;Niehl;50735;776469,6226;6616786,489;Niehl;33;16;95
+372;90521;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+373;30220;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+374;40504;Gesamtschule Tollerstr.;Toller Str. 16;1;Bocklemünd/Mengenich;50829;764866,79;6617544,186;Bocklemünd/Mengenich;25;15;95
+375;20806;Hauptschule Ringelnatzstraße;Ringelnatzstr. 12;1;Rodenkirchen;50996;779343,7174;6601688,356;Rodenkirchen;14;13;94
+376;90705;Schule Berliner Str.;Berliner Str. 975;1;Dünnwald;51069;783801,2737;6621656,568;Dünnwald;38;19;101
+377;50605;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+378;20702;Pflanzen Mohr;Bonner Landstr. 100;1;Hahnwald;50996;776006,3438;6599106,751;Hahnwald;15;13;94
+379;50116;Gymnasium Blücherstr.;Blücherstr. 15;0;Nippes;50733;774287,0725;6615402,045;Nippes;32;15;95
+380;30705;Albert Schweitzer-Grundschule;Breslauer Str. 11;1;Weiden;50858;761926,681;6610013,502;Weiden;20;14;94
+381;50406;Erich-Kästner-Gymnasium;Castroper Str. 7;0;Niehl;50735;775172,8156;6616584,837;Niehl;33;16;95
+382;30210;Kath. Grundschule Berrenrather Str.;Berrenrather Str. 179;0;Sülz;50937;771217,9933;6607107,485;Sülz;16;14;94
+383;10224;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;3;13;94
+384;50301;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+385;70703;Stadtgymnasium;Humboldtstr. 2;1;Porz;51145;787186,5752;6600503,211;Urbach;9;17;93
+386;70801;Altenzentrum Tiergartenstr.;Tiergartenstr. 47;1;Elsdorf;51145;788752,1071;6599347,707;Elsdorf;9;17;93
+387;50107;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+388;21304;Ketteler-Schule;Kettelerstr. 14;1;Meschenich;50997;771648,015;6596505,068;Meschenich;15;13;94
+389;80209;Schule Der kleine Prinz;Vietorstr. 38;0;Kalk;51103;779204,835;6610481,808;Kalk;42;18;93
+390;70607;Kita an der Lukaskirche;Mühlenstr. 2a;0;Porz;51143;785548,2788;6600155,445;Porz;11;17;93
+391;80506;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+392;90123;Kath. Grundschule Luzerner Weg;Luzerner Weg 72;1;Mülheim;51063;780179,8604;6618850,669;Mülheim;37;19;101
+393;90804;Grundschule Ricarda-Huch-Str.;Ricarda-Huch-Str. 60;1;Stammheim;51061;778215,0978;6618418,814;Stammheim;37;19;101
+394;80606;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+395;30606;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+396;80402;Hauptschule Nürnberger Straße;Nürnberger Str. 10;1;Höhenberg;51103;781901,5325;6610513,748;Höhenberg;44;18;93
+397;20812;Ernst-Moritz-Arndt-Schule;Mainstr. 75;1;Rodenkirchen;50996;779546,0401;6600734,578;Rodenkirchen;14;13;94
+398;71301;Haus Helfer;Urbanusstr. 1;1;Libur;51147;786922,5228;6592741,912;Libur;10;17;93
+399;40505;Gesamtschule Tollerstr.;Toller Str. 16;1;Bocklemünd/Mengenich;50829;764866,79;6617544,186;Bocklemünd/Mengenich;25;15;95
+400;21008;Ev. Kirchengem. Sürth/Weiß;Auferstehungskirchweg 7;1;Sürth;50999;779952,2925;6597261,077;Sürth;14;13;94
+401;70204;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Westhoven;7;17;93
+402;10202;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+403;90202;Grundschule Kopernikusstr.;Kopernikusstr. 40;0;Buchforst;51065;780312,197;6612400,184;Buchforst;35;19;101
+404;70602;Max-Planck-Realschule;Planckstr. 14;1;Porz;51145;786838,6315;6601377,289;Porz;8;17;93
+405;71104;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+406;30407;Griechisches Lyzeum;Aachener Str. 443;0;Braunsfeld;50933;768709,3902;6610097,991;Braunsfeld;19;14;94
+407;20906;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+408;90119;Kath. Grundschule Langemaß;Langemaß 21;1;Mülheim;51063;780229,4528;6615869,568;Mülheim;36;19;101
+409;30711;Schulzentrum Weiden;Ostlandstr. 39;1;Weiden;50858;761240,4476;6609758,904;Weiden;21;14;94
+410;20807;Hauptschule Ringelnatzstraße;Ringelnatzstr. 12;1;Rodenkirchen;50996;779343,7174;6601688,356;Rodenkirchen;14;13;94
+411;21006;Brüder-Grimm-Schule;Sürther Hauptstr. 149;1;Sürth;50999;780687,0939;6597665,787;Sürth;14;13;94
+412;10508;Gymnasium Thusneldastr.;Thusneldastr. 15-17;1;Deutz;50679;777171,2648;6609855,509;Deutz;6;18;93
+413;40108;Berufskolleg Ehrenfeld;Weinsbergstr. 72;1;Ehrenfeld;50823;770690,4794;6610866,662;Ehrenfeld;22;15;95
+414;30901;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+415;10424;Oberfinanzdirektion Rheinland;Riehler Platz 2;1;Neustadt/Nord;50668;775428,7127;6613179,876;Neustadt/Nord;5;18;93
+416;20401;Europaschule Köln;Raderthalgürtel 3;1;Raderthal;50968;773696,2953;6604022,004;Raderthal;12;13;94
+417;90803;Grundschule Ricarda-Huch-Str.;Ricarda-Huch-Str. 60;1;Stammheim;51061;778215,0978;6618418,814;Stammheim;37;19;101
+418;50125;Nordpark-Schule;Kretzerstr. 5;0;Nippes;50733;775138,7728;6615612,749;Nippes;33;15;95
+419;40301;Kita Ossendorfer Weg;Ossendorfer Weg 17;1;Bickendorf;50827;766979,653;6615752,747;Bickendorf;25;15;95
+420;61207;Vereinshaus Worringen;St.-Tönnis-Str. 68;1;Worringen;50769;763814,4848;6632362,863;Worringen;29;16;95
+421;50109;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+422;61203;Grundschule An den Kaulen;An den Kaulen 62;0;Worringen;50769;763415,2612;6633355,742;Worringen;29;16;95
+423;60903;Marie-Juchacz-Altenzentrum;Rhonestr. 5;1;Chorweiler;50765;767568,1441;6625700,417;Chorweiler;27;16;95
+424;10210;Berufskolleg Südstadt;Zugweg 48;1;Neustadt/Süd;50677;774370,1759;6606745,489;Neustadt/Süd;2;13;94
+425;50502;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+426;30215;Elsa-Brandström-Realschule;Berrenrather Str. 488;0;Sülz;50937;769583,2235;6604950,044;Sülz;17;14;94
+427;60602;Erich-Ohser-Schule;Schulstr. 16;0;Pesch;50767;765005,609;6620755,958;Pesch;28;16;95
+428;20804;Bezirksrathaus Rodenkirchen;Hauptstr. 85;1;Rodenkirchen;50996;778929,3697;6602262,278;Rodenkirchen;12;13;94
+429;30307;Grundschule Bachemer Str.;Bachemer Str. 69;0;Lindenthal;50931;770251,7902;6608797,415;Lindenthal;18;14;94
+430;40312;OT Nonni;Helmholtzplatz 11;1;Ehrenfeld;50825;768465,0882;6613084,417;Bickendorf;25;15;95
+431;70103;Janusz-Korczak-Schule;Am Altenberger Kreuz 14;0;Poll;51105;778056,82;6606958,395;Poll;7;17;93
+432;80707;Kath. Grundschule Olpener Str.;Olpener Str. 930;0;Brück;51109;787954,0165;6611566,1;Brück;41;17;93
+433;30230;Theodor-Heuss-Realschule;Euskirchener Str. 50;0;Sülz;50935;769856,0579;6606765,29;Sülz;17;14;94
+434;71001;Pestalozzi-Schule;Sportplatzstr. 82;1;Wahnheide;51147;790604,5189;6597421,398;Wahnheide;10;17;93
+435;10412;Freie Schule Köln e. V.;Bernhard-Letterhaus-Str. 17;0;Neustadt/Nord;50670;773897,1812;6613402,378;Neustadt/Nord;5;18;93
+436;20902;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+437;10226;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+438;60402;Ursula-Kuhr-Schule;Volkhovener Weg 140;1;Heimersdorf;50767;767894,825;6622713,621;Heimersdorf;26;16;95
+439;90518;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+440;10230;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+441;80302;Grundschule Heßhofstr.;Heßhofstr. 45;1;Vingst;51107;781861,8624;6609099,953;Vingst;43;18;93
+442;10228;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+443;40308;Schule Lindweiler Hof;Rochusstr. 80;1;Bickendorf;50827;768532,3684;6614360,552;Bickendorf;24;15;95
+444;70205;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Westhoven;7;17;93
+445;80507;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+446;30708;Clarenhofschule;Schulstr. 2;1;Weiden;50859;760091,3877;6610287,756;Weiden;21;14;94
+447;90116;Peter-Petersen-Schule;Mülheimer Freiheit 99;1;Mülheim;51063;779314,543;6615412,052;Mülheim;36;19;101
+448;40503;Kath. Grundschule Mengenicher Str.;Mengenicher Str. 28;1;Bocklemünd/Mengenich;50829;763962,627;6617023,264;Bocklemünd/Mengenich;25;15;95
+449;10120;Kaiserin-Augusta-Gymnasium;Georgsplatz 10;0;Altstadt/Süd;50676;774620,4283;6609190,424;Altstadt/Süd;6;13;94
+450;30807;Johanniter-Schule;Kölner Str. 37;0;Lövenich;50859;760786,2255;6611880,264;Lövenich;21;14;94
+451;10101;Kaiserin-Augusta-Gymnasium;Georgsplatz 10;0;Altstadt/Süd;50676;774620,4283;6609190,424;Altstadt/Süd;1;13;94
+452;90507;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+453;10104;Kath. Grundschule Trierer Str.;Trierer Str. 8;1;Altstadt/Süd;50676;773295,7513;6608543,944;Altstadt/Süd;3;13;94
+454;20302;Grundschule Annastr.;Annastr. 63;0;Raderberg;50968;774754,6832;6604424,959;Raderberg;13;13;94
+455;80605;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+456;90308;Herder-Gymnasium;Kattowitzer Str. 52;1;Buchheim;51065;781709,4041;6612748,926;Buchheim;35;19;101
+457;90805;Kath. GS Diependahlstr.;Diependahlstr. 12;1;Stammheim;51061;777867,0692;6618913,202;Stammheim;37;19;101
+458;10419;Schule Blumenthalstr;Blumenthalstr. 10;0;Neustadt/Nord;50670;774709,1844;6613286,056;Neustadt/Nord;5;18;93
+459;50118;Gymnasium Blücherstr.;Blücherstr. 15;0;Nippes;50733;774287,0725;6615402,045;Nippes;32;15;95
+460;90105;Johann-Bendel-Realschule;Danzierstr. 146a;1;Mülheim;51063;779356,1558;6614046,074;Mülheim;36;19;101
+461;30315;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+462;30201;Hildegard-von-Bingen-Schule;Leybergstr. 1;1;Sülz;50939;771779,1908;6606583,121;Sülz;16;14;94
+463;40207;Albertus-Magnus-Gymnasium;Ottostr. 87;1;Neuehrenfeld;50823;771148,3718;6613911,148;Neuehrenfeld;23;15;95
+464;60705;Konrad-Adenauer-Schule;Martinusstr. 28;0;Esch/Auweiler;50765;762960,5518;6623147,401;Esch/Auweiler;28;16;95
+465;50407;Erich-Kästner-Gymnasium;Castroper Str. 7;0;Niehl;50735;775172,8156;6616584,837;Niehl;34;16;95
+466;71401;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+467;10201;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+468;30801;Kita Siegstr.;Siegstr. 12;0;Lövenich;50859;759677,138;6611237,883;Lövenich;21;14;94
+469;90613;Willy-Brandt-Gesamtschule;Im Weidenbruch 214;1;Höhenhaus;51061;784137,5569;6618418,797;Höhenhaus;38;19;101
+470;50601;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+471;21201;Freiherr-vom-Stein-Schule;Godorfer Str. 29;1;Immendorf;50997;775128,7166;6595963,605;Immendorf;15;13;94
+472;90306;Grundschule Alte Wipperfürther Straße;Alte Wipperfürther Str. 49;0;Buchheim;51065;781051,0303;6613510,03;Buchheim;35;19;101
+473;90108;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+474;80706;Matthias-Claudius-Heim;Olpener Str. 830;1;Brück;51109;787089,6415;6611716,42;Brück;41;17;93
+475;30308;Grundschule Bachemer Str.;Bachemer Str. 69;0;Lindenthal;50931;770251,7902;6608797,415;Lindenthal;18;14;94
+476;20602;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+477;21009;Ev. Kirchengem. Sürth/Weiß;Auferstehungskirchweg 7;1;Sürth;50999;779952,2925;6597261,077;Sürth;14;13;94
+478;70605;Berufskolleg Porz;Hauptstr. 426;1;Porz;51143;785539,5728;6601141,073;Porz;11;17;93
+479;20517;Ev. Kirchengemeinde;Bornheimer Str. 1a;1;Zollstock;50969;772870,6668;6604977,327;Zollstock;13;13;94
+480;70109;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+481;80803;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+482;20608;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+483;80906;Kath. Grundschule Andreas-Hermes-Str.;Andreas-Hermes-Str. 2;1;Neubrück;51109;786101,567;6610319,112;Neubrück;45;18;93
+484;70606;Berufskolleg Porz;Hauptstr. 426;1;Porz;51143;785539,5728;6601141,073;Porz;11;17;93
+485;40101;OT Nonni;Helmholtzplatz 11;1;Ehrenfeld;50825;768465,0882;6613084,417;Ehrenfeld;24;15;95
+486;90610;Willy-Brandt-Gesamtschule;Im Weidenbruch 214;1;Höhenhaus;51061;784137,5569;6618418,797;Höhenhaus;38;19;101
+487;10418;Schule Blumenthalstr;Blumenthalstr. 10;0;Neustadt/Nord;50670;774709,1844;6613286,056;Neustadt/Nord;5;18;93
+488;20603;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+489;30316;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+490;71006;Kita Hunoldstr.;Hunoldstr. 7;1;Wahnheide;51147;790278,9924;6595895,482;Wahnheide;10;17;93
+491;21005;Brüder-Grimm-Schule;Sürther Hauptstr. 149;1;Sürth;50999;780687,0939;6597665,787;Sürth;14;13;94
+492;40306;Kath. Grundschule Erlenweg;Erlenweg 16;0;Bickendorf;50827;767442,3545;6615107,309;Bickendorf;24;15;95
+493;40405;Förderschule Kolkrabenweg;Kolkrabenweg 8-10;1;Vogelsang;50829;765592,9065;6615089,185;Vogelsang;25;15;95
+494;71410;Grundschule Irisweg;Irisweg 2;1;Zündorf;51143;785571,1335;6598711,537;Zündorf;11;17;93
+495;80401;Hauptschule Nürnberger Straße;Nürnberger Str. 10;1;Höhenberg;51103;781901,5325;6610513,748;Höhenberg;44;18;93
+496;30303;Förderschule Redwitzstr.;Redwitzstr. 80;1;Sülz;50937;770712,1653;6607559,044;Lindenthal;18;14;94
+497;50304;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+498;60702;Landwirtschaftskammer;Gartenstr. 11;1;Esch/Auweiler;50765;762541,8483;6621640,121;Esch/Auweiler;28;16;95
+499;40305;Grundschule Erlenweg;Erlenweg 16;0;Bickendorf;50827;767442,3545;6615107,309;Bickendorf;24;15;95
+500;21202;Freiherr-vom-Stein-Schule;Godorfer Str. 29;1;Immendorf;50997;775128,7166;6595963,605;Immendorf;15;13;94
+501;20506;Pfarrheim St. Pius;Irmgardstr. 13;0;Zollstock;50969;772921,0164;6605621,812;Zollstock;13;13;94
+502;50509;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+503;30607;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+504;30809;Johanniter-Schule;Kölner Str. 37;0;Lövenich;50859;760786,2255;6611880,264;Lövenich;21;14;94
+505;10119;Kath. HS Großer Griechenmarkt;Großer Griechenmarkt 76;1;Altstadt/Süd;50676;773765,0876;6609303,753;Altstadt/Süd;1;13;94
+506;80709;Kath. Grundschule Olpener Str.;Olpener Str. 930;0;Brück;51109;787954,0165;6611566,1;Brück;41;17;93
+507;30406;Griechisches Lyzeum;Aachener Str. 443;0;Braunsfeld;50933;768709,3902;6610097,991;Braunsfeld;19;14;94
+508;20515;Alfred-Müller-Armack-Berufskolleg;Brüggener Str. 1;0;Zollstock;50969;772359,1235;6604527,584;Zollstock;13;13;94
+509;90410;Berthold-Otto-Schule;Buschfeldstr. 46;1;Holweide;51067;783656,3687;6616154,445;Holweide;40;19;101
+510;40112;Kath. Grundschule Everhardstr.;Everhardstr. 60;1;Ehrenfeld;50823;771327,4324;6612301,422;Ehrenfeld;22;15;95
+511;70106;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+512;50614;Kath. Grundschule Longericher Hauptstr.;Longericher Hauptstr. 83;0;Longerich;50739;768656,526;6620670,835;Longerich;30;16;95
+513;50113;Peter-Ustinov-Schule;Neusser Str. 421;1;Nippes;50733;773798,8303;6616273,37;Nippes;32;15;95
+514;90115;Peter-Petersen-Schule;Mülheimer Freiheit 99;1;Mülheim;51063;779314,543;6615412,052;Mülheim;36;19;101
+515;30701;Albert Schweitzer-Grundschule;Breslauer Str. 11;1;Weiden;50858;761926,681;6610013,502;Weiden;20;14;94
+516;60608;Schulzentrum Pesch;Schulstr. 18;1;Pesch;50767;764958,7355;6620963,856;Pesch;28;16;95
+517;10417;Schule Blumenthalstr;Blumenthalstr. 10;0;Neustadt/Nord;50670;774709,1844;6613286,056;Neustadt/Nord;5;18;93
+518;71404;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+519;10308;Fachhochschule Thürmchenswall;Thürmchenswall 48;0;Altstadt/Nord;50668;774853,7947;6612260,765;Altstadt/Nord;4;18;93
+520;90611;Willy-Brandt-Gesamtschule;Im Weidenbruch 214;1;Höhenhaus;51061;784137,5569;6618418,797;Höhenhaus;38;19;101
+521;80901;Grundschule Europaring;Europaring 51;0;Neubrück;51109;785569,6054;6609387,74;Neubrück;45;18;93
+522;50302;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+523;90806;Kath. GS Diependahlstr.;Diependahlstr. 12;1;Stammheim;51061;777867,0692;6618913,202;Stammheim;37;19;101
+524;40506;Gesamtschule Tollerstr.;Toller Str. 16;1;Bocklemünd/Mengenich;50829;764866,79;6617544,186;Bocklemünd/Mengenich;25;15;95
+525;50121;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;33;15;95
+526;20606;Evang. Kirchengemeinde;Carl-Jatho-Str. 1;0;Rondorf;50997;774877,4577;6598555,029;Rondorf;15;13;94
+527;90101;Montessori-Hauptschule;Ferdinandstr. 43;1;Mülheim;51063;778035,5298;6611986,096;Mülheim;35;19;101
+528;90301;Grundschule An St. Theresia;An St.Theresia 1;1;Buchheim;51067;781937,6222;6614957,635;Buchheim;35;19;101
+529;30211;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+530;10207;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+531;30802;Kita Siegstr.;Siegstr. 12;0;Lövenich;50859;759677,138;6611237,883;Lövenich;21;14;94
+532;30326;Liebfrauenschule;Brucknerstr. 15;0;Lindenthal;50931;770109,2949;6609630,7;Lindenthal;19;14;94
+533;30610;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+534;10102;Berufskolleg Perlengraben;Perlengraben 101;1;Altstadt/Süd;50676;773961,1611;6608870,046;Altstadt/Süd;1;13;94
+535;80406;Katharina-Henoth-Gesamtschule;Adalbertstr. 17;1;Höhenberg;51103;782418,7038;6610366,125;Höhenberg;44;18;93
+536;80207;Grundschule Kapitelstr.;Kapitelstr. 24;1;Kalk;51103;779712,2211;6610707,394;Kalk;42;18;93
+537;90903;St. Sebastianus;Pützlachstr. 37;1;Flittard;51061;776491,4234;6621755,687;Flittard;37;19;101
+538;70105;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+539;90307;Herder-Gymnasium;Kattowitzer Str. 52;1;Buchheim;51065;781709,4041;6612748,926;Buchheim;35;19;101
+540;30223;Schiller-Gymnasium;Nikolausstr. 55;1;Sülz;50937;771410,4719;6607804,146;Sülz;17;14;94
+541;10407;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+542;50607;Hauptschule Paul-Humburg-Straße;Paul-Humburg-Str. 13;1;Longerich;50737;770456,5953;6620090,368;Longerich;30;16;95
+543;50105;Förderschule Auguststr.;Auguststr. 1;0;Nippes;50733;773833,2707;6614230,191;Nippes;32;15;95
+544;40113;Kath. Grundschule Everhardstr.;Everhardstr. 60;1;Ehrenfeld;50823;771327,4324;6612301,422;Ehrenfeld;22;15;95
+545;30232;Hauptschule Mommsenstraße;Mommsenstr. 5;1;Sülz;50935;769627,9076;6606754,489;Sülz;17;14;94
+546;60301;Sankt-Martin-Schule;Balsaminenweg 52;0;Seeberg;50769;769761,3725;6624369,545;Seeberg;26;16;95
+547;20106;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+548;40212;Eichendorff-Realschule;Dechenstr. 1;1;Neuehrenfeld;50825;769889,9454;6614020,035;Neuehrenfeld;23;15;95
+549;60404;Anna-Langohr-GGS;Lebensbaumweg 51;1;Heimersdorf;50767;768349,1275;6623012,762;Heimersdorf;26;16;95
+550;80804;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+551;70302;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Ensen;7;17;93
+552;50604;Marienschule;Altonaer Str. 32;0;Longerich;50737;770855,9754;6620547,4;Longerich;30;16;95
+553;90113;Gymnasium Genovevastr;Genovevastr. 58;0;Mülheim;51063;780097,3788;6615063,343;Mülheim;36;19;101
+554;50414;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+555;50308;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+556;50115;Gymnasium Blücherstr.;Blücherstr. 15;0;Nippes;50733;774287,0725;6615402,045;Nippes;32;15;95
+557;80801;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+558;80805;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+559;40311;Schule Lindweiler Hof;Rochusstr. 80;1;Bickendorf;50827;768532,3684;6614360,552;Bickendorf;24;15;95
+560;71203;AK Autoport Köln GmbH;Am Linder Kreuz 10;1;Lind;51147;789908,1995;6594107,013;Lind;10;17;93
+561;60607;Schulzentrum Pesch;Schulstr. 18;1;Pesch;50767;764958,7355;6620963,856;Pesch;28;16;95
+562;80206;Grundschule Kapitelstr.;Kapitelstr. 24;1;Kalk;51103;779712,2211;6610707,394;Kalk;42;18;93
+563;50108;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+564;20105;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+565;20901;Albert-Schweitzer-Schule;Zum Hedelsberg 13;1;Weiß;50999;782189,5434;6599081,006;Weiß;14;13;94
+566;10106;Kath. Grundschule Trierer Str.;Trierer Str. 8;1;Altstadt/Süd;50676;773295,7513;6608543,944;Altstadt/Süd;1;13;94
+567;90709;Grundschule Leuchterstr.;Leuchterstr. 25;1;Dünnwald;51069;783498,0211;6620753,041;Dünnwald;38;19;101
+568;10422;Grundschule Balthasarstr.;Balthasarstr. 87;0;Neustadt/Nord;50670;774813,6148;6613025,62;Neustadt/Nord;5;18;93
+569;40210;Grundschule Nußbaumerstr.;Nußbaumerstr. 254;0;Neuehrenfeld;50825;770526,1895;6613883,4;Neuehrenfeld;23;15;95
+570;21101;Johannes-Gutenberg-Schule;Kuckucksweg 4;1;Godorf;50997;776119,1182;6595157,02;Godorf;15;13;94
+571;50413;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+572;10405;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+573;10215;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+574;70502;Grundschule Konrad-Adenauer-Str.;Konrad-Adenauer-Str. 20;0;Finkenberg;51149;786564,9603;6602987,508;Eil;8;17;93
+575;90607;Grundschule Honschaftsstr.;Honschaftsstr. 312;1;Höhenhaus;51061;782850,1325;6618251,718;Höhenhaus;38;19;101
+576;60102;Grundschule Amandusstraße;Amandusstr. 22;0;Merkenich;50769;771913,5795;6628671,783;Merkenich;29;16;95
+577;90201;Grundschule Kopernikusstr.;Kopernikusstr. 40;0;Buchforst;51065;780312,197;6612400,184;Buchforst;35;19;101
+578;80502;Grundschule Zehnthofstr.;Zehnthofstr. 22;1;Ostheim;51107;783934,6734;6609100,968;Ostheim;45;18;93
+579;20509;Grundschule Rosenzweigweg;Rosenzweigweg 3;0;Zollstock;50969;773019,6572;6605089,077;Zollstock;13;13;94
+580;50126;Nordpark-Schule;Kretzerstr. 5;0;Nippes;50733;775138,7728;6615612,749;Nippes;33;15;95
+581;40220;Hauptschule Baadenbergerstr.;Baadenberger Str. 111;0;Neuehrenfeld;50825;770180,103;6615040,072;Neuehrenfeld;23;15;95
+582;70201;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Westhoven;7;17;93
+583;70701;Stadtgymnasium;Humboldtstr. 2;1;Porz;51145;787186,5752;6600503,211;Urbach;9;17;93
+584;10204;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+585;70305;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Ensen;7;17;93
+586;71004;Heideschule;Neue Heide 25;1;Wahnheide;51147;790343,4839;6596770,557;Wahnheide;10;17;93
+587;20404;Europaschule Köln;Raderthalgürtel 3;1;Raderthal;50968;773696,2953;6604022,004;Raderthal;12;13;94
+588;10413;Freie Schule Köln e. V.;Bernhard-Letterhaus-Str. 17;0;Neustadt/Nord;50670;773897,1812;6613402,378;Neustadt/Nord;5;18;93
+589;20103;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+590;61101;Kath. Grundschule Gutnickstr.;Gutnickstr. 37;1;Roggendorf/Thenhoven;50769;762189,1772;6629262,722;Roggendorf/Thenhoven;29;16;95
+591;20809;Gymnasium Rodenkirchen;Sürther Str. 55;1;Rodenkirchen;50996;779060,1929;6601464,888;Rodenkirchen;14;13;94
+592;30319;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+593;80603;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+594;90408;Berthold-Otto-Schule;Buschfeldstr. 46;1;Holweide;51067;783656,3687;6616154,445;Holweide;40;19;101
+595;30103;Kath. Grundschule Lohrbergstr.;Lohrbergstr. 46;1;Klettenberg;50939;770676,905;6605455,352;Klettenberg;16;14;94
+596;60201;Germania Saal;Neusser Landstr. 98;1;Fühlingen;50769;768465,1754;6627790,561;Fühlingen;29;16;95
+597;60403;Anna-Langohr-GGS;Lebensbaumweg 51;1;Heimersdorf;50767;768349,1275;6623012,762;Heimersdorf;26;16;95
+598;10501;Rheinische RVK;Mindener Str. 2;1;Deutz;50679;776102,121;6610240,28;Deutz;6;18;93
+599;20104;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+600;30205;Schiller-Gymnasium;Nikolausstr. 55;1;Sülz;50937;771410,4719;6607804,146;Sülz;16;14;94
+601;50104;Förderschule Auguststr.;Auguststr. 1;0;Nippes;50733;773833,2707;6614230,191;Nippes;32;15;95
+602;60707;Konrad-Adenauer-Schule;Martinusstr. 28;0;Esch/Auweiler;50765;762960,5518;6623147,401;Esch/Auweiler;28;16;95
+603;90703;Grundschule Am Portzenacker;Am Portzenacker 1b;1;Dünnwald;51069;782451,5363;6621483,36;Dünnwald;38;19;101
+604;10220;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;2;13;94
+605;71007;Kita Hunoldstr.;Hunoldstr. 7;1;Wahnheide;51147;790278,9924;6595895,482;Wahnheide;10;17;93
+606;20513;Alfred-Müller-Armack-Berufskolleg;Brüggener Str. 1;0;Zollstock;50969;772359,1235;6604527,584;Zollstock;13;13;94
+607;40105;Grundschule Lindenbornstr.;Lindenbornstr. 15;1;Ehrenfeld;50823;769732,324;6611675,394;Ehrenfeld;22;15;95
+608;10513;Realschule Im Hasental;Im Hasental 41;0;Deutz;50679;776996,2518;6608786,298;Deutz;6;18;93
+609;10227;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+610;40213;Eichendorff-Realschule;Dechenstr. 1;1;Neuehrenfeld;50825;769889,9454;6614020,035;Neuehrenfeld;23;15;95
+611;50703;Grundschule Alzeyer Str;Alzeyer Str. 12;0;Bilderstöckchen;50739;771276,6594;6616097,609;Bilderstöckchen;31;15;95
+612;30804;Pfarrheim St. Severin;Kirchgasse 1;1;Lövenich;50859;760189,145;6611574,833;Lövenich;21;14;94
+613;61204;Grundschule An den Kaulen;An den Kaulen 62;0;Worringen;50769;763415,2612;6633355,742;Worringen;29;16;95
+614;50106;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+615;80802;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+616;70108;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+617;90901;St. Sebastianus;Pützlachstr. 37;1;Flittard;51061;776491,4234;6621755,687;Flittard;37;19;101
+618;80904;Kath. Grundschule Andreas-Hermes-Str.;Andreas-Hermes-Str. 2;1;Neubrück;51109;786101,567;6610319,112;Neubrück;45;18;93
+619;90510;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+620;30325;Liebfrauenschule;Brucknerstr. 15;0;Lindenthal;50931;770109,2949;6609630,7;Lindenthal;19;14;94
+621;50311;Grundschule Garthestr.;Garthestr. 20;0;Riehl;50735;776493,7252;6615177,076;Riehl;33;16;95
+622;30234;Hauptschule Mommsenstraße;Mommsenstr. 5;1;Sülz;50935;769627,9076;6606754,489;Sülz;17;14;94
+623;30209;Kath. Grundschule Berrenrather Str.;Berrenrather Str. 179;0;Sülz;50937;771217,9933;6607107,485;Sülz;16;14;94
+624;30108;Grundschule Stenzelbergstr.;Stenzelbergstr. 3;1;Klettenberg;50939;771487,9362;6605504,909;Klettenberg;16;14;94
+625;40309;Schule Lindweiler Hof;Rochusstr. 80;1;Bickendorf;50827;768532,3684;6614360,552;Bickendorf;24;15;95
+626;90203;Grundschule Kopernikusstr.;Kopernikusstr. 40;0;Buchforst;51065;780312,197;6612400,184;Buchforst;35;19;101
+627;70506;Grundschule Schulstr. Porz;Schulstr. 23;0;Eil;51145;788095,8205;6602404,613;Eil;8;17;93
+628;80907;Kath. Grundschule Andreas-Hermes-Str.;Andreas-Hermes-Str. 2;1;Neubrück;51109;786101,567;6610319,112;Neubrück;45;18;93
+629;50506;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+630;50309;SBK Sozial-Betriebe-Köln gGmbH;Boltensternstr. 16;1;Riehl;50735;777039,7668;6615385,657;Riehl;33;16;95
+631;50307;SBK Sozial-Betriebe-Köln gGmbH;Boltensternstr. 16;1;Riehl;50735;777039,7668;6615385,657;Riehl;33;16;95
+632;30904;Grundschule Neue Sandkaul;Neue Sandkaul 23;1;Widdersdorf;50859;761153,8841;6615015,405;Widdersdorf;21;14;94
+633;30304;Universität zu Köln;Albertus-Magnus-Platz 0;1;Lindenthal;50931;771175,6467;6608590,829;Lindenthal;18;14;94
+634;50613;Kath. Grundschule Longericher Hauptstr.;Longericher Hauptstr. 83;0;Longerich;50739;768656,526;6620670,835;Longerich;30;16;95
+635;40121;Astrid-Lindgren-Schule;Borsigstr. 13;0;Ehrenfeld;50825;768849,8937;6613686,926;Ehrenfeld;24;15;95
+636;20503;Grundschule Rosenzweigweg;Rosenzweigweg 3;0;Zollstock;50969;773019,6572;6605089,077;Zollstock;13;13;94
+637;60101;Grundschule Amandusstraße;Amandusstr. 22;0;Merkenich;50769;771913,5795;6628671,783;Merkenich;29;16;95
+638;60905;Grundschule Merianstr.;Merianstr. 7;1;Chorweiler;50765;767861,5868;6626122,395;Chorweiler;27;16;95
+639;20101;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+640;10211;Grundschule Loreleystr.;Loreleystr. 3;0;Neustadt/Süd;50677;773880,6639;6607057,648;Neustadt/Süd;2;13;94
+641;40102;Grundschule Lindenbornstr.;Lindenbornstr. 15;1;Ehrenfeld;50823;769732,324;6611675,394;Ehrenfeld;22;15;95
+642;30605;Grundschule Ildefons-Herwegen;Kirchweg 138;1;Junkersdorf;50858;763359,3879;6609366,177;Junkersdorf;20;14;94
+643;50306;SBK Sozial-Betriebe-Köln gGmbH;Boltensternstr. 16;1;Riehl;50735;777039,7668;6615385,657;Riehl;33;16;95
+644;50203;Grundschule Nibelungenstr.;Nibelungenstr. 50a;0;Mauenheim;50739;772918,2608;6616790,677;Mauenheim;31;16;95
+645;40406;Förderschule Kolkrabenweg;Kolkrabenweg 8-10;1;Vogelsang;50829;765592,9065;6615089,185;Vogelsang;25;15;95
+646;90516;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+647;71204;AK Autoport Köln GmbH;Am Linder Kreuz 10;1;Lind;51147;789908,1995;6594107,013;Lind;10;17;93
+648;70104;Janusz-Korczak-Schule;Am Altenberger Kreuz 14;0;Poll;51105;778056,82;6606958,395;Poll;7;17;93
+649;10410;Montessori-Grundschule;Gilbachstr. 20;0;Neustadt/Nord;50672;772417,3145;6611640,767;Neustadt/Nord;4;18;93
+650;80403;Grundschule Weimarer Str.;Weimarer Str. 28;1;Höhenberg;51103;781659,0732;6611624,18;Höhenberg;44;18;93
+651;90605;Grundschule Von-Bodelschwingh-Str.;Von-Bodelschwingh-Str. 24;1;Höhenhaus;51061;781990,0616;6618798,009;Höhenhaus;38;19;101
+652;40124;Astrid-Lindgren-Schule;Borsigstr. 13;0;Ehrenfeld;50825;768849,8937;6613686,926;Ehrenfeld;24;15;95
+653;80101;Berufskolleg Usingerstr.;Usingerstr. 24;1;Humboldt/Gremberg;51105;779092,8616;6609398,868;Humboldt/Gremberg;42;18;93
+654;80204;Kaiserin-Theophanu-Schule;Kantstr. 3;0;Kalk;51103;780114,2241;6610153,558;Kalk;42;18;93
+655;10411;Hansa-Gymnasium;Hansaring 56;0;Neustadt/Nord;50670;773772,8788;6612086,78;Neustadt/Nord;5;18;93
+656;30706;Clarenhofschule;Schulstr. 2;1;Weiden;50859;760091,3877;6610287,756;Weiden;21;14;94
+657;20510;St.-Nikolaus-Schule;Bernkasteler Str. 9;1;Zollstock;50969;772435,6077;6605002,609;Zollstock;13;13;94
+658;20518;Ev. Kirchengemeinde;Bornheimer Str. 1a;1;Zollstock;50969;772870,6668;6604977,327;Zollstock;13;13;94
+659;21302;Ketteler-Schule;Kettelerstr. 14;1;Meschenich;50997;771648,015;6596505,068;Meschenich;15;13;94
+660;90512;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+661;30321;Apostelgymnasium;Biggestr. 2;1;Lindenthal;50931;769849,5122;6609350,864;Lindenthal;18;14;94
+662;80105;Berufskolleg Usingerstr.;Usingerstr. 24;1;Humboldt/Gremberg;51105;779092,8616;6609398,868;Humboldt/Gremberg;43;18;93
+663;10421;Grundschule Balthasarstr.;Balthasarstr. 87;0;Neustadt/Nord;50670;774813,6148;6613025,62;Neustadt/Nord;5;18;93
+664;30707;Clarenhofschule;Schulstr. 2;1;Weiden;50859;760091,3877;6610287,756;Weiden;21;14;94
+665;30401;Grundschule Geilenkircher Str.;Geilenkircher Str. 52;1;Braunsfeld;50933;767783,8159;6610926,303;Braunsfeld;19;14;94
+666;30404;Grundschule Geilenkircher Str.;Geilenkircher Str. 52;1;Braunsfeld;50933;767783,8159;6610926,303;Braunsfeld;19;14;94
+667;50702;Grundschule Alzeyer Str;Alzeyer Str. 12;0;Bilderstöckchen;50739;771276,6594;6616097,609;Bilderstöckchen;31;15;95
+668;10235;Berufskolleg 3;Richard-Wagner-Str. 47;1;Neustadt/Süd;50674;771863,3748;6609812,585;Neustadt/Süd;3;13;94
+669;30221;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+670;20202;Martin-Luther-Haus;Mehlemer Str. 27;0;Marienburg;50968;776019,512;6604056,562;Marienburg;12;13;94
+671;90511;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+672;50202;Grundschule Nibelungenstr.;Nibelungenstr. 50a;0;Mauenheim;50739;772918,2608;6616790,677;Mauenheim;31;16;95
+673;50123;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;33;15;95
+674;71402;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+675;30314;Grundschule Freiligrathstr.;Freiligrathstr. 60;1;Lindenthal;50935;768383,5309;6607607,775;Lindenthal;18;14;94
+676;30311;Kath. Grundschule Lindenburger Allee;Lindenburger Allee 38;1;Lindenthal;50931;769922,0606;6608423,486;Lindenthal;18;14;94
+677;70304;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Ensen;7;17;93
+678;40104;Grundschule Lindenbornstr.;Lindenbornstr. 15;1;Ehrenfeld;50823;769732,324;6611675,394;Ehrenfeld;22;15;95
+679;60202;Germania Saal;Neusser Landstr. 98;1;Fühlingen;50769;768465,1754;6627790,561;Fühlingen;29;16;95
+680;70704;Kath. Grundschule Kupfergasse;Kupfergasse 31;1;Urbach;51145;788275,1593;6600211,495;Urbach;9;17;93
+681;70507;Kopernikusschule;Bonner Str. 40;1;Eil;51145;787145,3698;6601546,941;Eil;8;17;93
+682;50120;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;32;15;95
+683;90503;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+684;70702;Stadtgymnasium;Humboldtstr. 2;1;Porz;51145;787186,5752;6600503,211;Urbach;9;17;93
+685;90110;Realschule Lassallestr.;Lassallestr. 59;1;Mülheim;51065;780115,9528;6613943,952;Mülheim;36;19;101
+686;70504;Grundschule Schulstr. Porz;Schulstr. 23;0;Eil;51145;788095,8205;6602404,613;Eil;8;17;93
+687;10414;Freie Schule Köln e. V.;Bernhard-Letterhaus-Str. 17;0;Neustadt/Nord;50670;773897,1812;6613402,378;Neustadt/Nord;5;18;93
+688;40403;Kardinal-Frings-Schule;Vogelsanger Str. 453;1;Vogelsang;50829;765852,3508;6613409,309;Vogelsang;25;15;95
+689;20502;Grundschule Rosenzweigweg;Rosenzweigweg 3;0;Zollstock;50969;773019,6572;6605089,077;Zollstock;13;13;94
+690;50412;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+691;30206;Schiller-Gymnasium;Nikolausstr. 55;1;Sülz;50937;771410,4719;6607804,146;Sülz;16;14;94
+692;30323;Apostelgymnasium;Biggestr. 2;1;Lindenthal;50931;769849,5122;6609350,864;Lindenthal;18;14;94
+693;30207;Kath. Grundschule Berrenrather Str.;Berrenrather Str. 179;0;Sülz;50937;771217,9933;6607107,485;Sülz;16;14;94
+694;90508;Grundschule Urnenstr.;Urnenstr. 7;0;Dellbrück;51069;786523,4159;6617446,298;Dellbrück;39;19;101
+695;90514;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+696;60801;Heinrich-Mann-Gymnasium;Fühlinger Weg 4;1;Volkhoven/Weiler;50765;766231,0212;6624518,769;Volkhoven/Weiler;26;16;95
+697;90523;Realschule Dellbrücker Mauspfad;Dellbrücker Mauspfad 200;1;Dellbrück;51069;786771,763;6616046,855;Dellbrück;39;19;101
+698;20610;Anne-Frank-Schule;Adlerstr. 13;1;Rondorf;50997;775241,78;6599530,591;Rondorf;15;13;94
+699;90904;Regenbogenschule;Peter-Grieß-Str. 5-7;0;Flittard;51061;778209,6397;6620802,944;Flittard;37;19;101
+700;50403;Grundschule Halfengasse;Halfengasse 25;1;Niehl;50735;774891,3606;6620001,604;Niehl;30;16;95
+701;20303;Grundschule Annastr.;Annastr. 63;0;Raderberg;50968;774754,6832;6604424,959;Raderberg;13;13;94
+702;90120;Hauptschule Tiefentalstraße;Tiefentalstr. 66;1;Mülheim;51063;780261,1925;6616931,306;Mülheim;37;19;101
+703;10118;Kath. HS Großer Griechenmarkt;Großer Griechenmarkt 76;1;Altstadt/Süd;50676;773765,0876;6609303,753;Altstadt/Süd;1;13;94
+704;70505;Grundschule Schulstr. Porz;Schulstr. 23;0;Eil;51145;788095,8205;6602404,613;Eil;8;17;93
+705;50110;Grundschule Steinbergerstr.;Steinbergerstr. 40;0;Nippes;50733;773743,9724;6614516,127;Nippes;32;15;95
+706;30703;Albert Schweitzer-Grundschule;Breslauer Str. 11;1;Weiden;50858;761926,681;6610013,502;Weiden;20;14;94
+707;60401;Ursula-Kuhr-Schule;Volkhovener Weg 140;1;Heimersdorf;50767;767894,825;6622713,621;Heimersdorf;26;16;95
+708;10415;Freie Schule Köln e. V.;Bernhard-Letterhaus-Str. 17;0;Neustadt/Nord;50670;773897,1812;6613402,378;Neustadt/Nord;5;18;93
+709;90411;Gesamtschule Holweide;Burgwiesenstr. 125;1;Holweide;51067;783619,6497;6614630,397;Holweide;40;19;101
+710;40310;Schule Lindweiler Hof;Rochusstr. 80;1;Bickendorf;50827;768532,3684;6614360,552;Bickendorf;24;15;95
+711;80607;Kath. Grundschule Fußfallstr.;Fußfallstr. 55;1;Merheim;51109;784350,0793;6612257,019;Merheim;44;17;93
+712;40604;Kath. Grundschule Wilhelm-Schreiber-Str.;Wilhelm-Schreiber-Str. 56;1;Ossendorf;50827;768197,3379;6616214,482;Ossendorf;24;15;95
+713;20507;Seniorenhaus Rosenpark;Bernhard-Feilchenfeld-Str. 5;1;Zollstock;50969;772956,8265;6606270,61;Zollstock;13;13;94
+714;30712;Schulzentrum Weiden;Ostlandstr. 39;1;Weiden;50858;761240,4476;6609758,904;Weiden;21;14;94
+715;80304;Grundschule Lustheider Str.;Lustheider Str. 43;1;Vingst;51103;782235,8762;6609986,204;Vingst;43;18;93
+716;60802;Heinrich-Mann-Gymnasium;Fühlinger Weg 4;1;Volkhoven/Weiler;50765;766231,0212;6624518,769;Volkhoven/Weiler;26;16;95
+717;40118;Geschwister-Scholl-Schule;Gravenreuthstr. 10;0;Ehrenfeld;50823;770485,2211;6612934,12;Ehrenfeld;22;15;95
+718;10116;Konrad-Adenauer-Realschule;Frankstr. 26;1;Altstadt/Süd;50676;773046,4466;6609290,742;Altstadt/Süd;3;13;94
+719;90403;Kath. Grundschule Neufelder Str.;Neufelder Str. 2;0;Holweide;51067;785377,2217;6615932,808;Holweide;40;19;101
+720;40218;Hauptschule Baadenbergerstr.;Baadenberger Str. 111;0;Neuehrenfeld;50825;770180,103;6615040,072;Neuehrenfeld;23;15;95
+721;90801;Grundschule Ricarda-Huch-Str.;Ricarda-Huch-Str. 60;1;Stammheim;51061;778215,0978;6618418,814;Stammheim;37;19;101
+722;30409;Griechisches Lyzeum;Aachener Str. 443;0;Braunsfeld;50933;768709,3902;6610097,991;Braunsfeld;19;14;94
+723;61003;Grundschule Ernstbergstr.;Ernstbergstr. 2;1;Blumenberg;50765;766107,9472;6628380,961;Blumenberg;27;16;95
+724;90204;Grundschule Kopernikusstr.;Kopernikusstr. 40;0;Buchforst;51065;780312,197;6612400,184;Buchforst;35;19;101
+725;80303;Grundschule Heßhofstr.;Heßhofstr. 45;1;Vingst;51107;781861,8624;6609099,953;Vingst;43;18;93
+726;20808;Gymnasium Rodenkirchen;Sürther Str. 55;1;Rodenkirchen;50996;779060,1929;6601464,888;Rodenkirchen;14;13;94
+727;70603;Max-Planck-Realschule;Planckstr. 14;1;Porz;51145;786838,6315;6601377,289;Porz;8;17;93
+728;90102;Montessori-Hauptschule;Ferdinandstr. 43;1;Mülheim;51063;778035,5298;6611986,096;Mülheim;35;19;101
+729;20801;Gymnasium Rodenkirchen;Sürther Str. 55;1;Rodenkirchen;50996;779060,1929;6601464,888;Rodenkirchen;12;13;94
+730;10304;Rathaus Spanischer Bau;Rathausplatz 1;1;Altstadt/Nord;50667;774629,9856;6610474,418;Altstadt/Nord;4;18;93
+731;90104;Johann-Bendel-Realschule;Danzierstr. 146a;1;Mülheim;51063;779356,1558;6614046,074;Mülheim;36;19;101
+732;10112;Theo-Burauen-Schule;Severinswall 40;0;Altstadt/Süd;50678;775324,1968;6607699,092;Altstadt/Süd;1;13;94
+733;10233;Berufskolleg 3;Richard-Wagner-Str. 47;1;Neustadt/Süd;50674;771863,3748;6609812,585;Neustadt/Süd;3;13;94
+734;30204;Hildegard-von-Bingen-Schule;Leybergstr. 1;1;Sülz;50939;771779,1908;6606583,121;Sülz;16;14;94
+735;90604;Grundschule Von-Bodelschwingh-Str.;Von-Bodelschwingh-Str. 24;1;Höhenhaus;51061;781990,0616;6618798,009;Höhenhaus;38;19;101
+736;10406;Grundschule Antwerpener Str.;Antwerpener Str. 19;0;Neustadt/Nord;50672;772125,1101;6610677,243;Neustadt/Nord;4;18;93
+737;20102;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+738;30226;Förderschule Redwitzstr.;Redwitzstr. 80;1;Sülz;50937;770712,1653;6607559,044;Sülz;17;14;94
+739;10221;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;2;13;94
+740;30214;Grundschule Manderscheider Platz;Berrenrather Str. 352;0;Sülz;50937;770468,2938;6606290,775;Sülz;17;14;94
+741;21004;Brüder-Grimm-Schule;Sürther Hauptstr. 149;1;Sürth;50999;780687,0939;6597665,787;Sürth;14;13;94
+742;10208;Kath. Grundschule Mainzer Str.;Mainzer Str. 30-34;1;Neustadt/Süd;50678;775216,4462;6607138,776;Neustadt/Süd;2;13;94
+743;71501;Kath. Grundschule Hinter der Kirche;Hinter der Kirche 3;1;Langel;51143;779843,6046;6593951,803;Langel;11;17;93
+744;30324;Apostelgymnasium;Biggestr. 2;1;Lindenthal;50931;769849,5122;6609350,864;Lindenthal;19;14;94
+745;10420;Grundschule Balthasarstr.;Balthasarstr. 87;0;Neustadt/Nord;50670;774813,6148;6613025,62;Neustadt/Nord;5;18;93
+746;50117;Gymnasium Blücherstr.;Blücherstr. 15;0;Nippes;50733;774287,0725;6615402,045;Nippes;32;15;95
+747;61205;Grundschule An den Kaulen;An den Kaulen 62;0;Worringen;50769;763415,2612;6633355,742;Worringen;29;16;95
+748;50124;Mathilde-von-Mevissen-Grundschule;Gellertstr. 4;1;Nippes;50733;774579,3961;6614716,51;Nippes;33;15;95
+749;30709;Clarenhofschule;Schulstr. 2;1;Weiden;50859;760091,3877;6610287,756;Weiden;21;14;94
+750;71502;Kath. Grundschule Hinter der Kirche;Hinter der Kirche 3;1;Langel;51143;779843,6046;6593951,803;Langel;11;17;93
+751;30506;Kita Ecole Maternelle;Im Rapsfeld 32;1;Müngersdorf;50933;763432,433;6612174,736;Müngersdorf;20;14;94
+752;90121;Hauptschule Tiefentalstraße;Tiefentalstr. 66;1;Mülheim;51063;780261,1925;6616931,306;Mülheim;36;19;101
+753;20511;St.-Nikolaus-Schule;Bernkasteler Str. 9;1;Zollstock;50969;772435,6077;6605002,609;Zollstock;13;13;94
+754;90513;Grundschule Dellbrücker Hauptstr.;Dellbrücker Hauptstr. 16;1;Dellbrück;51069;787665,8138;6616533,977;Dellbrück;39;19;101
+755;70303;Grundschule Hohe Str.;Hohe Str. 77;1;Ensen;51149;782552,7812;6603072,693;Ensen;7;17;93
+756;40404;Kardinal-Frings-Schule;Vogelsanger Str. 453;1;Vogelsang;50829;765852,3508;6613409,309;Vogelsang;25;15;95
+757;10229;Stephan-Lochner-Schule;Lochnerstr. 13;0;Neustadt/Süd;50674;772088,5082;6608908,803;Neustadt/Süd;3;13;94
+758;20301;Grundschule Annastr.;Annastr. 63;0;Raderberg;50968;774754,6832;6604424,959;Raderberg;13;13;94
+759;70110;Grundschule Poller Hauptstr.;Poller Hauptstr. 61;1;Poll;51105;778333,5795;6605859,95;Poll;7;17;93
+760;10307;Ursulinenschule;Machabäerstr. 47;1;Altstadt/Nord;50668;774792,8482;6611842,206;Altstadt/Nord;4;18;93
+761;60704;Konrad-Adenauer-Schule;Martinusstr. 28;0;Esch/Auweiler;50765;762960,5518;6623147,401;Esch/Auweiler;28;16;95
+762;50501;Peter-Ustinov-Schule;Neusser Str. 421;1;Nippes;50733;773798,8303;6616273,37;Weidenpesch;34;16;95
+763;40106;Pfarrheim St. Joseph;Geisselstr. 1;0;Ehrenfeld;50823;770446,4428;6611921,971;Ehrenfeld;22;15;95
+764;90702;Grundschule Am Portzenacker;Am Portzenacker 1b;1;Dünnwald;51069;782451,5363;6621483,36;Dünnwald;38;19;101
+765;40603;Kath. Grundschule Wilhelm-Schreiber-Str.;Wilhelm-Schreiber-Str. 56;1;Ossendorf;50827;768197,3379;6616214,482;Ossendorf;24;15;95
+766;90406;Kita Piccoloministr.;Piccoloministr. 531;0;Holweide;51067;784968,0805;6616623,851;Holweide;40;19;101
+767;90802;Grundschule Ricarda-Huch-Str.;Ricarda-Huch-Str. 60;1;Stammheim;51061;778215,0978;6618418,814;Stammheim;37;19;101
+768;30403;Grundschule Geilenkircher Str.;Geilenkircher Str. 52;1;Braunsfeld;50933;767783,8159;6610926,303;Braunsfeld;19;14;94
+769;50701;Grundschule Alzeyer Str;Alzeyer Str. 12;0;Bilderstöckchen;50739;771276,6594;6616097,609;Bilderstöckchen;31;15;95
+770;20108;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+771;10114;Konrad-Adenauer-Realschule;Frankstr. 26;1;Altstadt/Süd;50676;773046,4466;6609290,742;Altstadt/Süd;3;13;94
+772;50609;Hauptschule Paul-Humburg-Straße;Paul-Humburg-Str. 13;1;Longerich;50737;770456,5953;6620090,368;Longerich;30;16;95
+773;71103;Grundschule Adolph-Kolping-Straße;Adolph-Kolping-Str. 41;1;Wahn;51147;789269,3207;6596450,149;Wahn;10;17;93
+774;20803;Caritas-Altenzentrum St. Maternus;Brückenstr. 21;1;Rodenkirchen;50996;778138,9126;6602588,722;Rodenkirchen;12;13;94
+775;20107;Maria-Sybilla-Merian-Schule;Cäsarstr. 21;0;Bayenthal;50968;775492,0815;6604895,761;Bayenthal;12;13;94
+776;50409;Grundschule Nesselrodestr.;Nesselrodestr. 15;1;Niehl;50735;775223,8518;6617303,645;Niehl;34;16;95
+777;90103;Johann-Bendel-Realschule;Danzierstr. 146a;1;Mülheim;51063;779356,1558;6614046,074;Mülheim;36;19;101
+778;80102;Hauptschule Hachenburger Straße;Hachenburger Str. 11;0;Humboldt/Gremberg;51105;778633,2439;6609322,317;Humboldt/Gremberg;42;18;93
+779;20516;Ev. Kirchengemeinde;Bornheimer Str. 1a;1;Zollstock;50969;772870,6668;6604977,327;Zollstock;13;13;94
+780;40201;Seniorenzentrum;Peter-Bauer-Str. 2;1;Neuehrenfeld;50823;771419,5751;6612531,411;Neuehrenfeld;22;15;95
+781;30109;Grundschule Stenzelbergstr.;Stenzelbergstr. 3;1;Klettenberg;50939;771487,9362;6605504,909;Klettenberg;16;14;94
+782;20810;Gymnasium Rodenkirchen;Sürther Str. 55;1;Rodenkirchen;50996;779060,1929;6601464,888;Rodenkirchen;14;13;94
+783;10222;Grundschule Pfälzer Str.;Pfälzer Str. 30;1;Neustadt/Süd;50677;772844,732;6608243,828;Neustadt/Süd;2;13;94
+784;70101;Janusz-Korczak-Schule;Am Altenberger Kreuz 14;0;Poll;51105;778056,82;6606958,395;Poll;7;17;93
+785;50204;Grundschule Nibelungenstr.;Nibelungenstr. 50a;0;Mauenheim;50739;772918,2608;6616790,677;Mauenheim;31;16;95
+786;80704;Matthias-Claudius-Heim;Olpener Str. 830;1;Brück;51109;787089,6415;6611716,42;Brück;41;17;93
+787;80405;Grundschule Weimarer Str.;Weimarer Str. 28;1;Höhenberg;51103;781659,0732;6611624,18;Höhenberg;44;18;93
+788;90707;Grundschule Leuchterstr.;Leuchterstr. 25;1;Dünnwald;51069;783498,0211;6620753,041;Dünnwald;38;19;101
+789;50504;Florianschule;Neusser Str. 605;0;Weidenpesch;50737;773326,0988;6618225,756;Weidenpesch;34;16;95
+790;90409;Berthold-Otto-Schule;Buschfeldstr. 46;1;Holweide;51067;783656,3687;6616154,445;Holweide;40;19;101
+791;71407;Grundschule Schmittgasse;Schmittgasse 66;0;Zündorf;51143;784380,9141;6597583,227;Zündorf;11;17;93
+792;71005;Heideschule;Neue Heide 25;1;Wahnheide;51147;790343,4839;6596770,557;Wahnheide;10;17;93
+793;90606;Grundschule Honschaftsstr.;Honschaftsstr. 312;1;Höhenhaus;51061;782850,1325;6618251,718;Höhenhaus;38;19;101
+794;80808;Kath. Grundschule Volberger Weg;Volberger Weg 17;1;Rath/Heumar;51107;789274,219;6608104,716;Rath/Heumar;41;17;93
+795;61004;Grundschule Ernstbergstr.;Ernstbergstr. 2;1;Blumenberg;50765;766107,9472;6628380,961;Blumenberg;27;16;95
+796;50612;Kath. Grundschule Longericher Hauptstr.;Longericher Hauptstr. 83;0;Longerich;50739;768656,526;6620670,835;Longerich;30;16;95
+797;30309;Grundschule Bachemer Str.;Bachemer Str. 69;0;Lindenthal;50931;770251,7902;6608797,415;Lindenthal;18;14;94
+798;60302;Sankt-Martin-Schule;Balsaminenweg 52;0;Seeberg;50769;769761,3725;6624369,545;Seeberg;26;16;95
+799;50201;Grundschule Nibelungenstr.;Nibelungenstr. 50a;0;Mauenheim;50739;772918,2608;6616790,677;Mauenheim;31;16;95
+800;20805;Bezirksrathaus Rodenkirchen;Hauptstr. 85;1;Rodenkirchen;50996;778929,3697;6602262,278;Rodenkirchen;12;13;94
+801;111; Glashaus am Neulandpark;Adolfsstr. 103;0;Leverkusen;51373;776587,2677;6627750,113;;;;101
+802;112; Jugendwerkstatt;Dhünnstr. 12;0;Leverkusen;51373;777596,8833;6627584,816;;;;101
+803;113; GGS Dönhoffstr.;Dönhoffstr. 94;0;Leverkusen;51373;777142,9181;6626665,151;;;;101
+804;114; GGS Dönhoffstr.;Dönhoffstr. 94;0;Leverkusen;51373;777142,9181;6626665,151;;;;101
+805;121; Lise-Meitner-Gymnasium;Am Stadtpark 50;0;Leverkusen;51373;779305,8078;6627375,913;;;;101
+806;122; Lise-Meitner-Gymnasium;Am Stadtpark 50;0;Leverkusen;51373;779305,8078;6627375,913;;;;101
+807;123; FöS Pestalozzischule;Hermann-von-Helmholtz-Str. 72;0;Leverkusen;51373;779453,7837;6626643,799;;;;101
+808;131; Musikschule;Friedrich-Ebert-Str. 41;0;Leverkusen;51373;777989,2987;6626468,703;;;;101
+809;132; GGS Fontanestr.;Fontanestr. 2;0;Leverkusen;51373;778882,4303;6625218,008;;;;101
+810;133; FöS Pestalozzischule;Hermann-von-Helmholtz-Str. 72;0;Leverkusen;51373;779453,7837;6626643,799;;;;101
+811;134; Jugendhaus Lindenhof;Weiherstr. 49;0;Leverkusen;51373;780209,3922;6626452,534;;;;101
+812;141; Kath. Pfarrheim;Josefstr. 26;0;Leverkusen;51377;780729,5969;6627032,478;;;;101
+813;142; GGS Regenbogenschule;Scharnhorststr. 5;0;Leverkusen;51377;781253,3845;6626933,601;;;;101
+814;143; GGS Regenbogenschule;Scharnhorststr. 5;0;Leverkusen;51377;781253,3845;6626933,601;;;;101
+815;144; Wolfgang-Obladen-Halle;Scharnhorststr. 5;0;Leverkusen;51377;781253,3845;6626933,601;;;;101
+816;151; KGS Burgweg;Burgweg 38;0;Leverkusen;51371;773107,1232;6630395,324;;;;101
+817;152; KGS Burgweg;Burgweg 38;0;Leverkusen;51371;773107,1232;6630395,324;;;;101
+818;153; Käthe-Kollwitz-Gesamtschule;Deichtorstr. 2;0;Leverkusen;51371;774348,6944;6630559,936;;;;101
+819;154; KGS Burgweg;Burgweg 38;0;Leverkusen;51371;773107,1232;6630395,324;;;;101
+820;161; GGS Löwenzahnschule;Netzestr. 12;0;Leverkusen;51371;774030,0983;6631905,099;;;;101
+821;162; GGS Löwenzahnschule;Netzestr. 12;0;Leverkusen;51371;774030,0983;6631905,099;;;;101
+822;163; GGS Löwenzahnschule;Netzestr. 12;0;Leverkusen;51371;774030,0983;6631905,099;;;;101
+823;171; GGS Sternenschule;Masurenstr. 5-7;0;Leverkusen;51371;774310,268;6632918,941;;;;101
+824;172; GGS Sternenschule;Masurenstr. 5-7;0;Leverkusen;51371;774310,268;6632918,941;;;;101
+825;173; Städt. Tageseinrichtung für Kinder;Bodestr. 13;0;Leverkusen;51371;773631,484;6633443,662;;;;101
+826;181; Feuerwehrhaus;Hitdorfer Str. 111;0;Leverkusen;51371;770659,4333;6631598,785;;;;101
+827;182; GGS Hans-Christian-Andersen-Schule;Lohrstr. 85;0;Leverkusen;51371;769916,7714;6632409,739;;;;101
+828;183; GGS Hans-Christian-Andersen-Schule;Lohrstr. 85;0;Leverkusen;51371;769916,7714;6632409,739;;;;101
+829;184; GGS Hans-Christian-Andersen-Schule;Lohrstr. 85;0;Leverkusen;51371;769916,7714;6632409,739;;;;101
+830;211; FöS Rat-Deycks-Schule;Haus-Vorster Str. 42-48;0;Leverkusen;51379;779318,1294;6635153,366;;;;101
+831;212; Fachbereich Straßenverkehr;Haus-Vorster Str. 8;0;Leverkusen;51379;778932,3665;6634495,881;;;;101
+832;213; FöS Rat-Deycks-Schule;Haus-Vorster Str. 42-48;0;Leverkusen;51379;779318,1294;6635153,366;;;;101
+833;214; KGS Remigiusschule;Wiembachallee 11;0;Leverkusen;51379;779671,7149;6634063,176;;;;101
+834;215; Haus der Familie;Elsbachstr. 107;0;Leverkusen;51379;780725,8477;6634475,045;;;;101
+835;221; Altenheim im DRK-Zentrum;Düsseldorfer Str. 28;0;Leverkusen;51379;779338,9912;6633621,534;;;;101
+836;222; Altenheim im DRK-Zentrum;Düsseldorfer Str. 28;0;Leverkusen;51379;779338,9912;6633621,534;;;;101
+837;223; CBT Wohnhaus Upladin;Opladener Platz 8;0;Leverkusen;51379;779513,607;6632786,492;;;;101
+838;224; CBT Wohnhaus Upladin;Opladener Platz 8;0;Leverkusen;51379;779513,607;6632786,492;;;;101
+839;225; Landrat-Lucas-Gymnasium;Peter-Neuenheuser-Str. 7;0;Leverkusen;51379;779366,9191;6632563,674;;;;101
+840;231; Dependance GGS Herzogschule;Hans-Schlehahn-Str. 6;0;Leverkusen;51379;779371,0901;6631895,094;;;;101
+841;232; Dependance GGS Herzogschule;Hans-Schlehahn-Str. 6;0;Leverkusen;51379;779371,0901;6631895,094;;;;101
+842;233; Berufskolleg;Stauffenbergstr. 21-23;0;Leverkusen;51379;780501,8494;6633662,395;;;;101
+843;234; Berufskolleg;Stauffenbergstr. 21-23;0;Leverkusen;51379;780501,8494;6633662,395;;;;101
+844;241; Landrat-Lucas-Gymnasium;Peter-Neuenheuser-Str. 7;0;Leverkusen;51379;779366,9191;6632563,674;;;;101
+845;242; Landrat-Lucas-Gymnasium;Peter-Neuenheuser-Str. 7;0;Leverkusen;51379;779366,9191;6632563,674;;;;101
+846;243; Haus Ratibor;Küppersteger Str. 56;0;Leverkusen;51373;778036,8511;6629534,303;;;;101
+847;244; GGS Kerschensteinerschule;Kerschensteinerstr. 2;0;Leverkusen;51373;779001,5054;6629685,219;;;;101
+848;251; Verwaltungsgebäude der AVEA;Im Eisholz 3;0;Leverkusen;51373;779502,4843;6629325,144;;;;101
+849;252; GGS Kerschensteinerschule;Kerschensteinerstr. 2;0;Leverkusen;51373;779001,5054;6629685,219;;;;101
+850;253; GES Dependance Görresstr.;Görresstr. 11;0;Leverkusen;51373;779226,0204;6628396,43;;;;101
+851;254; GES Dependance Görresstr.;Görresstr. 11;0;Leverkusen;51373;779226,0204;6628396,43;;;;101
+852;261; Dienstgebäude der EVL;Overfeldweg 23;0;Leverkusen;51371;777720,9669;6629039,111;;;;101
+853;262; Kindertagesstätte Markusweg;Markusweg 1;0;Leverkusen;51371;777293,4889;6630176,997;;;;101
+854;263; Seniorenzentrum Bürrig;Stresemannplatz 8;0;Leverkusen;51371;777450,1512;6630238,035;;;;101
+855;264; Kath. Pfarrheim St. Stephanus;Heinrich-Brüning-Str. 136;0;Leverkusen;51371;776951,1217;6629870,771;;;;101
+856;271; KGS Don-Bosco-Schule;Quettinger Str. 90;0;Leverkusen;51381;783041,9465;6632450,984;;;;101
+857;272; KGS Don-Bosco-Schule;Quettinger Str. 90;0;Leverkusen;51381;783041,9465;6632450,984;;;;101
+858;273; GHS Neukronenberger Str.;Neukronenberger Str. 81;0;Leverkusen;51381;782462,3163;6633187,566;;;;101
+859;274; GGS Herderstr.;Herderstr. 10;0;Leverkusen;51381;782077,8062;6632443,345;;;;101
+860;281; GHS Neukronenberger Str.;Neukronenberger Str. 81;0;Leverkusen;51381;782462,3163;6633187,566;;;;101
+861;282; GGS Herderstr.;Herderstr. 10;0;Leverkusen;51381;782077,8062;6632443,345;;;;101
+862;283; Haus der Jugend;Kolberger Str. 95;0;Leverkusen;51379;781203,5537;6632855,694;;;;101
+863;284; GGS Herderstr.;Herderstr. 10;0;Leverkusen;51381;782077,8062;6632443,345;;;;101
+864;285; Verwaltungsgebäude Fixheide;Borsigstr. 15;0;Leverkusen;51381;781065,5984;6630801,652;;;;101
+865;291; Evgl. Kindertagesstätte;Pastor-Scheibler-Str. 1;0;Leverkusen;51381;782851,046;6634983,418;;;;101
+866;292; GGS Bergisch Neukirchen;Wuppertalstr. 10;0;Leverkusen;51381;783123,7888;6635620,346;;;;101
+867;293; Begegnungsstätte f. Alt u. Jung (fr. Sen;Burscheider Str. 178;0;Leverkusen;51381;783691,8045;6635675,696;;;;101
+868;294; Städt. Tageseinrichtung für Kinder;Engelbertstr. 10;0;Leverkusen;51381;785971,5512;6637711,794;;;;101
+869;295; Städt. Tageseinrichtung für Kinder;Engelbertstr. 10;0;Leverkusen;51381;785971,5512;6637711,794;;;;101
+870;311; GGS Waldschule;Carl-Maria-von-Weber-Platz 3;0;Leverkusen;51375;786138,1169;6625182,79;;;;101
+871;312; GGS Waldschule;Carl-Maria-von-Weber-Platz 3;0;Leverkusen;51375;786138,1169;6625182,79;;;;101
+872;313; KGS Thomas-Morus-Schule - Nebengebäude;Johannes-Dott-Str. 1;0;Leverkusen;51375;784041,1164;6626506,649;;;;101
+873;314; KGS Thomas-Morus-Schule - Nebengebäude;Johannes-Dott-Str. 1;0;Leverkusen;51375;784041,1164;6626506,649;;;;101
+874;321; Kath. Pfarrheim St. Thomas Morus;Alter Grenzweg 19;0;Leverkusen;51375;783081,1625;6626347,429;;;;101
+875;322; Kath. Pfarrheim St. Thomas Morus;Alter Grenzweg 19;0;Leverkusen;51375;783081,1625;6626347,429;;;;101
+876;323; Städt. Tageseinrichtung für Kinder;Am Telegraf 8;0;Leverkusen;51375;783810,715;6625770,971;;;;101
+877;324; Städt. Tageseinrichtung für Kinder;Am Telegraf 8;0;Leverkusen;51375;783810,715;6625770,971;;;;101
+878;331; Gesamtschule Schlebusch;Ophovener Str. 4;0;Leverkusen;51375;785136,6077;6628722,857;;;;101
+879;332; Gesamtschule Schlebusch;Ophovener Str. 4;0;Leverkusen;51375;785136,6077;6628722,857;;;;101
+880;333; Gesamtschule Schlebusch;Ophovener Str. 4;0;Leverkusen;51375;785136,6077;6628722,857;;;;101
+881;334; KGS Gezelin-Schule;Bergische Landstr. 101;0;Leverkusen;51375;785198,2158;6627954,615;;;;101
+882;341; Altenzentrum St.Elisabeth;An St. Andreas 6;0;Leverkusen;51375;785054,096;6627367,727;;;;101
+883;342; Städt. Tageseinrichtung für Kinder;Max-Beckmann-Str. 66;0;Leverkusen;51375;786955,6057;6628405,459;;;;101
+884;343; Städt. Tageseinrichtung für Kinder;Max-Beckmann-Str. 66;0;Leverkusen;51375;786955,6057;6628405,459;;;;101
+885;344; Haus Fabrizius;Neuenhausgasse 55;0;Leverkusen;51375;788086,4838;6627659,81;;;;101
+886;351; Montanus-Realschule ;Steinbücheler Str. 50;0;Leverkusen;51377;786102,4293;6629860,403;;;;101
+887;352; Städt. Tageseinrichtung für Kinder II;Theodor-Heuss-Ring 132;0;Leverkusen;51377;785642,6172;6629838,279;;;;101
+888;353; Städt. Tageseinrichtung für Kinder I;Theodor-Heuss-Ring 62;0;Leverkusen;51377;785529,1701;6629560,978;;;;101
+889;354; Montanus-Realschule ;Steinbücheler Str. 50;0;Leverkusen;51377;786102,4293;6629860,403;;;;101
+890;355; GGS und Comeniusschule;Heinrich-Lübke-Str. 140;0;Leverkusen;51377;785795,8358;6630193,947;;;;101
+891;356; Kath. Pfarrgemeinde St. Franziskus;Steinbücheler Str. 107;0;Leverkusen;51377;786453,4424;6630701,007;;;;101
+892;361; GGS Astrid-Lindgren-Schule;Brandenburger Str. 26;0;Leverkusen;51377;787515,0604;6629640,928;;;;101
+893;362; Jugendtreff Derr-Siedlung;Albert-Schweitzer-Str. 9;0;Leverkusen;51377;787322,6061;6631706,696;;;;101
+894;363; KGS In der Wasserkuhl;In der Wasserkuhl 3;0;Leverkusen;51377;788957,5618;6630649,781;;;;101
+895;364; GGS Astrid-Lindgren-Schule;Brandenburger Str. 26;0;Leverkusen;51377;787515,0604;6629640,928;;;;101
+896;365; GGS Astrid-Lindgren-Schule;Brandenburger Str. 26;0;Leverkusen;51377;787515,0604;6629640,928;;;;101
+897;366; KGS In der Wasserkuhl;In der Wasserkuhl 3;0;Leverkusen;51377;788957,5618;6630649,781;;;;101
+898;111; Glashaus am Neulandpark;Adolfsstr. 103;0;Leverkusen;51373;776587,2677;6627750,113;;;;101
+899;371; GGS Im Kirchfeld;Im Kirchfeld 15;0;Leverkusen;51381;785587,6846;6632528,14;;;;101
+900;372; Jugend- und Bürgerhaus;Hamberger Str. 12;0;Leverkusen;51381;785556,0877;6633770,557;;;;101
+901;373; Jugend- und Bürgerhaus;Hamberger Str. 12;0;Leverkusen;51381;785556,0877;6633770,557;;;;101
+902;381; Werner-Heisenberg-Gymnasium;Werner-Heisenberg-Str. 1;0;Leverkusen;51381;784011,265;6633028,855;;;;101
+903;382; GGS Im Kirchfeld;Im Kirchfeld 15;0;Leverkusen;51381;785587,6846;6632528,14;;;;101
+904;383; GGS Im Kirchfeld;Im Kirchfeld 15;0;Leverkusen;51381;785587,6846;6632528,14;;;;101
+905;384; GGS Im Kirchfeld;Im Kirchfeld 15;0;Leverkusen;51381;785587,6846;6632528,14;;;;101
+906;391; FöS Hugo-Kükelhaus-Schule;Elisabeth-von-Thadden-Str. 16;0;Leverkusen;51377;782221,1642;6629354,606;;;;101
+907;392; GGS Erich-Klausener-Schule;Brüder-Bonhoeffer-Str. 1;0;Leverkusen;51377;782421,4306;6628801,549;;;;101
+908;393; GGS Morsbroicher Str.;Morsbroicher Str. 14;0;Leverkusen;51375;784436,9544;6627386,015;;;;101
+909;394; GGS Morsbroicher Str.;Morsbroicher Str. 14;0;Leverkusen;51375;784436,9544;6627386,015;;;;101
