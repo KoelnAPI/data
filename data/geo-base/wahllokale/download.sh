@@ -16,5 +16,5 @@ USER_AGENT="datahub-cgn/0.1"
 echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
 rm -rf ./_source/*
 cd ./_source/
-wget -U $USER_AGENT -O $FILENAME $SOURCE_URL
+wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..

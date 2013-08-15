@@ -16,8 +16,8 @@ echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
 rm -rf _source/$NEW_FOLDER
 mkdir -p _source/$NEW_FOLDER
 cd _source/$NEW_FOLDER
-wget -U $USER_AGENT -O $FILENAME $SOURCE_URL
-unzip $FILENAME
+wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
+unzip -qq $FILENAME
 rm $FILENAME
 cd ..
 rm -rf $FINAL_FOLDER

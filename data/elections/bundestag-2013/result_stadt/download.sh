@@ -17,5 +17,5 @@ echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
 mkdir _source
 rm -rf ./_source/*
 cd ./_source/
-wget -U $USER_AGENT -O $FILENAME $SOURCE_URL
+wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
