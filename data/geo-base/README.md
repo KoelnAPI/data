@@ -30,6 +30,7 @@ Source Links:
 * [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
 * [Stimmbezirke](http://www.offenedaten-koeln.de/offene-daten/?did=48)
 * [Bundestagswahlkreise](http://www.offenedaten-koeln.de/offene-daten/?did=47)
+* [Wahllokale](http://www.offenedaten-koeln.de/offene-daten/?did=74)
 
 All data in this folder is licensed under CC-BY license by the Cologne city administration.
 
@@ -53,5 +54,6 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 * stimmbezirke: Election districts (smallest units) as polygons
 * umweltzone: Environmental (air) protection zone boundaries as polygons
 * wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013 as polygons
+* wahllokale: Voting locations as CSV data.
 
 Folder named "_source" contains original, unmodified data as downloaded from the source site
