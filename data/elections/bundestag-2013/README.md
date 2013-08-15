@@ -23,19 +23,19 @@ Election results aggregated on the level of voting districts (Stimmbezirk, Wahlb
 
 Original Source: [Bundestagswahl6-Wahlbezirk](http://www.offenedaten-koeln.de/offene-daten/?did=37)
 
-### result_stadtteil
-
-Election results aggregated on the level of city sub-districts (Stadtteil).
-
-Original Source: [Bundestagswahl11-Stadtteil](http://www.offenedaten-koeln.de/offene-daten/?did=34)
-
 ### result_wahlkreis
 
 Election results aggregated on the level of voting areas (Wahlkreis).
 
 Original Source: [Bundestagswahl2-Wahlkreis](http://www.offenedaten-koeln.de/offene-daten/?did=35)
 
-### result_wahlbezirk
+### result_stadtteil
+
+Election results aggregated on the level of city sub-districts (Stadtteil).
+
+Original Source: [Bundestagswahl11-Stadtteil](http://www.offenedaten-koeln.de/offene-daten/?did=34)
+
+### result_stadtbezirk
 
 Election results aggregated on the level of city districts (Stadtbezirk).
 
