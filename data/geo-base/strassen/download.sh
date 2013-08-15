@@ -23,3 +23,6 @@ cd ..
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
+
+# workaround for bogus ZIP within ZIP
+rm "_source/Strasse/Shape Strasse/Shape Strasse.zip"
