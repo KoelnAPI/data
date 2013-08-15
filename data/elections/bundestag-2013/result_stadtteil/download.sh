@@ -14,7 +14,7 @@ USER_AGENT="datahub-cgn/0.1"
 
 # single file download
 echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
-mkdir _source
+test -d _source || mkdir _source
 rm -rf ./_source/*
 cd ./_source/
 wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
