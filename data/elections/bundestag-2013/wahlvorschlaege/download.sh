@@ -19,7 +19,3 @@ rm -rf ./_source/*
 cd ./_source/
 wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
-
-# as long as the source is Win-1251, we convert it here
-echo "Creating UTF-8 version"
-iconv -f WINDOWS-1252 -t UTF-8 ./_source/wahlvorschlaege.csv > ./wahlvorschlaege.csv

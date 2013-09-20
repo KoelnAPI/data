@@ -47,3 +47,9 @@ Election results aggregated on the level of the entire city of Cologne.
 
 Original Source: [Bundestagswahl3-Gesamt-Kreisfreie Stadt](http://www.offenedaten-koeln.de/offene-daten/?did=36)
 
+### wahlvorschlaege
+
+Approved candidate list
+
+Original Source: [Bundestagswahl3-Gesamt-Kreisfreie Stadt](http://www.offenedaten-koeln.de/offene-daten/?did=86)
+
