@@ -1,39 +1,39 @@
-stimmzettel_id,name,partei_kurz,partei,wahlkreis_id,wahlkreis_name
-1,Karsten Möring,CDU,Christlich Demokratische Union Deutschlands,93,Koeln_I
-2,Martin Dörmann,SPD,Sozialdemokratische Partei Deutschlands,93,Koeln_I
+ï»¿stimmzettel_id,name,partei_kurz,partei,wahlkreis_id,wahlkreis_name
+1,Karsten MÃ¶ring,CDU,Christlich Demokratische Union Deutschlands,93,Koeln_I
+2,Martin DÃ¶rmann,SPD,Sozialdemokratische Partei Deutschlands,93,Koeln_I
 3,Stefanie Ruffen,FDP,Freie Demokratische Partei,93,Koeln_I
-4,Berivan Aymaz,GRÜNE,BÜNDNIS 90/DIE GRÜNEN,93,Koeln_I
+4,Berivan Aymaz,GRÃœNE,BÃœNDNIS 90/DIE GRÃœNEN,93,Koeln_I
 5,Heinz Peter Karl Fischer,DIE LINKE,DIE LINKE,93,Koeln_I
-6,Gerald Günther Teybig,PIRATEN,Piratenpartei Deutschland,93,Koeln_I
-7,Melanie Händelkes,NPD,Nationaldemokratische Partei Deutschlands,93,Koeln_I
-8,Tamas Antal Bech,BüSo,Bürgerrechtsbewegung Solidarität,93,Koeln_I
-9,Hendrik Rottmann,AfD,Alternative für Deutschland,93,Koeln_I
-10,Christine-Maria Hudyma,FREIE WÄHLER,FREIE WÄHLER,93,Koeln_I
+6,Gerald GÃ¼nther Teybig,PIRATEN,Piratenpartei Deutschland,93,Koeln_I
+7,Melanie HÃ¤ndelkes,NPD,Nationaldemokratische Partei Deutschlands,93,Koeln_I
+8,Tamas Antal Bech,BÃ¼So,BÃ¼rgerrechtsbewegung SolidaritÃ¤t,93,Koeln_I
+9,Hendrik Rottmann,AfD,Alternative fÃ¼r Deutschland,93,Koeln_I
+10,Christine-Maria Hudyma,FREIE WÃ„HLER,FREIE WÃ„HLER,93,Koeln_I
 1,Professor Dr. Heribert Hirte,CDU,Christlich Demokratische Union Deutschlands,94,Koeln_II
 2,Elfi Scho-Antwerpes,SPD,Sozialdemokratische Partei Deutschlands,94,Koeln_II
 3,Hans Hermann Stein,FDP,Freie Demokratische Partei,94,Koeln_II
-4,Volker Beck,GRÜNE,BÜNDNIS 90/DIE GRÜNEN,94,Koeln_II
+4,Volker Beck,GRÃœNE,BÃœNDNIS 90/DIE GRÃœNEN,94,Koeln_II
 5,Matthias W. Birkwald,DIE LINKE,DIE LINKE,94,Koeln_II
-6,Andreas Gärtner,PIRATEN,Piratenpartei Deutschland,94,Koeln_II
-7,Thorsten Peter März,NPD,Nationaldemokratische Partei Deutschlands,94,Koeln_II
-8,Johannes David Themba Faku,BüSo,Bürgerrechtsbewegung Solidarität,94,Koeln_II
-9,Stephan Boyens,AfD,Alternative für Deutschland,94,Koeln_II
-10,Joachim Orth,FREIE WÄHLER,FREIE WÄHLER,94,Koeln_II
+6,Andreas GÃ¤rtner,PIRATEN,Piratenpartei Deutschland,94,Koeln_II
+7,Thorsten Peter MÃ¤rz,NPD,Nationaldemokratische Partei Deutschlands,94,Koeln_II
+8,Johannes David Themba Faku,BÃ¼So,BÃ¼rgerrechtsbewegung SolidaritÃ¤t,94,Koeln_II
+9,Stephan Boyens,AfD,Alternative fÃ¼r Deutschland,94,Koeln_II
+10,Joachim Orth,FREIE WÃ„HLER,FREIE WÃ„HLER,94,Koeln_II
 1,Gisela Manderla,CDU,Christlich Demokratische Union Deutschlands,95,Koeln_III
-2,Dr. Rolf Mützenich,SPD,Sozialdemokratische Partei Deutschlands,95,Koeln_III
-3,Volker Görzel,FDP,Freie Demokratische Partei,95,Koeln_III
-4,Katharina Dröge,GRÜNE,BÜNDNIS 90/DIE GRÜNEN,95,Koeln_III
+2,Dr. Rolf MÃ¼tzenich,SPD,Sozialdemokratische Partei Deutschlands,95,Koeln_III
+3,Volker GÃ¶rzel,FDP,Freie Demokratische Partei,95,Koeln_III
+4,Katharina DrÃ¶ge,GRÃœNE,BÃœNDNIS 90/DIE GRÃœNEN,95,Koeln_III
 5,Michael Weisenstein,DIE LINKE,DIE LINKE,95,Koeln_III
 6,Thomas Hegenbarth,PIRATEN,Piratenpartei Deutschland,95,Koeln_III
 7,Tibor Herzog,NPD,Nationaldemokratische Partei Deutschlands,95,Koeln_III
-8,Stephan Hochstein,BüSo,Bürgerrechtsbewegung Solidarität,95,Koeln_III
-9,Thomas Heilig,FREIE WÄHLER,FREIE WÄHLER,95,Koeln_III
+8,Stephan Hochstein,BÃ¼So,BÃ¼rgerrechtsbewegung SolidaritÃ¤t,95,Koeln_III
+9,Thomas Heilig,FREIE WÃ„HLER,FREIE WÃ„HLER,95,Koeln_III
 1,Helmut Fedor Nowak,CDU,Christlich Demokratische Union Deutschlands,101,Koeln_IV
 2,Professor Dr. Karl Wilhelm Lauterbach,SPD,Sozialdemokratische Partei Deutschlands,101,Koeln_IV
 3,Dr. Guido Fischer,FDP,Freie Demokratische Partei,101,Koeln_IV
-4,Rainer Blum,GRÜNE,BÜNDNIS 90/DIE GRÜNEN,101,Koeln_IV
+4,Rainer Blum,GRÃœNE,BÃœNDNIS 90/DIE GRÃœNEN,101,Koeln_IV
 5,Hamide Akbayir,DIE LINKE,DIE LINKE,101,Koeln_IV
 6,Bernhard Blankenheim,NPD,Nationaldemokratische Partei Deutschlands,101,Koeln_IV
 7,Dr. Ernst Albert Herbert,MLPD,Marxistisch-Leninistische Partei Deutschlands,101,Koeln_IV
-8,Bettina Bernhard,FREIE WÄHLER,FREIE WÄHLER,101,Koeln_IV
-9,Torsten Arnold Tofahrn,Die PARTEI,"Partei für Arbeit, Rechtsstaat, Tierschutz, Elitenförderung und basisdemokratische Initiative",101,Koeln_IV
+8,Bettina Bernhard,FREIE WÃ„HLER,FREIE WÃ„HLER,101,Koeln_IV
+9,Torsten Arnold Tofahrn,Die PARTEI,"Partei fÃ¼r Arbeit, Rechtsstaat, Tierschutz, ElitenfÃ¶rderung und basisdemokratische Initiative",101,Koeln_IV
