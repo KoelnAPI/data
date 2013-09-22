@@ -1,1 +1,1 @@
-curl http://wahlen.stadt-koeln.de/Bundestagswahl2.csv > _source/result_wahlkreis.csv
+curl -s http://wahlen.stadt-koeln.de/Bundestagswahl2.csv > _source/result_wahlkreis.csv
