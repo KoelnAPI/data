@@ -3,7 +3,7 @@
 
 MYDIR=`pwd`
 
-for f in `find . -name "download_live*"`:
+for f in `find . -iname "download_live*"`:
 do
 	cd `dirname $f`
 	sh `basename $f`
