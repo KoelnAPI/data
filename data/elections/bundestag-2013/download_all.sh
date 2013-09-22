@@ -3,9 +3,9 @@
 
 MYDIR=`pwd`
 
-for f in `find . -name "download.sh"`:
+for f in `find . -name "download_live*"`:
 do
 	cd `dirname $f`
-	sh download.sh
+	sh `basename $f`
 	cd $MYDIR
 done
