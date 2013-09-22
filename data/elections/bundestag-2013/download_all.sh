@@ -6,6 +6,6 @@ MYDIR=`pwd`
 for f in `find . -iname "download_live*"`:
 do
 	cd `dirname $f`
-	sh `basename $f`
+	sh ./`basename $f`
 	cd $MYDIR
 done
