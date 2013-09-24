@@ -7,6 +7,7 @@ Basic geodata for Cologne, e.g. city districts. In addition to the original offe
 this folder contains GeoJSON and KML versions in WGS84 coordinates with unmodified level
 of detail.
 
+Folder named "_source" contains original, unmodified data as downloaded from the source site
 
 ## Beschreibung
 
@@ -14,25 +15,86 @@ Geografische Basisdaten wie z.B. Stadtteile und Stadtbezirke. Zusätzlich zu den
 werden hier GeoJSON und KML Exporte der Grenzen angeboten. Das Detail-Level ist gegenüber
 den Originaldaten unverändert.
 
+Die Unterordner mit dem Namen "_source" enthalten jeweils die unveränderten Originaldaten.
+
 
 ## Source / Attribution / License
 
 All data courtesy of Stadtverwaltung Köln.
 
-Source Links:
-
-* [Stadtbezirke/City districts](http://www.offenedaten-koeln.de/offene-daten/?did=14)
-* [Stadtteile](http://www.offenedaten-koeln.de/offene-daten/?did=15)
-* [Stadtviertel](http://www.offenedaten-koeln.de/offene-daten/?did=58)
-* [Straßen](http://www.offenedaten-koeln.de/offene-daten/?did=63)
-* [Straßenabschnitte](http://www.offenedaten-koeln.de/offene-daten/?did=64)
-* [Straßenknoten](http://www.offenedaten-koeln.de/offene-daten/?did=65)
-* [Umweltzone](http://www.offenedaten-koeln.de/offene-daten/?did=31)
-* [Stimmbezirke](http://www.offenedaten-koeln.de/offene-daten/?did=48)
-* [Bundestagswahlkreise](http://www.offenedaten-koeln.de/offene-daten/?did=47)
-* [Wahllokale](http://www.offenedaten-koeln.de/offene-daten/?did=74)
-
 All data in this folder is licensed under CC-BY license by the Cologne city administration.
+
+
+## Datensätze / data sets
+
+### Stadtbezirke / city districts
+
+Nine administrative districts of the city of Cologne.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=14))
+
+### Stadtteile / sub districts
+
+86 sub districts of the city of Cologne
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=15))
+
+### Stadtviertel / quarters
+
+Some houring areas in Cologne are named quarters.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=58))
+
+### Straßen / streets
+
+All streets as line data including meta data. Each street is included
+as the minimal number of lines. For example, the "Vogelsanger Straße"
+is one line with length > 5000 meters.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=63))
+
+### Straßenabschnitte / street segments
+
+All streets as line data, without intersections. For example, the
+street "Vogelsanger Straße" is split into 61 lines.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=64))
+
+### Straßenknoten / street intersections
+
+Every location where streets intersect, as point data. Including
+meta data like, for example a attribute "TYP" containing values
+like "Sackgassenendpunkt", "Einmündung" or "Kreuzung".
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=65))
+
+### Umweltzone / Low emission zone
+
+Boundaries of the [low emission zones](https://de.wikipedia.org/wiki/Umweltzone), 
+which implies limited traffic access, as polygon data.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=31))
+
+### Stimmbezirke / voting districts (lowest level)
+
+Boundaries of the voting districts, valid for all elections, as
+polygon data.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=48))
+
+### Bundestagswahlkreise / federal election districts
+
+Boundaries of federal election districts.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=47))
+
+### Wahllokale / Voting localities
+
+Locations of the voting offices (for all elections) as point data,
+including meta data, as CSV.
+
+([Source](http://www.offenedaten-koeln.de/offene-daten/?did=74))
+
 
 ## Open tasks
 
@@ -42,18 +104,3 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 * Check automatically for updates on source site
 * Add [Address data](http://www.offenedaten-koeln.de/offene-daten/?did=60) in a meaningful format (point data with GeoJSON weighing more than 80 MB and KML above 150 MB)
 
-
-## Detailed folder contents
-
-* stadtbezirke: Highest level city districts as polygons
-* stadtteile: Second level city districts as polygons
-* stadtviertel: Neighbourhoods as polygons
-* strassen: Streets as paths (lines)
-* strassenabschnitte: Street segments as paths (lines)
-* strassenknoten: Street nodes, e.g. crossings (point data)
-* stimmbezirke: Election districts (smallest units) as polygons
-* umweltzone: Environmental (air) protection zone boundaries as polygons
-* wahlkreise_bundestag: Election districts (largest units) for the Bundestagswahl 2013 as polygons
-* wahllokale: Voting locations as CSV data.
-
-Folder named "_source" contains original, unmodified data as downloaded from the source site
