@@ -23,3 +23,11 @@ cd ..
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
+
+# Workaround from September 26, 2013: rename files according to old version
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.dbf _source/Umweltzone/Umweltzone.dbf
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.prj _source/Umweltzone/Umweltzone.prj
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.sbn _source/Umweltzone/Umweltzone.sbn
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.sbx _source/Umweltzone/Umweltzone.sbx
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.shp _source/Umweltzone/Umweltzone.shp
+mv _source/Umweltzone/Umweltzone_2012_OSM_Sep2013.shx _source/Umweltzone/Umweltzone.shx
