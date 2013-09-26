@@ -30,6 +30,10 @@ for additional info.
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/transport)
 
+#### elections - Election Data
+
+[Browse](https://github.com/marians/datahub-cgn/tree/master/data/elections)
+
 ### tools
 
 This is the place for tools and utilities, such as the Shapefile-to-GeoJSON converter
