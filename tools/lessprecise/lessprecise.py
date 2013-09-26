@@ -4,6 +4,11 @@
 Tool to parse a (Geo)JSON file
 and reduce the precision of the floating point
 coordinate values in order to save some bytes.
+
+More information:
+
+https://github.com/marians/datahub-cgn/tree/master/tools/lessprecise
+
 """
 
 import sys
