@@ -21,4 +21,4 @@ Die Spalten der CSV-Dateien haben die folgende Bedeutung:
 * auslastung: Zahlenwert für die Auslastung, wie von der API ausgegeben
 * valid: Zahl 1 oder 0. Hier wird in einigen Fällen nachträglich eine 0 vergeben, wenn die Erhebung nachweislich gestört war.
 
-Details zu den Straßenabschnitten einschließlich Geodaten sind direkt über die [API](http://www.stadt-koeln.de/externe-dienste/open-data/traffic.php) abrufbar.
+Details zu den Straßenabschnitten können der Datei street_segments.geojson entnommen werden.
