@@ -1,4 +1,4 @@
-Geographical Base Data / Geografische Basisdaten
+Open Transport data for Cologne
 ================================================
 
 ## Description
