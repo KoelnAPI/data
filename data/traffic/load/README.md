@@ -12,7 +12,7 @@ Daten zur Verkehrsauslastung auf ausgewählten Straßen(-abschnitten) im Kölner
 
 Es handelt sich um Aufzeichnungen von Daten, die von der oben genannten API der Stadt Köln ausgegeben werden. Die Aufzeichnung erfolgt regelmäßig im Abstand von 5 Minuten. Verantwortlich für die Aufzeichnung und die nachträgliche Prüfung ist Marian Steinbach.
 
-Im Ordner _source wird je Monat ein CSV-Download zur Verfügung gestellt.
+Je Monat wird eine CSV-Datei (gzip-komprimiert) zur Verfügung gestellt.
 
 Die Spalten der CSV-Dateien haben die folgende Bedeutung:
 
