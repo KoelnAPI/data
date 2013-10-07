@@ -15,6 +15,11 @@ deren Anwendung zu erleichtern. Durch den Gebrauch von GitHub soll es zudem
 einfacher sein, Änderungen und Aktualisierungen an den Daten nachvollziehen
 zu können.
 
+## Community
+
+For discussion of the content and use of this repository, please reach out
+to the [KölnAPI group mailing list](https://groups.google.com/forum/#!forum/koelnapi).
+
 ## Content / Inhalt
 
 ### data
