@@ -27,17 +27,33 @@ to the [KölnAPI group mailing list](https://groups.google.com/forum/#!forum/koe
 This folder contains data, raw and converted. See README files inside the sectsion
 for additional info.
 
+#### budget - Public budget/finance data
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/budget)
+
+#### elections - Election results and candidates
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/elections)
+
+#### employment - Statistical data on (un-)employment
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/employment)
+
 #### geo-base - Geographical base data
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/geo-base)
 
+#### landuse - Statistical data on land use
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/landuse)
+
+#### traffic - Traffic load data
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/traffic)
+
 #### transport - Open Transport Data
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/transport)
-
-#### elections - Election Data
-
-[Browse](https://github.com/marians/datahub-cgn/tree/master/data/elections)
 
 ### tools
 
