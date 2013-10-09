@@ -13,7 +13,7 @@ NEW_FOLDER=${NAME}_new
 USER_AGENT="datahub-cgn/0.1"
 
 # single file download
-echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
+echo "Downloading $NAME to $FILENAME"
 test -d _source || mkdir _source
 rm -rf ./_source/*
 cd ./_source/

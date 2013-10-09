@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=36"
+SOURCE_URL="http://wahlen.stadt-koeln.de/Bundestagswahl3.csv"
 NAME="result_stadt"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
@@ -13,9 +13,11 @@ NEW_FOLDER=${NAME}_new
 USER_AGENT="datahub-cgn/0.1"
 
 # single file download
-echo "Downloading $NAME - $FILENAME to $NEW_FOLDER"
+echo "Downloading $NAME to $FILENAME"
 test -d _source || mkdir _source
 rm -rf ./_source/*
-cd ./_source/
-wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
-cd ..
+curl -s $SOURCE_URL > _source/result_stadt.csv
+
+# remove dots from within figures, replace seperator
+echo "Creating improved version in $FILENAME"
+cat _source/$FILENAME|in2csv -f csv -d ";"  > $FILENAME
