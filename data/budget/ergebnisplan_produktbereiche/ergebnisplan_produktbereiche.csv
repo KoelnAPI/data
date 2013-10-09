@@ -1,0 +1,505 @@
+﻿Produktbereich;PB_BEZ;Teilplanzeile;Ergebnis 2010;Plan 2011;Plan 2012;Plan 2013;Plan 2014;Plan 2015
+01;Innere Verwaltung;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+01;Innere Verwaltung;02 - Zuwendungen und allg. Umlagen;14132602;204500;255818;155818;155818;155818
+01;Innere Verwaltung;03 - sonstige Transfererträge;3236;0;0;0;0;0
+01;Innere Verwaltung;04 - öffentl.rechtl. Leistungsentgelte;3964170;3737500;1917760;1917760;1917760;1917760
+01;Innere Verwaltung;05 - privatrechtl. Leistungsentgelte;34508728;29777709;30862114;30661114;30661114;30661114
+01;Innere Verwaltung;06 - Kostenerstattungen und Umlagen;18205686;14688099;15555566;15692433;20783694;20876717
+01;Innere Verwaltung;07 - sonstige ordentliche Erträge;30383414;17983969;22408753;22560353;22785353;23010353
+01;Innere Verwaltung;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+01;Innere Verwaltung;09 - Bestandsveränderungen;0;0;0;0;0;0
+01;Innere Verwaltung;10 = ordentliche Erträge;101197836;66391777;71000011;70987477;76303739;76621762
+01;Innere Verwaltung;11 - Personalaufwendungen;136778788;128566773;140745296;155155668;157694452;165871347
+01;Innere Verwaltung;12 - Versorgungsaufwendungen;51828305;55262800;53703800;55919800;57830600;59781800
+01;Innere Verwaltung;13 - Aufwendungen für Sach- und Dienstleistungen;39385036;36918647;43521759;43453338;43436001;44091925
+01;Innere Verwaltung;14 - Bilanzielle Abschreibungen;11243711;5875534;6026138;5685021;5486056;5302516
+01;Innere Verwaltung;15 - Transferaufwendungen;11847117;1991175;3032285;1759285;1746285;1746285
+01;Innere Verwaltung;16 - sonstige ordentl. Aufwendungen;60763367;59653469;65228790;65858389;64313897;63872393
+01;Innere Verwaltung;17 = ordentliche Aufwendungen;311846323;288268398;312258068;327831500;330507291;340666265
+01;Innere Verwaltung;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-210648487;-221876621;-241258057;-256844023;-254203552;-264044503
+01;Innere Verwaltung;19 - Finanzerträge;45282536;45642050;45634650;45731100;45765070;45763405
+01;Innere Verwaltung;20 - Zinsen und sonst. Finanzaufwendungen;264098;28000;94000;94000;94000;94000
+01;Innere Verwaltung;21 = Finanzergebnis (19 und 20);45018438;45614050;45540650;45637100;45671070;45669405
+01;Innere Verwaltung;22 = ordentliches Jahresergebnis (18 und 21);-165630049;-176262571;-195717407;-211206923;-208532482;-218375098
+01;Innere Verwaltung;23 - außerordentliche Erträge;0;0;0;0;0;0
+01;Innere Verwaltung;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+01;Innere Verwaltung;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+01;Innere Verwaltung;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-165630049;-176262571;-195717407;-211206923;-208532482;-218375098
+01;Innere Verwaltung;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);-41271395;-39823064;-43615308;-45063370;-46132150;-46890074
+01;Innere Verwaltung;28 = Jahresergebnis;-124358655;-136439506;-152102099;-166143553;-162400332;-171485024
+02;Sicherheit und Ordnung;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+02;Sicherheit und Ordnung;02 - Zuwendungen und allg. Umlagen;1388165;1092300;1725300;1030300;1030300;1050300
+02;Sicherheit und Ordnung;03 - sonstige Transfererträge;0;4000;4000;4000;4000;4000
+02;Sicherheit und Ordnung;04 - öffentl.rechtl. Leistungsentgelte;65206487;68909602;71312724;71314878;71314878;71314878
+02;Sicherheit und Ordnung;05 - privatrechtl. Leistungsentgelte;3092022;3591532;3770766;3770766;3770766;3770766
+02;Sicherheit und Ordnung;06 - Kostenerstattungen und Umlagen;4808033;3490000;4537000;4587000;4587000;3787000
+02;Sicherheit und Ordnung;07 - sonstige ordentliche Erträge;32335676;31171913;33430757;33827412;33848753;33869837
+02;Sicherheit und Ordnung;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+02;Sicherheit und Ordnung;09 - Bestandsveränderungen;0;0;0;0;0;0
+02;Sicherheit und Ordnung;10 = ordentliche Erträge;106830383;108259347;114780548;114534357;114555697;113796781
+02;Sicherheit und Ordnung;11 - Personalaufwendungen;142605245;131294474;159841436;173306327;184678506;194370079
+02;Sicherheit und Ordnung;12 - Versorgungsaufwendungen;512;0;0;0;0;0
+02;Sicherheit und Ordnung;13 - Aufwendungen für Sach- und Dienstleistungen;22738404;26170954;29458259;26246830;26141830;25066830
+02;Sicherheit und Ordnung;14 - Bilanzielle Abschreibungen;6305912;6857709;8155086;8734273;8921442;9701194
+02;Sicherheit und Ordnung;15 - Transferaufwendungen;92068;1704508;1784409;1809440;1861906;1861906
+02;Sicherheit und Ordnung;16 - sonstige ordentl. Aufwendungen;21967319;21566867;25209117;24733491;24890557;24498957
+02;Sicherheit und Ordnung;17 = ordentliche Aufwendungen;193709461;187594512;224448307;234830362;246494242;255498967
+02;Sicherheit und Ordnung;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-86879078;-79335165;-109667759;-120296005;-131938545;-141702186
+02;Sicherheit und Ordnung;19 - Finanzerträge;0;0;0;0;0;0
+02;Sicherheit und Ordnung;20 - Zinsen und sonst. Finanzaufwendungen;0;20000;20000;20000;20000;20000
+02;Sicherheit und Ordnung;21 = Finanzergebnis (19 und 20);0;-20000;-20000;-20000;-20000;-20000
+02;Sicherheit und Ordnung;22 = ordentliches Jahresergebnis (18 und 21);-86879078;-79355165;-109687759;-120316005;-131958545;-141722186
+02;Sicherheit und Ordnung;23 - außerordentliche Erträge;0;0;0;0;0;0
+02;Sicherheit und Ordnung;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+02;Sicherheit und Ordnung;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+02;Sicherheit und Ordnung;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-86879078;-79355165;-109687759;-120316005;-131958545;-141722186
+02;Sicherheit und Ordnung;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);6884800;6925595;7038391;7003228;7003228;7003228
+02;Sicherheit und Ordnung;28 = Jahresergebnis;-93763878;-86280761;-116726150;-127319232;-138961772;-148725414
+03;Schulträgeraufgaben;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+03;Schulträgeraufgaben;02 - Zuwendungen und allg. Umlagen;88629030;47894169;60350509;64192663;63546329;63208999
+03;Schulträgeraufgaben;03 - sonstige Transfererträge;3012;100;100;100;100;100
+03;Schulträgeraufgaben;04 - öffentl.rechtl. Leistungsentgelte;8847763;9362200;10829828;11637380;11637380;11637380
+03;Schulträgeraufgaben;05 - privatrechtl. Leistungsentgelte;3518843;210100;1887700;1937700;1937700;1837700
+03;Schulträgeraufgaben;06 - Kostenerstattungen und Umlagen;97840;111200;111200;111200;111200;111200
+03;Schulträgeraufgaben;07 - sonstige ordentliche Erträge;7132644;9892132;9072032;9072032;9072032;9072032
+03;Schulträgeraufgaben;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+03;Schulträgeraufgaben;09 - Bestandsveränderungen;0;0;0;0;0;0
+03;Schulträgeraufgaben;10 = ordentliche Erträge;108229133;67469901;82251369;86951075;86304741;85867411
+03;Schulträgeraufgaben;11 - Personalaufwendungen;34449583;34790362;34920541;38418465;40199349;41705509
+03;Schulträgeraufgaben;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+03;Schulträgeraufgaben;13 - Aufwendungen für Sach- und Dienstleistungen;86749196;84654166;95821450;102376910;95536910;95828910
+03;Schulträgeraufgaben;14 - Bilanzielle Abschreibungen;11517157;10760917;11706163;12765156;13828578;15297470
+03;Schulträgeraufgaben;15 - Transferaufwendungen;529550;26200;30100;0;0;0
+03;Schulträgeraufgaben;16 - sonstige ordentl. Aufwendungen;178481882;172994033;208535880;215310480;216106880;223824780
+03;Schulträgeraufgaben;17 = ordentliche Aufwendungen;311727367;303225678;351014135;368871011;365671717;376656669
+03;Schulträgeraufgaben;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-203498234;-235755777;-268762766;-281919936;-279366976;-290789258
+03;Schulträgeraufgaben;19 - Finanzerträge;0;0;0;0;0;0
+03;Schulträgeraufgaben;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+03;Schulträgeraufgaben;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+03;Schulträgeraufgaben;22 = ordentliches Jahresergebnis (18 und 21);-203498234;-235755777;-268762766;-281919936;-279366976;-290789258
+03;Schulträgeraufgaben;23 - außerordentliche Erträge;0;0;0;0;0;0
+03;Schulträgeraufgaben;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+03;Schulträgeraufgaben;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+03;Schulträgeraufgaben;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-203498234;-235755777;-268762766;-281919936;-279366976;-290789258
+03;Schulträgeraufgaben;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);17540734;17557007;18363525;19531701;20386725;20993064
+03;Schulträgeraufgaben;28 = Jahresergebnis;-221038968;-253312784;-287126291;-301451638;-299753702;-311782323
+04;Kultur und Wissenschaft;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+04;Kultur und Wissenschaft;02 - Zuwendungen und allg. Umlagen;9626496;6936137;7867562;7686577;5853982;5767310
+04;Kultur und Wissenschaft;03 - sonstige Transfererträge;40461;13020;3220;3220;3220;3220
+04;Kultur und Wissenschaft;04 - öffentl.rechtl. Leistungsentgelte;3024385;2889369;3077881;3077881;3077881;3077881
+04;Kultur und Wissenschaft;05 - privatrechtl. Leistungsentgelte;13175171;12486365;13621307;13203239;13239939;13211239
+04;Kultur und Wissenschaft;06 - Kostenerstattungen und Umlagen;174194;138000;353100;318100;309700;309700
+04;Kultur und Wissenschaft;07 - sonstige ordentliche Erträge;778559;402000;445016;445516;445883;445483
+04;Kultur und Wissenschaft;08 - aktivierte Eigenleistungen;0;400000;300000;0;0;0
+04;Kultur und Wissenschaft;09 - Bestandsveränderungen;0;0;0;0;0;0
+04;Kultur und Wissenschaft;10 = ordentliche Erträge;26819266;23264891;25668086;24734533;22930604;22814833
+04;Kultur und Wissenschaft;11 - Personalaufwendungen;38860162;38451293;40604429;44810186;45987042;47566852
+04;Kultur und Wissenschaft;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+04;Kultur und Wissenschaft;13 - Aufwendungen für Sach- und Dienstleistungen;25079454;24471682;23722327;19294795;29514634;30479163
+04;Kultur und Wissenschaft;14 - Bilanzielle Abschreibungen;5786860;6614244;6881521;6933481;6886818;6941058
+04;Kultur und Wissenschaft;15 - Transferaufwendungen;91524358;80982614;91991577;89337747;84008065;91499443
+04;Kultur und Wissenschaft;16 - sonstige ordentl. Aufwendungen;32914612;16202957;16696097;16304418;18809202;18867264
+04;Kultur und Wissenschaft;17 = ordentliche Aufwendungen;194165445;166722791;179895951;176680627;185205760;195353779
+04;Kultur und Wissenschaft;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-167346179;-143457899;-154227865;-151946094;-162275156;-172538946
+04;Kultur und Wissenschaft;19 - Finanzerträge;0;0;0;0;0;0
+04;Kultur und Wissenschaft;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+04;Kultur und Wissenschaft;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+04;Kultur und Wissenschaft;22 = ordentliches Jahresergebnis (18 und 21);-167346179;-143457899;-154227865;-151946094;-162275156;-172538946
+04;Kultur und Wissenschaft;23 - außerordentliche Erträge;0;0;0;0;0;0
+04;Kultur und Wissenschaft;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+04;Kultur und Wissenschaft;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+04;Kultur und Wissenschaft;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-167346179;-143457899;-154227865;-151946094;-162275156;-172538946
+04;Kultur und Wissenschaft;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);3179589;2610760;3157875;3157875;3157875;3157875
+04;Kultur und Wissenschaft;28 = Jahresergebnis;-170525767;-146068659;-157385740;-155103969;-165433030;-175696821
+05;Soziale Hilfen;01 - Steuern und ähnliche Abgaben;8773153;13000000;13000000;13000000;13000000;13000000
+05;Soziale Hilfen;02 - Zuwendungen und allg. Umlagen;2770833;2471308;2187037;2131872;2131860;2131708
+05;Soziale Hilfen;03 - sonstige Transfererträge;16202801;10740232;12313068;12313068;12313068;12313068
+05;Soziale Hilfen;04 - öffentl.rechtl. Leistungsentgelte;47477;70000;70000;70000;70000;70000
+05;Soziale Hilfen;05 - privatrechtl. Leistungsentgelte;963687;1015681;999370;999370;999370;999370
+05;Soziale Hilfen;06 - Kostenerstattungen und Umlagen;151650204;153686500;201646519;229594119;266097819;269288319
+05;Soziale Hilfen;07 - sonstige ordentliche Erträge;8072058;346159;354155;353855;353855;353855
+05;Soziale Hilfen;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+05;Soziale Hilfen;09 - Bestandsveränderungen;0;0;0;0;0;0
+05;Soziale Hilfen;10 = ordentliche Erträge;188480214;181329880;230570149;258462284;294965972;298156320
+05;Soziale Hilfen;11 - Personalaufwendungen;70661737;70632413;71998074;77837176;82259150;86299768
+05;Soziale Hilfen;12 - Versorgungsaufwendungen;6998;0;0;0;0;0
+05;Soziale Hilfen;13 - Aufwendungen für Sach- und Dienstleistungen;16931797;17151726;20777528;19939920;19789920;19664920
+05;Soziale Hilfen;14 - Bilanzielle Abschreibungen;13811146;1393931;1302764;1201596;1198715;1195132
+05;Soziale Hilfen;15 - Transferaufwendungen;271821802;281281981;303884586;310560393;312742980;319611880
+05;Soziale Hilfen;16 - sonstige ordentl. Aufwendungen;319381879;323501456;326130085;326669434;326777868;326860868
+05;Soziale Hilfen;17 = ordentliche Aufwendungen;692615359;693961507;724093038;736208519;742768633;753632569
+05;Soziale Hilfen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-504135145;-512631627;-493522889;-477746236;-447802661;-455476249
+05;Soziale Hilfen;19 - Finanzerträge;315238;8004;8004;8004;8004;8004
+05;Soziale Hilfen;20 - Zinsen und sonst. Finanzaufwendungen;65318;0;0;0;0;0
+05;Soziale Hilfen;21 = Finanzergebnis (19 und 20);249919;8004;8004;8004;8004;8004
+05;Soziale Hilfen;22 = ordentliches Jahresergebnis (18 und 21);-503885225;-512623623;-493514885;-477738232;-447794657;-455468245
+05;Soziale Hilfen;23 - außerordentliche Erträge;0;0;0;0;0;0
+05;Soziale Hilfen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+05;Soziale Hilfen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+05;Soziale Hilfen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-503885225;-512623623;-493514885;-477738232;-447794657;-455468245
+05;Soziale Hilfen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);2375636;2688487;3091664;3080847;3080847;3080847
+05;Soziale Hilfen;28 = Jahresergebnis;-506260861;-515312110;-496606549;-480819079;-450875504;-458549092
+06;Kinder-, Jugend- und Familienhilfe;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;02 - Zuwendungen und allg. Umlagen;100466697;99972160;134562431;142853452;146398172;145422373
+06;Kinder-, Jugend- und Familienhilfe;03 - sonstige Transfererträge;15669558;14162772;15026236;16618265;17039707;18427324
+06;Kinder-, Jugend- und Familienhilfe;04 - öffentl.rechtl. Leistungsentgelte;47984764;54580400;50954729;54528851;55622677;55622677
+06;Kinder-, Jugend- und Familienhilfe;05 - privatrechtl. Leistungsentgelte;1321905;1118700;1150250;1150250;1150250;1150250
+06;Kinder-, Jugend- und Familienhilfe;06 - Kostenerstattungen und Umlagen;9354049;5863900;14774862;15221488;6974128;6974128
+06;Kinder-, Jugend- und Familienhilfe;07 - sonstige ordentliche Erträge;7296694;736460;4715647;4804766;4895667;4988386
+06;Kinder-, Jugend- und Familienhilfe;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;09 - Bestandsveränderungen;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;10 = ordentliche Erträge;182093668;176434392;221184155;235177072;232080601;232585138
+06;Kinder-, Jugend- und Familienhilfe;11 - Personalaufwendungen;180419609;195849411;200308209;228523596;236399372;243509968
+06;Kinder-, Jugend- und Familienhilfe;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;13 - Aufwendungen für Sach- und Dienstleistungen;17405111;13425854;17484542;16632129;16601607;16285023
+06;Kinder-, Jugend- und Familienhilfe;14 - Bilanzielle Abschreibungen;3971559;4257488;6939426;7151350;7220907;7300849
+06;Kinder-, Jugend- und Familienhilfe;15 - Transferaufwendungen;285501014;301618616;357418988;379563123;390890262;399952324
+06;Kinder-, Jugend- und Familienhilfe;16 - sonstige ordentl. Aufwendungen;39102548;36020595;41378309;41340976;40961713;41048396
+06;Kinder-, Jugend- und Familienhilfe;17 = ordentliche Aufwendungen;526399841;551171964;623529474;673211174;692073862;708096561
+06;Kinder-, Jugend- und Familienhilfe;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-344306174;-374737572;-402345319;-438034102;-459993261;-475511423
+06;Kinder-, Jugend- und Familienhilfe;19 - Finanzerträge;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;22 = ordentliches Jahresergebnis (18 und 21);-344306174;-374737572;-402345319;-438034102;-459993261;-475511423
+06;Kinder-, Jugend- und Familienhilfe;23 - außerordentliche Erträge;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+06;Kinder-, Jugend- und Familienhilfe;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-344306174;-374737572;-402345319;-438034102;-459993261;-475511423
+06;Kinder-, Jugend- und Familienhilfe;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);6062331;5599112;6478773;6771656;6985412;7136997
+06;Kinder-, Jugend- und Familienhilfe;28 = Jahresergebnis;-350368505;-380336684;-408824092;-444805759;-466978673;-482648420
+07;Gesundheitsdienste;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+07;Gesundheitsdienste;02 - Zuwendungen und allg. Umlagen;1612935;1763443;1710443;1701693;1675443;1675443
+07;Gesundheitsdienste;03 - sonstige Transfererträge;233668;255600;255600;255600;255600;255600
+07;Gesundheitsdienste;04 - öffentl.rechtl. Leistungsentgelte;1132345;2845435;2332935;2332935;2332935;2332935
+07;Gesundheitsdienste;05 - privatrechtl. Leistungsentgelte;11936;164600;179000;179000;179000;179000
+07;Gesundheitsdienste;06 - Kostenerstattungen und Umlagen;7362;0;70000;70000;70000;70000
+07;Gesundheitsdienste;07 - sonstige ordentliche Erträge;360973;24200;30950;44450;44450;44450
+07;Gesundheitsdienste;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+07;Gesundheitsdienste;09 - Bestandsveränderungen;0;0;0;0;0;0
+07;Gesundheitsdienste;10 = ordentliche Erträge;3359219;5053278;4578928;4583678;4557428;4557428
+07;Gesundheitsdienste;11 - Personalaufwendungen;14095950;14126892;14493463;15971638;16699374;17293947
+07;Gesundheitsdienste;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+07;Gesundheitsdienste;13 - Aufwendungen für Sach- und Dienstleistungen;819146;797169;881411;881411;881411;881411
+07;Gesundheitsdienste;14 - Bilanzielle Abschreibungen;96694;254621;285941;205761;205761;205761
+07;Gesundheitsdienste;15 - Transferaufwendungen;15664501;15969835;15837310;15562935;15536685;15536685
+07;Gesundheitsdienste;16 - sonstige ordentl. Aufwendungen;2568966;2864302;2827201;2812201;2812201;2812201
+07;Gesundheitsdienste;17 = ordentliche Aufwendungen;33245257;34012820;34325326;35433946;36135432;36730005
+07;Gesundheitsdienste;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-29886037;-28959542;-29746398;-30850268;-31578004;-32172577
+07;Gesundheitsdienste;19 - Finanzerträge;0;0;0;0;0;0
+07;Gesundheitsdienste;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+07;Gesundheitsdienste;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+07;Gesundheitsdienste;22 = ordentliches Jahresergebnis (18 und 21);-29886037;-28959542;-29746398;-30850268;-31578004;-32172577
+07;Gesundheitsdienste;23 - außerordentliche Erträge;0;0;0;0;0;0
+07;Gesundheitsdienste;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+07;Gesundheitsdienste;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+07;Gesundheitsdienste;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-29886037;-28959542;-29746398;-30850268;-31578004;-32172577
+07;Gesundheitsdienste;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);640878;350267;701490;701490;701490;701490
+07;Gesundheitsdienste;28 = Jahresergebnis;-30526915;-29309808;-30447887;-31551757;-32279493;-32874067
+08;Sportförderung;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+08;Sportförderung;02 - Zuwendungen und allg. Umlagen;1924551;861355;901355;901355;901355;861355
+08;Sportförderung;03 - sonstige Transfererträge;500;0;0;0;0;0
+08;Sportförderung;04 - öffentl.rechtl. Leistungsentgelte;246116;312000;312000;338159;338159;338159
+08;Sportförderung;05 - privatrechtl. Leistungsentgelte;994216;791160;785160;785160;785160;785160
+08;Sportförderung;06 - Kostenerstattungen und Umlagen;2202;70000;70000;70000;70000;70000
+08;Sportförderung;07 - sonstige ordentliche Erträge;515693;122200;122200;122200;122200;122200
+08;Sportförderung;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+08;Sportförderung;09 - Bestandsveränderungen;0;0;0;0;0;0
+08;Sportförderung;10 = ordentliche Erträge;3683278;2156715;2190715;2216874;2216874;2176874
+08;Sportförderung;11 - Personalaufwendungen;7503882;6743791;7055668;7782489;8141425;8435665
+08;Sportförderung;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+08;Sportförderung;13 - Aufwendungen für Sach- und Dienstleistungen;4273812;4746454;4700050;4690050;4690050;4690050
+08;Sportförderung;14 - Bilanzielle Abschreibungen;4843557;2878716;4822196;5183796;5545396;5906996
+08;Sportförderung;15 - Transferaufwendungen;7509488;9989484;10088790;11915351;9713052;10181527
+08;Sportförderung;16 - sonstige ordentl. Aufwendungen;2290303;1626620;1796114;1471114;1496114;1346114
+08;Sportförderung;17 = ordentliche Aufwendungen;26421042;25985065;28462818;31042801;29586037;30560353
+08;Sportförderung;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-22737764;-23828350;-26272103;-28825927;-27369163;-28383479
+08;Sportförderung;19 - Finanzerträge;0;0;0;0;0;0
+08;Sportförderung;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+08;Sportförderung;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+08;Sportförderung;22 = ordentliches Jahresergebnis (18 und 21);-22737764;-23828350;-26272103;-28825927;-27369163;-28383479
+08;Sportförderung;23 - außerordentliche Erträge;0;0;0;0;0;0
+08;Sportförderung;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+08;Sportförderung;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+08;Sportförderung;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-22737764;-23828350;-26272103;-28825927;-27369163;-28383479
+08;Sportförderung;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);281919;280106;292447;292447;292447;292447
+08;Sportförderung;28 = Jahresergebnis;-23019683;-24108455;-26564550;-29118373;-27661610;-28675925
+09;Räumliche Planung und Entwicklung, Geoinformationen;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;02 - Zuwendungen und allg. Umlagen;1478554;3747132;4614919;7385762;3556070;146300
+09;Räumliche Planung und Entwicklung, Geoinformationen;03 - sonstige Transfererträge;10000;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;04 - öffentl.rechtl. Leistungsentgelte;2230943;2978238;2980238;2980238;2980238;2980238
+09;Räumliche Planung und Entwicklung, Geoinformationen;05 - privatrechtl. Leistungsentgelte;157821;156348;156188;156188;156188;56188
+09;Räumliche Planung und Entwicklung, Geoinformationen;06 - Kostenerstattungen und Umlagen;105765;102000;102000;102000;102000;102000
+09;Räumliche Planung und Entwicklung, Geoinformationen;07 - sonstige ordentliche Erträge;938383;262061;261196;312826;302709;283294
+09;Räumliche Planung und Entwicklung, Geoinformationen;08 - aktivierte Eigenleistungen;109904;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;09 - Bestandsveränderungen;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;10 = ordentliche Erträge;5031371;7245779;8114540;10937014;7097205;3568020
+09;Räumliche Planung und Entwicklung, Geoinformationen;11 - Personalaufwendungen;21172461;21905885;23065181;25433364;26778116;27958607
+09;Räumliche Planung und Entwicklung, Geoinformationen;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;13 - Aufwendungen für Sach- und Dienstleistungen;1332577;6522773;7806894;5860561;4562621;2296521
+09;Räumliche Planung und Entwicklung, Geoinformationen;14 - Bilanzielle Abschreibungen;159526;304741;392946;502783;500968;503098
+09;Räumliche Planung und Entwicklung, Geoinformationen;15 - Transferaufwendungen;1175455;6334503;6483289;5925600;4568400;315500
+09;Räumliche Planung und Entwicklung, Geoinformationen;16 - sonstige ordentl. Aufwendungen;3295888;3937479;4015925;4086709;3843696;3786259
+09;Räumliche Planung und Entwicklung, Geoinformationen;17 = ordentliche Aufwendungen;27135908;39005381;41764236;41809016;40253801;34859986
+09;Räumliche Planung und Entwicklung, Geoinformationen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-22104537;-31759603;-33649695;-30872002;-33156596;-31291966
+09;Räumliche Planung und Entwicklung, Geoinformationen;19 - Finanzerträge;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;20 - Zinsen und sonst. Finanzaufwendungen;801220;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;21 = Finanzergebnis (19 und 20);-801220;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;22 = ordentliches Jahresergebnis (18 und 21);-22905757;-31759603;-33649695;-30872002;-33156596;-31291966
+09;Räumliche Planung und Entwicklung, Geoinformationen;23 - außerordentliche Erträge;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+09;Räumliche Planung und Entwicklung, Geoinformationen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-22905757;-31759603;-33649695;-30872002;-33156596;-31291966
+09;Räumliche Planung und Entwicklung, Geoinformationen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);488452;357528;318939;352021;352021;352021
+09;Räumliche Planung und Entwicklung, Geoinformationen;28 = Jahresergebnis;-23394209;-32117130;-33968634;-31224023;-33508617;-31643987
+10;Bauen und Wohnen;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+10;Bauen und Wohnen;02 - Zuwendungen und allg. Umlagen;1009587;608100;653683;653683;653683;653683
+10;Bauen und Wohnen;03 - sonstige Transfererträge;463786;402008;402000;402000;402000;402000
+10;Bauen und Wohnen;04 - öffentl.rechtl. Leistungsentgelte;17554769;19605620;19425120;19409120;19409120;19409120
+10;Bauen und Wohnen;05 - privatrechtl. Leistungsentgelte;6671264;6344800;7583030;7665130;7703230;8377330
+10;Bauen und Wohnen;06 - Kostenerstattungen und Umlagen;293910;255800;300500;255500;245500;245500
+10;Bauen und Wohnen;07 - sonstige ordentliche Erträge;2864020;535908;416500;416500;416500;416500
+10;Bauen und Wohnen;08 - aktivierte Eigenleistungen;104;0;0;0;0;0
+10;Bauen und Wohnen;09 - Bestandsveränderungen;0;0;0;0;0;0
+10;Bauen und Wohnen;10 = ordentliche Erträge;28857439;27752236;28780833;28801933;28830033;29504133
+10;Bauen und Wohnen;11 - Personalaufwendungen;27659409;26435759;28967924;31218957;32846476;34357707
+10;Bauen und Wohnen;12 - Versorgungsaufwendungen;23;0;0;0;0;0
+10;Bauen und Wohnen;13 - Aufwendungen für Sach- und Dienstleistungen;14290626;14635692;17640067;17142667;13852667;13852667
+10;Bauen und Wohnen;14 - Bilanzielle Abschreibungen;3270830;2781352;2785759;2898156;2902364;3192260
+10;Bauen und Wohnen;15 - Transferaufwendungen;8829794;7493735;8130665;7781015;7671645;7777635
+10;Bauen und Wohnen;16 - sonstige ordentl. Aufwendungen;16358995;18133564;18983689;17343415;18625615;18093215
+10;Bauen und Wohnen;17 = ordentliche Aufwendungen;70409677;69480102;76508104;76384211;75898767;77273484
+10;Bauen und Wohnen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-41552238;-41727866;-47727271;-47582278;-47068734;-47769351
+10;Bauen und Wohnen;19 - Finanzerträge;7663568;7626500;9073110;9225110;10003810;10294410
+10;Bauen und Wohnen;20 - Zinsen und sonst. Finanzaufwendungen;314205;310700;303400;295900;304200;311700
+10;Bauen und Wohnen;21 = Finanzergebnis (19 und 20);7349363;7315800;8769710;8929210;9699610;9982710
+10;Bauen und Wohnen;22 = ordentliches Jahresergebnis (18 und 21);-34202876;-34412066;-38957561;-38653068;-37369124;-37786641
+10;Bauen und Wohnen;23 - außerordentliche Erträge;0;0;0;0;0;0
+10;Bauen und Wohnen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+10;Bauen und Wohnen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+10;Bauen und Wohnen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-34202876;-34412066;-38957561;-38653068;-37369124;-37786641
+10;Bauen und Wohnen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);1544911;1441854;1790364;1790364;1790364;1790364
+10;Bauen und Wohnen;28 = Jahresergebnis;-35747787;-35853920;-40747926;-40443433;-39159489;-39577005
+11;Ver- und Entsorgung;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+11;Ver- und Entsorgung;02 - Zuwendungen und allg. Umlagen;237003;0;0;0;0;0
+11;Ver- und Entsorgung;03 - sonstige Transfererträge;85092297;82830950;80321550;78576480;13017148;0
+11;Ver- und Entsorgung;04 - öffentl.rechtl. Leistungsentgelte;1157048;513100;663654;701733;738509;775507
+11;Ver- und Entsorgung;05 - privatrechtl. Leistungsentgelte;0;0;0;0;0;0
+11;Ver- und Entsorgung;06 - Kostenerstattungen und Umlagen;885883;0;507368;484618;461867;439116
+11;Ver- und Entsorgung;07 - sonstige ordentliche Erträge;73778889;72140000;72140000;72140000;72140000;72140000
+11;Ver- und Entsorgung;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;09 - Bestandsveränderungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;10 = ordentliche Erträge;161151119;155484050;153632572;151902830;86357524;73354623
+11;Ver- und Entsorgung;11 - Personalaufwendungen;493156;403539;487602;531284;568824;605944
+11;Ver- und Entsorgung;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;13 - Aufwendungen für Sach- und Dienstleistungen;2290735;1551666;1985615;2041113;2096610;2152108
+11;Ver- und Entsorgung;14 - Bilanzielle Abschreibungen;4168631;2970143;3486258;3606099;3533877;3253020
+11;Ver- und Entsorgung;15 - Transferaufwendungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;16 - sonstige ordentl. Aufwendungen;2610370;473881;4229407;502007;3202007;5302007
+11;Ver- und Entsorgung;17 = ordentliche Aufwendungen;9562892;5399228;10188881;6680502;9401318;11313078
+11;Ver- und Entsorgung;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);151588227;150084822;143443691;145222328;76956205;62041545
+11;Ver- und Entsorgung;19 - Finanzerträge;11844786;0;13133000;12731000;12109000;11931000
+11;Ver- und Entsorgung;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;21 = Finanzergebnis (19 und 20);11844786;0;13133000;12731000;12109000;11931000
+11;Ver- und Entsorgung;22 = ordentliches Jahresergebnis (18 und 21);163433013;150084822;156576691;157953328;89065205;73972545
+11;Ver- und Entsorgung;23 - außerordentliche Erträge;0;0;0;0;0;0
+11;Ver- und Entsorgung;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+11;Ver- und Entsorgung;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+11;Ver- und Entsorgung;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);163433013;150084822;156576691;157953328;89065205;73972545
+11;Ver- und Entsorgung;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);4670;11260;2000;2000;2000;2000
+11;Ver- und Entsorgung;28 = Jahresergebnis;163428343;150073562;156574691;157951328;89063205;73970545
+12;Verkehrsflächen und -anlagen, ÖPNV;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;02 - Zuwendungen und allg. Umlagen;68267676;62048844;67828995;70232420;70348628;68436605
+12;Verkehrsflächen und -anlagen, ÖPNV;03 - sonstige Transfererträge;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;04 - öffentl.rechtl. Leistungsentgelte;44779185;47459075;47761011;48911014;48911008;48911017
+12;Verkehrsflächen und -anlagen, ÖPNV;05 - privatrechtl. Leistungsentgelte;4624840;4604269;4731096;7241096;9251096;11251096
+12;Verkehrsflächen und -anlagen, ÖPNV;06 - Kostenerstattungen und Umlagen;351430;246300;199700;1681500;73700;73700
+12;Verkehrsflächen und -anlagen, ÖPNV;07 - sonstige ordentliche Erträge;12264441;11260520;10140011;9727100;9398355;9225795
+12;Verkehrsflächen und -anlagen, ÖPNV;08 - aktivierte Eigenleistungen;1131349;1148883;2026858;2082660;1963053;1595975
+12;Verkehrsflächen und -anlagen, ÖPNV;09 - Bestandsveränderungen;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;10 = ordentliche Erträge;131418921;126767890;132687672;139875789;139945840;139494189
+12;Verkehrsflächen und -anlagen, ÖPNV;11 - Personalaufwendungen;26450545;27153163;28831785;31655807;33188513;34499468
+12;Verkehrsflächen und -anlagen, ÖPNV;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;13 - Aufwendungen für Sach- und Dienstleistungen;85516939;108120390;98028589;102508968;89313825;89072640
+12;Verkehrsflächen und -anlagen, ÖPNV;14 - Bilanzielle Abschreibungen;113151271;118118030;118427584;118132585;117805477;116600855
+12;Verkehrsflächen und -anlagen, ÖPNV;15 - Transferaufwendungen;18563815;22004762;40697470;45016470;47327469;48621468
+12;Verkehrsflächen und -anlagen, ÖPNV;16 - sonstige ordentl. Aufwendungen;31855437;20136907;24908647;25173099;19561354;19221567
+12;Verkehrsflächen und -anlagen, ÖPNV;17 = ordentliche Aufwendungen;275538007;295533253;310894076;322486929;307196638;308015998
+12;Verkehrsflächen und -anlagen, ÖPNV;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-144119086;-168765363;-178206405;-182611140;-167250798;-168521809
+12;Verkehrsflächen und -anlagen, ÖPNV;19 - Finanzerträge;14530;16200;15200;15200;15400;15200
+12;Verkehrsflächen und -anlagen, ÖPNV;20 - Zinsen und sonst. Finanzaufwendungen;771871;74142;83642;83642;83642;83642
+12;Verkehrsflächen und -anlagen, ÖPNV;21 = Finanzergebnis (19 und 20);-757341;-57942;-68442;-68442;-68242;-68442
+12;Verkehrsflächen und -anlagen, ÖPNV;22 = ordentliches Jahresergebnis (18 und 21);-144876427;-168823305;-178274847;-182679582;-167319040;-168590251
+12;Verkehrsflächen und -anlagen, ÖPNV;23 - außerordentliche Erträge;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+12;Verkehrsflächen und -anlagen, ÖPNV;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-144876427;-168823305;-178274847;-182679582;-167319040;-168590251
+12;Verkehrsflächen und -anlagen, ÖPNV;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);905260;713753;917190;917190;917190;917190
+12;Verkehrsflächen und -anlagen, ÖPNV;28 = Jahresergebnis;-145781687;-169537058;-179192036;-183596772;-168236230;-169507441
+13;Natur- und Landschaftspflege;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;02 - Zuwendungen und allg. Umlagen;766426;673735;773072;772822;772430;772314
+13;Natur- und Landschaftspflege;03 - sonstige Transfererträge;0;600;0;0;0;0
+13;Natur- und Landschaftspflege;04 - öffentl.rechtl. Leistungsentgelte;19564133;20818748;20515207;19179224;19589504;19951868
+13;Natur- und Landschaftspflege;05 - privatrechtl. Leistungsentgelte;573291;564888;560388;560388;560388;560388
+13;Natur- und Landschaftspflege;06 - Kostenerstattungen und Umlagen;1268321;1221660;1263120;1263120;1263120;1263120
+13;Natur- und Landschaftspflege;07 - sonstige ordentliche Erträge;2922177;197756;197856;197856;197856;197856
+13;Natur- und Landschaftspflege;08 - aktivierte Eigenleistungen;123311;0;189358;173166;195169;248549
+13;Natur- und Landschaftspflege;09 - Bestandsveränderungen;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;10 = ordentliche Erträge;25217659;23477388;23499001;22146576;22578467;22994095
+13;Natur- und Landschaftspflege;11 - Personalaufwendungen;36751205;37328221;38222925;42085815;43782174;45088393
+13;Natur- und Landschaftspflege;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;13 - Aufwendungen für Sach- und Dienstleistungen;29498287;33019872;31679235;28969022;26631022;26519022
+13;Natur- und Landschaftspflege;14 - Bilanzielle Abschreibungen;2947716;3947566;3446857;3574660;3613583;3708443
+13;Natur- und Landschaftspflege;15 - Transferaufwendungen;259704;245100;264600;260100;260100;260100
+13;Natur- und Landschaftspflege;16 - sonstige ordentl. Aufwendungen;5876307;4873112;5498696;5045696;5045696;5045696
+13;Natur- und Landschaftspflege;17 = ordentliche Aufwendungen;75333219;79413871;79112314;79935293;79332575;80621655
+13;Natur- und Landschaftspflege;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-50115561;-55936483;-55613313;-57788717;-56754108;-57627560
+13;Natur- und Landschaftspflege;19 - Finanzerträge;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;20 - Zinsen und sonst. Finanzaufwendungen;0;28000;1000;1000;1000;1000
+13;Natur- und Landschaftspflege;21 = Finanzergebnis (19 und 20);0;-28000;-1000;-1000;-1000;-1000
+13;Natur- und Landschaftspflege;22 = ordentliches Jahresergebnis (18 und 21);-50115561;-55964483;-55614313;-57789717;-56755108;-57628560
+13;Natur- und Landschaftspflege;23 - außerordentliche Erträge;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+13;Natur- und Landschaftspflege;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+13;Natur- und Landschaftspflege;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-50115561;-55964483;-55614313;-57789717;-56755108;-57628560
+13;Natur- und Landschaftspflege;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);695149;668182;740103;740103;740103;740103
+13;Natur- und Landschaftspflege;28 = Jahresergebnis;-50810710;-56632665;-56354417;-58529820;-57495211;-58368663
+14;Umweltschutz;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+14;Umweltschutz;02 - Zuwendungen und allg. Umlagen;333129;1115200;2177300;737300;357300;357300
+14;Umweltschutz;03 - sonstige Transfererträge;0;0;0;0;0;0
+14;Umweltschutz;04 - öffentl.rechtl. Leistungsentgelte;426672;699150;920000;550000;470000;470000
+14;Umweltschutz;05 - privatrechtl. Leistungsentgelte;20;600;600;600;600;600
+14;Umweltschutz;06 - Kostenerstattungen und Umlagen;258221;119750;530000;530000;530000;530000
+14;Umweltschutz;07 - sonstige ordentliche Erträge;2320814;390828;268128;268128;268128;268128
+14;Umweltschutz;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+14;Umweltschutz;09 - Bestandsveränderungen;0;0;0;0;0;0
+14;Umweltschutz;10 = ordentliche Erträge;3338856;2325528;3896028;2086028;1626028;1626028
+14;Umweltschutz;11 - Personalaufwendungen;7965960;7872021;8402768;9240752;9692629;10077666
+14;Umweltschutz;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+14;Umweltschutz;13 - Aufwendungen für Sach- und Dienstleistungen;2501620;2511620;1396076;1421076;1346876;1346876
+14;Umweltschutz;14 - Bilanzielle Abschreibungen;230431;184008;183330;197598;175346;172459
+14;Umweltschutz;15 - Transferaufwendungen;-57;0;74566;74566;74566;17066
+14;Umweltschutz;16 - sonstige ordentl. Aufwendungen;949235;1047276;3411881;1579381;1179381;1179381
+14;Umweltschutz;17 = ordentliche Aufwendungen;11647189;11614924;13468621;12513372;12468798;12793448
+14;Umweltschutz;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-8308333;-9289396;-9572593;-10427344;-10842770;-11167420
+14;Umweltschutz;19 - Finanzerträge;0;0;0;0;0;0
+14;Umweltschutz;20 - Zinsen und sonst. Finanzaufwendungen;0;0;2000;2000;2000;2000
+14;Umweltschutz;21 = Finanzergebnis (19 und 20);0;0;-2000;-2000;-2000;-2000
+14;Umweltschutz;22 = ordentliches Jahresergebnis (18 und 21);-8308333;-9289396;-9574593;-10429344;-10844770;-11169420
+14;Umweltschutz;23 - außerordentliche Erträge;0;0;0;0;0;0
+14;Umweltschutz;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+14;Umweltschutz;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+14;Umweltschutz;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-8308333;-9289396;-9574593;-10429344;-10844770;-11169420
+14;Umweltschutz;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);298127;252355;332513;332513;332513;332513
+14;Umweltschutz;28 = Jahresergebnis;-8606460;-9541751;-9907107;-10761857;-11177283;-11501933
+15;Wirtschaft und Tourismus;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;02 - Zuwendungen und allg. Umlagen;640826;597400;841680;874440;878010;814450
+15;Wirtschaft und Tourismus;03 - sonstige Transfererträge;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;04 - öffentl.rechtl. Leistungsentgelte;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;05 - privatrechtl. Leistungsentgelte;1722274;1415000;1415000;1415000;1415000;1415000
+15;Wirtschaft und Tourismus;06 - Kostenerstattungen und Umlagen;315605;189700;250250;204600;204900;196100
+15;Wirtschaft und Tourismus;07 - sonstige ordentliche Erträge;62750;9115600;16697505;7912500;7912500;7912500
+15;Wirtschaft und Tourismus;08 - aktivierte Eigenleistungen;86706;0;0;0;0;0
+15;Wirtschaft und Tourismus;09 - Bestandsveränderungen;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;10 = ordentliche Erträge;2828161;11317700;19204435;10406540;10410410;10338050
+15;Wirtschaft und Tourismus;11 - Personalaufwendungen;4416329;3598785;4532756;5102208;5408277;5630435
+15;Wirtschaft und Tourismus;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;13 - Aufwendungen für Sach- und Dienstleistungen;351163;1230746;660548;498248;501248;496748
+15;Wirtschaft und Tourismus;14 - Bilanzielle Abschreibungen;203017;140527;11271069;193981;210186;345791
+15;Wirtschaft und Tourismus;15 - Transferaufwendungen;11286595;10603350;11323814;11027159;10961574;11393283
+15;Wirtschaft und Tourismus;16 - sonstige ordentl. Aufwendungen;20406477;17443047;17692570;17686742;17687612;17676752
+15;Wirtschaft und Tourismus;17 = ordentliche Aufwendungen;36663580;33016455;45480756;34508338;34768897;35543009
+15;Wirtschaft und Tourismus;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-33835419;-21698755;-26276321;-24101798;-24358487;-25204959
+15;Wirtschaft und Tourismus;19 - Finanzerträge;70970000;60000000;60000000;60000000;60000000;60000000
+15;Wirtschaft und Tourismus;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;21 = Finanzergebnis (19 und 20);70970000;60000000;60000000;60000000;60000000;60000000
+15;Wirtschaft und Tourismus;22 = ordentliches Jahresergebnis (18 und 21);37134581;38301245;33723679;35898202;35641513;34795041
+15;Wirtschaft und Tourismus;23 - außerordentliche Erträge;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+15;Wirtschaft und Tourismus;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+15;Wirtschaft und Tourismus;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);37134581;38301245;33723679;35898202;35641513;34795041
+15;Wirtschaft und Tourismus;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);166591;177100;184135;184135;184135;184135
+15;Wirtschaft und Tourismus;28 = Jahresergebnis;36967990;38124145;33539543;35714067;35457378;34610905
+16;Allgemeine Finanzwirtschaft;01 - Steuern und ähnliche Abgaben;1588079095;1682635000;1779535000;1856117000;1923487000;1996397000
+16;Allgemeine Finanzwirtschaft;02 - Zuwendungen und allg. Umlagen;214529587;199790215;329308215;301713215;314613215;325813215
+16;Allgemeine Finanzwirtschaft;03 - sonstige Transfererträge;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;04 - öffentl.rechtl. Leistungsentgelte;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;05 - privatrechtl. Leistungsentgelte;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;06 - Kostenerstattungen und Umlagen;1289741;1316600;1566200;1561900;1558200;1549900
+16;Allgemeine Finanzwirtschaft;07 - sonstige ordentliche Erträge;32638053;23418200;23418200;23418200;23418200;23418200
+16;Allgemeine Finanzwirtschaft;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;09 - Bestandsveränderungen;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;10 = ordentliche Erträge;1836536476;1907160015;2133827615;2182810315;2263076615;2347178315
+16;Allgemeine Finanzwirtschaft;11 - Personalaufwendungen;0;-11250000;0;0;0;0
+16;Allgemeine Finanzwirtschaft;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;13 - Aufwendungen für Sach- und Dienstleistungen;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;14 - Bilanzielle Abschreibungen;294897;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;15 - Transferaufwendungen;397254372;375555639;426870000;437617000;459473000;477503000
+16;Allgemeine Finanzwirtschaft;16 - sonstige ordentl. Aufwendungen;123419;114000;114000;114000;114000;114000
+16;Allgemeine Finanzwirtschaft;17 = ordentliche Aufwendungen;397672688;364419639;426984000;437731000;459587000;477617000
+16;Allgemeine Finanzwirtschaft;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);1438863788;1542740376;1706843615;1745079315;1803489615;1869561315
+16;Allgemeine Finanzwirtschaft;19 - Finanzerträge;9863725;10916000;9372800;11691100;13231300;12873700
+16;Allgemeine Finanzwirtschaft;20 - Zinsen und sonst. Finanzaufwendungen;99845533;130707100;131919600;131361700;135894000;136885100
+16;Allgemeine Finanzwirtschaft;21 = Finanzergebnis (19 und 20);-89981808;-119791100;-122546800;-119670600;-122662700;-124011400
+16;Allgemeine Finanzwirtschaft;22 = ordentliches Jahresergebnis (18 und 21);1348881980;1422949276;1584296815;1625408715;1680826915;1745549915
+16;Allgemeine Finanzwirtschaft;23 - außerordentliche Erträge;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);1348881980;1422949276;1584296815;1625408715;1680826915;1745549915
+16;Allgemeine Finanzwirtschaft;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);0;0;0;0;0;0
+16;Allgemeine Finanzwirtschaft;28 = Jahresergebnis;1348881980;1422949276;1584296815;1625408715;1680826915;1745549915
+17;Stiftungen;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+17;Stiftungen;02 - Zuwendungen und allg. Umlagen;115836;120500;91600;0;0;0
+17;Stiftungen;03 - sonstige Transfererträge;0;0;0;0;0;0
+17;Stiftungen;04 - öffentl.rechtl. Leistungsentgelte;0;0;0;0;0;0
+17;Stiftungen;05 - privatrechtl. Leistungsentgelte;4193342;4089900;4469100;4563000;4563000;4563000
+17;Stiftungen;06 - Kostenerstattungen und Umlagen;118520;0;0;0;0;0
+17;Stiftungen;07 - sonstige ordentliche Erträge;1091430;0;0;0;0;0
+17;Stiftungen;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+17;Stiftungen;09 - Bestandsveränderungen;0;0;0;0;0;0
+17;Stiftungen;10 = ordentliche Erträge;5519127;4210400;4560700;4563000;4563000;4563000
+17;Stiftungen;11 - Personalaufwendungen;0;0;0;0;0;0
+17;Stiftungen;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+17;Stiftungen;13 - Aufwendungen für Sach- und Dienstleistungen;1949022;1716900;1940500;1849400;1850700;1863000
+17;Stiftungen;14 - Bilanzielle Abschreibungen;514432;492500;555500;555500;555500;555500
+17;Stiftungen;15 - Transferaufwendungen;1179391;1349100;1122400;1157000;1143800;1144200
+17;Stiftungen;16 - sonstige ordentl. Aufwendungen;78770;49500;63300;53300;53300;53300
+17;Stiftungen;17 = ordentliche Aufwendungen;3721616;3608000;3681700;3615200;3603300;3616000
+17;Stiftungen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);1797512;602400;879000;947800;959700;947000
+17;Stiftungen;19 - Finanzerträge;1447214;1394200;1473400;1398900;1398900;1398900
+17;Stiftungen;20 - Zinsen und sonst. Finanzaufwendungen;513003;493400;510000;493800;490300;565100
+17;Stiftungen;21 = Finanzergebnis (19 und 20);934211;900800;963400;905100;908600;833800
+17;Stiftungen;22 = ordentliches Jahresergebnis (18 und 21);2731723;1503200;1842400;1852900;1868300;1780800
+17;Stiftungen;23 - außerordentliche Erträge;0;0;0;0;0;0
+17;Stiftungen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+17;Stiftungen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+17;Stiftungen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);2731723;1503200;1842400;1852900;1868300;1780800
+17;Stiftungen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);202348;189700;205900;205800;205800;205800
+17;Stiftungen;28 = Jahresergebnis;2529375;1313500;1636500;1647100;1662500;1575000
+18;Bezirksorientierte Mittel;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;02 - Zuwendungen und allg. Umlagen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;03 - sonstige Transfererträge;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;04 - öffentl.rechtl. Leistungsentgelte;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;05 - privatrechtl. Leistungsentgelte;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;06 - Kostenerstattungen und Umlagen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;07 - sonstige ordentliche Erträge;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;09 - Bestandsveränderungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;10 = ordentliche Erträge;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;11 - Personalaufwendungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;12 - Versorgungsaufwendungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;13 - Aufwendungen für Sach- und Dienstleistungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;14 - Bilanzielle Abschreibungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;15 - Transferaufwendungen;0;0;0;504000;504000;504000
+18;Bezirksorientierte Mittel;16 - sonstige ordentl. Aufwendungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;17 = ordentliche Aufwendungen;0;0;0;504000;504000;504000
+18;Bezirksorientierte Mittel;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);0;0;0;-504000;-504000;-504000
+18;Bezirksorientierte Mittel;19 - Finanzerträge;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
+18;Bezirksorientierte Mittel;22 = ordentliches Jahresergebnis (18 und 21);0;0;0;-504000;-504000;-504000
+18;Bezirksorientierte Mittel;23 - außerordentliche Erträge;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
+18;Bezirksorientierte Mittel;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
+18;Bezirksorientierte Mittel;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);0;0;0;-504000;-504000;-504000
+18;Bezirksorientierte Mittel;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);0;0;0;0;0;0
+18;Bezirksorientierte Mittel;28 = Jahresergebnis;0;0;0;-504000;-504000;-504000
