@@ -18,5 +18,5 @@ cd _source
 wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
 
-# remove dots from within figures
+# remove dots from within figures, make "," the seperator
 cat _source/$FILENAME|sed 's/\([0-9]\)\.\([0-9]\)/\1\2/g'|in2csv -f csv -d ";" > $FILENAME
