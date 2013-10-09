@@ -6,7 +6,7 @@
 
 
 SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=6"
-NAME="bezirke_produktgruppen"
+NAME="bezirke_einzeldarstellung"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
 USER_AGENT="datahub-cgn/0.1"
