@@ -18,5 +18,6 @@ cd _source
 wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
 
-# remove dots from within figures
-cat _source/$FILENAME|sed 's/\([0-9]\)\.\([0-9]\)/\1\2/g' > $FILENAME
+# remove dots from within figures, replace seperator
+echo "Creating improved version in $FILENAME"
+cat _source/$FILENAME|sed 's/\([0-9]\)\.\([0-9]\)/\1\2/g'|in2csv -f csv -d ";" > $FILENAME
