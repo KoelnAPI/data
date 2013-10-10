@@ -20,4 +20,6 @@ cd ..
 
 # remove dots from within figures, replace seperator
 echo "Creating improved version in $FILENAME"
-cat _source/$FILENAME|sed 's/\([0-9]\)\.\([0-9]\)/\1\2/g'|in2csv -f csv -d ";" > $FILENAME
+perl -CSD -pe 'tr/\x{feff}//d' _source/$FILENAME > $FILENAME.tmp
+cat $FILENAME.tmp|sed 's/\([0-9]\)\.\([0-9]\)/\1\2/g'|in2csv -f csv -d ";" > $FILENAME
+rm $FILENAME.tmp
