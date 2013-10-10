@@ -47,6 +47,10 @@ for additional info.
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/landuse)
 
+#### structure - So-called "Strukturdaten"
+
+[Read more](https://github.com/marians/datahub-cgn/tree/master/data/structure)
+
 #### traffic - Traffic load data
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/data/traffic)
