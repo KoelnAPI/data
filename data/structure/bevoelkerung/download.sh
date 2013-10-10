@@ -20,7 +20,6 @@ cd ..
 
 # standardize format, remove unnecessary columns
 echo "Creating improved version in $FILENAME"
-FILENAME=bevoelkerung.csv
 perl -CSD -pe 'tr/\x{feff}//d' _source/$FILENAME > $FILENAME.tmp
 in2csv -f csv -d ";" $FILENAME.tmp > $FILENAME.tmp2 && rm $FILENAME.tmp
 csvcut -C 2,3,11,12 $FILENAME.tmp2 > $FILENAME.tmp3 && rm $FILENAME.tmp2
