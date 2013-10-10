@@ -19,3 +19,7 @@ rm -rf ./_source/*
 cd ./_source/
 wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
+
+# create improved version
+echo "Creating improved version in $FILENAME"
+perl -CSD -pe 'tr/\x{feff}//d' _source/$FILENAME > $FILENAME
