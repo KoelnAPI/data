@@ -7,18 +7,12 @@
 # format (lon/lat) to intermediate file
 ogr2ogr -f CSV adressen_temp.csv _source/Adressen/Adresse.shp -lco GEOMETRY=AS_XY -t_srs "EPSG:4326"
 
-# You might want to check the output file manually
-# for spurious rows and for records containing line breaks.
-# Expecially check AD_NR 02795001500 and 02093002600!
-#
-# Otherwise, corrupt CSV will be generated
-# in the sort step.
+# set predictable floating point precision, remove trailing zeroes
+perl -CSD -pe "s/([0-9]+\.[0-9]{7})[0-9]*/\\1/g" adressen_temp.csv|perl -CSD -pe "s/([0-9]+\.[0-9]*[^0])[0]+,/\\1,/g" > adressen_temp2.csv
 
-# write only first row (column names) to result file
-head -n 1 adressen_temp.csv > adressen.csv
-
-# sort all other rows and append them to the result file
-tail -n+2 adressen_temp.csv|sort -t"," -k3 >> adressen.csv
+# Sort by address ID
+csvsort -y 10000 -c 3 adressen_temp2.csv > adressen.csv
 
 # delete intermediate file
 rm adressen_temp.csv
+rm adressen_temp2.csv
