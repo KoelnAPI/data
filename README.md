@@ -65,3 +65,11 @@ This is the place for tools and utilities, such as the Shapefile-to-GeoJSON conv
 which helps to automatize the conversion process from one format to another.
 
 [Read more](https://github.com/marians/datahub-cgn/tree/master/tools)
+
+
+## More
+
+The idea of hosting data on github isn't new. Feel free to send push requests with according additions to this file.
+
+Here are others:
+* https://github.com/wboykinm/vcgi - Open Geodata of Vermont
