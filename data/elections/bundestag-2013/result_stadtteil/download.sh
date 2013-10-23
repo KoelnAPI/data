@@ -20,4 +20,4 @@ curl -s $SOURCE_URL > _source/$FILENAME
 
 # remove dots from within figures, replace seperator
 echo "Creating improved version in $FILENAME"
-cat _source/$FILENAME|in2csv -f csv -d ";"  > $FILENAME
+cat _source/$FILENAME|sed 's/\([0-9]\),\([0-9]\)/\1\.\2/g'|in2csv -f csv -d ";"  > $FILENAME
