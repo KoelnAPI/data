@@ -29,47 +29,50 @@ for additional info.
 
 #### budget - Public budget/finance data
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/budget)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/budget)
 
 #### elections - Election results and candidates
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/elections)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/elections)
 
 #### employment - Statistical data on (un-)employment
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/employment)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/employment)
+
+#### environment - Weather, air, ...
+
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/environment)
 
 #### geo-base - Geographical base data
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/geo-base)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/geo-base)
 
 #### landuse - Statistical data on land use
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/landuse)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/landuse)
 
 #### structure - So-called "Strukturdaten"
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/structure)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/structure)
 
 #### traffic - Traffic load data
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/traffic)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/traffic)
 
 #### transport - Open Transport Data
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/data/transport)
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/transport)
 
 ### tools
 
 This is the place for tools and utilities, such as the Shapefile-to-GeoJSON converter
 which helps to automatize the conversion process from one format to another.
 
-[Read more](https://github.com/marians/datahub-cgn/tree/master/tools)
+[Read more](https://github.com/KoelnAPI/data/tree/master/tools)
 
 
 ## More
 
-The idea of hosting data on github isn't new. Feel free to send push requests with according additions to this file.
+The idea of hosting data on github isn't new. Here are others doing similar things:
 
-Here are others:
-* https://github.com/wboykinm/vcgi - Open Geodata of Vermont
+* http://government.github.com/community/
