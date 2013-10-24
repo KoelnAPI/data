@@ -24,7 +24,7 @@ CSV files in this fodler contain the following columns:
 * temp_min: Minimum temperature (degrees Kelvin) within interval
 * temp_max: Maximum temperature (degrees Kelvin) within interval
 * temp_mean: Average temperature (degrees Kelvin) within interval
-* windspeed_count: Number of wind speed measures within 
+* windspeed_count: Number of wind speed measures within interval
 * windspeed_min: Minimum Wind speed (m/s) within interval
 * windspeed_max: Maximum Wind speed (m/s) within interval
 * windspeed_mean: Average Wind speed (m/s) within interval
