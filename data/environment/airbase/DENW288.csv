@@ -1,0 +1,11 @@
+station_european_code,component_code,component_name,component_caption,measurement_unit,measurement_european_group_code,statistics_period,statistics_year,statistics_average_group,statistic_shortname,statistic_name,statistic_value,statistics_percentage_valid,statistics_number_valid,statistics_calculated
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,var,Mean,annual mean,46.22,98.904,13,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,var,P50,50 percentile,46.85,98.904,13,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,var,P95,95 percentile,50.05,98.904,13,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,var,Max,maximum,51.35,98.904,13,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,var,P98,98 percentile,51.35,98.904,13,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,var,P50,50 percentile,43.9,100.0,12,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,var,Mean,annual mean,45.346,100.0,12,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,var,P95,95 percentile,51.75,100.0,12,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,var,Max,maximum,55.25,100.0,12,True
+DENW288,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,var,P98,98 percentile,55.25,100.0,12,True

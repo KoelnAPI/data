@@ -1,0 +1,61 @@
+station_european_code,component_code,component_name,component_caption,measurement_unit,measurement_european_group_code,statistics_period,statistics_year,statistics_average_group,statistic_shortname,statistic_name,statistic_value,statistics_percentage_valid,statistics_number_valid,statistics_calculated
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,Max,maximum,3.3,0.822,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,Mean,annual mean,3.3,0.822,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P50,50 percentile,3.3,0.822,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P95,95 percentile,3.3,0.822,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P98,98 percentile,3.3,0.822,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,Max,maximum,1.5,100.0,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,Mean,annual mean,1.5,100.0,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P50,50 percentile,1.5,100.0,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P95,95 percentile,1.5,100.0,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P98,98 percentile,1.5,100.0,1,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P50,50 percentile,1.4,96.929,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,Mean,annual mean,1.57,96.929,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P95,95 percentile,2.3,96.929,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,Max,maximum,3.3,96.929,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P98,98 percentile,3.3,96.929,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2008,var,P50,50 percentile,1.1,83.288,10,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2008,var,Mean,annual mean,1.228,83.288,10,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2008,var,Max,maximum,2.16,83.288,10,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2008,var,P95,95 percentile,2.16,83.288,10,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2008,var,P98,98 percentile,2.16,83.288,10,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2010,var,P50,50 percentile,1.19,98.904,13,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2010,var,Mean,annual mean,1.297,98.904,13,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2010,var,P95,95 percentile,2.19,98.904,13,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2010,var,Max,maximum,2.53,98.904,13,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2010,var,P98,98 percentile,2.53,98.904,13,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2011,var,P50,50 percentile,1.19,100.0,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2011,var,Mean,annual mean,1.283,100.0,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2011,var,P95,95 percentile,1.76,100.0,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2011,var,Max,maximum,1.92,100.0,12,True
+DENW152,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2011,var,P98,98 percentile,1.92,100.0,12,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2010,var,Mean,annual mean,3.216,98.904,13,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2010,var,P50,50 percentile,3.29,98.904,13,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2010,var,P95,95 percentile,3.58,98.904,13,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2010,var,Max,maximum,4.26,98.904,13,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2010,var,P98,98 percentile,4.26,98.904,13,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2011,var,P50,50 percentile,3.48,100.0,12,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2011,var,Mean,annual mean,3.557,100.0,12,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2011,var,P95,95 percentile,4.1,100.0,12,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2011,var,Max,maximum,4.31,100.0,12,True
+DENW152,21,Toluene (air),C6H5-CH3,µg/m3,100,Calendar year,2011,var,P98,98 percentile,4.31,100.0,12,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2010,var,Mean,annual mean,0.989,98.904,13,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2010,var,P50,50 percentile,1.06,98.904,13,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2010,var,P95,95 percentile,1.3,98.904,13,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2010,var,Max,maximum,1.41,98.904,13,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2010,var,P98,98 percentile,1.41,98.904,13,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2011,var,P50,50 percentile,0.93,100.0,12,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2011,var,Mean,annual mean,1.011,100.0,12,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2011,var,P95,95 percentile,1.2,100.0,12,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2011,var,Max,maximum,1.24,100.0,12,True
+DENW152,464,"m,p-Xylene (air)","m,p-C6H4(CH3)2",µg/m3,100,Calendar year,2011,var,P98,98 percentile,1.24,100.0,12,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2010,var,Mean,annual mean,0.304,98.904,13,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2010,var,P50,50 percentile,0.31,98.904,13,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2010,var,P95,95 percentile,0.43,98.904,13,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2010,var,Max,maximum,0.45,98.904,13,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2010,var,P98,98 percentile,0.45,98.904,13,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2011,var,Mean,annual mean,0.337,100.0,12,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2011,var,P50,50 percentile,0.34,100.0,12,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2011,var,P95,95 percentile,0.42,100.0,12,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2011,var,Max,maximum,0.45,100.0,12,True
+DENW152,482,o-Xylene (air),o-C6H4-(CH3)2,µg/m3,100,Calendar year,2011,var,P98,98 percentile,0.45,100.0,12,True

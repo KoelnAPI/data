@@ -1,0 +1,1709 @@
+station_european_code,component_code,component_name,component_caption,measurement_unit,measurement_european_group_code,statistics_period,statistics_year,statistics_average_group,statistic_shortname,statistic_name,statistic_value,statistics_percentage_valid,statistics_number_valid,statistics_calculated
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,P50,50 percentile,28.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,Mean,annual mean,44.313,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,P95,95 percentile,147.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,P98,98 percentile,232.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,Max,maximum,414.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,Max4,4th highest value,244.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1987,day,Days(c > 125),days with c > 125 ug/m3,16.0,71.781,262,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,P50,50 percentile,20.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,Mean,annual mean,26.022,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,P95,95 percentile,55.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,P98,98 percentile,58.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,Max,maximum,81.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,Max4,4th highest value,60.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1988,day,Days(c > 125),days with c > 125 ug/m3,0.0,73.224,268,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,P50,50 percentile,18.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,Mean,annual mean,20.712,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,P95,95 percentile,42.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,P98,98 percentile,48.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,Max,maximum,84.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,Max4,4th highest value,50.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1989,day,Days(c > 125),days with c > 125 ug/m3,0.0,78.904,288,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,P50,50 percentile,20.435,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,Mean,annual mean,21.906,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,P95,95 percentile,40.083,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,P98,98 percentile,48.75,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,Max,maximum,70.304,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,Max4,4th highest value,58.833,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,day,Days(c > 125),days with c > 125 ug/m3,0.0,97.26,355,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,P50,50 percentile,20.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,Mean,annual mean,21.943,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,P95,95 percentile,54.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,P98,98 percentile,70.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,P99_9,99.9 percentile,112.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,Max,maximum,143.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,Max25,25th highest value,100.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1990,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,97.705,8559,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,P50,50 percentile,17.167,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,Mean,annual mean,20.947,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,P95,95 percentile,47.333,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,P98,98 percentile,67.391,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,Max,maximum,178.0,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,Max4,4th highest value,75.833,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,day,Days(c > 125),days with c > 125 ug/m3,1.0,88.493,323,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,P50,50 percentile,16.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,Mean,annual mean,21.127,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,P95,95 percentile,55.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,P98,98 percentile,78.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,P99_9,99.9 percentile,194.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,Max,maximum,210.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,Max25,25th highest value,158.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1991,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,P50,50 percentile,18.333,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,Mean,annual mean,21.044,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,P95,95 percentile,41.292,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,P98,98 percentile,57.292,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,Max,maximum,122.25,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,Max4,4th highest value,77.958,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.361,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,P50,50 percentile,17.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,Mean,annual mean,21.001,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,P95,95 percentile,52.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,P98,98 percentile,70.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,P99_9,99.9 percentile,192.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,Max,maximum,244.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,Max25,25th highest value,132.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1992,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,97.974,8606,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,P50,50 percentile,15.042,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,Mean,annual mean,19.063,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,P95,95 percentile,51.708,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,P98,98 percentile,59.208,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,Max,maximum,103.458,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,Max4,4th highest value,72.083,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,day,Days(c > 125),days with c > 125 ug/m3,0.0,89.041,325,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,P50,50 percentile,15.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,Mean,annual mean,18.984,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,P95,95 percentile,52.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,P98,98 percentile,71.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,P99_9,99.9 percentile,138.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,Max,maximum,220.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,Max25,25th highest value,116.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1993,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,90.114,7894,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,P50,50 percentile,12.958,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,Mean,annual mean,14.656,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,P95,95 percentile,28.667,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,P98,98 percentile,38.208,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,Max,maximum,49.583,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,Max4,4th highest value,42.875,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,day,Days(c > 125),days with c > 125 ug/m3,0.0,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,P50,50 percentile,13.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,Mean,annual mean,14.63,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,P95,95 percentile,35.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,P98,98 percentile,45.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,P99_9,99.9 percentile,65.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,Max,maximum,108.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,Max25,25th highest value,59.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1995,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,94.452,8274,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,P50,50 percentile,9.417,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,Mean,annual mean,14.15,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,P95,95 percentile,40.458,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,P98,98 percentile,60.042,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,Max,maximum,105.5,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,Max4,4th highest value,71.5,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,P50,50 percentile,8.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,Mean,annual mean,14.2,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,P95,95 percentile,45.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,P98,98 percentile,65.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,P99_9,99.9 percentile,116.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,Max,maximum,139.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,Max25,25th highest value,98.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1996,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,P50,50 percentile,7.674,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,Mean,annual mean,10.118,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,P95,95 percentile,22.435,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,P98,98 percentile,32.667,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,Max,maximum,85.435,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,Max4,4th highest value,46.109,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,day,Days(c > 125),days with c > 125 ug/m3,0.0,93.151,340,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,P50,50 percentile,5.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,Mean,annual mean,10.585,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,P95,95 percentile,32.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,P98,98 percentile,50.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,P99_9,99.9 percentile,103.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,Max,maximum,120.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,Max25,25th highest value,89.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1997,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,90.205,7902,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,P50,50 percentile,6.182,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,Mean,annual mean,7.65,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,P95,95 percentile,14.913,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,P98,98 percentile,20.152,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,Max,maximum,26.0,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,Max4,4th highest value,21.913,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,day,Days(c > 125),days with c > 125 ug/m3,0.0,99.178,362,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,P50,50 percentile,5.0,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,Mean,annual mean,7.633,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,P95,95 percentile,19.5,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,P98,98 percentile,26.5,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,P99_9,99.9 percentile,47.0,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,Max,maximum,72.0,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,Max25,25th highest value,39.5,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,1998,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,94.635,8290,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,P50,50 percentile,5.261,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,Mean,annual mean,6.115,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,P95,95 percentile,9.727,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,P98,98 percentile,12.13,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,Max,maximum,38.87,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,Max4,4th highest value,15.522,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,day,Days(c > 125),days with c > 125 ug/m3,0.0,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,P50,50 percentile,5.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,Mean,annual mean,6.101,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,P95,95 percentile,13.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,P98,98 percentile,18.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,P99_9,99.9 percentile,52.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,Max,maximum,145.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,Max25,25th highest value,36.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2006,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,92.66,8117,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,P50,50 percentile,5.261,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,Mean,annual mean,5.857,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,P95,95 percentile,8.565,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,P98,98 percentile,10.304,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,Max,maximum,16.87,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,Max4,4th highest value,11.522,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,day,Days(c > 125),days with c > 125 ug/m3,0.0,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,P50,50 percentile,5.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,Mean,annual mean,5.853,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,P95,95 percentile,12.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,P98,98 percentile,16.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,P99_9,99.9 percentile,42.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,Max,maximum,180.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,Max25,25th highest value,28.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2007,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,92.397,8094,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,P50,50 percentile,5.47,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,Mean,annual mean,7.596,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,P95,95 percentile,19.716,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,P98,98 percentile,22.169,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,Max,maximum,27.407,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,Max4,4th highest value,24.846,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,day,Days(c > 125),days with c > 125 ug/m3,0.0,81.148,297,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,P50,50 percentile,5.125,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,Mean,annual mean,7.347,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,P95,95 percentile,20.69,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,P98,98 percentile,24.45,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,P99_9,99.9 percentile,47.372,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,Max,maximum,87.255,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,Max25,25th highest value,36.665,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2008,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,83.424,7328,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,P50,50 percentile,8.467,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,Mean,annual mean,9.702,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,P95,95 percentile,21.573,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,P98,98 percentile,23.722,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,Max,maximum,26.32,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,Max4,4th highest value,24.625,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,day,Days(c > 125),days with c > 125 ug/m3,0.0,80.0,292,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,P50,50 percentile,8.386,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,Mean,annual mean,9.541,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,P95,95 percentile,22.224,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,P98,98 percentile,24.941,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,P99_9,99.9 percentile,35.933,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,Max,maximum,66.425,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,Max25,25th highest value,30.334,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2009,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,77.454,6785,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,P50,50 percentile,3.008,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,Mean,annual mean,3.284,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,P95,95 percentile,7.628,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,P98,98 percentile,8.296,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,Max,maximum,11.5,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,Max4,4th highest value,8.598,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,day,Days(c > 125),days with c > 125 ug/m3,0.0,96.986,354,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,P50,50 percentile,2.384,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,Mean,annual mean,3.267,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,P95,95 percentile,9.464,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,P98,98 percentile,13.018,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,P99_9,99.9 percentile,44.591,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,Max,maximum,72.296,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,Max25,25th highest value,24.647,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2010,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,93.311,8174,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,P50,50 percentile,2.271,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,Mean,annual mean,2.749,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,P95,95 percentile,6.423,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,P98,98 percentile,9.536,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,Max,maximum,12.496,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,Max4,4th highest value,10.956,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.082,358,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,P50,50 percentile,1.812,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,Mean,annual mean,2.745,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,P95,95 percentile,8.488,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,P98,98 percentile,13.4,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,P99_9,99.9 percentile,36.13,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,Max,maximum,113.428,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,Max25,25th highest value,26.34,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,100,Calendar year,2011,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,93.505,8191,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,P50,50 percentile,9.417,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,Mean,annual mean,14.15,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,P95,95 percentile,40.458,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,P98,98 percentile,60.042,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,Max,maximum,105.5,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,Max4,4th highest value,71.5,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,P50,50 percentile,8.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,Mean,annual mean,14.2,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,P95,95 percentile,45.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,P98,98 percentile,65.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,P99_9,99.9 percentile,116.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,Max,maximum,139.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,Max25,25th highest value,98.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1996,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,98.429,8646,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,P50,50 percentile,7.667,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,Mean,annual mean,10.849,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,P95,95 percentile,29.75,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,P98,98 percentile,47.792,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,Max,maximum,84.708,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,Max4,4th highest value,53.368,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,day,Days(c > 125),days with c > 125 ug/m3,0.0,95.89,350,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,P50,50 percentile,5.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,Mean,annual mean,10.778,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,P95,95 percentile,34.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,P98,98 percentile,52.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,P99_9,99.9 percentile,103.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,Max,maximum,120.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,Max25,25th highest value,89.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1997,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,96.142,8422,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,P50,50 percentile,6.25,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,Mean,annual mean,7.703,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,P95,95 percentile,15.125,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,P98,98 percentile,20.042,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,Max,maximum,26.333,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,Max4,4th highest value,22.125,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,day,Days(c > 125),days with c > 125 ug/m3,0.0,99.726,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,P50,50 percentile,5.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,Mean,annual mean,7.696,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,P95,95 percentile,20.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,P98,98 percentile,27.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,P99_9,99.9 percentile,47.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,Max,maximum,72.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,Max25,25th highest value,40.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1998,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,99.543,8720,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,P50,50 percentile,5.292,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,Mean,annual mean,6.152,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,P95,95 percentile,9.5,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,P98,98 percentile,11.792,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,Max,maximum,16.708,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,Max4,4th highest value,14.875,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,day,Days(c > 125),days with c > 125 ug/m3,0.0,97.534,356,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,P50,50 percentile,5.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,Mean,annual mean,6.147,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,P95,95 percentile,13.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,P98,98 percentile,18.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,P99_9,99.9 percentile,53.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,Max,maximum,77.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,Max25,25th highest value,40.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,1999,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,97.854,8572,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,P50,50 percentile,5.292,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,Mean,annual mean,6.13,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,P95,95 percentile,10.208,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,P98,98 percentile,13.5,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,Max,maximum,20.0,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,Max4,4th highest value,14.333,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,day,Days(c > 125),days with c > 125 ug/m3,0.0,99.454,364,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,P50,50 percentile,5.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,Mean,annual mean,6.129,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,P95,95 percentile,13.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,P98,98 percentile,19.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,P99_9,99.9 percentile,47.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,Max,maximum,66.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,Max25,25th highest value,39.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2000,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,99.317,8724,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,P50,50 percentile,5.348,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,Mean,annual mean,6.174,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,P95,95 percentile,10.174,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,P98,98 percentile,12.522,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,Max,maximum,18.087,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,Max4,4th highest value,15.087,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,day,Days(c > 125),days with c > 125 ug/m3,0.0,99.452,363,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,P50,50 percentile,5.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,Mean,annual mean,6.178,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,P95,95 percentile,14.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,P98,98 percentile,18.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,P99_9,99.9 percentile,45.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,Max,maximum,74.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,Max25,25th highest value,32.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2001,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,95.126,8333,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,P50,50 percentile,5.417,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,Mean,annual mean,6.298,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,P95,95 percentile,10.792,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,P98,98 percentile,13.75,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,Max,maximum,22.583,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,Max4,4th highest value,14.0,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,day,Days(c > 125),days with c > 125 ug/m3,0.0,95.616,349,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,P50,50 percentile,5.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,Mean,annual mean,6.298,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,P95,95 percentile,14.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,P98,98 percentile,19.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,P99_9,99.9 percentile,46.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,Max,maximum,60.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,Max25,25th highest value,36.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2002,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,97.112,8507,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,P50,50 percentile,5.87,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,Mean,annual mean,6.984,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,P95,95 percentile,12.522,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,P98,98 percentile,13.957,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,Max,maximum,19.955,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,Max4,4th highest value,14.826,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,day,Days(c > 125),days with c > 125 ug/m3,0.0,94.795,346,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,P50,50 percentile,5.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,Mean,annual mean,7.01,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,P95,95 percentile,16.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,P98,98 percentile,23.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,P99_9,99.9 percentile,55.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,Max,maximum,86.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,Max25,25th highest value,40.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2003,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,92.386,8093,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,P50,50 percentile,5.261,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,Mean,annual mean,6.027,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,P95,95 percentile,9.478,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,P98,98 percentile,11.13,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,Max,maximum,20.043,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,Max4,4th highest value,12.826,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.087,359,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,P50,50 percentile,5.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,Mean,annual mean,6.046,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,P95,95 percentile,13.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,P98,98 percentile,18.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,P99_9,99.9 percentile,38.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,Max,maximum,66.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,Max25,25th highest value,30.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2004,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,94.649,8314,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,P50,50 percentile,5.261,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,Mean,annual mean,6.188,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,P95,95 percentile,10.304,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,P98,98 percentile,12.826,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,Max,maximum,31.304,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,Max4,4th highest value,23.043,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,day,Days(c > 125),days with c > 125 ug/m3,0.0,98.63,360,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,P50,50 percentile,5.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,Mean,annual mean,6.189,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,P95,95 percentile,12.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,P98,98 percentile,18.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,P99_9,99.9 percentile,83.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,Max,maximum,240.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,Max25,25th highest value,50.0,94.966,8319,True
+DENW059,1,Sulphur dioxide (air),SO2,µg/m3,600,Calendar year,2005,hour,Hours(c > 350),hours with c > 350 ug/m3,0.0,94.966,8319,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1987,day,P50,50 percentile,51.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1987,day,Mean,annual mean,57.469,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1987,day,P95,95 percentile,127.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1987,day,P98,98 percentile,167.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1987,day,Max,maximum,263.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1988,day,P50,50 percentile,40.0,39.071,143,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1988,day,Mean,annual mean,46.58,39.071,143,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1988,day,P95,95 percentile,95.0,39.071,143,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1988,day,P98,98 percentile,108.0,39.071,143,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1988,day,Max,maximum,150.0,39.071,143,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1989,day,P50,50 percentile,46.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1989,day,Mean,annual mean,50.683,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1989,day,P95,95 percentile,95.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1989,day,P98,98 percentile,99.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,100,Calendar year,1989,day,Max,maximum,177.0,39.726,145,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,day,P50,50 percentile,38.417,97.814,358,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,day,Mean,annual mean,43.046,97.814,358,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,day,P95,95 percentile,80.583,97.814,358,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,day,P98,98 percentile,104.542,97.814,358,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,day,Max,maximum,168.958,97.814,358,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,hour,P50,50 percentile,37.0,97.655,8578,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,hour,Mean,annual mean,42.912,97.655,8578,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,hour,P95,95 percentile,95.0,97.655,8578,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,hour,P98,98 percentile,124.0,97.655,8578,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1996,hour,Max,maximum,252.0,97.655,8578,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,day,P50,50 percentile,34.417,97.26,355,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,day,Mean,annual mean,40.096,97.26,355,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,day,P95,95 percentile,79.25,97.26,355,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,day,P98,98 percentile,119.524,97.26,355,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,day,Max,maximum,195.375,97.26,355,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,hour,P50,50 percentile,34.0,97.877,8574,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,hour,Mean,annual mean,40.352,97.877,8574,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,hour,P95,95 percentile,94.0,97.877,8574,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,hour,P98,98 percentile,126.0,97.877,8574,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1997,hour,Max,maximum,278.0,97.877,8574,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,day,P50,50 percentile,29.905,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,day,Mean,annual mean,33.113,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,day,P95,95 percentile,66.417,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,day,P98,98 percentile,81.125,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,day,Max,maximum,102.583,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,hour,P50,50 percentile,30.0,98.276,8609,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,hour,Mean,annual mean,33.086,98.276,8609,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,hour,P95,95 percentile,73.0,98.276,8609,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,hour,P98,98 percentile,90.0,98.276,8609,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1998,hour,Max,maximum,160.0,98.276,8609,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,day,P50,50 percentile,28.125,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,day,Mean,annual mean,31.251,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,day,P95,95 percentile,57.208,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,day,P98,98 percentile,71.625,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,day,Max,maximum,168.458,98.356,359,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,hour,P50,50 percentile,28.0,98.436,8623,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,hour,Mean,annual mean,31.262,98.436,8623,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,hour,P95,95 percentile,67.0,98.436,8623,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,hour,P98,98 percentile,84.0,98.436,8623,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,1999,hour,Max,maximum,271.0,98.436,8623,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,day,P50,50 percentile,26.458,96.175,352,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,day,Mean,annual mean,29.636,96.175,352,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,day,P95,95 percentile,58.667,96.175,352,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,day,P98,98 percentile,69.542,96.175,352,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,day,Max,maximum,125.375,96.175,352,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,hour,P50,50 percentile,26.0,97.154,8534,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,hour,Mean,annual mean,29.451,97.154,8534,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,hour,P95,95 percentile,68.0,97.154,8534,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,hour,P98,98 percentile,88.0,97.154,8534,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2000,hour,Max,maximum,167.0,97.154,8534,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,day,P50,50 percentile,29.875,93.425,341,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,day,Mean,annual mean,32.424,93.425,341,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,day,P95,95 percentile,58.875,93.425,341,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,day,P98,98 percentile,67.095,93.425,341,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,day,Max,maximum,82.792,93.425,341,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,hour,P50,50 percentile,30.0,90.811,7955,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,hour,Mean,annual mean,32.586,90.811,7955,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,hour,P95,95 percentile,69.0,90.811,7955,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,hour,P98,98 percentile,84.0,90.811,7955,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2001,hour,Max,maximum,143.0,90.811,7955,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,day,P50,50 percentile,29.583,85.753,313,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,day,Mean,annual mean,32.767,85.753,313,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,day,P95,95 percentile,61.292,85.753,313,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,day,P98,98 percentile,79.042,85.753,313,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,day,Max,maximum,98.708,85.753,313,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,hour,P50,50 percentile,28.0,87.295,7647,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,hour,Mean,annual mean,32.818,87.295,7647,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,hour,P95,95 percentile,78.0,87.295,7647,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,hour,P98,98 percentile,96.0,87.295,7647,True
+DENW059,4,Total suspended particulates (aerosol),SPM,µg/m3,600,Calendar year,2002,hour,Max,maximum,299.0,87.295,7647,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,P50,50 percentile,23.417,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,Mean,annual mean,25.28,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,P95,95 percentile,49.417,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,P98,98 percentile,54.318,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,Max,maximum,73.833,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,Max36,36th highest value,40.917,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,Max8,8th highest value,54.318,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,day,Days(c > 50),days with c > 50 ug/m3,18.0,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,hour,P50,50 percentile,23.0,98.219,8604,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,hour,Mean,annual mean,25.299,98.219,8604,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,hour,P95,95 percentile,55.0,98.219,8604,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,hour,P98,98 percentile,67.0,98.219,8604,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2003,hour,Max,maximum,129.0,98.219,8604,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,P50,50 percentile,20.333,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,Mean,annual mean,22.737,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,P95,95 percentile,44.625,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,P98,98 percentile,53.958,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,Max,maximum,74.95,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,Max36,36th highest value,37.167,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,Max8,8th highest value,53.958,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,day,Days(c > 50),days with c > 50 ug/m3,10.0,98.634,361,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,hour,P50,50 percentile,20.0,98.588,8660,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,hour,Mean,annual mean,22.744,98.588,8660,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,hour,P95,95 percentile,51.0,98.588,8660,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,hour,P98,98 percentile,62.0,98.588,8660,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2004,hour,Max,maximum,284.0,98.588,8660,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,P50,50 percentile,19.792,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,Mean,annual mean,21.819,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,P95,95 percentile,39.417,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,P98,98 percentile,44.042,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,Max,maximum,68.167,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,Max36,36th highest value,35.458,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,Max8,8th highest value,44.042,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,day,Days(c > 50),days with c > 50 ug/m3,6.0,97.808,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,hour,P50,50 percentile,20.0,97.877,8574,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,hour,Mean,annual mean,21.743,97.877,8574,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,hour,P95,95 percentile,45.0,97.877,8574,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,hour,P98,98 percentile,56.0,97.877,8574,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2005,hour,Max,maximum,182.0,97.877,8574,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,P50,50 percentile,19.9,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,Mean,annual mean,22.645,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,P95,95 percentile,44.785,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,P98,98 percentile,62.058,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,Max,maximum,118.79,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,Max36,36th highest value,36.169,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,Max8,8th highest value,62.058,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,day,Days(c > 50),days with c > 50 ug/m3,12.0,96.712,353,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,hour,P50,50 percentile,19.5,97.432,8535,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,hour,Mean,annual mean,22.594,97.432,8535,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,hour,P95,95 percentile,50.55,97.432,8535,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,hour,P98,98 percentile,70.05,97.432,8535,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2006,hour,Max,maximum,199.3,97.432,8535,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,P50,50 percentile,18.208,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,Mean,annual mean,21.108,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,P95,95 percentile,40.375,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,P98,98 percentile,56.583,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,Max,maximum,77.682,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,Max36,36th highest value,36.042,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,Max8,8th highest value,56.583,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,day,Days(c > 50),days with c > 50 ug/m3,9.0,97.534,356,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,hour,P50,50 percentile,18.0,97.489,8540,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,hour,Mean,annual mean,21.093,97.489,8540,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,hour,P95,95 percentile,48.0,97.489,8540,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,hour,P98,98 percentile,62.0,97.489,8540,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2007,hour,Max,maximum,171.0,97.489,8540,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,P50,50 percentile,18.061,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,Mean,annual mean,19.449,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,P95,95 percentile,34.36,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,P98,98 percentile,46.196,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,Max,maximum,62.406,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,Max36,36th highest value,28.903,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,Max8,8th highest value,46.196,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,day,Days(c > 50),days with c > 50 ug/m3,4.0,97.541,357,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,hour,P50,50 percentile,17.716,96.152,8446,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,hour,Mean,annual mean,19.553,96.152,8446,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,hour,P95,95 percentile,40.232,96.152,8446,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,hour,P98,98 percentile,52.43,96.152,8446,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2008,hour,Max,maximum,315.22,96.152,8446,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,P50,50 percentile,18.092,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,Mean,annual mean,21.646,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,P95,95 percentile,39.391,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,P98,98 percentile,55.902,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,Max,maximum,127.673,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,Max36,36th highest value,33.806,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,Max8,8th highest value,55.902,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,day,Days(c > 50),days with c > 50 ug/m3,12.0,98.082,358,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,hour,P50,50 percentile,18.094,96.53,8456,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,hour,Mean,annual mean,21.756,96.53,8456,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,hour,P95,95 percentile,47.094,96.53,8456,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,hour,P98,98 percentile,68.649,96.53,8456,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2009,hour,Max,maximum,342.674,96.53,8456,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,P50,50 percentile,20.042,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,Mean,annual mean,21.752,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,P95,95 percentile,40.194,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,P98,98 percentile,53.848,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,Max,maximum,90.338,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,Max36,36th highest value,33.436,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,Max8,8th highest value,53.848,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,day,Days(c > 50),days with c > 50 ug/m3,8.0,95.89,350,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,hour,P50,50 percentile,19.13,96.142,8422,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,hour,Mean,annual mean,21.77,96.142,8422,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,hour,P95,95 percentile,46.01,96.142,8422,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,hour,P98,98 percentile,62.221,96.142,8422,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2010,hour,Max,maximum,165.64,96.142,8422,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,P50,50 percentile,19.303,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,Mean,annual mean,22.826,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,P95,95 percentile,47.544,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,P98,98 percentile,63.026,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,Max,maximum,104.441,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,Max36,36th highest value,38.059,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,Max8,8th highest value,63.026,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,day,Days(c > 50),days with c > 50 ug/m3,16.0,93.699,342,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,hour,P50,50 percentile,18.757,92.991,8146,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,hour,Mean,annual mean,22.745,92.991,8146,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,hour,P95,95 percentile,53.974,92.991,8146,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,hour,P98,98 percentile,72.533,92.991,8146,True
+DENW059,5,Particulate matter < 10 µm (aerosol),PM10,µg/m3,600,Calendar year,2011,hour,Max,maximum,567.494,92.991,8146,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,day,P50,50 percentile,21.167,78.904,288,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,day,Mean,annual mean,26.081,78.904,288,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,day,P95,95 percentile,64.708,78.904,288,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,day,P98,98 percentile,75.333,78.904,288,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,day,Max,maximum,95.292,78.904,288,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,P50,50 percentile,39.375,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,Mean,annual mean,49.994,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,P95,95 percentile,133.25,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,P98,98 percentile,148.0,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,Max,maximum,180.875,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,Max26,26th highest value,124.5,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,Days(c > 120),days with c > 120 ug/m3,27.0,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3790.0,77.808,284,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,P50,50 percentile,12.0,78.664,6891,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,Mean,annual mean,26.096,78.664,6891,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,P95,95 percentile,100.0,78.664,6891,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,P98,98 percentile,134.0,78.664,6891,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,Max,maximum,240.0,78.664,6891,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1989,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",15951.0,79.348,876,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,day,P50,50 percentile,23.583,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,day,Mean,annual mean,26.293,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,day,P95,95 percentile,56.958,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,day,P98,98 percentile,82.833,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,day,Max,maximum,101.875,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,P50,50 percentile,41.625,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,Mean,annual mean,49.936,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,P95,95 percentile,128.625,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,P98,98 percentile,161.75,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,Max,maximum,224.5,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,Max26,26th highest value,109.25,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,Days(c > 120),days with c > 120 ug/m3,21.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3136.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,P50,50 percentile,15.0,98.265,8608,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,Mean,annual mean,26.251,98.265,8608,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,P95,95 percentile,88.0,98.265,8608,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,P98,98 percentile,123.0,98.265,8608,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,Max,maximum,297.0,98.265,8608,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1990,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",10982.0,100.0,1104,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,day,P50,50 percentile,23.417,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,day,Mean,annual mean,25.619,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,day,P95,95 percentile,57.917,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,day,P98,98 percentile,69.167,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,day,Max,maximum,104.458,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,P50,50 percentile,41.75,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,Mean,annual mean,47.978,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,P95,95 percentile,117.0,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,P98,98 percentile,131.125,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,Max,maximum,165.625,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,Max26,26th highest value,103.25,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,Days(c > 120),days with c > 120 ug/m3,14.0,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2318.0,92.603,338,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,P50,50 percentile,14.0,94.806,8305,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,Mean,annual mean,25.998,94.806,8305,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,P95,95 percentile,89.0,94.806,8305,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,P98,98 percentile,116.0,94.806,8305,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,Max,maximum,197.0,94.806,8305,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1991,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",7313.0,95.743,1057,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,day,P50,50 percentile,21.958,96.175,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,day,Mean,annual mean,25.629,96.175,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,day,P95,95 percentile,60.833,96.175,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,day,P98,98 percentile,76.417,96.175,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,day,Max,maximum,101.25,96.175,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,P50,50 percentile,42.75,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,Mean,annual mean,49.243,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,P95,95 percentile,127.875,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,P98,98 percentile,142.125,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,Max,maximum,185.5,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,Max26,26th highest value,116.625,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,Days(c > 120),days with c > 120 ug/m3,22.0,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3027.0,95.355,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,P50,50 percentile,12.0,96.346,8463,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,Mean,annual mean,25.636,96.346,8463,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,P95,95 percentile,94.0,96.346,8463,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,P98,98 percentile,126.0,96.346,8463,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,Max,maximum,233.0,96.346,8463,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1992,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",14401.0,98.098,1083,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,day,P50,50 percentile,23.458,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,day,Mean,annual mean,26.238,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,day,P95,95 percentile,61.458,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,day,P98,98 percentile,76.652,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,day,Max,maximum,100.417,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,P50,50 percentile,43.125,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,Mean,annual mean,47.555,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,P95,95 percentile,113.375,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,P98,98 percentile,143.75,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,Max,maximum,197.125,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,Max26,26th highest value,100.125,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2187.0,95.89,350,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,P50,50 percentile,16.0,96.279,8434,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,Mean,annual mean,26.199,96.279,8434,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,P95,95 percentile,83.0,96.279,8434,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,P98,98 percentile,113.0,96.279,8434,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,Max,maximum,220.0,96.279,8434,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1993,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",9597.0,87.862,970,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,day,P50,50 percentile,25.75,96.438,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,day,Mean,annual mean,31.1,96.438,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,day,P95,95 percentile,73.083,96.438,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,day,P98,98 percentile,83.125,96.438,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,day,Max,maximum,114.083,96.438,352,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,P50,50 percentile,47.75,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,Mean,annual mean,56.488,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,P95,95 percentile,137.625,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,P98,98 percentile,166.125,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,Max,maximum,216.75,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,Max26,26th highest value,129.25,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,Days(c > 120),days with c > 120 ug/m3,34.0,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",4012.0,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,P50,50 percentile,20.0,97.534,8544,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,Mean,annual mean,31.074,97.534,8544,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,P95,95 percentile,102.0,97.534,8544,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,P98,98 percentile,138.0,97.534,8544,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,Max,maximum,260.0,97.534,8544,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1994,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",19537.0,98.279,1085,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,day,P50,50 percentile,20.75,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,day,Mean,annual mean,24.883,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,day,P95,95 percentile,59.375,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,day,P98,98 percentile,73.958,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,day,Max,maximum,123.125,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,P50,50 percentile,40.125,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,Mean,annual mean,47.367,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,P95,95 percentile,136.625,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,P98,98 percentile,153.75,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,Max,maximum,183.25,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,Max26,26th highest value,122.75,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,Days(c > 120),days with c > 120 ug/m3,26.0,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2964.0,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,P50,50 percentile,13.0,97.694,8558,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,Mean,annual mean,25.112,97.694,8558,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,P95,95 percentile,86.0,97.694,8558,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,P98,98 percentile,130.0,97.694,8558,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,Max,maximum,289.0,97.694,8558,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1995,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",14132.0,93.569,1033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,day,P50,50 percentile,20.0,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,day,Mean,annual mean,23.554,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,day,P95,95 percentile,57.042,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,day,P98,98 percentile,70.375,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,day,Max,maximum,86.542,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,P50,50 percentile,39.625,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,Mean,annual mean,43.87,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,P95,95 percentile,102.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,P98,98 percentile,123.125,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,Max,maximum,136.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,Max26,26th highest value,95.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,Days(c > 120),days with c > 120 ug/m3,9.0,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",1621.0,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,P50,50 percentile,13.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,Mean,annual mean,23.525,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,P95,95 percentile,79.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,P98,98 percentile,102.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,Max,maximum,168.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1996,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",4639.0,99.366,1097,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,day,P50,50 percentile,23.674,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,day,Mean,annual mean,26.567,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,day,P95,95 percentile,61.283,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,day,P98,98 percentile,71.196,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,day,Max,maximum,104.043,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,P50,50 percentile,45.0,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,Mean,annual mean,49.324,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,P95,95 percentile,120.562,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,P98,98 percentile,134.188,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,Max,maximum,161.357,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,Max26,26th highest value,105.071,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,Days(c > 120),days with c > 120 ug/m3,18.0,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2290.0,92.055,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,P50,50 percentile,15.5,91.701,8033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,Mean,annual mean,26.454,91.701,8033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,P95,95 percentile,84.5,91.701,8033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,P98,98 percentile,116.5,91.701,8033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,Max,maximum,197.5,91.701,8033,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1997,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",5744.0,95.109,1050,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,day,P50,50 percentile,24.826,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,day,Mean,annual mean,27.203,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,day,P95,95 percentile,63.283,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,day,P98,98 percentile,74.652,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,day,Max,maximum,97.696,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,P50,50 percentile,45.917,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,Mean,annual mean,48.026,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,P95,95 percentile,105.5,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,P98,98 percentile,139.5,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,Max,maximum,170.312,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,Max26,26th highest value,100.25,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,Days(c > 120),days with c > 120 ug/m3,11.0,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",1893.0,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,P50,50 percentile,19.0,94.623,8289,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,Mean,annual mean,27.137,94.623,8289,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,P95,95 percentile,77.5,94.623,8289,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,P98,98 percentile,105.5,94.623,8289,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,Max,maximum,208.5,94.623,8289,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1998,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",6688.0,96.649,1067,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,day,P50,50 percentile,29.438,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,day,Mean,annual mean,31.271,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,day,P95,95 percentile,66.425,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,day,P98,98 percentile,75.587,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,day,Max,maximum,88.674,94.795,346,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,P50,50 percentile,51.786,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,Mean,annual mean,55.902,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,P95,95 percentile,127.375,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,P98,98 percentile,134.438,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,Max,maximum,162.188,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,Max26,26th highest value,108.375,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,Days(c > 120),days with c > 120 ug/m3,23.0,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2879.0,93.151,340,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,P50,50 percentile,23.0,91.176,7987,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,Mean,annual mean,31.358,91.176,7987,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,P95,95 percentile,93.0,91.176,7987,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,P98,98 percentile,123.0,91.176,7987,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,Max,maximum,177.5,91.176,7987,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,1999,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8655.0,93.207,1029,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,day,P50,50 percentile,24.13,99.727,365,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,day,Mean,annual mean,27.595,99.727,365,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,day,P95,95 percentile,61.042,99.727,365,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,day,P98,98 percentile,72.87,99.727,365,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,day,Max,maximum,108.913,99.727,365,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,P50,50 percentile,44.562,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,Mean,annual mean,49.134,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,P95,95 percentile,109.375,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,P98,98 percentile,140.688,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,Max,maximum,160.375,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,Max26,26th highest value,100.938,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2072.0,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,P50,50 percentile,19.5,94.991,8344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,Mean,annual mean,27.548,94.991,8344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,P95,95 percentile,83.5,94.991,8344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,P98,98 percentile,111.0,94.991,8344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,Max,maximum,183.0,94.991,8344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2000,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8722.0,98.732,1090,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,day,P50,50 percentile,27.565,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,day,Mean,annual mean,29.158,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,day,P95,95 percentile,64.886,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,day,P98,98 percentile,77.696,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,day,Max,maximum,100.542,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,P50,50 percentile,46.688,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,Mean,annual mean,52.194,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,P95,95 percentile,128.562,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,P98,98 percentile,153.25,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,Max,maximum,199.5,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,Max26,26th highest value,120.562,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,Days(c > 120),days with c > 120 ug/m3,26.0,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3087.0,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,P50,50 percentile,20.0,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,Mean,annual mean,29.078,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,P95,95 percentile,90.5,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,P98,98 percentile,120.5,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,Max,maximum,241.5,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2001,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",10785.0,98.822,1091,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,day,P50,50 percentile,27.158,93.989,344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,day,Mean,annual mean,29.487,93.989,344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,day,P95,95 percentile,64.333,93.989,344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,day,P98,98 percentile,72.435,93.989,344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,day,Max,maximum,94.375,93.989,344,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,P50,50 percentile,47.125,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,Mean,annual mean,50.147,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,P95,95 percentile,114.125,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,P98,98 percentile,123.5,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,Max,maximum,164.75,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,Max26,26th highest value,103.5,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,Days(c > 120),days with c > 120 ug/m3,11.0,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2159.0,91.803,336,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,P50,50 percentile,22.0,91.53,8040,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,Mean,annual mean,29.396,91.53,8040,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,P95,95 percentile,86.0,91.53,8040,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,P98,98 percentile,112.0,91.53,8040,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,Max,maximum,220.0,91.53,8040,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2004,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",4236.0,98.913,1092,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,day,P50,50 percentile,27.217,97.808,357,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,day,Mean,annual mean,29.737,97.808,357,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,day,P95,95 percentile,61.458,97.808,357,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,day,P98,98 percentile,71.217,97.808,357,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,day,Max,maximum,97.826,97.808,357,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,P50,50 percentile,47.125,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,Mean,annual mean,51.796,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,P95,95 percentile,108.75,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,P98,98 percentile,126.0,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,Max,maximum,188.25,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,Max26,26th highest value,103.0,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,Days(c > 120),days with c > 120 ug/m3,8.0,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2134.0,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,P50,50 percentile,23.0,94.555,8283,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,Mean,annual mean,29.663,94.555,8283,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,P95,95 percentile,86.0,94.555,8283,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,P98,98 percentile,110.0,94.555,8283,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,Max,maximum,248.0,94.555,8283,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2005,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8806.0,98.37,1086,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,day,P50,50 percentile,33.348,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,day,Mean,annual mean,34.428,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,day,P95,95 percentile,76.13,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,day,P98,98 percentile,92.565,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,day,Max,maximum,121.913,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,P50,50 percentile,55.0,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,Mean,annual mean,57.583,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,P95,95 percentile,132.25,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,P98,98 percentile,150.875,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,Max,maximum,193.375,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,Max26,26th highest value,123.75,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,Days(c > 120),days with c > 120 ug/m3,30.0,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3541.0,96.164,351,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,P50,50 percentile,26.0,93.607,8200,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,Mean,annual mean,34.411,93.607,8200,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,P95,95 percentile,102.0,93.607,8200,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,P98,98 percentile,134.0,93.607,8200,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,Max,maximum,208.0,93.607,8200,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2006,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",21284.0,97.192,1073,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,day,P50,50 percentile,28.565,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,day,Mean,annual mean,30.786,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,day,P95,95 percentile,66.792,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,day,P98,98 percentile,81.826,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,day,Max,maximum,88.609,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,P50,50 percentile,50.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,Mean,annual mean,51.842,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,P95,95 percentile,113.625,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,P98,98 percentile,126.5,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,Max,maximum,159.25,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,Max26,26th highest value,109.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2285.0,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,P50,50 percentile,24.0,93.87,8223,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,Mean,annual mean,30.675,93.87,8223,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,P95,95 percentile,90.0,93.87,8223,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,P98,98 percentile,115.0,93.87,8223,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,Max,maximum,181.0,93.87,8223,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2007,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",5740.0,94.565,1044,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,day,P50,50 percentile,32.332,93.169,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,day,Mean,annual mean,32.614,93.169,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,day,P95,95 percentile,70.234,93.169,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,day,P98,98 percentile,74.332,93.169,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,day,Max,maximum,109.857,93.169,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,P50,50 percentile,51.453,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,Mean,annual mean,54.707,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,P95,95 percentile,116.321,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,P98,98 percentile,132.062,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,Max,maximum,175.668,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,Max26,26th highest value,104.799,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2612.0,89.344,327,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,P50,50 percentile,26.579,91.052,7998,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,Mean,annual mean,32.439,91.052,7998,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,P95,95 percentile,91.28,91.052,7998,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,P98,98 percentile,116.245,91.052,7998,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,Max,maximum,235.604,91.052,7998,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2008,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",13346.0,95.562,1055,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,day,P50,50 percentile,30.47,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,day,Mean,annual mean,31.544,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,day,P95,95 percentile,59.987,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,day,P98,98 percentile,65.212,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,day,Max,maximum,85.02,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,P50,50 percentile,51.305,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,Mean,annual mean,53.939,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,P95,95 percentile,106.605,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,P98,98 percentile,119.102,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,Max,maximum,140.719,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,Max26,26th highest value,102.06,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,Days(c > 120),days with c > 120 ug/m3,6.0,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2174.0,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,P50,50 percentile,25.675,91.404,8007,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,Mean,annual mean,31.461,91.404,8007,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,P95,95 percentile,89.551,91.404,8007,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,P98,98 percentile,107.845,91.404,8007,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,Max,maximum,178.028,91.404,8007,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2009,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",5689.0,97.826,1080,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,day,P50,50 percentile,24.782,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,day,Mean,annual mean,28.915,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,day,P95,95 percentile,66.175,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,day,P98,98 percentile,84.751,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,day,Max,maximum,113.338,93.425,341,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,P50,50 percentile,45.229,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,Mean,annual mean,51.17,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,P95,95 percentile,117.422,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,P98,98 percentile,147.701,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,Max,maximum,181.228,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,Max26,26th highest value,95.4,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2481.0,89.863,328,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,P50,50 percentile,21.606,91.119,7982,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,Mean,annual mean,29.188,91.119,7982,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,P95,95 percentile,87.322,91.119,7982,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,P98,98 percentile,119.403,91.119,7982,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,Max,maximum,220.256,91.119,7982,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2010,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",13131.0,96.83,1069,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,day,P50,50 percentile,24.682,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,day,Mean,annual mean,28.907,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,day,P95,95 percentile,65.247,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,day,P98,98 percentile,77.641,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,day,Max,maximum,109.757,93.973,343,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,P50,50 percentile,43.74,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,Mean,annual mean,50.423,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,P95,95 percentile,110.851,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,P98,98 percentile,124.206,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,Max,maximum,156.674,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,Max26,26th highest value,102.517,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,Days(c > 120),days with c > 120 ug/m3,15.0,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",1992.0,90.685,331,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,P50,50 percentile,22.4,91.279,7996,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,Mean,annual mean,28.893,91.279,7996,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,P95,95 percentile,86.059,91.279,7996,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,P98,98 percentile,113.107,91.279,7996,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,Max,maximum,197.302,91.279,7996,True
+DENW059,7,Ozone (air),O3,µg/m3,100,Calendar year,2011,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",7693.0,96.558,1066,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,day,P50,50 percentile,20.0,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,day,Mean,annual mean,23.554,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,day,P95,95 percentile,57.042,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,day,P98,98 percentile,70.375,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,day,Max,maximum,86.542,97.268,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,P50,50 percentile,39.625,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,Mean,annual mean,43.87,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,P95,95 percentile,102.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,P98,98 percentile,123.125,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,Max,maximum,136.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,Max26,26th highest value,95.5,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,Days(c > 120),days with c > 120 ug/m3,9.0,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",1621.0,96.721,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,P50,50 percentile,13.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,Mean,annual mean,23.525,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,P95,95 percentile,79.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,P98,98 percentile,102.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,Max,maximum,168.0,97.826,8593,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1996,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",4639.0,99.366,1097,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,day,P50,50 percentile,22.667,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,day,Mean,annual mean,25.73,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,day,P95,95 percentile,59.458,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,day,P98,98 percentile,70.083,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,day,Max,maximum,101.875,96.712,353,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,P50,50 percentile,44.875,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,Mean,annual mean,48.373,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,P95,95 percentile,120.125,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,P98,98 percentile,134.0,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,Max,maximum,158.875,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,Max26,26th highest value,106.0,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,Days(c > 120),days with c > 120 ug/m3,18.0,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2217.0,94.521,345,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,P50,50 percentile,15.0,97.329,8526,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,Mean,annual mean,25.785,97.329,8526,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,P95,95 percentile,82.0,97.329,8526,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,P98,98 percentile,114.0,97.329,8526,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,Max,maximum,197.0,97.329,8526,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1997,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",5657.0,97.283,1074,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,day,P50,50 percentile,24.375,100.0,365,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,day,Mean,annual mean,26.904,100.0,365,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,day,P95,95 percentile,61.125,100.0,365,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,day,P98,98 percentile,73.542,100.0,365,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,day,Max,maximum,97.917,100.0,365,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,P50,50 percentile,45.625,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,Mean,annual mean,47.501,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,P95,95 percentile,104.125,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,P98,98 percentile,139.375,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,Max,maximum,170.375,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,Max26,26th highest value,100.25,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,Days(c > 120),days with c > 120 ug/m3,11.0,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",1829.0,99.452,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,P50,50 percentile,19.0,99.669,8731,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,Mean,annual mean,26.939,99.669,8731,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,P95,95 percentile,76.0,99.669,8731,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,P98,98 percentile,105.0,99.669,8731,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,Max,maximum,208.0,99.669,8731,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1998,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",6742.0,99.185,1095,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,day,P50,50 percentile,29.75,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,day,Mean,annual mean,31.068,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,day,P95,95 percentile,66.625,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,day,P98,98 percentile,73.625,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,day,Max,maximum,86.5,95.616,349,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,P50,50 percentile,50.875,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,Mean,annual mean,55.571,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,P95,95 percentile,127.5,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,P98,98 percentile,136.125,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,Max,maximum,162.125,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,Max26,26th highest value,111.833,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,Days(c > 120),days with c > 120 ug/m3,24.0,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2864.0,95.068,347,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,P50,50 percentile,22.0,95.868,8398,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,Mean,annual mean,31.005,95.868,8398,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,P95,95 percentile,92.0,95.868,8398,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,P98,98 percentile,122.0,95.868,8398,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,Max,maximum,178.0,95.868,8398,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,1999,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8665.0,95.109,1050,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,day,P50,50 percentile,24.125,100.0,366,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,day,Mean,annual mean,27.411,100.0,366,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,day,P95,95 percentile,59.958,100.0,366,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,day,P98,98 percentile,72.833,100.0,366,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,day,Max,maximum,107.708,100.0,366,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,P50,50 percentile,44.5,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,Mean,annual mean,49.354,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,P95,95 percentile,109.5,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,P98,98 percentile,141.0,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,Max,maximum,160.625,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,Max26,26th highest value,101.75,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,Days(c > 120),days with c > 120 ug/m3,14.0,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2057.0,99.18,363,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,P50,50 percentile,20.0,99.613,8750,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,Mean,annual mean,27.389,99.613,8750,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,P95,95 percentile,83.0,99.613,8750,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,P98,98 percentile,110.0,99.613,8750,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,Max,maximum,183.0,99.613,8750,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2000,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8782.0,99.366,1097,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,day,P50,50 percentile,27.739,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,day,Mean,annual mean,29.338,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,day,P95,95 percentile,65.091,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,day,P98,98 percentile,78.0,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,day,Max,maximum,100.667,98.904,361,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,P50,50 percentile,46.875,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,Mean,annual mean,52.426,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,P95,95 percentile,128.75,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,P98,98 percentile,153.5,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,Max,maximum,199.75,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,Max26,26th highest value,120.75,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,Days(c > 120),days with c > 120 ug/m3,26.0,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",3111.0,96.986,354,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,P50,50 percentile,20.0,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,Mean,annual mean,29.257,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,P95,95 percentile,91.0,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,P98,98 percentile,121.0,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,Max,maximum,242.0,94.703,8296,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2001,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",10872.0,98.822,1091,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,day,P50,50 percentile,26.75,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,day,Mean,annual mean,29.741,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,day,P95,95 percentile,64.917,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,day,P98,98 percentile,74.875,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,day,Max,maximum,87.958,97.534,356,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,P50,50 percentile,48.25,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,Mean,annual mean,53.042,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,P95,95 percentile,110.625,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,P98,98 percentile,126.0,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,Max,maximum,156.286,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,Max26,26th highest value,107.0,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,Days(c > 120),days with c > 120 ug/m3,12.0,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",2518.0,97.26,355,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,P50,50 percentile,20.0,98.516,8630,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,Mean,annual mean,29.801,98.516,8630,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,P95,95 percentile,90.0,98.516,8630,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,P98,98 percentile,112.0,98.516,8630,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,Max,maximum,198.0,98.516,8630,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2002,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",8428.0,97.917,1081,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,day,P50,50 percentile,31.087,87.123,318,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,day,Mean,annual mean,35.521,87.123,318,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,day,P95,95 percentile,80.565,87.123,318,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,day,P98,98 percentile,95.652,87.123,318,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,day,Max,maximum,121.913,87.123,318,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,P50,50 percentile,55.875,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,Mean,annual mean,63.556,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,P95,95 percentile,140.375,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,P98,98 percentile,167.0,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,Max,maximum,205.75,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,Max26,26th highest value,130.375,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,Days(c > 120),days with c > 120 ug/m3,37.0,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,dymax,SOMO35,"SOMO35 (c > 70 ug/m3, year,corrected)",5180.0,85.753,313,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,P50,50 percentile,24.0,86.062,7539,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,Mean,annual mean,35.373,86.062,7539,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,P95,95 percentile,114.0,86.062,7539,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,P98,98 percentile,142.0,86.062,7539,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,Max,maximum,260.0,86.062,7539,True
+DENW059,7,Ozone (air),O3,µg/m3,600,Calendar year,2003,hour,AOT40,"AOT40 (c > 80 ug/m3,3 months,corrected)",15203.0,99.004,1093,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,day,P50,50 percentile,44.0,77.869,285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,day,Mean,annual mean,46.014,77.869,285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,day,P95,95 percentile,74.864,77.869,285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,day,P98,98 percentile,79.739,77.869,285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,day,Max,maximum,106.182,77.869,285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,P50,50 percentile,44.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,Mean,annual mean,46.312,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,P95,95 percentile,88.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,P98,98 percentile,106.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,Max,maximum,163.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,Max19,19th highest value,138.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1988,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,79.303,6966,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,day,P50,50 percentile,53.391,77.26,282,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,day,Mean,annual mean,54.302,77.26,282,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,day,P95,95 percentile,84.909,77.26,282,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,day,P98,98 percentile,99.217,77.26,282,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,day,Max,maximum,122.522,77.26,282,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,P50,50 percentile,50.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,Mean,annual mean,53.686,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,P95,95 percentile,107.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,P98,98 percentile,133.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,Max,maximum,245.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,Max19,19th highest value,178.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1989,hour,Hours(c > 200),hours with c > 200 ug/m3,5.0,79.235,6941,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,day,P50,50 percentile,47.7,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,day,Mean,annual mean,49.909,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,day,P95,95 percentile,80.042,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,day,P98,98 percentile,87.0,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,day,Max,maximum,118.261,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,P50,50 percentile,46.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,Mean,annual mean,49.724,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,P95,95 percentile,98.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,P98,98 percentile,122.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,Max,maximum,236.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,Max19,19th highest value,184.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1990,hour,Hours(c > 200),hours with c > 200 ug/m3,10.0,91.906,8051,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,day,P50,50 percentile,43.391,87.123,318,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,day,Mean,annual mean,44.806,87.123,318,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,day,P95,95 percentile,68.261,87.123,318,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,day,P98,98 percentile,74.913,87.123,318,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,day,Max,maximum,96.696,87.123,318,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,P50,50 percentile,43.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,Mean,annual mean,45.045,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,P95,95 percentile,83.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,P98,98 percentile,98.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,Max,maximum,160.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,Max19,19th highest value,132.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1991,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,85.468,7487,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,day,P50,50 percentile,37.174,97.268,356,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,day,Mean,annual mean,39.421,97.268,356,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,day,P95,95 percentile,61.826,97.268,356,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,day,P98,98 percentile,69.13,97.268,356,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,day,Max,maximum,98.478,97.268,356,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,P50,50 percentile,37.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,Mean,annual mean,39.322,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,P95,95 percentile,74.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,P98,98 percentile,88.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,Max,maximum,179.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,Max19,19th highest value,126.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1992,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,93.807,8240,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,day,P50,50 percentile,36.917,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,day,Mean,annual mean,37.984,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,day,P95,95 percentile,61.167,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,day,P98,98 percentile,65.458,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,day,Max,maximum,97.875,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,P50,50 percentile,36.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,Mean,annual mean,37.899,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,P95,95 percentile,71.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,P98,98 percentile,88.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,Max,maximum,157.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,Max19,19th highest value,126.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1993,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.582,8373,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,day,Mean,annual mean,37.794,98.904,361,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,day,P50,50 percentile,37.833,98.904,361,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,day,P95,95 percentile,57.333,98.904,361,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,day,P98,98 percentile,62.5,98.904,361,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,day,Max,maximum,72.458,98.904,361,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,P50,50 percentile,36.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,Mean,annual mean,37.817,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,P95,95 percentile,68.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,P98,98 percentile,81.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,Max,maximum,168.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,Max19,19th highest value,116.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1994,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,99.395,8707,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,day,P50,50 percentile,38.167,93.425,341,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,day,Mean,annual mean,39.904,93.425,341,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,day,P95,95 percentile,62.333,93.425,341,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,day,P98,98 percentile,68.5,93.425,341,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,day,Max,maximum,88.583,93.425,341,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,P50,50 percentile,38.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,Mean,annual mean,39.973,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,P95,95 percentile,74.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,P98,98 percentile,92.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,Max,maximum,186.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,Max19,19th highest value,140.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1995,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,94.84,8308,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,day,P50,50 percentile,38.375,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,day,Mean,annual mean,39.664,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,day,P95,95 percentile,61.0,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,day,P98,98 percentile,68.167,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,day,Max,maximum,86.417,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,P50,50 percentile,38.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,Mean,annual mean,39.632,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,P95,95 percentile,72.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,P98,98 percentile,84.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,Max,maximum,155.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,Max19,19th highest value,122.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1996,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,day,P50,50 percentile,33.114,95.89,350,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,day,Mean,annual mean,33.611,95.89,350,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,day,P95,95 percentile,50.109,95.89,350,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,day,P98,98 percentile,53.391,95.89,350,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,day,Max,maximum,68.283,95.89,350,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,P50,50 percentile,32.5,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,Mean,annual mean,33.545,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,P95,95 percentile,62.0,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,P98,98 percentile,72.0,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,Max,maximum,144.5,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,Max19,19th highest value,104.5,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,1999,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,92.523,8105,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,day,P50,50 percentile,33.087,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,day,Mean,annual mean,33.334,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,day,P95,95 percentile,52.022,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,day,P98,98 percentile,57.261,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,day,Max,maximum,64.152,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,P50,50 percentile,31.5,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,Mean,annual mean,33.296,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,P95,95 percentile,62.5,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,P98,98 percentile,74.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,Max,maximum,165.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,Max19,19th highest value,105.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2001,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,day,P50,50 percentile,32.391,82.514,302,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,day,Mean,annual mean,33.014,82.514,302,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,day,P95,95 percentile,54.636,82.514,302,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,day,P98,98 percentile,57.022,82.514,302,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,day,Max,maximum,70.087,82.514,302,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,P50,50 percentile,31.5,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,Mean,annual mean,33.19,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,P95,95 percentile,65.0,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,P98,98 percentile,79.5,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,Max,maximum,160.5,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,Max19,19th highest value,116.0,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2004,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,85.77,7534,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,day,P50,50 percentile,32.696,89.589,327,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,day,Mean,annual mean,33.712,89.589,327,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,day,P95,95 percentile,54.174,89.589,327,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,day,P98,98 percentile,59.435,89.589,327,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,day,Max,maximum,71.391,89.589,327,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,P50,50 percentile,31.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,Mean,annual mean,33.817,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,P95,95 percentile,65.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,P98,98 percentile,79.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,Max,maximum,172.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,Max19,19th highest value,114.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2005,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,88.664,7767,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,day,P50,50 percentile,33.087,81.37,297,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,day,Mean,annual mean,33.605,81.37,297,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,day,P95,95 percentile,57.391,81.37,297,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,day,P98,98 percentile,67.435,81.37,297,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,day,Max,maximum,87.391,81.37,297,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,P50,50 percentile,30.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,Mean,annual mean,33.435,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,P95,95 percentile,69.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,P98,98 percentile,84.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,Max,maximum,185.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,Max19,19th highest value,135.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2006,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,83.162,7285,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,day,P50,50 percentile,33.087,81.644,298,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,day,Mean,annual mean,34.168,81.644,298,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,day,P95,95 percentile,57.913,81.644,298,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,day,P98,98 percentile,70.0,81.644,298,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,day,Max,maximum,110.524,81.644,298,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,P50,50 percentile,31.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,Mean,annual mean,34.118,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,P95,95 percentile,72.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,P98,98 percentile,90.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,Max,maximum,197.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,Max19,19th highest value,140.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2007,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,83.836,7344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,day,P50,50 percentile,32.47,82.787,303,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,day,Mean,annual mean,34.371,82.787,303,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,day,P95,95 percentile,55.248,82.787,303,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,day,P98,98 percentile,61.815,82.787,303,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,day,Max,maximum,86.177,82.787,303,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,P50,50 percentile,31.08,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,Mean,annual mean,34.328,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,P95,95 percentile,70.65,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,P98,98 percentile,85.1,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,Max,maximum,181.295,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,Max19,19th highest value,126.641,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2008,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,84.153,7392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,day,P50,50 percentile,33.624,90.959,332,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,day,Mean,annual mean,34.555,90.959,332,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,day,P95,95 percentile,55.249,90.959,332,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,day,P98,98 percentile,61.22,90.959,332,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,day,Max,maximum,84.24,90.959,332,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,P50,50 percentile,30.925,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,Mean,annual mean,34.846,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,P95,95 percentile,71.011,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,P98,98 percentile,86.545,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,Max,maximum,157.145,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,Max19,19th highest value,121.181,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2009,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,90.685,7944,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,day,P50,50 percentile,34.92,80.274,293,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,day,Mean,annual mean,35.898,80.274,293,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,day,P95,95 percentile,58.887,80.274,293,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,day,P98,98 percentile,66.835,80.274,293,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,day,Max,maximum,84.13,80.274,293,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,P50,50 percentile,32.622,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,Mean,annual mean,35.497,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,P95,95 percentile,70.868,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,P98,98 percentile,89.593,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,Max,maximum,166.69,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,Max19,19th highest value,122.918,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2010,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,82.123,7194,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,day,P50,50 percentile,30.37,92.055,336,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,day,Mean,annual mean,31.862,92.055,336,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,day,P95,95 percentile,53.306,92.055,336,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,day,P98,98 percentile,61.001,92.055,336,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,day,Max,maximum,84.816,92.055,336,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,P50,50 percentile,28.624,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,Mean,annual mean,32.015,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,P95,95 percentile,68.17,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,P98,98 percentile,85.868,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,Max,maximum,172.608,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,Max19,19th highest value,134.473,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,100,Calendar year,2011,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,91.119,7982,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,day,P50,50 percentile,37.292,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,day,Mean,annual mean,38.267,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,day,P95,95 percentile,59.292,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,day,P98,98 percentile,63.333,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,day,Max,maximum,86.417,93.989,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,P50,50 percentile,36.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,Mean,annual mean,38.269,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,P95,95 percentile,72.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,P98,98 percentile,84.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,Max,maximum,155.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,Max19,19th highest value,122.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1996,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.537,8392,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,day,P50,50 percentile,36.167,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,day,Mean,annual mean,37.882,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,day,P95,95 percentile,60.476,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,day,P98,98 percentile,73.792,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,day,Max,maximum,108.0,95.068,347,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,P50,50 percentile,36.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,Mean,annual mean,37.921,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,P95,95 percentile,76.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,P98,98 percentile,95.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,Max,maximum,164.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,Max19,19th highest value,127.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1997,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,96.427,8447,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,day,P50,50 percentile,37.125,99.452,363,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,day,Mean,annual mean,37.841,99.452,363,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,day,P95,95 percentile,59.833,99.452,363,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,day,P98,98 percentile,68.875,99.452,363,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,day,Max,maximum,80.292,99.452,363,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,P50,50 percentile,36.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,Mean,annual mean,37.777,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,P95,95 percentile,70.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,P98,98 percentile,82.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,Max,maximum,178.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,Max19,19th highest value,115.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1998,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,99.406,8708,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,day,P50,50 percentile,33.292,96.712,353,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,day,Mean,annual mean,33.54,96.712,353,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,day,P95,95 percentile,50.167,96.712,353,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,day,P98,98 percentile,53.417,96.712,353,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,day,Max,maximum,67.625,96.712,353,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,P50,50 percentile,32.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,Mean,annual mean,33.487,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,P95,95 percentile,62.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,P98,98 percentile,72.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,Max,maximum,144.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,Max19,19th highest value,105.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,1999,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,97.123,8508,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,day,P50,50 percentile,31.042,94.536,346,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,day,Mean,annual mean,31.847,94.536,346,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,day,P95,95 percentile,49.75,94.536,346,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,day,P98,98 percentile,55.292,94.536,346,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,day,Max,maximum,66.375,94.536,346,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,P50,50 percentile,30.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,Mean,annual mean,31.867,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,P95,95 percentile,59.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,P98,98 percentile,70.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,Max,maximum,126.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,Max19,19th highest value,97.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2000,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.458,8385,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,day,P50,50 percentile,33.227,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,day,Mean,annual mean,33.57,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,day,P95,95 percentile,52.261,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,day,P98,98 percentile,57.522,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,day,Max,maximum,64.348,100.0,365,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,P50,50 percentile,32.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,Mean,annual mean,33.532,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,P95,95 percentile,63.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,P98,98 percentile,74.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,Max,maximum,165.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,Max19,19th highest value,105.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2001,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,95.046,8326,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,day,P50,50 percentile,32.583,94.247,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,day,Mean,annual mean,33.294,94.247,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,day,P95,95 percentile,52.292,94.247,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,day,P98,98 percentile,56.125,94.247,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,day,Max,maximum,63.042,94.247,344,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,P50,50 percentile,32.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,Mean,annual mean,33.415,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,P95,95 percentile,64.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,P98,98 percentile,75.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,Max,maximum,148.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,Max19,19th highest value,104.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2002,hour,Hours(c > 200),hours with c > 200 ug/m3,0.0,96.084,8417,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,day,P50,50 percentile,36.0,77.808,284,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,day,Mean,annual mean,36.135,77.808,284,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,day,P95,95 percentile,60.217,77.808,284,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,day,P98,98 percentile,67.957,77.808,284,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,day,Max,maximum,84.174,77.808,284,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,P50,50 percentile,33.0,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,Mean,annual mean,36.406,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,P95,95 percentile,77.0,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,P98,98 percentile,94.0,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,Max,maximum,213.0,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,Max19,19th highest value,142.0,78.562,6882,True
+DENW059,8,Nitrogen dioxide (air),NO2,µg/m3,600,Calendar year,2003,hour,Hours(c > 200),hours with c > 200 ug/m3,1.0,78.562,6882,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,day,P50,50 percentile,8.261,88.798,325,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,day,Mean,annual mean,9.076,88.798,325,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,day,P95,95 percentile,19.792,88.798,325,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,day,P98,98 percentile,24.167,88.798,325,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,day,Max,maximum,33.75,88.798,325,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,dymax,P50,50 percentile,12.5,82.24,301,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,dymax,Mean,annual mean,16.021,82.24,301,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,dymax,P95,95 percentile,36.875,82.24,301,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,dymax,P98,98 percentile,49.375,82.24,301,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,dymax,Max,maximum,66.25,82.24,301,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,hour,Mean,annual mean,9.026,90.449,7945,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,hour,P50,50 percentile,10.0,90.449,7945,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,hour,P95,95 percentile,25.0,90.449,7945,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,hour,P98,98 percentile,35.0,90.449,7945,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1988,hour,Max,maximum,105.0,90.449,7945,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,day,P50,50 percentile,1.083,96.164,351,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,day,Mean,annual mean,1.303,96.164,351,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,day,P95,95 percentile,2.5,96.164,351,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,day,P98,98 percentile,3.979,96.164,351,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,day,Max,maximum,7.5,96.164,351,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,dymax,P50,50 percentile,1.562,94.795,346,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,dymax,Mean,annual mean,2.199,94.795,346,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,dymax,P95,95 percentile,5.375,94.795,346,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,dymax,P98,98 percentile,8.938,94.795,346,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,dymax,Max,maximum,29.125,94.795,346,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,hour,P50,50 percentile,1.0,94.943,8317,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,hour,Mean,annual mean,1.3,94.943,8317,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,hour,P95,95 percentile,3.0,94.943,8317,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,hour,P98,98 percentile,5.0,94.943,8317,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,100,Calendar year,1989,hour,Max,maximum,17.0,94.943,8317,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,day,P50,50 percentile,0.383,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,day,Mean,annual mean,0.436,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,day,P95,95 percentile,0.896,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,day,P98,98 percentile,1.033,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,day,Max,maximum,1.692,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,dymax,P50,50 percentile,0.637,95.616,349,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,dymax,Mean,annual mean,0.7,95.616,349,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,dymax,P95,95 percentile,1.538,95.616,349,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,dymax,P98,98 percentile,1.788,95.616,349,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,dymax,Max,maximum,2.312,95.616,349,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,hour,P50,50 percentile,0.3,97.18,8513,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,hour,Mean,annual mean,0.436,97.18,8513,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,hour,P95,95 percentile,1.1,97.18,8513,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,hour,P98,98 percentile,1.6,97.18,8513,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,1999,hour,Max,maximum,4.6,97.18,8513,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,day,P50,50 percentile,0.267,97.814,358,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,day,Mean,annual mean,0.328,97.814,358,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,day,P95,95 percentile,0.708,97.814,358,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,day,P98,98 percentile,0.892,97.814,358,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,day,Max,maximum,1.233,97.814,358,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,dymax,P50,50 percentile,0.438,97.541,357,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,dymax,Mean,annual mean,0.542,97.541,357,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,dymax,P95,95 percentile,1.212,97.541,357,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,dymax,P98,98 percentile,1.525,97.541,357,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,dymax,Max,maximum,2.1,97.541,357,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,hour,P50,50 percentile,0.2,97.575,8571,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,hour,Mean,annual mean,0.328,97.575,8571,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,hour,P95,95 percentile,0.9,97.575,8571,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,hour,P98,98 percentile,1.2,97.575,8571,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2000,hour,Max,maximum,3.9,97.575,8571,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,day,P50,50 percentile,0.258,97.534,356,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,day,Mean,annual mean,0.367,97.534,356,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,day,P95,95 percentile,1.004,97.534,356,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,day,P98,98 percentile,1.283,97.534,356,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,day,Max,maximum,2.158,97.534,356,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,dymax,P50,50 percentile,0.425,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,dymax,Mean,annual mean,0.577,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,dymax,P95,95 percentile,1.487,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,dymax,P98,98 percentile,2.275,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,dymax,Max,maximum,2.825,96.438,352,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,hour,P50,50 percentile,0.2,96.815,8481,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,hour,Mean,annual mean,0.366,96.815,8481,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,hour,P95,95 percentile,1.1,96.815,8481,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,hour,P98,98 percentile,1.6,96.815,8481,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2001,hour,Max,maximum,4.5,96.815,8481,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,day,P50,50 percentile,0.242,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,day,Mean,annual mean,0.338,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,day,P95,95 percentile,0.738,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,day,P98,98 percentile,0.804,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,day,Max,maximum,1.633,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,dymax,P50,50 percentile,0.363,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,dymax,Mean,annual mean,0.53,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,dymax,P95,95 percentile,1.212,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,dymax,P98,98 percentile,1.275,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,dymax,Max,maximum,2.15,24.658,90,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,hour,P50,50 percentile,0.2,24.635,2158,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,hour,Mean,annual mean,0.338,24.635,2158,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,hour,P95,95 percentile,0.9,24.635,2158,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,hour,P98,98 percentile,1.2,24.635,2158,True
+DENW059,10,Carbon monoxide (air),CO,mg/m3,600,Calendar year,2002,hour,Max,maximum,3.0,24.635,2158,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1988,day,P50,50 percentile,0.13,26.23,96,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1988,day,Mean,annual mean,0.161,26.23,96,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1988,day,P95,95 percentile,0.33,26.23,96,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1988,day,P98,98 percentile,0.39,26.23,96,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1988,day,Max,maximum,0.67,26.23,96,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1989,day,P50,50 percentile,0.12,26.575,97,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1989,day,Mean,annual mean,0.146,26.575,97,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1989,day,P95,95 percentile,0.31,26.575,97,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1989,day,P98,98 percentile,0.48,26.575,97,True
+DENW059,12,Lead (aerosol),Pb,µg/m3,100,Calendar year,1989,day,Max,maximum,0.71,26.575,97,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1988,day,P50,50 percentile,0.001,25.956,95,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1988,day,Mean,annual mean,0.004,25.956,95,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1988,day,P95,95 percentile,0.008,25.956,95,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1988,day,P98,98 percentile,0.011,25.956,95,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1988,day,Max,maximum,0.16,25.956,95,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1989,day,P50,50 percentile,0.001,26.575,97,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1989,day,Mean,annual mean,0.001,26.575,97,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1989,day,P95,95 percentile,0.002,26.575,97,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1989,day,P98,98 percentile,0.003,26.575,97,True
+DENW059,14,Cadmium (aerosol),Cd,ng/m3,100,Calendar year,1989,day,Max,maximum,0.008,26.575,97,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,day,P50,50 percentile,16.333,99.452,363,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,day,Mean,annual mean,28.009,99.452,363,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,day,P95,95 percentile,83.625,99.452,363,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,day,P98,98 percentile,122.125,99.452,363,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,day,Max,maximum,294.85,99.452,363,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,hour,P50,50 percentile,8.0,99.406,8708,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,hour,Mean,annual mean,27.811,99.406,8708,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,hour,P95,95 percentile,116.0,99.406,8708,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,hour,P98,98 percentile,188.0,99.406,8708,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1998,hour,Max,maximum,753.0,99.406,8708,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,day,P50,50 percentile,14.75,96.986,354,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,day,Mean,annual mean,26.112,96.986,354,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,day,P95,95 percentile,81.417,96.986,354,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,day,P98,98 percentile,118.208,96.986,354,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,day,Max,maximum,189.667,96.986,354,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,hour,P50,50 percentile,6.0,97.352,8528,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,hour,Mean,annual mean,26.162,97.352,8528,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,hour,P95,95 percentile,120.0,97.352,8528,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,hour,P98,98 percentile,187.0,97.352,8528,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,1999,hour,Max,maximum,674.0,97.352,8528,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,day,P50,50 percentile,15.083,94.536,346,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,day,Mean,annual mean,22.768,94.536,346,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,day,P95,95 percentile,65.125,94.536,346,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,day,P98,98 percentile,85.75,94.536,346,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,day,Max,maximum,178.708,94.536,346,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,hour,P50,50 percentile,7.0,95.458,8385,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,hour,Mean,annual mean,22.993,95.458,8385,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,hour,P95,95 percentile,98.0,95.458,8385,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,hour,P98,98 percentile,153.0,95.458,8385,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2000,hour,Max,maximum,459.0,95.458,8385,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,day,P50,50 percentile,14.739,100.0,365,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,day,Mean,annual mean,27.508,100.0,365,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,day,P95,95 percentile,100.739,100.0,365,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,day,P98,98 percentile,160.136,100.0,365,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,day,Max,maximum,281.909,100.0,365,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,hour,P50,50 percentile,7.0,95.046,8326,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,hour,Mean,annual mean,27.329,95.046,8326,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,hour,P95,95 percentile,115.0,95.046,8326,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,hour,P98,98 percentile,202.0,95.046,8326,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2001,hour,Max,maximum,681.0,95.046,8326,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,day,P50,50 percentile,14.292,94.247,344,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,day,Mean,annual mean,23.36,94.247,344,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,day,P95,95 percentile,77.667,94.247,344,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,day,P98,98 percentile,94.667,94.247,344,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,day,Max,maximum,245.708,94.247,344,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,hour,P50,50 percentile,6.0,96.084,8417,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,hour,Mean,annual mean,23.385,96.084,8417,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,hour,P95,95 percentile,100.0,96.084,8417,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,hour,P98,98 percentile,156.0,96.084,8417,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2002,hour,Max,maximum,564.0,96.084,8417,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,day,P50,50 percentile,13.652,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,day,Mean,annual mean,23.944,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,day,P95,95 percentile,81.304,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,day,P98,98 percentile,96.739,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,day,Max,maximum,212.261,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,hour,P50,50 percentile,4.0,81.016,7097,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,hour,Mean,annual mean,24.618,81.016,7097,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,hour,P95,95 percentile,112.0,81.016,7097,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,hour,P98,98 percentile,184.0,81.016,7097,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2003,hour,Max,maximum,680.0,81.016,7097,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,day,P50,50 percentile,14.0,88.798,325,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,day,Mean,annual mean,24.825,88.798,325,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,day,P95,95 percentile,80.913,88.798,325,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,day,P98,98 percentile,115.19,88.798,325,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,day,Max,maximum,210.522,88.798,325,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,hour,P50,50 percentile,6.0,89.242,7839,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,hour,Mean,annual mean,25.013,89.242,7839,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,hour,P95,95 percentile,110.0,89.242,7839,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,hour,P98,98 percentile,173.0,89.242,7839,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2004,hour,Max,maximum,726.0,89.242,7839,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,day,P50,50 percentile,11.391,96.438,352,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,day,Mean,annual mean,21.937,96.438,352,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,day,P95,95 percentile,64.333,96.438,352,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,day,P98,98 percentile,122.0,96.438,352,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,day,Max,maximum,337.261,96.438,352,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,hour,P50,50 percentile,4.0,93.356,8178,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,hour,Mean,annual mean,22.112,93.356,8178,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,hour,P95,95 percentile,98.0,93.356,8178,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,hour,P98,98 percentile,170.0,93.356,8178,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2005,hour,Max,maximum,632.0,93.356,8178,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,day,P50,50 percentile,10.304,91.233,333,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,day,Mean,annual mean,19.956,91.233,333,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,day,P95,95 percentile,61.652,91.233,333,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,day,P98,98 percentile,134.957,91.233,333,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,day,Max,maximum,201.652,91.233,333,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,hour,P50,50 percentile,4.0,89.498,7840,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,hour,Mean,annual mean,20.12,89.498,7840,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,hour,P95,95 percentile,94.0,89.498,7840,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,hour,P98,98 percentile,162.0,89.498,7840,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2006,hour,Max,maximum,596.0,89.498,7840,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,day,P50,50 percentile,10.739,90.411,330,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,day,Mean,annual mean,21.163,90.411,330,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,day,P95,95 percentile,62.545,90.411,330,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,day,P98,98 percentile,75.87,90.411,330,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,day,Max,maximum,381.048,90.411,330,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,hour,P50,50 percentile,4.0,89.315,7824,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,hour,Mean,annual mean,21.356,89.315,7824,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,hour,P95,95 percentile,91.0,89.315,7824,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,hour,P98,98 percentile,140.0,89.315,7824,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2007,hour,Max,maximum,672.0,89.315,7824,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,day,P50,50 percentile,13.734,73.497,269,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,day,Mean,annual mean,21.341,73.497,269,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,day,P95,95 percentile,63.878,73.497,269,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,day,P98,98 percentile,83.249,73.497,269,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,day,Max,maximum,223.176,73.497,269,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,hour,P50,50 percentile,5.93,78.973,6937,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,hour,Mean,annual mean,20.489,78.973,6937,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,hour,P95,95 percentile,87.593,78.973,6937,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,hour,P98,98 percentile,146.883,78.973,6937,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2008,hour,Max,maximum,494.239,78.973,6937,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,day,P50,50 percentile,10.363,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,day,Mean,annual mean,17.966,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,day,P95,95 percentile,55.121,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,day,P98,98 percentile,94.787,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,day,Max,maximum,110.944,81.37,297,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,hour,P50,50 percentile,5.069,84.167,7373,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,hour,Mean,annual mean,17.66,84.167,7373,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,hour,P95,95 percentile,80.631,84.167,7373,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,hour,P98,98 percentile,130.347,84.167,7373,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2009,hour,Max,maximum,404.959,84.167,7373,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,day,P50,50 percentile,10.142,85.753,313,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,day,Mean,annual mean,18.187,85.753,313,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,day,P95,95 percentile,65.323,85.753,313,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,day,P98,98 percentile,87.158,85.753,313,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,day,Max,maximum,200.614,85.753,313,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,hour,P50,50 percentile,4.851,86.507,7578,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,hour,Mean,annual mean,17.545,86.507,7578,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,hour,P95,95 percentile,82.682,86.507,7578,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,hour,P98,98 percentile,127.861,86.507,7578,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2010,hour,Max,maximum,524.525,86.507,7578,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,day,P50,50 percentile,9.687,92.055,336,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,day,Mean,annual mean,16.859,92.055,336,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,day,P95,95 percentile,55.925,92.055,336,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,day,P98,98 percentile,81.655,92.055,336,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,day,Max,maximum,122.752,92.055,336,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,hour,P50,50 percentile,4.822,91.119,7982,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,hour,Mean,annual mean,16.838,91.119,7982,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,hour,P95,95 percentile,75.061,91.119,7982,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,hour,P98,98 percentile,121.716,91.119,7982,True
+DENW059,38,Nitrogen monoxide (air),NO,µg/m3,600,Calendar year,2011,hour,Max,maximum,494.475,91.119,7982,True

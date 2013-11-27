@@ -1,0 +1,36 @@
+station_european_code,component_code,component_name,component_caption,measurement_unit,measurement_european_group_code,statistics_period,statistics_year,statistics_average_group,statistic_shortname,statistic_name,statistic_value,statistics_percentage_valid,statistics_number_valid,statistics_calculated
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2005,var,Max,maximum,55.5,0.822,1,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2005,var,Mean,annual mean,55.5,0.822,1,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2005,var,P50,50 percentile,55.5,0.822,1,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2005,var,P95,95 percentile,55.5,0.822,1,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2005,var,P98,98 percentile,55.5,0.822,1,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2006,var,P50,50 percentile,55.5,96.929,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2006,var,Mean,annual mean,56.061,96.929,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2006,var,P95,95 percentile,61.6,96.929,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2006,var,Max,maximum,67.7,96.929,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2006,var,P98,98 percentile,67.7,96.929,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2010,var,Mean,annual mean,60.715,98.904,13,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2010,var,P50,50 percentile,62.35,98.904,13,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2010,var,P95,95 percentile,64.0,98.904,13,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2010,var,Max,maximum,64.2,98.904,13,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2010,var,P98,98 percentile,64.2,98.904,13,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2011,var,Mean,annual mean,60.487,100.0,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2011,var,P50,50 percentile,60.7,100.0,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2011,var,P95,95 percentile,66.9,100.0,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2011,var,Max,maximum,68.0,100.0,12,True
+DENW151,8,Nitrogen dioxide (air),NO2,µg/m3,520,Calendar year,2011,var,P98,98 percentile,68.0,100.0,12,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,Max,maximum,3.8,0.822,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P50,50 percentile,3.8,0.822,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P95,95 percentile,3.8,0.822,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,P98,98 percentile,3.8,0.822,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,var,Mean,annual mean,3.8,0.822,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,Max,maximum,2.2,100.0,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,Mean,annual mean,2.2,100.0,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P50,50 percentile,2.2,100.0,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P95,95 percentile,2.2,100.0,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2005,year,P98,98 percentile,2.2,100.0,1,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P50,50 percentile,2.1,96.929,12,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,Mean,annual mean,2.157,96.929,12,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P95,95 percentile,2.7,96.929,12,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,Max,maximum,3.8,96.929,12,True
+DENW151,20,Benzene (air),C6H6,µg/m3,520,Calendar year,2006,var,P98,98 percentile,3.8,96.929,12,True
