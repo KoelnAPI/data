@@ -1,0 +1,987 @@
+LSA_Nr_,Standort,X,Y
+00200,Militärringstr. - B51 / Schillingsrotter Weg,6.974862,50.89387
+00201,Zum Forstbotanischen Garten-B9 / Friedrich-Ebert-Str. - L92,6.982441,50.888789
+00202,Bonner Landstr. - L186 / BAB555,6.973405,50.867091
+00203,Godorfer Hauptstr. / Kiesgrubenweg / Bonner Landstr. - L186,6.973881,50.864518
+00204,Godorfer Hauptstr. - L186 / Otto-Hahn-Str.,6.974715,50.858165
+00205,Brühler Landstr. - B51 / Kapellenstr. / Karlscheurener Str. - L92,6.935417,50.877401
+00206,Brühler Landstr. - B51 / Am Kölnberg,6.928293,50.863578
+00207,Brühler Landstr. - B51 / Alte Fischenicher Str.,6.927394,50.861904
+00208,Brühler Landstr. - B51 / Militärringstr. - L34 / Brühler Str.,6.948357,50.894017
+00209,Militärringstr. - L34 / Oberer Komarweg,6.927575,50.895869
+00210,Militärringstr. - B51 / Bonner Str.,6.967328,50.892468
+00232,Industriestr. - B9 / Bunsenstr.,6.97914,50.849147
+00233,Industriestr. - B9 / Kerkrader Str. - L150,6.976905,50.84548
+00234,Industriestr. - B9 / Degussa,6.976648,50.84171
+00235,Kerkrader Str. L150 / Am Domenhof,6.973147,50.846048
+00236,Kerkrader Str.L150-Ost / BAB A555,6.969647,50.847183
+00237,Kerkrader Str.L150-West / BAB A555,6.966279,50.847794
+00241,Godorfer Hauptstr.-L186 / Ikea,6.974367,50.860785
+00250,Industriestr. / Zum forstbotanischem Garten / Schillingsrotter Str.,6.989422,50.883879
+00267,Kiesgrubenweg-L150 / Unter den Birken,6.988778,50.86709
+00268,Kiesgrubenweg-L150 / Emil-Hoffmann-Str. / Wattigniestr.,6.990671,50.86728
+00298,Militärringstr. - B51 / Leyboldstr.,6.980749,50.898001
+00299,Militärringstr. - B51 / Zum Forstbotanischem Garten,6.97623,50.894793
+00310,Militärringstr. - L34 / Unterer Komarweg,6.921123,50.899708
+00311,Militärringstr. - L34 / Berrenrather Str.,6.912229,50.906512
+00312,Militärringstr.-L34 / Gleueler Str.,6.895708,50.914703
+00325,Luxemburger Str. - B265 / BAB A4 - Ost,6.91047,50.899423
+00326,Luxemburger Str. - B265 / BAB A4 - West,6.90847,50.897429
+00328,Dürener Str. - B264 / BAB A1 - Ost / Max-Planck-Str. West,6.847436,50.918415
+00329,Dürener Str. - B264 / Autobahnmeisterei,6.845906,50.918084
+00330,Dürener Str. - B264 / BAB A1 - West,6.841759,50.917248
+00339,Dürener Str. / Kaserne Haelen,6.873765,50.923766
+00340,Dürener Str. - B264 / Stüttgenweg,6.875937,50.924184
+00345,Militärringstr. - L33 / Widdersdorfer Str.,6.876099,50.946377
+00415,Militärringstr. / Ollenhauerring,6.871648,50.976317
+00416,Militärringstr. / Buschweg,6.873934,50.983113
+00417,Militärringstr. - L34 / Johannesstr. - L93,6.884874,50.989657
+00430,Venloer Str. - B59 / BAB A1 Ost,6.853029,50.977329
+00431,Venloer Str. - B59 / BAB A1 West,6.849301,50.978557
+00432,Venloer Str. - B59n / Fa. Gugel,6.848711,50.978759
+00433,Venloer Str. - B59n / Gewerbegebiet,6.847632,50.979133
+00434,Venloer Str. - B59n / Planstr.,6.846204,50.979688
+00435,Venloer Str. - B59n / B59alt,6.839704,50.982448
+00443,Militärringstr. - L34 / Goldammerweg,6.868561,50.966489
+00444,Venloer Str. - B59 / Nattermannallee,6.858908,50.975667
+00462,Militärringstr. - L34 / Vogelsanger Str.,6.868379,50.958767
+00520,Militärringstr. - L34 / Volkhovener Weg,6.90228,50.998539
+00521,Militärringstr. - L34 / Mercatorstr. / Longericher Str.,6.912165,50.999937
+00540,Militärringstr. - L34 / Heimersdorfer Str.,6.905792,50.999681
+00543,Militärringstr. - L34 / Herforder Str.,6.927593,50.998495
+00563,Militärringstr. - L34 / Kaserne Lüttich,6.920772,50.999403
+00619,Sinnersdorfer Str. - L183 / AS Worringen,6.837187,51.039509
+00624,Am Baggerfeld - L93 / Chorbuschstr. - L93 / Weilerstr. - K7,6.85789,51.013105
+00650,Am Baggerfeld - L93 / Escher Str. / Bad,6.868993,51.006933
+00665,Neusser Landstr. - B9 / Bayer Dormagen - Süd,6.85586,51.072891
+00666,Neusser Landstr. - B9 / Bayer Dormagen - Nord,6.849658,51.080541
+00667,Parallelweg / Bayer Dormagen - Tor 5 / S-Bahn Hst.,6.839742,51.074013
+00671,Escher Str. - L93 / Donatusstr.,6.870484,51.004561
+00676,Neusser Landstr. - B9 / Stallagsbergweg  / Asternweg,6.917721,51.019365
+00677,Neusser Landstr. - B9 / Chrysanthemenweg,6.918662,51.018279
+00712,Frankfurter Str. / Schubertstr.,7.079824,50.888846
+00713,Frankfurter Str. - B8 / Alte Kölner Str. - L84,7.08104,50.88574
+00714,Maarhäuser Weg - L99 / Hansestr.,7.07071,50.909614
+00715,Steinstr. - L99 / Humboldtstr. / Frankenstr.,7.060702,50.903467
+00716,Steinstr. - L99 / Theodor-Heuss-Str. / Hohenstaufenstr.,7.058544,50.897356
+00717,Theodor-Heuss-Str. - L358 / Hansestr.,7.079385,50.904131
+00718,Theodor-Heuss-Str. - L358 / Rudolf-Diesel-Str.,7.076597,50.901613
+00719,Grengeler Mauspfad - L489 / Alte Kölner Str. - L84,7.10423,50.885794
+00720,Grengeler Mauspfad - L489 / Alte Kölner Str. - L84 Nord / Flughafen,7.104753,50.884318
+00721,Grengeler Mauspfad - L489 / Alte Kölner Str. - L84 Süd / Flughafen,7.105203,50.883005
+00722,Heidestr. - L489 / BAB A59,7.096817,50.858765
+00723,Bensberger Str. - L489 / Rösrather Str. - L284,7.107931,50.917276
+00727,Siegburger Str. - L82 / Am Weizenacker / Poller Damm,7.000504,50.911784
+00728,Siegburger Str. - L82 / BAB A4 - Nord,7.001949,50.910789
+00729,Siegburger Str. - L82 / BAB A4 - Süd,7.004216,50.909419
+00730,Kölner Str. - L82 / Porzer Ringstr.,7.011677,50.90704
+00732,Kölner Str. - L82 / Kaserne-Mudra,7.018389,50.905312
+00748,Frankfurter Str. - B8 / Friedensstr. / Friedrich-Hirsch-Str.,7.083094,50.87587
+00824,Lützerathstr. - L358 / Rather Mauspfad - L73,7.092977,50.929662
+00880,Olpener Str. - B55 / BAB A4 Refrath,7.097996,50.948231
+00931,Dellbrücker Mauspfad - L73 / Friedhof - Ost,7.072607,50.964542
+00970,Dünnwalder Mauspfad - L73 / Kalkweg / Am Wildpark,7.047444,50.992896
+00981,Düsseldorfer Str. - B8 / Carl Duisberg Bad / Otto - Bayer Str.,6.993149,51.011183
+00982,Düsseldorfer Str. - B8 / Pförtner Flittard O. / Bayer - Nord,6.994079,51.007707
+00983,Düsseldorfer Str. - B8 / Buschweg / Bayer - Süd,6.995001,51.004547
+00984,Düsseldorfer Str. - B8 / Roggendorfstr. / Grüner Kuhweg,6.996854,50.998392
+00985,Düsseldorfer Str. - B8 / Stammheimer Ring - L101 / Dünnwalder Kommunalweg,6.999456,50.989463
+00986,Düsseldorfer Str. - B8 / Höhenhauser Ring,6.999649,50.988213
+00987,Düsseldorfer Str. - B8 / Ricarda-Huch-Str. / Moses-Heß-Str.,6.999553,50.986098
+02418,Militärringstr. / Alte Escher Str.,6.891887,50.991967
+02518,Militärringstr. - L34 / BAB A57 - Ost,6.896423,50.994742
+02539,Militärringstr. - L34 / Lindweilerweg - K10,6.89831,50.996061
+05306,Lise-Meitner-Ring / Ottostr.,6.840229,50.952801
+05313,Militärringstr. - L34 / Friedrich-Schmidt-Str.,6.886276,50.934099
+05341,Dürener Str. / Salzburger Weg,6.870038,50.922991
+10157,Im Hasental / Alter Mühlenweg,6.977488,50.929503
+10386,Eifelplatz / Warnblinkanlage,6.944272,50.92396
+10399,Annostr. / Dreikönigenstr. / Schule,6.961415,50.924491
+11100,Troisdorfer Str. / Helenenwallstr.,6.972766,50.932415
+11101,Troisdorfer Str. - B55 / Severinsbrücke / Deutzer Ring,6.973594,50.932579
+11102,Gotenring / Severinsbrücke / Deutzer Ring,6.974531,50.931951
+11103,Gotenring / Gymnasium / Suevenstr.,6.976681,50.93309
+11104,Gotenring / Alarichstr.,6.977485,50.934281
+11106,Gotenring / Deutzer Freiheit / Deutz-Kalker Str.,6.977932,50.937039
+11107,Deutz-Kalker Str. / BAB - Östlicher Zubringer / L124,6.981522,50.93733
+11108,Opladener Str. / Ottoplatz / Neuhöfferstr.,6.975037,50.939821
+11109,Justinianstr. / Constantinstr.,6.978285,50.938881
+11110,Deutz-Mülheimer Str. / Barmer Str.,6.98054,50.941537
+11111,Deutz-Mülheimer Str. / Messe-Haupteingang,6.981624,50.942921
+11112,Deutz-Mülheimer Str. / Messekreisel - Süd / Wermelkircher Str.,6.982874,50.944146
+11113,Deutz-Mülheimer Str. / Messekreisel - Nord / Sporthallenweg,6.983451,50.945014
+11114,Deutz-Mülheimer Str. / Messekreisel - Ost / Pfälzischer Ring,6.983909,50.94438
+11164,Siegburger Str. / Troisdorfer Str.,6.971224,50.932096
+11165,Siegburger Str. / Teutonenstr.,6.97261,50.930368
+11167,Siegburger Str. / Kaltenborn Weg,6.977805,50.925755
+11168,Siegburger Str. / Poller Kirchweg,6.98053,50.923362
+11170,Siegburger Str. / Arminiusstr. / Von-Gablenz-Str.,6.970796,50.935394
+11171,Siegburger Str. / Deutzer Brücke / Deutzer Freiheit,6.971178,50.936735
+11173,Hermann-Pünder Str. / Mindener Str.,6.972478,50.939639
+11174,Ottoplatz / Auenweg,6.973517,50.939878
+11176,Auenweg / Messe-Vorplatz,6.973279,50.941786
+11182,Siegburger Str. - L82 / Im Hasental  / Alfred -Schütte- Allee,6.974945,50.928479
+11183,Siegburger Str. - L82 / Am Schnellert,6.983673,50.921492
+11190,Deutz-Kalker Str. / Gummersbacher Str.,6.983197,50.937344
+11191,Deutz-Mülheimer Str. / Opladener Str. / Justinianstr.,6.978835,50.939526
+11192,Deutz-Kalker Str. / Reitweg,6.986675,50.936326
+11193,Deutz-Kalker Str. / Betzdorfer Str.,6.989144,50.936674
+11195,Opladener Str. - L124 / Neue Ein/Ausfahrt,6.981799,50.939051
+12169,Zülpicher Str. / Fu. HS Dasselstrasse / Bhf. Süd,6.935455,50.928096
+12205,Konrad-Adenauer-Ufer  / Elsa-Brändstöm-Str.,6.970897,50.954175
+12206,Konrad-Adenauer-Ufer  / Worringer Str.,6.969308,50.952904
+12207,Konrad-Adenauer-Ufer  / Wörthstr.,6.967947,50.951764
+12208,Konrad-Adenauer-Ufer  / Theodor-Heuss-Ring,6.966216,50.949936
+12209,Konrad-Adenauer-Ufer  / Thürmchenswall,6.965223,50.948758
+12210,Konrad-Adenauer-Ufer  / Dagobertstr.,6.964133,50.947669
+12211,Konrad-Adenauer-Ufer  / Machabäerstr.,6.963289,50.945367
+12212,Konrad-Adenauer-Ufer  / Goldgasse,6.96258,50.94305
+12213,Am Alten Ufer / Goldgasse,6.96179,50.943221
+12214,Konrad-Adenauer-Ufer / Trankgasse,6.962337,50.941923
+12223,Riehler Str. / Elsa-Brändström-Str.,6.969027,50.955851
+12224,Riehler Str. / Riehler Platz,6.966675,50.954948
+12225,Riehler Str. / Reichenspergerplatz,6.963684,50.95381
+12226,Riehler Str. / Schillingstr. / Sedanstr.,6.960678,50.952118
+12227,Riehler Str. / Theodor-Heuss-Ring / Ebertplatz - Nord,6.959051,50.950949
+12228,Turiner Str. / Theodor-Heuss-Ring / Ebertplatz - Süd,6.958735,50.950124
+12229,Turiner Str. / Thürmchenswall,6.958404,50.949326
+12230,Turiner Str. / Machabäerstr.,6.957581,50.946636
+12231,Turiner Str. / Maximinenstr. / Ursulastr.,6.957059,50.945788
+12232,Tunisstr. / Victoriastr. / Ursulastr.,6.953425,50.944838
+12234,Tunisstr. / Breite Str. / Minoritenstr.,6.953342,50.939021
+12235,Tunisstr. / Glockengasse / Brückenstr.,6.953109,50.93836
+12236,Tunisstr. / Streitzeuggasse,6.952744,50.937363
+12242,Neusser Str. / Krefelder Wall / Neusser Platz,6.95665,50.955282
+12243,Neusser Str. / Weißenburgstr.,6.95725,50.954091
+12244,Neusser Str. / Balthasarstr.,6.957184,50.952959
+12245,Neusser Str. / Ebertplatz - Nord,6.957029,50.950858
+12246,Eigelstein / Ebertplatz - Süd,6.956846,50.950197
+12247,Turiner Str. / Unter Krahnenbäumen,6.957856,50.947524
+12249,Turiner Str. / Dagobertstr.,6.958131,50.948456
+12255,Victoriastr. / Eintrachtstr. / Kardinal-Frings-Str.,6.95197,50.945104
+12256,Victoriastr. / Klingelpütz,6.950433,50.945237
+12261,Magnusstr.  / Friesenwall,6.941129,50.940326
+12262,Magnusstr. / Alte Wallgasse / Römergasse,6.942833,50.939999
+12267,Am Domhof / Trankgasse,6.959628,50.941573
+12269,Trankgasse / Komödienstr. / Marzellenstr.,6.956062,50.941742
+12272,Tunisstr. / Unter Sachsenhausen,6.952759,50.942499
+12273,Unter Sachsenhausen  / Börsenplatz / Kattenbug,6.950908,50.94257
+12274,Christophstr. / Mohrenstr. / Klingelpütz,6.947485,50.943233
+12277,Hülchrather Str. / Weißenburgstr.,6.961289,50.953967
+12281,Tunisstr. / Komödienstr.,6.952828,50.941415
+12283,An der Burgmauer / Neven-DuMont-Str.,6.950347,50.941169
+12284,Zeughausstr. / Mohrenstr. / Auf dem Berlich,6.947822,50.941143
+12285,St.- Apern-Str. / Magnusstr.,6.946085,50.940923
+12286,Magnusstr. / Albertusstr.,6.944242,50.94014
+12301,Am Leystapel / Heumarkt / Marksmansgasse,6.96312,50.93503
+12302,Am Leystapel / Filzengraben,6.963093,50.933799
+12303,Am Leystapel / Große Witschgasse / Schokoladenmuseum,6.962967,50.932497
+12304,Holzmarkt / Kleine Witschgasse / Severinsbrücke,6.962627,50.931186
+12305,Holzmarkt / Mechtildisstr. / Rosenstr.,6.962763,50.928518
+12306,Bayenstr. / Dreikönigenstr.,6.965307,50.925201
+12307,Am Bayenturm / Ubierring - Nord / Wender TG,6.966849,50.922883
+12308,Agrippinaufer / Ubierring-Süd / Maternusstr.,6.967299,50.921928
+12309,Agrippinaufer / Gustav-Heinemann-Ufer / Südbrücke,6.97028,50.916348
+12315,Im Sionstal / Mechtildisstraße,6.960593,50.928412
+12321,Nord-Süd-Fahrt / Agrippastr. / Neuköllner Str.,6.953389,50.933311
+12322,Neuköllner Str. / Großer Griechenmarkt,6.953682,50.932662
+12323,Neuköllner Str. / Blaubach / Tel-Aviv-Straße,6.954133,50.931761
+12324,Ulrichgasse / Ankerstr.,6.955564,50.92737
+12325,Ulrichgasse / Paulstr.,6.954725,50.926643
+12326,Ulrichgasse / Kartäusergasse / Vor den Siebenburgen,6.95383,50.925842
+12327,Ulrichgasse / Kartäuserwall,6.952847,50.92452
+12328,Ulrichgasse / Ulrepforte / Sachsenring-Nord-Süd,6.952458,50.923954
+12330,Vorgebirgstr. / Lothringer Str.,6.952076,50.922853
+12332,Vorgebirgstr. / Volksgartenstr.,6.951055,50.921037
+12333,Vorgebirgstr. / Bonner Wall,6.949814,50.918961
+12341,Hohenstaufenring / Zülpicher Str. / Jahnstr.,6.940719,50.931105
+12342,Barbarossaplatz-Nord / Hohenstaufenring / Roonstr.,6.941614,50.92926
+12343,Barbarossaplatz-Süd / Salierring / Pfälzer Str.,6.942597,50.928384
+12344,Salierring / Am Weidenbach / Am Duffesbach,6.94509,50.926985
+12345,Salierring / Eifelstr. / Waisenhausgasse,6.946687,50.926195
+12346,Karolingerring / Brunostr.,6.95654,50.922163
+12347,Ubierring / Alteburger Str.,6.9618,50.921465
+12348,Ubierring / Mainzer Str. / An der Bottmühle,6.963397,50.921851
+12351,Mühlenbach / Filzengraben / An der Malzmühle,6.959447,50.933586
+12352,Blaubach / Waidmarkt / Polizeipräsidium,6.956203,50.932786
+12353,Rothgerberbach / Perlengraben,6.951451,50.930713
+12354,Rothgerberbach / Neue Weyerstr. / Am Weidenbach,6.94726,50.930204
+12355,Neue Weyerstr. / Pantaleonswall,6.943106,50.929711
+12363,Heumarkt / Pipinstr. / Malzmühle,6.960443,50.935278
+12387,Zülpicher  Str. / Zülpicher  Platz / Roonstr.,6.939309,50.930271
+12388,Zülpicher Str.. / Moselstr. / Kyffhäuserstr.,6.936267,50.928549
+12393,Poststr. / Großer Griechenmarkt,6.950031,50.931801
+12394,Bonner Str. / Bonner Wall / Alteburger Wall,6.960985,50.916377
+12398,Agrippinaufer / Oberländer Wall,6.969099,50.918408
+12401,Innere Kanalstr. / Krefelder Str. / Merheimer Str.,6.949909,50.955598
+12402,Krefelder Str. / Krefelder Wall / Aquinostr.,6.951364,50.952916
+12404,Krefelder Str. / Maybachstr. / Lübecker Str.,6.952716,50.950119
+12405,Innere Kanalstr. / Escher Str.,6.947982,50.954825
+12407,Kaiser-Wilhelm-Ring / Goebenstr.,6.941191,50.943925
+12408,Hansaring - B9 / Kaiser-Wilhelm-Ring / Hermann-Becker-Str.,6.943312,50.945351
+12409,Hansaring - B9 / Von-Werth-Str.,6.945091,50.946135
+12410,Hansaring - B9 / Lübecker Str.,6.954772,50.949823
+12411,Hansaring - B9 / Krefelder Str.,6.953051,50.949253
+12412,Hansaring - B9 / Ritterstr. / Schule,6.951002,50.948523
+12413,Hansaring - B9 / Bremer Str. / Adolf-Fischer-Str.,6.948292,50.94753
+12414,Hansaring - B9 / Am Kümpchenshof,6.945866,50.946471
+12415,Kaiser-Wilhelm-Ring / Gladbacher Str. / Christophstr.,6.942691,50.944607
+12430,Christophstr. / Probsteigasse / Gereonskloster,6.944869,50.943856
+12431,Christophstr. / Von-Werth-Str.,6.94372,50.944204
+12432,Gladbacher Str. / Spichernstr.,6.940371,50.945572
+12433,Gladbacher Str. / Erftstr. / Schule,6.937859,50.946599
+12434,Subbelrather Str. / Herkulesstr.,6.935615,50.947507
+12448,Erftstr. / Im Mediapark,6.940697,50.94647
+12450,Kyotostr. / Gereonswall / Am Kümpchenshof,6.946799,50.945661
+12451,Am Kümpchenshof / Maybachstr.,6.945052,50.947173
+12452,Erftstr. / Maybachstr. / Hermann-Becker-Str.,6.942858,50.946303
+12453,Erftstr. / Spichernstr.,6.941674,50.946382
+12454,Spichernstr. / Gilbachstr. / Goebenstr.,6.939134,50.944783
+12458,Roonstr. - B55 / Beethovenstr. / Rathenauplatz,6.936945,50.931567
+12466,Venloer Str. / Hans - Böckler - Platz / Ludolf-Camphausen-Str.,6.933087,50.943482
+12502,Luxemburger Str. / Moselstr.,6.939343,50.927017
+16416,Kaiser-Wilhelm-Ring / Bismarckstr.,6.940537,50.942524
+16417,Hohenzollernring / Friesenplatz Friesenstr. / Im Klapperhof,6.939988,50.940562
+16418,Hohenzollernring / Flandrische Str.,6.939402,50.938473
+16421,Habsburgerring / Hohenstaufenring / Lindenstr.,6.939223,50.934654
+16422,Hohenstaufenring / Mozartstr. / Schaevenstr.,6.93987,50.933098
+16455,Bismarckstr. / Brüsseler Str.,6.934866,50.941146
+16457,Roonstr. - B55 / Lindenstr. / Mozartstr.,6.934427,50.932989
+16462,Venloer Str. - B59 / Friesenplatz / Kamekestr.,6.937945,50.940972
+16463,Bismarckstr. / Kamekestr.,6.937847,50.942126
+16464,Venloer Str. - B59 / Bismarckstr.,6.936425,50.941792
+16465,Venloer Str. - B59 / Spichernstr. / Brüsseler Str.,6.935538,50.942249
+16472,Vogelsanger Str. / Moltkestr. / Bismarckstr.,6.932629,50.940205
+16473,Vogelsanger Str. / Ludolpf-Camphausen-Str. / Schmalbeinstr.,6.930897,50.940686
+16474,Roonstr. - B55 / Moltkestr. / Lützowstr.,6.932571,50.934101
+16475,Lindenstr. / Lützowstr. / Dasselstr.,6.932559,50.931867
+16501,Luxemburger Str. / Trierer Str.,6.939764,50.927455
+16503,Luxemburger Str. / Eifelwall / Luxemburger Wall,6.937341,50.925119
+16595,Heumarkt / Augustinerstr. / Gürzenichstr.,6.960337,50.935809
+16596,Cäcilienstr. / Augustinerstr. / Kleine Sandkaul,6.958046,50.935388
+16597,Cäcilienstr. / Hohe Str. / Große Sandkaul,6.956222,50.935114
+16598,Cäcilienstr. / An St.Agatha,6.9542,50.93504
+16599,Cäcilienstr. / Nord-Süd-Fahrt,6.953162,50.935211
+16600,Cäcilienstr. / Antonsgasse,6.952199,50.935308
+16601,Cäcilienstr. / Kronengasse,6.950098,50.935386
+16602,Neumarkt - Ost / Fleischmengergasse,6.948996,50.935553
+16603,Neumarkt - Nord / Richmodstr.,6.947529,50.936407
+16604,Neumarkt / Remagen,6.947028,50.935681
+16605,Neumarkt - West / Hahnenstr. / Im Laach,6.945811,50.935844
+16606,Hahnenstr. / Apostelnkloster / Marsilstein,6.944188,50.935887
+16607,Hahnenstr. / Benesisstr.,6.942578,50.935841
+16608,Hahnenstr. / Pilgrimstr.,6.940169,50.935612
+16609,Hohenzollernring / Aachener Str. / Rudolfplatz,6.938912,50.936415
+16610,Habsburgerring / Richard-Wagner-Str.,6.93904,50.935391
+16611,Aachener Str. / Flandrische Str. / Brabanter Str.,6.937628,50.936515
+16612,Richard-Wagner Str. - L111 / Händelstr.,6.936836,50.935397
+16613,Aachener Str. / Brüsseler Str.,6.934626,50.936539
+16614,Richard-Wagner Str. - L111 / Brüsseler Str.,6.934548,50.935452
+16615,Aachener Str. / Moltkestr.,6.93262,50.936554
+16616,Richard-Wagner Str. - L111 / Moltkestr.,6.932585,50.935485
+16617,Richard Wagner Str. / Aachener Weiher,6.92899,50.936434
+19389,Höninger Weg / Eifelstr. / Eifelwall,6.942065,50.921973
+19801,Deutz-Kalker-Str. / Deutzer Ring,6.992944,50.936759
+19871,Deutzer Ring / Gießener Str.,6.992552,50.93571
+19872,Deutzer Ring / Kannebäckerstr.,6.989272,50.931934
+20003,Bonner Str. / Brühler Str. / Schönhauser Str.,6.962495,50.910908
+20005,Bonner Str. / Cäsarstr. / Schule,6.963553,50.907151
+20006,Bonner Str. / Annastr.,6.964084,50.905349
+20007,Bonner Str. / Bayenthalgürtel / Raderberggürtel,6.964555,50.903732
+20008,Bonner Str. / Gaedestr. / Marienburger Str.,6.965582,50.900338
+20009,Bonner Str. / Leyboldstr. / Sinziger Str.,6.966168,50.897859
+20010,Bonner Str. / Lindenallee,6.96702,50.89469
+20020,Brühler Str. / Rheinsteinstr.,6.96011,50.907728
+20021,Brühler Str. / Stahleckstr.,6.958259,50.90555
+20026,Brühler Landstr. - B51 / Höningen,6.940281,50.884653
+20049,Pohligstr. / Berlin-Kölnische Allee / Weyerstraßerweg,6.939668,50.917732
+20056,Höninger Weg / Höninger Platz,6.943529,50.901289
+20060,Zollstockgürtel / Neuer Weyerstraßer Weg/ Bernkasteler Str.,6.935727,50.907024
+20061,Zollstockgürtel / Kalscheurer Weg,6.939509,50.905586
+20062,Raderthalgürtel/Leichweg,6.948666,50.90423
+20063,Raderthalgürtel / Raderthaler Str.,6.954252,50.903863
+20064,Raderberggürtel / Deutsche Welle / Schule,6.959727,50.903762
+20065,Raderberggürtel / Mertener Str.,6.962714,50.903733
+20066,Bayenthalgürtel / Schillerstr. / Goethestr.,6.969173,50.904193
+20067,Bayenthalgürtel / Goltsteinstr. / Pferdmengesstr.,6.971477,50.904632
+20070,Alteburger Str. / Schönhauser Str.,6.967918,50.912751
+20071,Koblenzer Str. / Schönhauser Str.,6.967175,50.912515
+20074,Oberländer Ufer / Militärringstr. - L34 / Heinrich-Lübke-Ufer,6.98433,50.900704
+20075,Gottesweg / Ferdinand-Schmitz-Str.,6.943541,50.910667
+20076,Kalscheurer Weg / Vochemer Str. / Schule,6.937986,50.903449
+20078,Rodenkirchener Str. Rd. / Lerchenweg / Adlerstr.,6.960665,50.877581
+20100,Hauptstr. / Frankstr. / Kirche,6.991735,50.895696
+20103,Weißer Str. / Siegfriedstr. / Schule,7.000041,50.888857
+20105,Weißer Str. / Grüngürtelstr.,7.00551,50.884773
+20106,Weißer Str. / Hammerschmidtstr. - K30 / Adolf-Menzel-Str.,7.014395,50.881002
+20115,Sürther Str. - K28 / Moselstr.,6.999781,50.883384
+20116,Sürther Str. - K28 / Grüngürtelstr.,7.000656,50.882406
+20118,Sürther Str. - K28 / Eygelshovener Str. / Schule - Zentrum,7.0037,50.877238
+20120,Sürther Str. - K28 / Kölnstr. / Am Feldrain,7.005139,50.87024
+20121,Sürther Hauptstr. / Kölnstr. / Schule,7.012483,50.865105
+20122,Industriestr. Süd / Wattigniesstr. / Am Feldrain,7.001775,50.869408
+20123,Industriestr. Nord / Wattigniesstr.,7.000096,50.870159
+20124,Industriestr. - B9 / Ober Buschweg / Emil-Hoffmann-Str.,6.997198,50.865481
+20131,Schillingsrotter Str. / Römerstr.,6.990376,50.885415
+20132,Sürther Str. / Siegfriedstr.,6.99783,50.887806
+22004,Bonner Str. / Mathiaskirchplatz,6.963075,50.908818
+22023,Brühler Str. / Raderthalgürtel / Raderberggürtel,6.956732,50.903765
+22024,Brühler Str. / Markusstr. / Urfelder Str.,6.953782,50.90031
+22039,Vorgebirgstr. / Bischofsweg,6.948633,50.916958
+22310,Gustav-Heinemann-Ufer / Schönhauser Str.,6.971778,50.913988
+22311,Gustav-Heinemann-Ufer / Tacitusstr.,6.974068,50.910903
+22312,Gustav-Heinemann-Ufer / Bayenthalgürtel,6.977092,50.907425
+22313,Gustav-Heinemann-Ufer / An der Alteburger Mühle,6.979954,50.904504
+22314,Oberländer Ufer / Marienburger Str.,6.981357,50.903281
+25027,Brühler Landstr. - B51 / Schulstr.,6.92707,50.861192
+25028,Brühler Landstr. - B51 / Alte Köln Str.,6.926539,50.860414
+25029,Brühler Landstr. - B51 / Auf dem Rosenhügel / Kindergarten,6.925244,50.859548
+25030,Brühler Landstr. - B51 / Auf der Ronne / Alte Brühler Str.,6.923026,50.856541
+25080,Am Eifeltor / BAB Nord / GVZ,6.925857,50.892682
+25081,Am Eifeltor / BAB Süd / GVZ,6.924575,50.890238
+25082,Am Eifeltor / Zufahrt 1 / GVZ,6.923966,50.888766
+25083,Am Eifeltor / Zufahrt 3 / Zollstocker Weg -ehmals,6.922457,50.882674
+25084,Am Eifeltor / Zufahrt 4 / Zollstocker Weg -ehmals,6.920314,50.880892
+25085,Am Eifeltor / Zufahrt 5 / Zollstocker Weg -ehmals,6.917621,50.879162
+25101,Hauptstr. / Maternusstr. / Barbarastr.,6.994734,50.893288
+25102,Hauptstr. / Weißer Str. / Sürther Str.,6.997421,50.891096
+25104,Weißer Str. / Siegstr.,7.002372,50.886796
+25107,Heinrichstr. / Müller-Armack-Str. / Schule,7.027204,50.87412
+25110,Ringstr. - K28 / Maternusstr. / Brückenstr.,6.990402,50.891544
+25111,Ringstr. - K28 / Schillingsrotter Str.,6.992216,50.889822
+25112,Ringstr. - K28 / Siegfriedstr. / Rotterbergstr.,6.996352,50.887064
+25117,Sürther Str. - K28 / Michaelshovener Str. / Martinsweg,7.003397,50.87808
+25130,Friedrich-Ebert-Str. / Römerstr. / Konrad-Adenauer-Str. - K26,6.986877,50.890649
+27025,Brühler Str. / Truppenamt,6.950526,50.896576
+27040,Vorgebirgstr. / Am Vorgebirgstor,6.947363,50.914902
+27041,Vorgebirgstr. / Herthastr. / Homburger Str.,6.945934,50.912475
+27042,Vorgebirgstr. / Gottesweg / Zollstockweg,6.945702,50.910264
+27043,Vorgebirgstr. / Bodendorfer Str. / Bad,6.9456,50.908233
+27044,Vorgebirgstr. / Roisdorfer Str. / Schwalbacher Str.,6.945532,50.905569
+27045,Vorgebirgstr. / Zollstockgürtel / Raderthalgürtel,6.945452,50.904557
+29050,Höninger Weg / Am Vorgebirgstor / Pohligstr.,6.941642,50.916913
+29052,Höninger Weg / Gottesweg,6.941689,50.910818
+29053,Höninger Weg / Bernkasteler Str. / Zollstocksweg,6.941195,50.909518
+29054,Höninger Weg / Kalscheurer Weg / Walberberger Str.,6.941402,50.907872
+29055,Höninger Weg / Zollstockgürtel,6.942167,50.904944
+30000,Hauptstr. - K5 / Neue Sandkaul / Alte Sandkaul,6.834321,50.966343
+30001,Hauptstr. - K5 / Leonardsgasse - K6 / Blaugasse,6.828493,50.964442
+30002,Brauweilerstr. - L213 / Zaunstr. / Karl-Kaulen-Str.,6.829562,50.946852
+30003,Brauweilerstr. - L213 / Kölner Str.,6.830664,50.945622
+30004,Brauweilerstr. - L213 / Moltkestr.,6.831289,50.944763
+30005,Kölner Str. / Otterweg / Schule - Johanniter,6.834906,50.94658
+30006,Belvederestr. / Gregor-Mendel-Ring,6.864771,50.952578
+30100,Stolberger Str. / Maarweg,6.89868,50.941891
+30102,Stolberger Str. / Linnicher Str. / Kindergarten,6.885073,50.94301
+30104,Alter Militärring  / Wendelinstr.,6.879419,50.940966
+30107,Widdersdorfer Str. / Vitalisstr.,6.885978,50.947337
+30111,Brauweilerstr. / Bahnstr. / Goethestr.,6.834496,50.942673
+30117,Kirchweg / Frankenstr. / Am Römerhof,6.866322,50.937247
+30121,Ostlandstr. / Breslauer Str. / Diepenbeekallee,6.84333,50.935482
+30122,Ostlandstr. / Göttinger Str. / Stettiner Weg,6.839889,50.935605
+30123,Ostlandstr. / An der Alten Post,6.833029,50.935669
+30124,Grüner Weg / Am Kliepesch / Frechener Weg - K6,6.826721,50.935933
+30127,Widdersdorfer Str. / Handelshof,6.88182,50.947516
+30131,Dürener Str. - B264 / Hans-Sachs-Str. / Schallstr.,6.918164,50.931366
+30137,Dürener Str. - B264 / Militärringstr. - L35,6.890396,50.924688
+30142,Horbeller Str. - L92 / Toyota-Allee,6.859163,50.915392
+30145,Bachemer Str. / Lindenburger Allee,6.915593,50.927988
+30150,Bachemer Str. / Weyertal,6.922998,50.930591
+30151,Bachemer Str. / Hans-Sachs-Str.,6.921408,50.930402
+30154,Gleueler Str. / Lindenburger Allee / Schule,6.915827,50.926025
+30156,Gleueler Str. / Freiligratherstr.,6.90549,50.920234
+30160,Kerpener Str. / Weyertal,6.926344,50.924934
+30162,Kerpener Str. / Josef-Stelzmann-Str.,6.920898,50.923613
+30163,Kerpener Str. / Rurstr.,6.91629,50.922895
+30164,Weyertal / Krankenhaus,6.925166,50.926715
+30174,Zülpicher Str. / Freiligrathstr. / Krieler Dom,6.905944,50.919276
+30176,Euskirchener Str. / Mommsenstr. / Schule,6.915457,50.9174
+30181,Berrenrather Str. / Redwitzstr. / Schule,6.926907,50.919656
+30182,Berrenrather Str. / Sülzburgstr.,6.924379,50.917689
+30183,Berrenrather Str. 367 / Manderscheider Platz,6.921944,50.915227
+30184,Berrenrather Str. / Scherfginstr. / Schule,6.913844,50.90765
+30185,Gottesweg / Petersbergstr.,6.930262,50.914656
+30187,Klettenberggürtel / Petersbergstr.,6.926129,50.911164
+30188,Klettenberggürtel / Siebengebirgsallee,6.92837,50.910037
+30189,Klettenberggürtel / Rhöndorfer Str. / Neuer Weyerstaßerweg,6.930141,50.909146
+30197,Weißhausstr. / Rhöndorfer Str. / Rudolf-Amelunxen-Str.,6.937299,50.918736
+30198,Klettenberggürtel / Wende - Kirche - Bruno,6.92491,50.911777
+30521,Luxemburger Str. - B265 / Militärringstr.,6.91544,50.904186
+30655,Aachener Str. - B55 / Moltkestr. / Frechener Weg - K6,6.826353,50.938452
+30656,Aachener Str. - B55 / Am Rapohl / Bodelschwinghstr.,6.822826,50.938513
+30657,Aachener Str. / Friedhof - Weiden,6.819916,50.938582
+32130,Dürener Str. - B264 / Classen-Kappellmann-Str.,6.920306,50.93211
+32132,Dürener Str. - B264 / Geibelstr.,6.916776,50.930936
+32135,Dürener Str. - B264 / Hillerstr.,6.910921,50.928636
+32639,Aachener Str. - B55 / Am Römerhof,6.867657,50.937802
+32640,Aachener Str. - B55 / Kirchweg / Brauweilerweg,6.866532,50.937783
+32642,Aachener Str. - B55 / Rosenweg,6.863246,50.937799
+32643,Aachener Str. - B55 / Liebermannstr. / Kornblumenweg,6.860999,50.937798
+32644,Aachener Str. - B55 / Mohnweg,6.857315,50.937888
+32645,Aachener Str. - B55 / Vogelsanger Weg,6.852465,50.937959
+32646,Aachener Str. / BAB A1 - Ost,6.850425,50.938028
+32647,Aachener Str. - B55 / Kurze Str. / Körnerstr.,6.847175,50.938069
+32648,Aachener Str. / BAB A1 - West,6.845928,50.938098
+32649,Aachener Str. - B55 / Bahnstr. / Breslauer Str.,6.844402,50.938153
+32650,Aachener Str. - B55 / Römerstr.,6.840918,50.938214
+32651,Aachener Str. - B55 / Bunzlauer Str. / Hans-Willy-Mertens-Str.,6.83692,50.938251
+32652,Aachener Str. / HST Weiden,6.834956,50.938252
+32653,Aachener Str. - B55 / Goethe Str. / An der alten Post,6.833337,50.938358
+32654,Aachener Str. - B55 / Schulstr.,6.829313,50.938396
+35103,Vitalisstr. / Stolberger Str. / Wendelinstr.,6.882172,50.943091
+35108,Belvederestr. / DB-Überführung / Schule,6.871843,50.946822
+35109,Brauweilerweg / Vogelsanger Weg,6.852933,50.942227
+35110,Ludwig-Jan-Str. / Stormstr.,6.845487,50.942008
+35119,Junkersdorfer Kirchweg / Kölner Weg / Statthalterhofweg,6.857421,50.932025
+35120,Vogelsanger Weg / Blumenallee / Eifelallee,6.853274,50.935482
+35125,Widdersdorfer Str. / Josef-Lammerting-Allee / Vitalisstr.,6.888081,50.947092
+35138,Dürener Str. / Marsdorfer Str.,6.860495,50.921025
+35139,Dürener Str. - B264 / Horbeller Str. - L92,6.856578,50.920211
+35140,Dürener Str. / Max-Plank-Str. Ost,6.854994,50.919899
+35141,Dürener Str. / Hermann-Heinrich-Gossen-Str. / Toys are us,6.851253,50.919167
+35143,Dürener Str. / Emmy-Noether Str. / P+R,6.850317,50.919002
+35157,Gleuler Str. / Decksteiner Str. / Wende Bus,6.900028,50.916967
+36105,Militärringstr. - L35 / Aachener Str. Nord,6.883212,50.939537
+36106,Militärringstr. - L35 / Aachener Str  Süd,6.883461,50.936878
+36186,Gottesweg / Rhöndorfer Str.,6.933278,50.913568
+36190,Innere Kanal Str. / Hollarstr.,6.924853,50.937714
+36191,Universitätsstr. / Dürener Str.,6.924757,50.933558
+36192,Universitätsstr. / Bachemer Str. / Innerer Gürtel,6.926516,50.930985
+36504,Luxemburger Str. / Greinstr./ Wende -Amts.-u. Landgericht,6.934474,50.922432
+36505,Luxemburger Str. - B265 / Universitätsstr. / Weißhausstr.,6.93289,50.920866
+36506,Luxemburger Str. - B265 / Konradstr. / Rennebergstr.,6.931802,50.919815
+36507,Luxemburger Str. - B265 / Arnulfstr.,6.930658,50.918727
+36508,Luxemburger Str. - B265 / Lotharstr. / Leybergstr.,6.929831,50.917933
+36509,Luxemburger Str. - B265 / Wittekindstr.,6.928656,50.916819
+36510,Luxemburger Str. - B265 / Gottesweg / Sülzburgstr.,6.927497,50.915732
+36511,Luxemburger Str. / Hardstr. / Mercedes,6.925916,50.914231
+36512,Luxemburger Str. - B265 / Breibergstr. / Manderscheider Str.,6.924743,50.913101
+36513,Luxemburger Str. - B265 / Klettenberggürtel / Sülzgürtel,6.923902,50.912273
+36514,Luxemburger Str. - B265 / Ölbergstr.,6.92283,50.911256
+36515,Luxemburger Str. - B265 / Neuenhöfer Allee / Schule,6.922019,50.910499
+36516,Luxemburger Str. - B265 / Nassestr.,6.921395,50.909856
+36517,Luxemburger Str. - B265 / Geisbergstr. / Klettenbergpark,6.919049,50.907708
+36518,Luxemburger Str. - B265 / Scherfginstr.,6.917294,50.905951
+36520,Luxemburger Str. - B265 / Gottesweg,6.926849,50.915138
+36619,Aachener Str. - B55 / Innere Kanalstr. / Universitätsstr.,6.924679,50.936654
+36620,Aachener Str. - B55 / Haselbergstr.,6.923233,50.936629
+36621,Aachener Str. - B55 / Piusstr. / Richard-Strauß-Str.,6.921923,50.936631
+36622,Aachener Str. - B55 / Friedhof - Melaten / Brucknerstr.,6.916608,50.936725
+36623,Aachener Str. - B55 / Oskar-Jäger-Str. / Klosterstr.,6.912794,50.936847
+36624,Aachener Str. - B55 / Melatengürtel / Stadtwaldgürtel,6.908615,50.937023
+36625,Aachener Str. - B55 / Fürst-Pückler-Str.,6.903481,50.937099
+36626,Aachener Str. / Maarweg / Kitschburger Str.,6.900197,50.93717
+36627,Aachener Str. - B55 / Braunstr. / Hermann-Pflaume-Str.,6.898476,50.937201
+36628,Aachener Str. - B55 / Peter-von-Fliessteden-Str. / Voigtelstr.,6.894124,50.937315
+36629,Aachener Str. - B55 / Eschweilerstraße / HGK - Übergang,6.892986,50.937351
+36630,Aachener Str. - B55 / Eupener Str. / Raschdorffstr.,6.890356,50.937416
+36631,Aachener Str. - B55 / Meister-Johann-Str. / Herbesthaler Str.,6.889033,50.937452
+36634,Aachener Str. - B55 / Alter Militärring / Auf dem Hügel,6.881018,50.937724
+36635,Aachener Str. - B55 / Lövenicher Weg / Wendelinstr.,6.877507,50.937803
+36636,Aachener Str. / Oskar-Rehfeld-Weg / Stadion,6.875796,50.937806
+36637,Aachener Str. - B55 / Walter-Binder-Weg / Peter-Günther-Weg,6.873704,50.937802
+36638,Aachener Str. - B55 / Am Sportpark Müngersdorf / Marathonweg,6.870816,50.937833
+38133,Dürener Str. - B264 / Klosterstr. / Lindenburger Allee,6.914984,50.930241
+38134,Dürener Str. - B264 / Theresienstr.,6.913082,50.929489
+38152,Bachemer Str. / Gleuler Str. / Schule,6.919595,50.929033
+38153,Gleuler Str. / Josef-Stelzmann-Str. / Geibelstr.,6.918475,50.927988
+38155,Gleueler Str. / Mommsenstr.,6.907356,50.92161
+38169,Zülpicher Str. / Meister Ekkehart Str.,6.931729,50.926362
+38170,Zülpicher Str. / Weyertal,6.927008,50.924033
+38171,Zülpicher Str. / Josef-Stelzmann-Str. / Gustavstr.,6.921667,50.922232
+38172,Zülpicher Str. / Sülzburgstr.,6.91866,50.921186
+38173,Zülpicher Str. / Mommsenstr. / Hermeskeiler Str.,6.91088,50.919714
+38175,Hermeskeiler Str. / Neuenhöfer Allee,6.908763,50.918342
+38180,Berrenrather Str. / Weyertal / Arnulfstr.,6.929088,50.921476
+38194,Universitätsstr. / Zülpicher Str.,6.930078,50.925173
+38195,Universitätsstr. / Kerpener Str.,6.929792,50.925691
+38196,Universitätsstr. / Berrenrather Str.,6.931235,50.923195
+38801,Berrenrather Str. / Neuenhöfer Allee,6.918978,50.912051
+38802,Sülzgürtel / Wichterichstr. / Nonnewerthstr.,6.922466,50.913181
+38803,Sülzgürtel / Berrenrather Str.,6.920964,50.91419
+38804,Sülzgürtel / Münstereifeler Str.,6.918378,50.915997
+38805,Sülzgürtel / Mommsenstr. / Hollerather Str.,6.91707,50.916937
+38806,Sülzgürtel / Euskirchener Str.,6.916534,50.917966
+38807,Sülzgürtel / Curtiusstr.,6.91593,50.919116
+38808,Sülzgürtel / Zülpicher Str. / Lindenthalgürtel,6.915245,50.920331
+38809,Lindenthalgürtel / Rurstr.,6.914156,50.921575
+38810,Lindenthalgürtel / Kerpener Str.,6.913457,50.92248
+38811,Lindenthalgürtel / Gleueler Str.,6.911847,50.923604
+38812,Lindenthalgürtel / Franzstr.,6.911538,50.924573
+38813,Lindenthalgürtel / Herderstr.,6.91061,50.925713
+38814,Lindenthalgürtel / Bachemer Str.,6.910175,50.926208
+38815,Dürener Str. / Stadtwaldgürtel,6.908804,50.927772
+38816,Stadtwaldgürtel / Wüllnerstr.,6.907912,50.931196
+38817,Stadtwaldgürtel / Rautenstrauchstr.,6.907821,50.93287
+38818,Stadtwaldgürtel / Friedrich-Schmidt-Str.,6.907965,50.934384
+38819,Stadtwaldgürtel / Clarenbachstr.,6.908281,50.936009
+38821,Melatengürtel / Scheidtweilerstr.,6.909235,50.938223
+38870,Dürener Str. - B264 / Mommsenstr. / Kitschburger Str.,6.901609,50.926407
+40001,Venloer Str. - B59 / Akazienweg,6.892776,50.961237
+40002,Venloer Str. - B59 / Mathias-Brüggen-Str.,6.88788,50.963512
+40003,Venloer Str. - B59 / Wolffsohnstr.,6.885155,50.964999
+40004,Venloer Str. - B59 / Westendstr. / Kolkrabenweg,6.881302,50.966502
+40005,Venloer Str. - B59 / Friedhof-West,6.877651,50.967677
+40006,Venloer Str. - B59 / Seeadlerweg / P+R-Ost,6.873729,50.968939
+40007,Venloer Str. - B59 / P+R-West,6.871936,50.968851
+40008,Venloer Str. - B59 / Militärringstr. - L34,6.869293,50.968894
+40009,Freimersdorfer Weg / WDR,6.857494,50.969995
+40011,Militärringstr. - L34 / Mathias-Brüggen-Str.,6.878796,50.987645
+40012,Mathias-Brüggen-Str. / Hugo-Eckener-Str.,6.890996,50.977574
+40013,Butzweilerstr. - K4 / Kaserne / AWB Ossendorf,6.901181,50.982173
+40014,Butzweilerstr. - K4 / Franziska-Anneke-Str.,6.914145,50.972131
+40015,Butzweilerstr. - K4 / BAB A57,6.91637,50.970608
+40016,Äußere Kanalstr. / Butzweilerstr.,6.91767,50.969702
+40017,Äußere Kanalstr. / Ossendorfer Str. / Frohnhofstr.,6.913114,50.966188
+40018,Venloer Str. / Freimersdorfer Weg,6.866046,50.970535
+40019,Militärringstr. / KVB -Querung / nähe Venloer Str.,6.86991,50.970514
+40024,Sandweg / Feltenstr. / am Rosengarten,6.899969,50.963724
+40028,Mathias-Brüggen-Str. / Ossendorfer Weg.,6.891003,50.969025
+40029,Butzweilerstr. / Hugo-Eckener-Str. / Ikarosstr.,6.902502,50.977593
+40100,Parkgürtel / Osterather Str.,6.932248,50.962886
+40101,Parkgürtel / Methweg GEW,6.930697,50.961346
+40102,Parkgürtel / BAB A57,6.927882,50.959694
+40105,Nußbaumerstr. / Ottostr. / Schule,6.926982,50.956697
+40115,Subbelrather Str. / Landmannstr. / Platenstr.,6.916492,50.95521
+40117,Subbelrather Str. / Leyendeckerstr. / Takustr.,6.912564,50.956756
+40119,Subbelrather Str. / Alpener Str.,6.909537,50.957961
+40120,Subbelrather Str. / Marienstr.,6.90712,50.958878
+40121,Subbelrather Str. / Äußere Kanalstr.,6.905734,50.959339
+40131,Venloer Str. - B59 / Neptunstr. / Klarastr.,6.92025,50.948357
+40132,Venloer Str. - B59 / Platenstr. / Bezirksrathaus,6.913284,50.952384
+40133,Venloer Str. - B59 / Leyendeckerstr.,6.909923,50.954452
+40135,Venloer Str. - B59 / Äußere Kanalstr. / Helmholtzstr.,6.903051,50.956717
+40136,Venloer Str. - B59 / Wilhelm-Mauser-Str. / Rochusstr.,6.900111,50.957772
+40138,Äußere Kanalstr. / Nonniweg / Silcherstr.,6.901016,50.954583
+40140,Vogelsanger Str. / Piusstr.,6.923811,50.944293
+40141,Vogelsanger Str. / Thebäerstr.      / Mechternstr.,6.921362,50.945351
+40142,Vogelsanger Str. / Neptunstr.,6.918503,50.946402
+40143,Vogelsanger Str. / Leyendeckerstr. / Helmholtzstr.          .,6.90716,50.951135
+40144,Vogelsanger Str. / Äußere Kanalstr. / Maarweg,6.898829,50.952577
+40145,Vogelsanger Str. / Vitalisstr.,6.897736,50.952749
+40146,Maarweg / Fuhrpark,6.897885,50.950922
+40151,Weinsbergstr. / Friedhof -israelisch / Geisselstr.,6.916898,50.943325
+40152,Weinsbergstr. / Oskar-Jäger-Str. / Widderdorfer Str.,6.907798,50.945306
+40153,Maarweg / Widdersdorfer Str.,6.897962,50.946004
+40154,Oskar-Jäger-Str. / Stolberger Str.,6.909397,50.941485
+40159,Innere Kanalstr. / Hornstr.,6.940985,50.953808
+40160,Innere Kanalstr. / Am Gleisdreieck,6.938631,50.953301
+40161,Innere Kanalstr. / Herkulesstr. - Nord,6.935282,50.950879
+40427,Fitzmauricestraße / Käthe-Paulus-Straße,6.89382,50.979711
+40428,Hugo-Eckner-Straße / Köhlstraße,6.897194,50.977609
+40834,Nußbaumerstr. / Siemensstr. / Schule,6.922552,50.957801
+40838,Äußere Kanalstr. / Iltisstr.,6.911999,50.965269
+42129,Venloer Str. / Fuchsstr. / Moschee,6.927411,50.945386
+42130,Venloer Str. - B59 / Franz-Geuer-Str. / Piusstr.,6.925371,50.946204
+42147,Vogelsanger Str./ Zufahrt Rheinische Stiftung,6.899395,50.952481
+42419,Alte Escher Str. / Von-Hünefeld-Straße / BAB 57,6.893924,50.990651
+42420,Butzweilerstr. / Alte Escher Str.,6.901094,50.987173
+42421,Butzweilerstr. / IKEA,6.90086,50.98512
+42422,Alte Escher Str. / Ausfahrt Großhandel,6.894882,50.990265
+42429,Butzweilerhofallee/Rudi-Conin-Straße,6.891428,50.983717
+42430,Von-Hünefeld-Str. / Richard-Byrd-Straße-SÜD / Adolf-Grimme-Allee,6.887552,50.98536
+42431,Von-Hünefeld-Str. / Richard-Byrd-Straße-NORD,6.892237,50.989434
+42836,Nußbaumerstr. / Iltisstr. / Gustav-Freytag-Str.,6.918511,50.958276
+42837,Iltisstr. / Takuplatz / Tondernstr.,6.916582,50.960914
+42840,Rochusstr. / Margaretastr,6.905442,50.967936
+45026,Vogelsanger Str. / Vogelsanger Markt / Schule,6.880983,50.955627
+45027,Vogelsanger Str. / Falkenweg,6.885222,50.95555
+45839,Rochusstr. / Justitzvollzugsanstallt /Rektor Klein Str.,6.904449,50.974221
+46150,Weinsbergstr. / Piusstr. / Schule,6.922566,50.941049
+46162,Innere Kanalstr. / Herkulesstr. - Süd,6.933861,50.949687
+46163,Innere Kanalstr. / Subbelrather Str.,6.932751,50.948631
+46164,Innere Kanalstr. / Fernmeldeturm,6.930423,50.946679
+46165,Innere Kanalstr. / Venloer Str.,6.928426,50.945065
+46166,Innere Kanalstr. / Vogelsanger Str.,6.92666,50.942688
+46167,Innere Kanalstr. / Weinsbergstr.,6.925574,50.939768
+48103,Nußbaumerstr. / Herkulesstr. / Liebigstr.,6.930486,50.954774
+48110,Subbelrather Str. / Myliusstr. / Schule,6.929953,50.949719
+48125,Vogelsanger Str. / Grüner Weg,6.913408,50.949255
+48148,Widdersdorfer Str. / Mercedes Allee,6.89512,50.946298
+48149,Weinsbergstr. / Baumarkt Bahr,6.910274,50.945166
+48822,Melatengürtel / Oskar-Jäger-Str.,6.910758,50.939645
+48823,Melatengürtel / Fröbelstr.,6.912815,50.94334
+48824,Melatengürtel / Weinsbergstr.,6.912783,50.945026
+48825,Melatengürtel / Vogelsanger Str. / Ehrenfeldgürtel,6.914827,50.948435
+48826,Ehrenfeldgürtel / Venloer Str. - B59,6.91674,50.950182
+48827,Ehrenfeldgürtel / Hüttenstr. / Stammstr.,6.918681,50.952086
+48828,Ehrenfeldgürtel / Subbelrather Str.,6.9203,50.953759
+48829,Ehrenfeldgürtel / Fridolinstr.,6.921045,50.95449
+48831,Ehrenfeldgürtel / Försterstr.,6.922027,50.955534
+48832,Ehrenfeldgürtel / Eichendorffstr.,6.922593,50.956096
+48833,Ehrenfeldgürtel / Nußbaumerstr.,6.924175,50.957623
+48854,Subbelrather Str. / Gutenbergstr.,6.927679,50.950644
+48855,Subbelrather Str.  / Lukasstr. / Körnerstr.,6.925686,50.951547
+48856,Subbelrather Str. / Liebigstr. / Glasstr.,6.924874,50.951971
+48857,Subbelrather Str. / Ottostr. / Schule,6.923167,50.952694
+50001,Am Ölhafen  / Emdener Str.,6.955106,51.017436
+50002,Geestemünder Str. / Industriestr. - Ost,6.950632,51.002673
+50003,Geestemünder Str. / Delmenhorster Str.,6.94747,51.0026
+50004,Ford Tor 8/24 / Emdener Str.,6.955078,51.011034
+50005,Ford Tor 6  / Emdener Str.,6.955103,51.007833
+50006,Geestemünder Str. / Johann-Maria-Farina-Str.,6.944382,51.0026
+50007,Geestemünder Str.  / Emdener Str.,6.954958,51.002615
+50009,Bremerhavener Str.  / Emdener Str.,6.954735,50.995893
+50010,St.-Leonardus-Str. / Ford Parkplatz / privat,6.959693,50.999658
+50011,Bremerhavener Str. / Niehler Damm / Merkenicher Str.,6.960074,50.996443
+50012,Niehler Damm / Sebastianstr. / Schule,6.961901,50.992606
+50013,Sebastianstr. / Merkenicher Str. / Schifferstr.,6.96139,50.989563
+50014,Sebastianstr. / Krankenhaus / Feldgärtenstr.,6.961258,50.987376
+50015,Niehler Damm / Lachsgasse,6.964739,50.988474
+50016,Neusser Str. - B9 / Militärringstr. / Bremerhavener Str. - K1,6.936957,50.997268
+50017,Neusser Landstr. - B9 / Geestemünder Str.,6.933389,51.00261
+50018,Geestemünder Str. / Franz-Greiß-Str.,6.939152,51.002614
+50020,Longericher Str. / Rommerskircher Str.,6.91188,50.999382
+50022,Äußere Kanalstr. / Escher Str. / Robert-Perthel-Str.,6.922149,50.973088
+50026,Schiefersburger Weg / Reutlinger Str. / Schule,6.933045,50.969138
+50027,Am Bilderstöckchen / Alzeyer Str.,6.926118,50.973552
+50028,Schmiedegasse / Friedhof - Nord,6.941486,50.978733
+50107,Parkgürtel / Longericher Str. / Geldernstr.,6.94049,50.968492
+50109,Parkgürtel / Escher Str. / Kirche,6.933816,50.964578
+50110,Escher Str. / Geldernstr.,6.9396,50.95952
+50111,Geldernstr. / Osterather Str. / Liebigstr.,6.939104,50.958101
+50114,Kempener Str. / Siebachstr. / Gocher Str.,6.949309,50.963507
+50120,Innere Kanalstr. - L100 / Neusser Str. - B9,6.955747,50.957133
+50122,Neusser Str. - B9 / Kempener Str. / Auerstr.,6.954485,50.960028
+50123,Neusser Str. - B9 / Kuenstr. / Cranachstr.,6.954452,50.961225
+50124,Neusser Str. - B9 / Wilhelmstr.,6.954061,50.962989
+50126,Neusser Str. - B9 / Schillstr. / Blücherstr.,6.953296,50.966637
+50128,Neusser Str. - B9 / Friedrich-Karl-Str.,6.950069,50.975229
+50131,Niehler Str. / Auerstr.,6.958054,50.959981
+50133,Niehler Str. / Florastr. / Wilhelmstr.,6.958558,50.963517
+50134,Niehler Str. / Blücherstr.,6.958753,50.966286
+50136,Niehler Str.  / Friedrich-Karl-Str.,6.959729,50.97418
+50137,Niehler Str. / Niehler Kirchweg / Weidenpescher Str.,6.959989,50.976479
+50138,Niehler Str. / Graditzer Str.,6.960627,50.981777
+50142,Friedrich-Karl-Str. / Duisburger  Str. / Eichhornstr.,6.965338,50.974205
+50144,Xantener Str. / Kretzerstr. / Schule,6.963367,50.967031
+50146,Niehler Gürtel / An der Schanz / Mülheimer Brücke,6.990107,50.965935
+52121,Neusser Str. - B9 / Lohsestr.,6.954875,50.958983
+52125,Neusser Str. - B9 / Florastr. / Einheitsstr.,6.953622,50.965181
+52130,Innere Kanalstr. - L100 / Niehler Str.,6.957771,50.957732
+52201,Niederländer Ufer B51 / Neue Heimat / An der Schanz,6.981512,50.960426
+52202,Niederländer Ufer B51 / Tiergartenstr.,6.977365,50.958081
+52203,Niederländer Ufer B51 / Zoobrücke,6.975146,50.956836
+52204,Niederländer Ufer B51 / Frohngasse,6.974048,50.956159
+52216,Boltensternstaße / Pasteurstraße / SB-Warenhaus,6.976039,50.972653
+52217,Boltensternstr. / Stammheimer Str.,6.979236,50.967846
+52218,Boltensternstr. / Friedrich-Karl-Str. / Am Niehler Hafen,6.974272,50.97507
+52219,Industrie Str. / Amsterdamer Str. / Boltensternstr.,6.967821,50.981925
+52220,Boltensternstr. / Niehler Gürtel / Flemmingstr.,6.977557,50.970636
+52221,An der Flora / Alter Stammheimer Weg,6.970985,50.957884
+52222,Riehler Str. / Frohngasse,6.972269,50.957014
+52223,Riehler Str. / Haltestelle Zoo-Flora,6.973715,50.957585
+52237,Boltensternstr. / Barbarastr.,6.978389,50.969539
+52238,Boltensternstr. / Hittorfstr.,6.980083,50.96618
+52239,Boltensternstr. / Pionierstr.,6.980555,50.964995
+52240,Boltensternstr. / Riehler Str.,6.982047,50.962832
+55021,Longericher Hauptstr. / Auf der Bude / Schule,6.905108,50.996694
+55145,Riehler Gürtel / Stammheimer Str. / Pionierstr.,6.975904,50.964005
+57104,Merheimer Str. / Friedrich-Karl-Str. / Nibelungenstr.,6.946465,50.975942
+57105,Merheimer Str. / Bergstr.,6.946317,50.973561
+57106,Mauenheimer Gürtel / Merheimer Str.,6.946337,50.971727
+57127,Neusser Str. - B9 / Niehler Kirchweg,6.952476,50.969831
+57132,Niehler Str. / Kuenstr.,6.958264,50.961148
+57141,Friedrich-Karl-Str. / Niehler Kirchweg,6.956714,50.9741
+57700,Amsterdamer Str. / Wende - Flora,6.967659,50.959599
+57701,Amsterdamer Str. / Kinderkrankenhaus,6.968269,50.962791
+57702,Amsterdamer Str.  / Xantener Str.,6.968855,50.965977
+57703,Amsterdamer Str. / Riehler Gürtel,6.968957,50.96746
+57704,Amsterdamer Str. / Barbarastr.,6.969037,50.968592
+57705,Amsterdamer Str. / Niehler Gürtel / Haltest. Gürtelbahn,6.96913,50.970974
+57706,Amsterdamer Str. / Neven DuMont  Wende,6.969192,50.972998
+57707,Amsterdamer Str. / Friedrich-Karl-Str.,6.96913,50.974371
+57708,Amsterdamer Str. / Nesselrodestr.,6.968603,50.97781
+57811,Neusser Str. - B9 / Mollwitzstr. / Roßbachstr,6.948615,50.978675
+57812,Neusser Str. - B9 / Derfflinger Str.,6.948205,50.980216
+57813,Neusser Str. - B9 / Schule-Weidenpesch,6.947785,50.982568
+57814,Neusser Str. - B9 / Scheibenstr. / Kapuzinerstr.,6.947386,50.984025
+57815,Neusser Str. - B9 / Simonskaul,6.945355,50.987106
+57816,Neusser Str. - B9 / Jesuitengasse,6.943985,50.98905
+57817,Neusser Str. - B9 / Strab.-Abzweig,6.943305,50.989936
+57818,Neusser Str. - B9 / Lachemer Weg / Hst. Wilh.-Sollmann-Str.,6.942048,50.991178
+57819,Neusser Str. - B9 / Wilhelm-Sollmann-Str.,6.940626,50.992673
+57820,Wilhelm-Sollmann-Str. / Graseggerstr.,6.937696,50.992239
+57821,Wilhelm-Sollmann-Str. / Rüdellstr. / Rheindorfer Str.,6.933406,50.99399
+57822,Wilhelm-Sollmann-Str. / Herforder Str. / Rambouxstr.,6.926138,50.994722
+57823,Wilhelm-Sollmann-Str. / Johannes-Rings-Str. / Meerfeldstr.,6.920833,50.995177
+57824,Johannes-Rings-Str. / Longericher Str.,6.913875,50.996275
+58102,Kempener Str. / An der Drehscheibe,6.945453,50.966316
+58112,Kempener Str. / Simon-Meister-Str. / Schule,6.946278,50.96581
+58113,Kempener Str. / Merheimer Str.,6.947764,50.964702
+58115,Kempener Str. / Wilhelmstr.,6.9508,50.962503
+58116,Kempener Str. / Steinbergerstr. / Auguststr.,6.951999,50.961668
+58117,Kempener Str. / Cranachstr. / Christinastr.,6.952585,50.961256
+60001,Neusser Landstr. - B9 / Merianstr.,6.910514,51.026855
+60002,Merianstr. / Willi-Suth-Allee,6.904443,51.024701
+60003,Merianstr. / Weichselring / Athener Ring,6.896277,51.025647
+60004,Merianstr. / Elbeallee,6.890617,51.024963
+60005,Merianstr. / Mercatorstr.,6.889045,51.024236
+60007,Fühlinger Weg / Merianstr.,6.888097,51.020501
+60008,Merianstr. / Cosmasweg,6.890906,51.01767
+60009,Fühlinger Weg / Weilerweg,6.885958,51.019655
+60016,Willi-Suth-Allee / Karl-Marx-Allee / Stockholmer Allee,6.903937,51.023619
+60017,Merianstr. / Industriestr.,6.917317,51.030658
+60023,Mercatorstr. / Blumenbergsweg,6.879208,51.041726
+60025,Volkhovener Weg - K8 / Stallagsweg,6.895751,51.010816
+60026,Volkhovener Weg - K8 / Johannes-Albers-Str. / Schule,6.897629,51.007736
+60028,Edsel-Ford-Str. / Oranjehofstr. / Spessart.,6.936976,51.025846
+60029,Neusser Landstr. - B9 / Oranjehofstr.,6.921346,51.016056
+60030,Oranjehofstr. / Parkplatz Ost,6.925955,51.017346
+60031,Emdener Str. / Wacker Chemie,6.950758,51.022359
+60032,Emdener Str. / Ivenshofweg,6.955064,51.019461
+60033,Alte Römer Str. - K11 / Feldkasseler Weg,6.933145,51.03937
+60034,Neusser Landstr. - B9 / Fühlingen / Kirche,6.903793,51.035022
+60036,Neusser Landstr. / Alte Neusser Landstr.,6.865502,51.067532
+60037,Neusser Landstr. / Dornstr.,6.860277,51.069683
+60038,Hackhauser Weg / Üdesheimer Weg / Schule,6.856013,51.062001
+60039,Sinnersdorfer Str. - L183 / Baptiststr. / Straberger Weg,6.846902,51.047407
+60041,Donatusstr. / Am Pescher Holz,6.875231,51.002772
+60042,Donatusstr. / Robert-Koch-Str. / Kapellenweg,6.877321,51.001428
+60043,Longericher Str. / Donatusstr. / Elisabethstr.,6.880275,50.999562
+60044,Mengenicher Str. / Longericher Str. / Johannesstr.,6.877133,50.998313
+60046,Escher Str. / Birkenweg,6.876209,50.999556
+60048,Pescher Weg / Marienberger Weg,6.892085,51.000201
+65035,Neusser Landstr. - B9 / Roggendorfer Weg,6.903062,51.03669
+65045,Mengenicher Str. / Schulstr. / Schule,6.87286,50.995881
+70001,Humboldtstr. / Theodor-Heuss-Str. / Schule,7.066329,50.897061
+70002,Humboldtstr. / Konrad-Adenauer-Str. / Kurt-Schumacher-Str.,7.067481,50.894551
+70003,Humboldtstr. / Bergerstr.,7.06916,50.891568
+70004,Humboldtstr. / Bonner Str. / Schule,7.070482,50.888473
+70005,Humboldtstr. / Siemensstr. / Schule,7.070969,50.886149
+70006,Humboldtstr. / Voltastr. / Schule,7.071134,50.882911
+70007,Humboldtstr. / Kaiserstr. / Schule,7.070945,50.881988
+70009,Bahnhofstr. / Friedrichstr. / Schillerstr.,7.06037,50.8832
+70010,Nachtigallenstr. / St. Ägidiusstr. / Schule,7.088858,50.86291
+70012,Kaiserstr. / Ohmstr.,7.066777,50.882392
+70013,Kaiserstr. / Brucknerstr. / Schule,7.072127,50.881465
+70014,Kaiserstr. / Dorotheenstr. / Schule,7.073492,50.88113
+70015,Waldstr. / Mühlenweg,7.087344,50.881494
+70016,Waldstr. / Grengeler Mauspfad - L489,7.106226,50.880122
+70017,Houdainer Str. / Schmittgasse / Schule,7.044852,50.866053
+70018,Kölner Str. - L82 / Berliner Str. / Helenenstr.,7.026009,50.901872
+70019,Hauptstr. / Bahnhofstr.,7.055657,50.88396
+70020,Hauptstr. / Karlstr. / Bezirksrathaus,7.05572,50.885579
+70021,Hauptstr. / Ernst-Mühlendyck-Str. / Bennauerstr.,7.05563,50.882829
+70023,Bergerstr. / Bochumer Str. / Neue Eiler Str.,7.075234,50.893086
+70024,Heidestr. - L489 / St. Ägidiusstr. / Wilhelm-Ruppert-Straße,7.090204,50.858107
+70025,Heidestr. - L489 / Albin-Köbis-Str.,7.093957,50.858637
+70026,Heidestr. - L489 / Guntherstr. / Feuerwache,7.100068,50.858874
+70027,Heidestr. - L489 / Sportplatzstr.,7.102386,50.858978
+70028,Heidestr. - L489 / Magazinstr.,7.104647,50.859073
+70029,Hauptstr. / Berger Str. / Rathausstr.,7.0554,50.88773
+70030,Hauptstr. / Steinstr.,7.053701,50.888708
+70031,Kölner Str. - L82 / Urbacher Weg  / Im Rheinfeld,7.04619,50.894699
+70032,Kölner Str. - L82 / Erker Str. / Klosterweg,7.042945,50.896326
+70033,Kölner Str. - L82 / Gremberghovener Str. / Hohe Str.,7.038161,50.897306
+70034,Kölner Str. - L82 / Kirche,7.03503,50.897867
+70036,Kölner Str. - L82 / Stollwerkstr. / Andre-Citroen-Str,7.022638,50.903097
+70037,Friedensstr. / Mühlenweg / Kindergarten,7.087667,50.876359
+70038,Friedensstr. / Akazienweg,7.097851,50.876237
+70044,Frankfurter Str. - B8 / Hirschgraben - K19,7.078906,50.896342
+70045,Frankfurter Str. - B8 / Bergerstr.,7.077906,50.893682
+70046,Frankfurter Str. - B8 / Kaiserstr. / Waldstr.,7.082344,50.881531
+70047,Frankfurter Str. - B8 / Zündorfer Str.,7.082226,50.878845
+70050,Frankfurter Str. - B8 / Heidestr. / Sebastianusstr.,7.086188,50.857395
+70057,Frankfurter Str. - B8 / Bochumer Str.,7.078356,50.891593
+70063,Linder Mauspfad / Viehtrift,7.109363,50.850733
+70064,Theodor-Heuss-Str. / Stresemannstr.,7.061962,50.896966
+70069,Kaiserstr. - L99 / Marienburger Str. / Lichtpfad,7.078356,50.881102
+70073,Josefstr. / Schule,7.057638,50.887738
+70074,Hauptstr. / Burgweg / Keimergasse,7.04377,50.867887
+70077,Bergerstr. / Josefstr.,7.057088,50.888818
+70078,Friedrichstr. / Bundesbahnbrücke,7.061812,50.885798
+70079,Wahner Str. / Gartenweg,7.048893,50.86572
+70080,Rolandstr. / Bus - HH,7.105316,50.864984
+70083,Nachtigallenstr. / Finkenweg / Bieselweg,7.100043,50.863703
+70089,Linder Mauspfad / Flughafenstr.,7.108785,50.856274
+70090,Linder Mauspfad / Ernst-Mach-Str.,7.111768,50.846375
+70092,Hauptstr. / Rosenhügel / An der Groov,7.049817,50.873391
+70114,Flughafen / Terminal,7.119373,50.880001
+70186,Siegburger Str. / Auf dem Sandberg,6.99356,50.914905
+70187,Poller Hauptstr. / Schulpfad / Schule,6.99204,50.911672
+70707,Frankfurter Str. - B8 / Alter Deutzer Postweg,7.050355,50.918619
+70708,Frankfurter Str. - B8 / Hansestr. / Neuenhofstr.,7.055592,50.912522
+70709,Frankfurter Str. - B8 / BAB 559 Nord / Rather Str.,7.058945,50.90849
+70710,Frankfurter Str. - B8 / BAB 559 Süd / Am Hochkreuz,7.060617,50.906542
+70711,Frankfurter Str. - B8 / Steinstr. / Maarhäuser Weg,7.062892,50.905246
+70712,Frankfurter Str. - B8 / Theodor- Heuss -Str.,7.073644,50.899303
+70742,Frankfurter Str. - B8 / Ferdinand Porsche Str.,7.066472,50.90329
+70999,Hirschgraben / Pferdeüberweg / privat,7.092597,50.898589
+71184,Siegburger Str. / Am Altenberger Kreuz / Krückelstr.,6.988346,50.918486
+71185,Siegburger Str. / Jakob-Kneip-Str.,6.990229,50.916699
+71189,Siegburger Str. / Raiffeisenstr.,6.98645,50.919718
+75035,Kölner Str. - L82 / Gilgaustr.,7.031149,50.899633
+80840,Frankfurter Str. / Saarbrücker Str.,7.0452,50.924751
+80848,Frankfurter Str. / Hartgenbuscher Kirchweg / Feuerwache 8,7.045694,50.924136
+80857,Homarstr. / Kürtenstr.,7.017476,50.929071
+80876,Neubrücker Ring / Jugendheim,7.062092,50.932961
+85831,Olpener Str. / Brücker Mauspfad,7.080826,50.946063
+89180,Rolshover Str. / Sauerlandstr. / GEW,6.999707,50.926088
+89181,Rolshover Str. / Östlicher Zubringer,6.999647,50.92467
+89183,Rolshover Str. / Taubenholzweg,6.998963,50.922544
+89188,Östlicher Zubringer - L124 / Am Grauen Stein,6.992927,50.92672
+89802,Kalker Hauptstr. / Walter-Pauli-Ring / Deutz-Kalker Str.,6.994163,50.937126
+89804,Kalker Hauptstr. / Vietorstr. / Trimbornstr.,6.998468,50.937516
+89805,Kalker Hauptstr. / Rolshover Str. / Kalk-Mülheimer Str.,7.000312,50.937684
+89806,Kalker Hauptstr. / Kaufhof,7.001623,50.937793
+89807,Kalker Hauptstr. / Sieversstr.,7.003179,50.937992
+89808,Kalker Hauptstr. / Neuerburgstr.,7.005106,50.938296
+89809,Kalker Hauptstr. / Breuerstr.,7.005912,50.938426
+89810,Kalker Hauptstr. / Kapellenstr.,7.008469,50.938899
+89812,Kalker Hauptstr. / Eythstr.,7.011071,50.939349
+89813,Kalker Hauptstr. / Dieselstr.,7.012382,50.939575
+89814,Kalker Hauptstr. / Wippermannstr.,7.014081,50.939848
+89815,Olpener Str. / Germaniastr. / Oranienstr.,7.018694,50.940201
+89816,Olpener Str. / Bochumer Str.,7.020976,50.940283
+89817,Olpener Str. / Fuldaer Str.,7.021959,50.94031
+89818,Olpener Str. / Burgstr. / Höhenberger Str.,7.02574,50.940241
+89819,Olpener Str. / Marburger Str. / Adalbertstr.,7.02846,50.940244
+89820,Olpener Str. / Frankfurter Str.,7.031164,50.940283
+89821,Olpener Str. / Nohlenweg,7.036219,50.940455
+89822,Olpener Str. / Iserlohner Str.,7.03894,50.940865
+89823,Olpener Str. / Hohensyburgstr.,7.042943,50.941508
+89825,Olpener Str. / Ostmerheimer Str.,7.049474,50.942798
+89826,Olpener Str. / Madausstr. / Anne-Schulte-Str.,7.057878,50.944413
+89827,Olpener Str. / Hans-Schulten-Str.,7.060935,50.944933
+89828,Olpener Str. / Im Brücker Bruch,7.071979,50.946244
+89829,Olpener Str. / Flehbachstr. / Pohlstadtsweg,7.076164,50.945089
+89830,Olpener Str. / Hovenstr.,7.079049,50.945567
+89832,Olpener Str. / Overather Str / Hoffnungsthaler Str.,7.085187,50.946967
+89833,Brücker Mauspfad / Hovenstr.,7.081724,50.944736
+89834,Frankfurter Str. / Höhenberger Str. / Höhenberger Ring,7.027904,50.942712
+89835,Frankfurter Str. / Merheimer Heideweg,7.029159,50.941791
+89836,Frankfurter Str. / Nohlenweg / Vingster Ring K16,7.033258,50.938632
+89837,Frankfurter Str. / Buchheimer Weg,7.037518,50.933629
+89838,Frankfurter Str. / Zehnthofstr.,7.039529,50.931301
+89839,Frankfurter Str. / Rösrather Str. / Ostheimer Str.,7.040915,50.929643
+89841,Rösrather Str. / Servatiusstr.,7.047163,50.929839
+89842,Rösrather Str. / Hasencleverstr. / BAB A3,7.055896,50.928695
+89843,Rösrather Str. / Neubrücker Ring,7.060173,50.927753
+89844,Rösrather Str. / Eiler Str.,7.081979,50.921593
+89845,Rösrather Str. / Gröppersgasse / Röttgensweg,7.090227,50.922069
+89846,Rösrather Str. / Rather Mauspfad / Heumarer Mauspfad,7.098,50.920059
+89847,Rather Mauspfad / Stachelsweg / Baldurstr.,7.095118,50.926088
+89849,Lützerathstr. / Hilde-Ippolito-Weg,7.086367,50.926125
+89850,Ostheimer Str. / Vingster Ring - K16,7.030514,50.931727
+89851,Ostheimer Str. / Nobelstr.,7.027025,50.932001
+89852,Ostheimer Str. / Heßhofstr.,7.023753,50.932788
+89853,Ostheimer Str. / Burgstr. / Kuthstr.,7.021792,50.933253
+89854,Ostheimer Str. / Würzburger Str.,7.018342,50.93351
+89859,Gremberger Str. / Poll-Vingster Str.,7.01,50.925492
+89860,Gremberger Str. / Lüderichstr.,7.002263,50.928175
+89861,Gremberger Str. / Rolshover Str.,6.999892,50.92904
+89862,Rolshover Str. / Odenwaldstr.,7.000235,50.930422
+89863,Rolshover Str. / Wetzlarer Str. / Gottfried-Hagen-Str.,7.001403,50.933073
+89864,Gremberger Str. / Theoderichstr.,6.996814,50.930029
+89865,Gremberger Str. / Taunusstr.,6.996036,50.930287
+89866,Gremberger Str. / An der Pulvermühle,6.993805,50.931097
+89867,Am Grauen Stein / Westerwaldstr.,6.995252,50.929379
+89874,Hans-Schulten-Str. / Wiehler Str. - L286n,7.063609,50.943058
+89877,Rolshover Str. / Dillenburger Str.,7.000909,50.935287
+89879,Eiler Str. / Forststr.,7.081844,50.917593
+89884,Walter-Pauli-Ring / Gummersbacher Straße / Geschwister-Katz-Str.,6.993502,50.9392
+89885,Straße des 17 Juni / Corinto Str,6.992779,50.941044
+89947,Frankfurter Str. / BAB Süd / Gothaer Platz,7.02023,50.948345
+89948,Frankfurter Str. / Suhler Weg,7.022747,50.946473
+89949,Frankfurter Str. / Fuldaer Str.,7.02432,50.9453
+89954,Waldecker Str. / Stadtautobahn  -B55a / Buchforster Str.,7.006472,50.946556
+89958,Kalk-Mülheimer Str. / Wipperfürther Str.,7.001412,50.943472
+89959,Kalk-Mülheimer Str. / Höfestr. / Peter-Stühlen-Str.,7.001597,50.940882
+90158,Mülheimer Freiheit / Krahnenstr. / Schule,7.000794,50.96686
+90159,Mülheimer Freiheit / Peter-Müller-Str. / Buchheimer Str.,6.999556,50.964397
+90160,Roggendorf Str. / Alfred-Werner-Str.,6.991551,50.9992
+90161,Edelhofstr. / Am Feldrain / Schule,6.981028,50.998162
+90925,Dellbrücker Hauptstr. / Friedhof Dellbrück / Schule,7.075506,50.973057
+91115,Pfälzischer Ring / Karlsruher Str.,6.994399,50.949582
+91116,Pfälzischer Ring / Grünstr. / Bergischer Ring,6.999739,50.954901
+91117,Bergischer Ring / Rendsburger Platz,7.000661,50.956208
+91118,Bergischer Ring / Schleiermacherstr.,7.001048,50.95704
+91119,Bergischer Ring / Danzierstr. / Papageienstr.,7.002661,50.959841
+91121,Deutz-Mülheimer Str. / Adam-Stegerwald-Str.,6.988258,50.950596
+91124,Deutz-Mülheimer Str. / Auenweg,6.992242,50.955192
+91125,Deutz-Mülheimer Str. / Danzierstr.,6.994138,50.957378
+91126,Danzierstr. / Windmühlenstr. / Karl-Theodor-Str.,6.995888,50.957355
+91127,Danzierstr. / Schleiermacherstr. / Schule,6.999523,50.95883
+91128,Wiener Platz / Mülheimer Brücke,7.003984,50.961825
+91129,Wiener Platz / Frankfurter Str. / Eulenbergstr.,7.005545,50.961649
+91130,Bergisch Gladbacher Str / Clevischer Ring,7.005424,50.96388
+91131,Clevischer Ring / Carl-Brisch-Str.,7.005904,50.964675
+91132,Clevischer Ring / Keupstr.,7.006456,50.966864
+91133,Clevischer Ring / Berliner Str. / Dünnwalder Str.,7.006821,50.96941
+91134,Clevischer Ring / Von-Sparr-Str. / Von-Lohe-Str.,7.006044,50.973587
+91136,Clevischer Ring / BAB-Nord / BAB-Süd,7.004493,50.976505
+91137,Düsseldorfer Str. - B8 / Manforter Str.,7.002573,50.979681
+91140,Mülheimer Freiheit / Düsseldorfer Str. / Dünnwalder Str.,7.002932,50.967604
+91141,Berliner Str. / Von-Sparr-Str. / Schleiermacherstr.,7.010171,50.971471
+91143,Keupstr. / Schanzenstr.,7.009171,50.965811
+91196,Bergisch-Gladbacher Str.  / Genovevastr. / Schule,7.006412,50.963539
+91981,Markgrafenstr. / Von-Sparr-Str.,7.011475,50.971005
+91982,Clevischer Ring / Markgrafenstrasse,7.006625,50.9681
+95924,Diepeschrather Str. / Anemonenweg,7.068595,50.981399
+99144,Berliner Str. / Cottbuser Str. / Neurather Weg,7.020424,50.978708
+99145,Berliner Str. / Im Weidenbruch,7.022103,50.97996
+99146,Berliner Str. / Fixheider Weg,7.02458,50.981853
+99147,Berliner Str. / Posadowskystr.,7.026972,50.983646
+99148,Berliner Str. / Am Emberg,7.029802,50.989385
+99149,Berliner Str. / Leuchterstr. / Schweidnitzer Str.,7.036946,50.996495
+99150,Berliner Str. / Prämonstratenserstr.,7.038319,50.99953
+99151,Berliner Str. / Odenthaler Str. / Kunstfelder Str.,7.041489,51.001786
+99152,Im Weidenbruch / Birkenweg / Schule,7.041207,50.983996
+99153,Im Weidenbruch / Im Weidenkamp,7.036311,50.982295
+99154,Im Weidenbruch / Honschaftsstr. / Schule,7.032574,50.981192
+99155,Honschaftsstr. / Sigwinstr. / Am Springborn,7.03233,50.975935
+99156,Honschaftsstr. / Piccoloministr.,7.032175,50.970918
+99901,Bergisch Gladbacher Str. / Genovevabad / Schule,7.010031,50.962529
+99902,Bergisch Gladbacher Str. / Keupstr. / Montanusstr.,7.012825,50.962961
+99903,Bergisch Gladbacher Str. / Carlswerkstr.,7.017524,50.963928
+99904,Bergisch Gladbacher Str. / Ackerstr.,7.018697,50.964187
+99905,Bergisch Gladbacher Str. / Feuerwache / Wichheimer Str.,7.020867,50.964616
+99906,Bergisch Gladbacher Str. / Gronauer Str.,7.026552,50.965757
+99907,Bergisch Gladbacher Str. / Herler Ring,7.027734,50.966005
+99908,Bergisch Gladbacher Str. / BAB-West,7.02957,50.966368
+99909,Bergisch Gladbacher Str. / BAB-Ost,7.032828,50.967056
+99910,Bergisch Gladbacher Str. / Honschaftsstr.,7.034012,50.967289
+99911,Bergisch Gladbacher Str. / Vischeringstr. / Ringenstr.,7.037218,50.96793
+99912,Bergisch Gladbacher Str. / Johann-Bensberg-Str. / Buschfeldstr.,7.038673,50.968218
+99913,Bergisch Gladbacher Str. / Maria-Himmelfahrt-Str.,7.044709,50.969468
+99914,Bergisch Gladbacher Str. / Rodfeldstr. / Rodstr.,7.048899,50.970936
+99915,Bergisch Gladbacher Str. / Schwabstr.,7.052774,50.972317
+99916,Bergisch Gladbacher Str. / Wasserwerkstr. / Drosselbartstr.,7.057584,50.974053
+99917,Bergisch Gladbacher Str. / Heidestr. / Hagedornstr. L73,7.059409,50.97471
+99918,Bergisch Gladbacher Str. / Dellbrücker Mauspfad / Kaserne,7.062176,50.975692
+99919,Bergisch Gladbacher Str. / Grafenmühlenweg / Urnenstr.,7.066668,50.977308
+99920,Bergisch Gladbacher Str. / Dellbrücker Hauptstr.,7.070476,50.978682
+99921,Bergisch Gladbacher Str. / Biesfelder Str.,7.074797,50.980215
+99922,Bergisch Gladbacher Str. / Von-Quadt-Str. / Otto-Kaiser-Str.,7.078516,50.981547
+99923,Bergisch Gladbacher Str. / Thielenbrucher Allee,7.087658,50.982155
+99927,Neufelder Str. / Krankenhaus Holweide,7.057371,50.96819
+99928,Piccoloministr. / Ernststr.,7.047768,50.972437
+99929,Piccoloministr. / Buschfeldstr.,7.039295,50.97168
+99930,Burgwiesenstr. / Isenburger Kirchweg,7.042967,50.964182
+99931,Bergisch Gladbacher Str. / Zufahrt Zollkriminalamt,7.06503,50.976742
+99932,Schlagbaumsweg / An der Wasserburg,7.043403,50.959281
+99933,Herler Ring - K17 / Wuppertaler Str. / Wichheimer Str.,7.026948,50.961329
+99934,Buchheimer Ring / Schlagbaumsweg,7.029289,50.956454
+99935,Buchheimer Ring / Stadtautobahn - B55a,7.027444,50.95087
+99936,Frankfurter Str. / Merkerhofstr. / Rhodiusstr.,7.007206,50.960326
+99939,Frankfurter Str. / Graf-Adolf-Str.,7.00993,50.958412
+99940,Frankfurter Str. / Montanusstr. / Vincenzstr.,7.011446,50.957336
+99941,Frankfurter Str. / Ackerstr.,7.013157,50.956146
+99942,Frankfurter Str. / Alte Wipperfürther Str.,7.013886,50.955627
+99943,Frankfurter Str. / Arnsberger Str.,7.013758,50.954351
+99944,Frankfurter Str. / Heidelberger Str.,7.013844,50.95312
+99945,Frankfurter Str. / Germaniastr. / Modemannstr.,7.015697,50.951704
+99946,Frankfurter Str. / Stadtautobahn - B55a Nord,7.018873,50.949353
+99950,Heidelberger Str. / Waldecker Str.,7.005118,50.951054
+99953,Heidelberger Str. / Kalk-Mülheimer Str. / Karlsruher Str.,7.001316,50.950198
+99961,Graf-Adolf-Str. / Sonderburger Str. / Schule,7.007242,50.957176
+99962,Buchheimer Ring / Schützengildeweg,7.027802,50.95813
+99963,Graf-Adolf-Str. / Kieler Str. / Rendsburger Platz,7.003664,50.955499
+99964,Alte Wipperfürther Str. / Schule,7.016462,50.955974
+99965,Schnellweider Str. / Musäusstr.,7.051274,50.970218
+99966,Schlagbaumsweg / Colonia Allee / Isenburger Kirchweg / Ostmerheimer Straße,7.044873,50.959772
+99967,Bergisch Gladbacher Str. / Steyler Str.,7.035198,50.967521
+99968,Mielenforster Str. / Bensberger Marktweg,7.073978,50.967476
+99969,Heidelberger Str. / Kopernikusstr.,7.010068,50.952261
+99980,Berliner Str. / Steinkaulerstr. / Buswendeschleife,7.014726,50.975297

@@ -35,5 +35,16 @@ python ../../../tools/lessprecise/lessprecise.py \
 	--indent 4 --sort 1 -o trafficlights.geojson \
 	trafficlights_temp.geojson
 
-# remove temp file
+# remove temp GeoJSON file
 rm trafficlights_temp.geojson
+
+# CVS derivative
+ogr2ogr -f CSV trafficlights_temp.csv \
+	_source/Ampelanlagen/LSA_Koeln_11_2013.shp \
+	-t_srs "EPSG:4326"
+
+# Sort by ID
+csvsort -y 10000 -c 1 trafficlights_temp.csv > trafficlights.csv
+
+# delete intermediate file
+rm trafficlights_temp.csv
