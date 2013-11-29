@@ -25,6 +25,8 @@ do
 		|in2csv -f json -k elements \
 		|csvcut -c "id,lat,lon,tags/name" \
 		|csvjson --lat lat --lon lon -k id -i 4 \
-		> amenity_$tag.geojson
+		> amenity/amenity_$tag.geojson
 	sleep 1
 done
+
+rm tags_amenity.csv
