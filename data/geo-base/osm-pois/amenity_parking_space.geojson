@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9006933, 
+        50.8254163, 
+        6.9626685, 
+        50.9473431
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9006933, 
+                    50.8254163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1398652875", 
+            "properties": {
+                "tags/name": "Behindertenparkplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9626685, 
+                    50.9473431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1801576963", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

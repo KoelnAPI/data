@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8834404, 
+        50.9136759, 
+        7.084944, 
+        51.0971223
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8890439, 
+                    51.0861514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "35434200", 
+            "properties": {
+                "tags/name": "Kulturzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8834404, 
+                    51.0971223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54050379", 
+            "properties": {
+                "tags/name": "Sojus 7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8999416, 
+                    51.0228977
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373509967", 
+            "properties": {
+                "tags/name": "Bürgerzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0168163, 
+                    50.9690885
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567832752", 
+            "properties": {
+                "tags/name": "Palladium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9694842, 
+                    50.9549247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "615586883", 
+            "properties": {
+                "tags/name": "IGNIS e. V. Europäisches Kulturzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9621187, 
+                    50.9367867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633167965", 
+            "properties": {
+                "tags/name": "Beginenfenster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9243372, 
+                    50.9513317
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659543595", 
+            "properties": {
+                "tags/name": "Loft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.917449, 
+                    50.9589295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "660308678", 
+            "properties": {
+                "tags/name": "Phoenix Kultur- und Integrationszentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.084944, 
+                    50.9229499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868712", 
+            "properties": {
+                "tags/name": "Bürger- und Vereinszentrum Rath-Heumar eV"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9700316, 
+                    50.9136759
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "901366886", 
+            "properties": {
+                "tags/name": "Forum für Fotografie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9487345, 
+                    50.9487679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "919725834", 
+            "properties": {
+                "tags/name": "Schigimont-Art"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933383, 
+                    50.941033
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1029891536", 
+            "properties": {
+                "tags/name": "DOM Digital Online Media GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9899374, 
+                    50.9556117
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2354961546", 
+            "properties": {
+                "tags/name": "DOCK.ONE"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9016291, 
+                    50.9556796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2514954628", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9067144, 
+                    50.9522805
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2519733320", 
+            "properties": {
+                "tags/name": "Kolbhalle"
+            }
+        }
+    ]
+}

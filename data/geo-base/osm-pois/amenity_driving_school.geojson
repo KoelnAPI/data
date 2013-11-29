@@ -1,0 +1,305 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7642998, 
+        50.8005954, 
+        7.1767527, 
+        51.066622
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9187099, 
+                    50.9503504
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "336690419", 
+            "properties": {
+                "tags/name": "Hasselhuhn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0103946, 
+                    50.9715208
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "337657168", 
+            "properties": {
+                "tags/name": "Fahrschule Faix"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8988995, 
+                    50.8437945
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "402825951", 
+            "properties": {
+                "tags/name": "Fahrschule Kesim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8955187, 
+                    50.8951178
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406252712", 
+            "properties": {
+                "tags/name": "Fahrschule Lannör"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9199561, 
+                    50.9459796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "608425505", 
+            "properties": {
+                "tags/name": "Fahrschule Fit For Drive"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600394, 
+                    50.9306425
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "665848624", 
+            "properties": {
+                "tags/name": "Pähler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0077349, 
+                    50.9446849
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089121143", 
+            "properties": {
+                "tags/name": "Fahrschule Karg Consulting"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8658527, 
+                    50.869723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1193650386", 
+            "properties": {
+                "tags/name": "Fahrschule Mülhan"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1163448, 
+                    50.953782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1274103816", 
+            "properties": {
+                "tags/name": "Klaus Werth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1767527, 
+                    50.8943448
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1288161065", 
+            "properties": {
+                "tags/name": "Wolle's Fahrschulteam"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.027537, 
+                    51.066622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1344631554", 
+            "properties": {
+                "tags/name": "Intensiv-Fahrschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1479381, 
+                    50.9617995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1393930229", 
+            "properties": {
+                "tags/name": "Fahrschule Alberti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9185489, 
+                    50.9526354
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1665544971", 
+            "properties": {
+                "tags/name": "City-Fahrschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9223261, 
+                    50.9531503
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1776401904", 
+            "properties": {
+                "tags/name": "Ayhan"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7642998, 
+                    50.8005954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2098807472", 
+            "properties": {
+                "tags/name": "Fahrschule Dunkel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9912159, 
+                    50.9140903
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2104817207", 
+            "properties": {
+                "tags/name": "Stoff"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8895104, 
+                    50.8151994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2134255599", 
+            "properties": {
+                "tags/name": "Landsmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8201782, 
+                    50.8103547
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2398170127", 
+            "properties": {
+                "tags/name": "Fahrschule Kaul"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0578121, 
+                    50.8843713
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2448548598", 
+            "properties": {
+                "tags/name": "Köln-Drive Fahrschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9509512, 
+                    50.9726948
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2448565793", 
+            "properties": {
+                "tags/name": "Köln-Drive Fahrschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9457907, 
+                    50.9362274
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2448571979", 
+            "properties": {
+                "tags/name": "Köln-Drive Fahrschule"
+            }
+        }
+    ]
+}

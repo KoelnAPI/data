@@ -1,0 +1,165 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7715343, 
+        50.8036081, 
+        7.1956046, 
+        51.0871036
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0098162, 
+                    50.9629508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "333571500", 
+            "properties": {
+                "tags/name": "Genovevabad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0374377, 
+                    50.8661751
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1447387183", 
+            "properties": {
+                "tags/name": "Kombibad Zündorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0262717, 
+                    50.9264771
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1512539491", 
+            "properties": {
+                "tags/name": "Naturfreibad Vingst"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8149698, 
+                    50.8036081
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1712485546", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9658238, 
+                    50.9585889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1722060327", 
+            "properties": {
+                "tags/name": "Lentpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7715343, 
+                    50.8076417
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1740156652", 
+            "properties": {
+                "tags/name": "Freibad Lechenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0202251, 
+                    50.9422449
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1765266271", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8789468, 
+                    50.9343732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217272409", 
+            "properties": {
+                "tags/name": "Stadion Bad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1956046, 
+                    51.0871036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2271723335", 
+            "properties": {
+                "tags/name": "Freibad Dabringhausen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0650265, 
+                    51.0110812
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2353831883", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.148065, 
+                    50.9095092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2391633626", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

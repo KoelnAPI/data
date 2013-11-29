@@ -1,0 +1,3259 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7004026, 
+        50.8018947, 
+        7.1986753, 
+        51.0992899
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8866234, 
+                    51.095009
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "34969200", 
+            "properties": {
+                "tags/name": "Lottenschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8999757, 
+                    51.0956236
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "35327767", 
+            "properties": {
+                "tags/name": "Sir-Peter-Ustinow-Gesamtschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8877738, 
+                    51.0947181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54050418", 
+            "properties": {
+                "tags/name": "Comenius-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9263824, 
+                    50.9567092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "75874741", 
+            "properties": {
+                "tags/name": "Lauder-Morijah-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1829103, 
+                    50.9680161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "129620329", 
+            "properties": {
+                "tags/name": "Gemeinschafts-Grundschule Moitzfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9042284, 
+                    50.9630175
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "215418610", 
+            "properties": {
+                "tags/name": "Städt. Montessori Zentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.909241, 
+                    50.9650548
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "215423659", 
+            "properties": {
+                "tags/name": "Montessori-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.903365, 
+                    50.9609481
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "218193588", 
+            "properties": {
+                "tags/name": "Lindweiler Hof Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8770212, 
+                    50.9627575
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "218557415", 
+            "properties": {
+                "tags/name": "Bertha-von-Suttner Realschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8937859, 
+                    50.9782963
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "221175135", 
+            "properties": {
+                "tags/name": "Bildungszentrum Butzweiler Hof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.877668, 
+                    50.964976
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "222146328", 
+            "properties": {
+                "tags/name": "Kolkrabenschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9002513, 
+                    50.9711376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230243051", 
+            "properties": {
+                "tags/name": "Kath. Grundschule Ossendorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.920783, 
+                    50.9896542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230380880", 
+            "properties": {
+                "tags/name": "Gesamtschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9502262, 
+                    50.9616869
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "232281393", 
+            "properties": {
+                "tags/name": "Städt. Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.893895, 
+                    50.9650366
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "233240673", 
+            "properties": {
+                "tags/name": "Gemeinschafts-Grundschule Erlenweg 16"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9464161, 
+                    50.9827886
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242924093", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Neusser Straße 605"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8872474, 
+                    51.006431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243172265", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Soldiner Straße 68 FS Lernen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.869997, 
+                    50.9795923
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244055653", 
+            "properties": {
+                "tags/name": "Max-Ernst-Gesamtschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.869997, 
+                    50.9805238
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244055711", 
+            "properties": {
+                "tags/name": "Grundschule Görlinger Zentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8709658, 
+                    50.947885
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244123537", 
+            "properties": {
+                "tags/name": "Rheinische Förderschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9220892, 
+                    50.9581955
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "245981671", 
+            "properties": {
+                "tags/name": "Förderschule Sprache"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9241548, 
+                    50.9956512
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246812983", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Gartenstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9539792, 
+                    50.9708591
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247379915", 
+            "properties": {
+                "tags/name": "Barbara von Sell Berufskolleg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9543102, 
+                    50.9712122
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247379916", 
+            "properties": {
+                "tags/name": "Edith-Stein-Realschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9607429, 
+                    50.9927098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247385587", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Halfengasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9652912, 
+                    50.9233737
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248110701", 
+            "properties": {
+                "tags/name": "Theo-Burauen-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9507884, 
+                    50.93219
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248146262", 
+            "properties": {
+                "tags/name": "Katholische Hauptschule Großer Griechenmarkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8371533, 
+                    50.9644348
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249235154", 
+            "properties": {
+                "tags/name": "städt. Grundschule Köln-Widdersdorf (Olympia-Schule)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8575122, 
+                    51.0683223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249759184", 
+            "properties": {
+                "tags/name": "Städt. Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510113, 
+                    50.9646039
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252017005", 
+            "properties": {
+                "tags/name": "Rheinische Musikschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8716249, 
+                    50.9980178
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252851596", 
+            "properties": {
+                "tags/name": "Gymnasium Köln Pesch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8718996, 
+                    50.9969266
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252851729", 
+            "properties": {
+                "tags/name": "GGS Köln Pesch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8026022, 
+                    50.9125934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254872829", 
+            "properties": {
+                "tags/name": "Realschule Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8041344, 
+                    50.9968782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255061167", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Bachstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8121229, 
+                    50.9139152
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255404452", 
+            "properties": {
+                "tags/name": "Ringschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510063, 
+                    50.9642139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256190719", 
+            "properties": {
+                "tags/name": "Hochschule für Musik, Tanzabteilung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9577831, 
+                    50.962823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256201016", 
+            "properties": {
+                "tags/name": "Grundschule Mathilde von Mevissen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558065, 
+                    50.966747
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256220575", 
+            "properties": {
+                "tags/name": "Leonardo-da-Vinci-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9531184, 
+                    50.9728169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256276819", 
+            "properties": {
+                "tags/name": "Volkshochschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9611549, 
+                    50.9475345
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256281321", 
+            "properties": {
+                "tags/name": "Hochschule für Musik und Tanz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960766, 
+                    50.9465135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256305998", 
+            "properties": {
+                "tags/name": "Mädchengymnasium Ursulinen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9733005, 
+                    50.967555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256543356", 
+            "properties": {
+                "tags/name": "Hauptschule Brehmstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8845055, 
+                    51.0197191
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258547701", 
+            "properties": {
+                "tags/name": "(ehem.) Sonderschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.963719, 
+                    50.9729723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258591698", 
+            "properties": {
+                "tags/name": "Erich-Kästner-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1279125, 
+                    50.8297586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258855398", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Asselbachschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997503, 
+                    51.0263435
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265648357", 
+            "properties": {
+                "tags/name": "Heinrich-Böll-Gesamtschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9231671, 
+                    50.9101457
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265728732", 
+            "properties": {
+                "tags/name": "Grundschule Lohrbergstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.952692, 
+                    50.9096395
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265941175", 
+            "properties": {
+                "tags/name": "Haus der Generation"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9395236, 
+                    50.9078462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265941768", 
+            "properties": {
+                "tags/name": "Sankt-Nikolaus-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.857256, 
+                    50.9326281
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266339492", 
+            "properties": {
+                "tags/name": "Ildefons-Herwegen-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1183292, 
+                    51.0147931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267685076", 
+            "properties": {
+                "tags/name": "Kath. Grundschule Voiswinkel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7081952, 
+                    50.9152477
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269617553", 
+            "properties": {
+                "tags/name": "Rathausschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1152437, 
+                    51.0307222
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270252852", 
+            "properties": {
+                "tags/name": "Schulzentrum Odenthal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0942066, 
+                    50.990292
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362971", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Hand"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7635489, 
+                    50.9568762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "271147132", 
+            "properties": {
+                "tags/name": "Wolfhelmschule Dansweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8165559, 
+                    50.9190195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "271668680", 
+            "properties": {
+                "tags/name": "Heinrich-Böll-Schule (BBS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0654195, 
+                    50.9778941
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274114645", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Urnenstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9629588, 
+                    50.9678891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275019071", 
+            "properties": {
+                "tags/name": "Nordparkschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1202981, 
+                    50.995967
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276278892", 
+            "properties": {
+                "tags/name": "Städtische Max Bruch Musikschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1316615, 
+                    50.9997538
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276348975", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Hebborn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1220292, 
+                    50.8028396
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276371082", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0398084, 
+                    50.9615978
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277817820", 
+            "properties": {
+                "tags/name": "Integrierte Gesamtschule Holweide"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8629684, 
+                    50.8943045
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280711295", 
+            "properties": {
+                "tags/name": "Milos-Sovak-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.127566, 
+                    50.9788208
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519791", 
+            "properties": {
+                "tags/name": "Marie-Curie-Realschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0773516, 
+                    50.9754162
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286441074", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Thurner Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0326533, 
+                    50.9824143
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288716400", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0323402, 
+                    50.9829585
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288716481", 
+            "properties": {
+                "tags/name": "Katholische Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9955591, 
+                    50.9275133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292850967", 
+            "properties": {
+                "tags/name": "Georg-Simon-Ohm-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0011395, 
+                    51.0599044
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "299467671", 
+            "properties": {
+                "tags/name": "Erich Kästner Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7578399, 
+                    51.0946913
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305465374", 
+            "properties": {
+                "tags/name": "Schule am Kronenpützchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1014042, 
+                    50.8756269
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308328540", 
+            "properties": {
+                "tags/name": "Grundschule Peter-Petersen-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0989408, 
+                    50.8745437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308328713", 
+            "properties": {
+                "tags/name": "Sonderschule Mörikeweg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8975355, 
+                    50.9757501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313130432", 
+            "properties": {
+                "tags/name": "Fortbildungszentrum Köhlstraße 8"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1754151, 
+                    51.0504461
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "314898183", 
+            "properties": {
+                "tags/name": "Grundschule Neschen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0240535, 
+                    50.9644416
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "316257603", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.99082, 
+                    50.9972721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317333386", 
+            "properties": {
+                "tags/name": "Regenbogenschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9180449, 
+                    50.9320134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317335294", 
+            "properties": {
+                "tags/name": "Tanzschule van Hasselt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9983601, 
+                    50.957768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "318199898", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Horststraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0024807, 
+                    50.9566668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "318219806", 
+            "properties": {
+                "tags/name": "Hauptschule Rendsburger Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.041051, 
+                    51.0019997
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404360", 
+            "properties": {
+                "tags/name": "Schule Berliner Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0400839, 
+                    50.9704324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "329319907", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9891369, 
+                    51.0292905
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "332351028", 
+            "properties": {
+                "tags/name": "Städtische Musikschule Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0088925, 
+                    50.9689992
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "333621089", 
+            "properties": {
+                "tags/name": "Kath. Grundschule Langemaß"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7525104, 
+                    50.9709603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340092378", 
+            "properties": {
+                "tags/name": "Rochusschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9966386, 
+                    50.9599309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578650", 
+            "properties": {
+                "tags/name": "Kolping Bildungswerk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9788949, 
+                    50.9975716
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345555235", 
+            "properties": {
+                "tags/name": "Heinrich-Welsch-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0083389, 
+                    50.9862832
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "348408950", 
+            "properties": {
+                "tags/name": "KGS Luzerner Weg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0290139, 
+                    51.0010983
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352839588", 
+            "properties": {
+                "tags/name": "Katholische Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0075605, 
+                    50.9590086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "355852711", 
+            "properties": {
+                "tags/name": "Elly-Heuss-Knapp-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0081561, 
+                    50.9642436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359930216", 
+            "properties": {
+                "tags/name": "Genoveva-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7540741, 
+                    51.0782219
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365322576", 
+            "properties": {
+                "tags/name": "Norbert Gymnasium Knechtsteden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9126534, 
+                    50.9075859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "368304066", 
+            "properties": {
+                "tags/name": "Elsa-Brändström-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0237124, 
+                    50.9310259
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373455102", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Heßhofstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0244867, 
+                    50.9308163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373455107", 
+            "properties": {
+                "tags/name": "Heinzelmännchen-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0238725, 
+                    50.938502
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375779853", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Höhenberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.906363, 
+                    51.0235877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377819713", 
+            "properties": {
+                "tags/name": "Gustav-Heinemann-Hauptschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8107901, 
+                    51.0754268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "386089861", 
+            "properties": {
+                "tags/name": "Leibniz-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0816767, 
+                    50.8807534
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412472646", 
+            "properties": {
+                "tags/name": "Katholische Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9666875, 
+                    50.907413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "417571496", 
+            "properties": {
+                "tags/name": "Franziskus-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1372406, 
+                    50.963238
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419345310", 
+            "properties": {
+                "tags/name": "Otto-Hahn-Schulzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8130605, 
+                    50.8719703
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "426888384", 
+            "properties": {
+                "tags/name": "Wendelinusschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8167914, 
+                    50.8154061
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "450323600", 
+            "properties": {
+                "tags/name": "VHS Erftstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9471235, 
+                    50.9279022
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "456372583", 
+            "properties": {
+                "tags/name": "Katholische Offene Ganztagsschule Trierer Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8390097, 
+                    50.9627074
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "461636066", 
+            "properties": {
+                "tags/name": "Internationale Friedensschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9064548, 
+                    50.9571528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "462177919", 
+            "properties": {
+                "tags/name": "Hauptschule Borsigstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9916042, 
+                    50.9838931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469420274", 
+            "properties": {
+                "tags/name": "Städtische Gemeinschaftsgrundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.986615, 
+                    50.986706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469472408", 
+            "properties": {
+                "tags/name": "Katholische Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1986753, 
+                    51.0930091
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "483697381", 
+            "properties": {
+                "tags/name": "Grundschule Dabringhausen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0159303, 
+                    50.9559034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "499488762", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1119034, 
+                    50.9556139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506346286", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0161654, 
+                    51.0992899
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506773331", 
+            "properties": {
+                "tags/name": "Körperbehindertenschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9249014, 
+                    50.9957709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "507101326", 
+            "properties": {
+                "tags/name": "Katholische Marienschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9028014, 
+                    50.9224013
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517274960", 
+            "properties": {
+                "tags/name": "Hans-Christian-Andersen-Schule, KGS Freiligrathstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.902216, 
+                    50.9226814
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517274961", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule GGS Freiligrathstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0084958, 
+                    50.964768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "529935322", 
+            "properties": {
+                "tags/name": "Tages- und Abendschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9151348, 
+                    50.9355151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "534377144", 
+            "properties": {
+                "tags/name": "Kölner Domsingschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.996065, 
+                    50.9287161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "535155530", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Westerwaldstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1628516, 
+                    50.8148447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538970215", 
+            "properties": {
+                "tags/name": "Tanzschule Breuer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8999916, 
+                    50.8930437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "565419764", 
+            "properties": {
+                "tags/name": "Geschwister-Scholl-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9004816, 
+                    50.8934268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "565419766", 
+            "properties": {
+                "tags/name": "Don Bosco-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0077287, 
+                    50.9371077
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566811131", 
+            "properties": {
+                "tags/name": "Gymnasium - Kaiserin-Theophanu-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8946623, 
+                    51.0296563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566958169", 
+            "properties": {
+                "tags/name": "Freie Waldorfschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1455823, 
+                    50.982886
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567361678", 
+            "properties": {
+                "tags/name": "Gemeinschafts Grundschule Heidkamp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0336997, 
+                    51.0802414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568521773", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Wuppertalstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0213327, 
+                    50.951572
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570067773", 
+            "properties": {
+                "tags/name": "Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8558555, 
+                    51.0616573
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "573423024", 
+            "properties": {
+                "tags/name": "Gem. Hauptschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1771715, 
+                    50.9227677
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593325683", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Forsbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8026022, 
+                    50.9125935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "595408821", 
+            "properties": {
+                "tags/name": "Realschule Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1550737, 
+                    50.8018947
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "618697908", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule FWHütte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.163417, 
+                    50.8140347
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619520787", 
+            "properties": {
+                "tags/name": "VHS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.889124, 
+                    51.0859603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "621539982", 
+            "properties": {
+                "tags/name": "VHS Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9755412, 
+                    50.9654987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622153905", 
+            "properties": {
+                "tags/name": "Otfried-Preußler-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9757136, 
+                    50.9656384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622153906", 
+            "properties": {
+                "tags/name": "GGS Garthestraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0569472, 
+                    51.0635534
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622891616", 
+            "properties": {
+                "tags/name": "Städt. Grundschule im Kirchfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0284086, 
+                    51.0671672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622892508", 
+            "properties": {
+                "tags/name": "GHS Neukronenberger Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0337696, 
+                    51.0631071
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622892517", 
+            "properties": {
+                "tags/name": "Don Bosco Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0259624, 
+                    51.0631218
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622892642", 
+            "properties": {
+                "tags/name": "GGS Herderstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8062409, 
+                    51.0000093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623064069", 
+            "properties": {
+                "tags/name": "Dietrich-Bonhoeffer-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8387204, 
+                    50.9629573
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623267604", 
+            "properties": {
+                "tags/name": "Vincerola International Montessori Day Nursery and Preschool Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0063945, 
+                    50.9739041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623303138", 
+            "properties": {
+                "tags/name": "Vincerola International Montessori Day Nursery and Preschool Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8235467, 
+                    50.9066358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623619868", 
+            "properties": {
+                "tags/name": "CJD Berufsbildungswerk Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956733, 
+                    50.9265574
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "641217038", 
+            "properties": {
+                "tags/name": "Heidbrink Segeln + Motor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.942942, 
+                    50.9360534
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "643076863", 
+            "properties": {
+                "tags/name": "Wall Street Institute"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9449424, 
+                    50.942157
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "653926415", 
+            "properties": {
+                "tags/name": "Bénédict School"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9831042, 
+                    50.9621017
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654532149", 
+            "properties": {
+                "tags/name": "Zirkus und Artistikzentrum Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8687425, 
+                    50.9483431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "661032724", 
+            "properties": {
+                "tags/name": "Freiluga"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8240385, 
+                    50.8957328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "666238007", 
+            "properties": {
+                "tags/name": "Albert-Einstein-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0592538, 
+                    51.0501247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "687668695", 
+            "properties": {
+                "tags/name": "Grundschule Heinrich-Lübke-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1910279, 
+                    50.8028323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "691163228", 
+            "properties": {
+                "tags/name": "Adolf Kolping Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0839801, 
+                    50.9163967
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "729766241", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Forststraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8477919, 
+                    51.0453148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "739543526", 
+            "properties": {
+                "tags/name": "Kath.Grundschule Gutnikstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0188728, 
+                    51.0379023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "820847585", 
+            "properties": {
+                "tags/name": "Wuppermann Bildungswerk Leverkusen GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8091961, 
+                    50.9046252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "837167090", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8104576, 
+                    51.0755237
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "859477036", 
+            "properties": {
+                "tags/name": "Realschule Hackenbroich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9181074, 
+                    50.9345054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "875631645", 
+            "properties": {
+                "tags/name": "Erzb. Liebfrauenschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1903334, 
+                    50.9886439
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "880922135", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Herkenrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8875085, 
+                    51.0956929
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "939097462", 
+            "properties": {
+                "tags/name": "Astrid-Lindgren-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9145355, 
+                    50.9456263
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "969112563", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Lindenbornstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9142355, 
+                    50.9458102
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "969112573", 
+            "properties": {
+                "tags/name": "Katholische Grundschule Vincenz-Statz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1884671, 
+                    50.9697214
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1014517800", 
+            "properties": {
+                "tags/name": "Friedrich Fröbel Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0590486, 
+                    51.0500043
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1080821692", 
+            "properties": {
+                "tags/name": "Comeniusschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0147695, 
+                    50.9707313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1099217271", 
+            "properties": {
+                "tags/name": "Kölner Design Akademie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9287845, 
+                    50.9221785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1117026131", 
+            "properties": {
+                "tags/name": "Schiller Gymnasium Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9085343, 
+                    50.9484438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1157690226", 
+            "properties": {
+                "tags/name": "Steuer-Fachschule Dr. Endriss"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452376, 
+                    50.9375433
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1172007978", 
+            "properties": {
+                "tags/name": "Tanzschule Schulerecki"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9264653, 
+                    50.9240345
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1217588481", 
+            "properties": {
+                "tags/name": "Städtische Förderschule Zülpicher Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1820949, 
+                    50.8953021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1251426782", 
+            "properties": {
+                "tags/name": "Musikschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1816982, 
+                    50.8957134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1254366209", 
+            "properties": {
+                "tags/name": "Tanzschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9457833, 
+                    50.9380732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1265004371", 
+            "properties": {
+                "tags/name": "Englisches Institut Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.123067, 
+                    50.8033499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1347568907", 
+            "properties": {
+                "tags/name": "Don-Bosco-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9557339, 
+                    50.9178743
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1362866839", 
+            "properties": {
+                "tags/name": "Berufskolleg Südstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8179137, 
+                    51.0992455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1374487541", 
+            "properties": {
+                "tags/name": "Berufsbildungszentrum Dormagen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9894852, 
+                    50.9471926
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1380650311", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1355191, 
+                    50.9829282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1385387350", 
+            "properties": {
+                "tags/name": "Berufskolleg Bergisch Gladbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0010681, 
+                    51.0783013
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1433057090", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0440995, 
+                    50.9835813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1459240951", 
+            "properties": {
+                "tags/name": "Willy-Brandt-Gesamtschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.883116, 
+                    50.8800984
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591079110", 
+            "properties": {
+                "tags/name": "Josef Metternich-Musikschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7174285, 
+                    50.9110202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596089977", 
+            "properties": {
+                "tags/name": "Clemensschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7201215, 
+                    50.912292
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596103338", 
+            "properties": {
+                "tags/name": "Mädchenrealschule Martha Salvatoris"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0076641, 
+                    50.9585336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1613401943", 
+            "properties": {
+                "tags/name": "Realschule Lasallestraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9132473, 
+                    50.9492028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1620391299", 
+            "properties": {
+                "tags/name": "BTZ - Berufliches Trainingszentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9447312, 
+                    50.9085463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643152314", 
+            "properties": {
+                "tags/name": "Rosenzweigschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92913, 
+                    50.9187789
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1664334373", 
+            "properties": {
+                "tags/name": "Rheinische Musikschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0017953, 
+                    50.9690574
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1670775910", 
+            "properties": {
+                "tags/name": "Rheingymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9102347, 
+                    51.0204527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1671086947", 
+            "properties": {
+                "tags/name": "Henry-Ford-Realschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8538877, 
+                    51.0104555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1687015494", 
+            "properties": {
+                "tags/name": "Konrad-Adenauer-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0783987, 
+                    50.9446123
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702596657", 
+            "properties": {
+                "tags/name": "KGS Brück"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0050932, 
+                    50.8452934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1704837731", 
+            "properties": {
+                "tags/name": "Grundschule Langel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1282241, 
+                    51.0835133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708941032", 
+            "properties": {
+                "tags/name": "Montanusschule Burscheid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1254459, 
+                    51.0834459
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708941869", 
+            "properties": {
+                "tags/name": "Volkshochschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8757972, 
+                    50.9446899
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1710245115", 
+            "properties": {
+                "tags/name": "LVR Förderschule Anna-Freud-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8690798, 
+                    50.8702251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1743799038", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8689993, 
+                    50.870259
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1743799039", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8096287, 
+                    51.0638707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1765931334", 
+            "properties": {
+                "tags/name": "Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7090105, 
+                    51.0565002
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1775801367", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Frixheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7456799, 
+                    50.8398601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1800355643", 
+            "properties": {
+                "tags/name": "Grungschule Gymnich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8246331, 
+                    51.0986811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1839731177", 
+            "properties": {
+                "tags/name": "Realschule am Sportpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8783073, 
+                    50.9508845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1958549735", 
+            "properties": {
+                "tags/name": "ASK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9386924, 
+                    50.9455427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038997438", 
+            "properties": {
+                "tags/name": "Montessori-Schule Köln - Gilbachstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8873053, 
+                    51.0855449
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2131027350", 
+            "properties": {
+                "tags/name": "Otto-Hahn-Gymnasium Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8873724, 
+                    51.084935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2131027440", 
+            "properties": {
+                "tags/name": "Lise-Meitner-Realschule Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9517473, 
+                    50.9194255
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2135377647", 
+            "properties": {
+                "tags/name": "Michaeli Schule Köln - Freie Waldorfschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7004026, 
+                    50.8685884
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2202144787", 
+            "properties": {
+                "tags/name": "Theodor-Heuss-Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8447882, 
+                    50.9362117
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2216463435", 
+            "properties": {
+                "tags/name": "Albert-Schweitzer-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8386078, 
+                    50.9345592
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2216549000", 
+            "properties": {
+                "tags/name": "Georg-Büchner-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8723973, 
+                    50.9351858
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217279257", 
+            "properties": {
+                "tags/name": "Sportinternat Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8722043, 
+                    50.9348615
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217279259", 
+            "properties": {
+                "tags/name": "1. Jugend Fußball Schule Köln e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0929112, 
+                    50.9961937
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2243026561", 
+            "properties": {
+                "tags/name": "DRK Familienbildung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0927902, 
+                    50.9961499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2243030146", 
+            "properties": {
+                "tags/name": "DRK Familienbildung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1600524, 
+                    50.9646756
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2260500361", 
+            "properties": {
+                "tags/name": "KGS Bensberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1606267, 
+                    50.9634861
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2260511144", 
+            "properties": {
+                "tags/name": "EGS Bensberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1022027, 
+                    50.9987152
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2260555379", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1352046, 
+                    50.9932052
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2260555381", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1161143, 
+                    50.9831996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2260555383", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9215741, 
+                    50.9983053
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2262630615", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9063985, 
+                    50.9512645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2264619198", 
+            "properties": {
+                "tags/name": "ecosign"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7660079, 
+                    50.9389748
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2273874134", 
+            "properties": {
+                "tags/name": "Johannesschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9470916, 
+                    50.9669581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2317128932", 
+            "properties": {
+                "tags/name": "Louise-von-Marillac-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8305729, 
+                    50.8061416
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2392982579", 
+            "properties": {
+                "tags/name": "VHS Erftstadt Raum 4"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8915738, 
+                    50.8561465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408827907", 
+            "properties": {
+                "tags/name": "Martinusschule Katholische Grundschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9033368, 
+                    50.8312092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408985028", 
+            "properties": {
+                "tags/name": "Volks-Hoch-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8861745, 
+                    50.8638651
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409315073", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Kendenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8036909, 
+                    50.9127352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409801926", 
+            "properties": {
+                "tags/name": "Ringschule GGS der Stadt Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8081978, 
+                    50.9054204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409845468", 
+            "properties": {
+                "tags/name": "Burgschule | Städtische Gemeinschaftsgrundschule • Offene Ganztagsschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8066628, 
+                    50.9053397
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409862999", 
+            "properties": {
+                "tags/name": "Anne-Frank-Schule Frechen Förderschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9990403, 
+                    50.869331
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2444374413", 
+            "properties": {
+                "tags/name": "Offene Schule Köln OSK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.942327, 
+                    50.9326001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468130845", 
+            "properties": {
+                "tags/name": "Berufskolleg Humboldtstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7141366, 
+                    50.9156671
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2482641654", 
+            "properties": {
+                "tags/name": "Step - Nachhilfe und Schulungen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0552221, 
+                    50.867434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2498063928", 
+            "properties": {
+                "tags/name": "Johann-Amos-Comenius-Schule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0547718, 
+                    50.8669584
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2498063929", 
+            "properties": {
+                "tags/name": "Lessing-Gymnasium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.054997, 
+                    50.8671962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2498063939", 
+            "properties": {
+                "tags/name": "Wilhelm-Busch-Realschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9517274, 
+                    50.9195072
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2541657326", 
+            "properties": {
+                "tags/name": "GGS Loreleystraße Köln Südstadt"
+            }
+        }
+    ]
+}

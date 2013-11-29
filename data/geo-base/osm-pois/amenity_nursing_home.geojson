@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        7.0270703, 
+        50.9011777, 
+        7.0728816, 
+        50.9770686
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0728816, 
+                    50.9770686
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286449367", 
+            "properties": {
+                "tags/name": "Seniorenzentrum Dellbrück SBK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0352362, 
+                    50.9716691
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "325852536", 
+            "properties": {
+                "tags/name": "Altenzentrum St. Anno"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0270703, 
+                    50.9011777
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2108417475", 
+            "properties": {
+                "tags/name": "Tagepflege"
+            }
+        }
+    ]
+}

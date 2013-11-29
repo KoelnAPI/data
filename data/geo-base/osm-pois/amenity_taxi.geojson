@@ -1,0 +1,1775 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7136554, 
+        50.8070804, 
+        7.1960952, 
+        51.0906441
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9609956, 
+                    50.9353204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "28122097", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9744212, 
+                    50.9402739
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "28123306", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.93936, 
+                    50.969223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "215295808", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8993319, 
+                    50.9573916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "218195230", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8860562, 
+                    50.971097
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "218540872", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9198615, 
+                    50.9535069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "221169436", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510579, 
+                    50.9723813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230377258", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9024712, 
+                    50.9983494
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242848098", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9341742, 
+                    50.9564434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243917383", 
+            "properties": {
+                "tags/name": "+49 221 9704090"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601337, 
+                    50.9428689
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246194322", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571933, 
+                    50.9427265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246197926", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8981218, 
+                    50.9464099
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249059837", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9536891, 
+                    50.9658294
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252016272", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956035, 
+                    50.9413875
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256573324", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9254948, 
+                    50.9464323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256577199", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7976368, 
+                    50.9981973
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257084217", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8721693, 
+                    50.9694048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257808418", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9577209, 
+                    50.9400289
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "259165444", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.945164, 
+                    50.9400027
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262394406", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9148991, 
+                    50.9486124
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262628882", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558879, 
+                    50.943126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "264872228", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194979, 
+                    50.9076732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265729135", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9515191, 
+                    50.9233004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265730512", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9352835, 
+                    50.9227542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265913350", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9443111, 
+                    50.9004846
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276132185", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0692516, 
+                    50.9811147
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287904367", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9445737, 
+                    50.9473823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "289499819", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0160438, 
+                    51.0317916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293596749", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9689777, 
+                    50.9402418
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296005637", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0121204, 
+                    50.9578317
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "310244716", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9627214, 
+                    50.9538616
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "310320859", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9391611, 
+                    50.9170501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317087717", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9191564, 
+                    50.956898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320214079", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9076126, 
+                    50.9366592
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343692424", 
+            "properties": {
+                "tags/name": "Taxi-Ruf Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9609267, 
+                    50.9451726
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352675183", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9934077, 
+                    51.0211163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "390413234", 
+            "properties": {
+                "tags/name": "Rudolf-Mann-PLatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9154502, 
+                    50.9510714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "392002594", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9275373, 
+                    50.9153609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "432364436", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1832103, 
+                    50.9016233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "439770849", 
+            "properties": {
+                "tags/name": "Taxi Klein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828064, 
+                    50.8955018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "439772280", 
+            "properties": {
+                "tags/name": "Taxi Rösrath Aktiv"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0590764, 
+                    50.8838461
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446760407", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9910411, 
+                    51.0316672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "474544133", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9506485, 
+                    50.9390826
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "485131768", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9259309, 
+                    50.9949305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "494864602", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561828, 
+                    50.9507714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "503735329", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9250525, 
+                    50.9927984
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "524240391", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9610709, 
+                    50.9362772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "526789091", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9822298, 
+                    51.0318499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "561311028", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0790772, 
+                    50.9488985
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568314900", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8153023, 
+                    50.9402589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600524577", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399407, 
+                    50.9930565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600849037", 
+            "properties": {
+                "tags/name": "Taxi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9430486, 
+                    50.9407381
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "608988902", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9788817, 
+                    50.9392353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "613378771", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8905144, 
+                    51.0906441
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "617520295", 
+            "properties": {
+                "tags/name": "Taxistand Monheim Busbahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.150852, 
+                    50.8144111
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "618802504", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9564754, 
+                    50.9323908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619450048", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561765, 
+                    50.9355908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635830171", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1960952, 
+                    50.8070804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "691163020", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0972992, 
+                    50.919949
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868688", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7136554, 
+                    50.9158427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "723224628", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8873169, 
+                    50.9854285
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "733998393", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1146088, 
+                    50.9581781
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "734314383", 
+            "properties": {
+                "tags/name": "Taxi Berg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8943314, 
+                    50.9370457
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "765970482", 
+            "properties": {
+                "tags/name": "TAXI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8942496, 
+                    50.9370432
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "769689432", 
+            "properties": {
+                "tags/name": "TAXI"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9499348, 
+                    51.0505859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "771078040", 
+            "properties": {
+                "tags/name": "Pützdelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394304, 
+                    50.9300313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773336464", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614639, 
+                    50.940243
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "774696891", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1577606, 
+                    50.8156546
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "803672787", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1590023, 
+                    50.8175223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "803672789", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1218909, 
+                    50.8790266
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639081", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8674166, 
+                    50.9374326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "824233910", 
+            "properties": {
+                "tags/name": "Junkersdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0625214, 
+                    51.0490458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "824327400", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0218483, 
+                    50.9330668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "830476075", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9010886, 
+                    50.8242779
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "861247367", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1642523, 
+                    50.8143532
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "948127564", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8991272, 
+                    50.8285832
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1027865455", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9120523, 
+                    50.8290299
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1027865458", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9190279, 
+                    50.8367336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1027865459", 
+            "properties": {
+                "tags/name": "City-Taxi-Brühl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9038766, 
+                    50.8275009
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1027865462", 
+            "properties": {
+                "tags/name": "Taxi Pohl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9798948, 
+                    50.8230637
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1134105762", 
+            "properties": {
+                "tags/name": "Wesseling Bahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8063747, 
+                    50.9095985
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1139407128", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9414088, 
+                    50.9105943
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1145690229", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9332903, 
+                    50.9215271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1177414797", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1183567, 
+                    50.8805851
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1218835385", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8950022, 
+                    50.8812703
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1242103610", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9719249, 
+                    50.9048061
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1259310942", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9965492, 
+                    50.8920508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1288291483", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9782262, 
+                    50.9364124
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1298491844", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1835295, 
+                    50.8950173
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1334636682", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8968408, 
+                    50.9241956
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1351794862", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0047185, 
+                    50.8646843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1360245452", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9903942, 
+                    50.8909701
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1360245609", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9243089, 
+                    50.9120464
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1368000912", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0006406, 
+                    50.8885454
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1388476384", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9403414, 
+                    50.9362866
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431795695", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8146472, 
+                    50.9099901
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460570031", 
+            "properties": {
+                "tags/name": "Taxi Rische"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7768221, 
+                    50.9368422
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460904477", 
+            "properties": {
+                "tags/name": "Taxi Reuter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8335064, 
+                    50.937336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1464599526", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8806747, 
+                    50.9375766
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1464599876", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9148982, 
+                    50.9206235
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1582681104", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9490436, 
+                    50.9363236
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1584993353", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8790398, 
+                    50.9995454
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1602177064", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0420041, 
+                    50.9288402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1614308006", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9470696, 
+                    50.9432402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1631589855", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005995, 
+                    50.9617089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1670774948", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9763008, 
+                    50.9639221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1681413436", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0994391, 
+                    51.0874413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708302865", 
+            "properties": {
+                "tags/name": "Taxi Kos GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9840789, 
+                    50.9478359
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1716393679", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9279292, 
+                    50.9504015
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1732898265", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9376204, 
+                    50.9356086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1776914358", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9389448, 
+                    50.935752
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1776914388", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0343629, 
+                    51.0323984
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1885213214", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9511787, 
+                    50.9314686
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1979539854", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0553987, 
+                    50.9088424
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1997278685", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957005, 
+                    50.9298627
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2161124991", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9629047, 
+                    50.9329463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2175188807", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9347993, 
+                    50.9384136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2211519870", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828624, 
+                    50.8969879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2248314845", 
+            "properties": {
+                "tags/name": "Taxi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407042, 
+                    50.9306401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2282235872", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9395529, 
+                    50.9328581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2282235934", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9586446, 
+                    50.9211036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2341573783", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.941038, 
+                    50.928723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2348391752", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0023869, 
+                    50.9351995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357588264", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7819445, 
+                    50.9617075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2380636718", 
+            "properties": {
+                "tags/name": "Taxi Köpp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8749893, 
+                    50.8786894
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408724346", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9420044, 
+                    50.9380867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2427897005", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

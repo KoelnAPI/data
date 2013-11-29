@@ -1,0 +1,487 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9126488, 
+        50.9269785, 
+        7.1101378, 
+        51.0988891
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1101378, 
+                    51.0988891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266756496", 
+            "properties": {
+                "tags/name": "Paffenlöher Steffie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9365565, 
+                    50.9981373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287593601", 
+            "properties": {
+                "tags/name": "Die Kantine"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.913193, 
+                    50.9485755
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295257178", 
+            "properties": {
+                "tags/name": "Die Werkstatt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614648, 
+                    50.9417854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352702435", 
+            "properties": {
+                "tags/name": "Bogen 2"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9351689, 
+                    50.9422795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "413454054", 
+            "properties": {
+                "tags/name": "H1 Music Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9423872, 
+                    50.9295315
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "427820965", 
+            "properties": {
+                "tags/name": "Privilege"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563284, 
+                    50.9345313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "477280426", 
+            "properties": {
+                "tags/name": "Venue"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566471, 
+                    50.9350135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "477280444", 
+            "properties": {
+                "tags/name": "Station 2b"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9554311, 
+                    50.9269785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569931060", 
+            "properties": {
+                "tags/name": "Club Apropo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9339604, 
+                    50.9438382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "579865150", 
+            "properties": {
+                "tags/name": "Gewölbe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.938443, 
+                    50.930614
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "586889732", 
+            "properties": {
+                "tags/name": "Roonburg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9373212, 
+                    50.9305557
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593552802", 
+            "properties": {
+                "tags/name": "La Lic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959538, 
+                    50.94456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623508566", 
+            "properties": {
+                "tags/name": "Kokett Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9604148, 
+                    50.9384192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181822", 
+            "properties": {
+                "tags/name": "Disco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.988564, 
+                    51.0316002
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "645552655", 
+            "properties": {
+                "tags/name": "Shadow"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407092, 
+                    50.9421526
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654207161", 
+            "properties": {
+                "tags/name": "Petit Prince"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940697, 
+                    50.9420539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654207482", 
+            "properties": {
+                "tags/name": "Diamonds"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9598474, 
+                    50.9377097
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "660695005", 
+            "properties": {
+                "tags/name": "Le Carussel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9578273, 
+                    50.9356744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "667381587", 
+            "properties": {
+                "tags/name": "Harry's New-York Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9386297, 
+                    50.9300375
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "809813736", 
+            "properties": {
+                "tags/name": "MTC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.935031, 
+                    50.9429825
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "930764137", 
+            "properties": {
+                "tags/name": "Studio 672"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9126488, 
+                    50.9487592
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "957231265", 
+            "properties": {
+                "tags/name": "Barinton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933488, 
+                    50.941015
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038970861", 
+            "properties": {
+                "tags/name": "Des toten Rockstars Raucherecke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9400294, 
+                    50.9419456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1225186194", 
+            "properties": {
+                "tags/name": "Nachtflug"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.915989, 
+                    50.9516879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1448235867", 
+            "properties": {
+                "tags/name": "Club Bahnhof Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9411359, 
+                    50.9395452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1912760411", 
+            "properties": {
+                "tags/name": "Flamingo Royal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940727, 
+                    50.931733
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1948954386", 
+            "properties": {
+                "tags/name": "Das Ding"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399396, 
+                    50.9415523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1969878310", 
+            "properties": {
+                "tags/name": "Crystal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9400513, 
+                    50.9419924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1969878501", 
+            "properties": {
+                "tags/name": "Starz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9586643, 
+                    50.9621395
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2096386367", 
+            "properties": {
+                "tags/name": "Saphir Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9640765, 
+                    50.9313012
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2160053818", 
+            "properties": {
+                "tags/name": "Playboy Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9401046, 
+                    50.9359082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279503187", 
+            "properties": {
+                "tags/name": "triple a"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9820195, 
+                    50.9516508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2334495360", 
+            "properties": {
+                "tags/name": "Bootshaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394937, 
+                    50.9374505
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439165335", 
+            "properties": {
+                "tags/name": "Vanity"
+            }
+        }
+    ]
+}

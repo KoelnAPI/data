@@ -1,0 +1,1663 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7595491, 
+        50.8113536, 
+        7.190359, 
+        51.0957125
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8031056, 
+                    50.9979337
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257083940", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563343, 
+                    50.9412091
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262403342", 
+            "properties": {
+                "tags/name": "Taubenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9448001, 
+                    50.9399114
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262403489", 
+            "properties": {
+                "tags/name": "Löwenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9594479, 
+                    50.9412741
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267352380", 
+            "properties": {
+                "tags/name": "Dionysus-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9623181, 
+                    50.9404233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267355158", 
+            "properties": {
+                "tags/name": "Paolozzi-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9573112, 
+                    50.9399913
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267355924", 
+            "properties": {
+                "tags/name": "Heinzelmännchenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9615341, 
+                    50.9388868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275332110", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9443254, 
+                    50.9479746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "283794314", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8653084, 
+                    50.8752133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287232107", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.865464, 
+                    50.875603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287232133", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8698421, 
+                    50.8768132
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287232324", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.868943, 
+                    50.8769322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287232341", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8690317, 
+                    50.8764813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287232363", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8683662, 
+                    50.8768969
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288056330", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.869931, 
+                    50.8760098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288056414", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8685611, 
+                    50.8758697
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288056415", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8665685, 
+                    50.8770424
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288056442", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8669243, 
+                    50.875239
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288117791", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8667495, 
+                    50.8757763
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288117841", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8673469, 
+                    50.8758059
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288117842", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8647345, 
+                    50.8747829
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "291538657", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8645604, 
+                    50.8754436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "291538663", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8676568, 
+                    50.8764215
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "291541933", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.922743, 
+                    50.9470884
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296084466", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9425802, 
+                    50.9449174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320922475", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9483394, 
+                    50.9389368
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "321372530", 
+            "properties": {
+                "tags/name": "DuMont-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9539909, 
+                    50.8716539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998842", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9554885, 
+                    50.9365215
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "348498495", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9564554, 
+                    50.9322604
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "362538986", 
+            "properties": {
+                "tags/name": "Hermann-Joseph-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9715577, 
+                    50.9595459
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "385251864", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486625, 
+                    50.9414079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "387400349", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9822635, 
+                    51.0568413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "391361973", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7595491, 
+                    51.0194561
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395818914", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9189712, 
+                    50.9570888
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "429533715", 
+            "properties": {
+                "tags/name": "Max-und-Moritz-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8416009, 
+                    51.0933853
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437130990", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8402061, 
+                    51.095604
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437131015", 
+            "properties": {
+                "tags/name": "Der Schützenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0005849, 
+                    50.9668631
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "447869491", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7651447, 
+                    50.9575809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453528267", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0428191, 
+                    50.8702922
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "457091993", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.950798, 
+                    50.9427617
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "473794026", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194643, 
+                    50.9593692
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "497859111", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9807775, 
+                    50.8854282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "508427181", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.163981, 
+                    50.8144702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "542520939", 
+            "properties": {
+                "tags/name": "Stadttor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.811548, 
+                    50.909596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "562625333", 
+            "properties": {
+                "tags/name": "Bartmannskrugbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.982603, 
+                    50.8985442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603686476", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9579564, 
+                    50.9375731
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614234064", 
+            "properties": {
+                "tags/name": "Fastnachtsbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9576927, 
+                    50.9380841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614241999", 
+            "properties": {
+                "tags/name": "Frauenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9416054, 
+                    50.9439145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "615945744", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9408223, 
+                    50.9441262
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "615945746", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9125831, 
+                    50.9518065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659351133", 
+            "properties": {
+                "tags/name": "Läsche Nas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9578065, 
+                    50.9504706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "662242614", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9726855, 
+                    50.9399868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "663713068", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9623479, 
+                    50.9384349
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "664019347", 
+            "properties": {
+                "tags/name": "Fischweiber"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.895345, 
+                    50.8311959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "667016160", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8980951, 
+                    50.9390338
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "695872799", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9657132, 
+                    50.9254732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "705810176", 
+            "properties": {
+                "tags/name": "Springbrunnen Harry-Blum-Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1534729, 
+                    50.8148447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "750485668", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9467817, 
+                    50.9217651
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "771654332", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9877722, 
+                    51.0324354
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "814807624", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0562656, 
+                    50.8852359
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "864105939", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9578007, 
+                    50.9410051
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "894164848", 
+            "properties": {
+                "tags/name": "Petrusbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9802134, 
+                    51.0357891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "899395390", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.190359, 
+                    51.0928116
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "904615947", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600211, 
+                    50.9386067
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "905873989", 
+            "properties": {
+                "tags/name": "Jan von Werth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9699055, 
+                    50.9695962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "943957987", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9549253, 
+                    50.939587
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "964736151", 
+            "properties": {
+                "tags/name": "Stephan-Lochner-Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.156939, 
+                    50.8137084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1227827811", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9476728, 
+                    50.909582
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1248822437", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9627575, 
+                    50.9471336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1261916040", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940796, 
+                    50.9429938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1273342351", 
+            "properties": {
+                "tags/name": "Gothaer Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9514787, 
+                    50.9685535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1312924385", 
+            "properties": {
+                "tags/name": "Playground Fountain"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.001418, 
+                    51.063837
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350378705", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9597209, 
+                    50.9246487
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1382862521", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9590429, 
+                    50.9232114
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384806503", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1301802, 
+                    50.9917461
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1385415785", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1615924, 
+                    50.966888
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1386049523", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9568436, 
+                    50.9283461
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1388626806", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9804193, 
+                    50.9004389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1397441308", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0863622, 
+                    50.9780463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1398384115", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1330222, 
+                    50.991425
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1429395192", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.131327, 
+                    50.9907361
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1429395193", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.05744, 
+                    50.8837801
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1435313584", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8319196, 
+                    51.0957125
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1503068877", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0074535, 
+                    50.9382033
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1546261306", 
+            "properties": {
+                "tags/name": "Brunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0642544, 
+                    50.8957045
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562471827", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1549769, 
+                    50.8157609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1564008868", 
+            "properties": {
+                "tags/name": "Stadttor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0155931, 
+                    50.9000839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1605554273", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9437149, 
+                    50.9388252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1641128609", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0285806, 
+                    50.9058991
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1649393198", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0744233, 
+                    50.9748476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1677732788", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9083816, 
+                    50.8269954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1678445627", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9088851, 
+                    50.8270874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1678445628", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9081182, 
+                    50.8275798
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1678445632", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.908628, 
+                    50.8276772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1678445636", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8177576, 
+                    51.0235855
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1714841457", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.116476, 
+                    51.033776
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1721549842", 
+            "properties": {
+                "tags/name": "Hexenkessel (Hexenbrunnen)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.868259, 
+                    50.8703267
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1743799036", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0863577, 
+                    50.9778614
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1774922600", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9290589, 
+                    50.961189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1837005102", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9268702, 
+                    50.963223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1837005443", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9852613, 
+                    51.0465796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1885232798", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9588871, 
+                    50.9402371
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1930265442", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.816063, 
+                    50.8113536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038321703", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8925751, 
+                    50.8197391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2144589399", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1823845, 
+                    50.8957826
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2189712595", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397713, 
+                    50.9359645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279503148", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1535115, 
+                    50.8148296
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2285728085", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1535108, 
+                    50.8148578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2285728092", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9588725, 
+                    50.9402353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2286933001", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9057722, 
+                    50.9669791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2343510792", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9509546, 
+                    50.9391619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2382276529", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9030914, 
+                    50.8281003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408026454", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9062296, 
+                    50.8314547
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408027557", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9776558, 
+                    50.8218718
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2507388257", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9813886, 
+                    50.8246488
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2507388282", 
+            "properties": {
+                "tags/name": "Rathausbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9127743, 
+                    50.9547225
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2511500589", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8824347, 
+                    51.0931332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2544211353", 
+            "properties": {
+                "tags/name": "Krötenbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8812856, 
+                    51.0909707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2544211358", 
+            "properties": {
+                "tags/name": "Markrbrunnen"
+            }
+        }
+    ]
+}

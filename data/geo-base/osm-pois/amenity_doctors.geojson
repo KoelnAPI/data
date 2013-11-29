@@ -1,0 +1,1467 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7618848, 
+        50.8000929, 
+        7.1779482, 
+        51.099907
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9252194, 
+                    50.9552824
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "245988507", 
+            "properties": {
+                "tags/name": "Andreas Koch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004418, 
+                    51.0324093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "346105793", 
+            "properties": {
+                "tags/name": "Kaniewski"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1779482, 
+                    50.9273417
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358386257", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92605, 
+                    50.9113541
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412848043", 
+            "properties": {
+                "tags/name": "Dr. Effner / Dr. Reuber"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9509872, 
+                    50.9692702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419172706", 
+            "properties": {
+                "tags/name": "Naturheilpraxis Dr. Ulrich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9587551, 
+                    50.8766204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419236947", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8402347, 
+                    51.095618
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437131017", 
+            "properties": {
+                "tags/name": "Borkhardt / Tralle - Fachärztinnen für Kinder- und Jugendmedizin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9129753, 
+                    50.9524185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "457327732", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8515768, 
+                    51.0146719
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "693316507", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8531669, 
+                    51.0141213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "693316509", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1635295, 
+                    50.8146609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "752520845", 
+            "properties": {
+                "tags/name": "Harald Morsbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7787492, 
+                    50.8020368
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "771232613", 
+            "properties": {
+                "tags/name": "Grunert"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7817965, 
+                    50.97616
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "933919063", 
+            "properties": {
+                "tags/name": "Gennen & Neufang"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7756456, 
+                    50.8033169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1004213375", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.009725, 
+                    50.9419377
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1023189960", 
+            "properties": {
+                "tags/name": "Ärtzehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0100578, 
+                    50.9393933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1023711260", 
+            "properties": {
+                "tags/name": "Dr. med Lothar Franke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0106456, 
+                    50.9405399
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1024995659", 
+            "properties": {
+                "tags/name": "Gemeinschaftspraxis Eythstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7665285, 
+                    50.807629
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1028422176", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7657036, 
+                    50.8007325
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1028422187", 
+            "properties": {
+                "tags/name": "Internist"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7678449, 
+                    50.8000929
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1028422189", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9987144, 
+                    50.9428703
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039919952", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0087792, 
+                    50.9408312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025128", 
+            "properties": {
+                "tags/name": "Ärztehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9838983, 
+                    50.8061836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1114828617", 
+            "properties": {
+                "tags/name": "Zahngut"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.918106, 
+                    50.9543684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1142952229", 
+            "properties": {
+                "tags/name": "Ärztlicher Notdienst der niedergelassenen Ärzte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0063775, 
+                    50.9515459
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1158128123", 
+            "properties": {
+                "tags/name": "Dr. med. Thomas Joist"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9467424, 
+                    50.9480615
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1170862628", 
+            "properties": {
+                "tags/name": "Facharztzentrum Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9934259, 
+                    50.9502674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1380585754", 
+            "properties": {
+                "tags/name": "Hausarztzentrum Stegerwald"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9770404, 
+                    50.8203836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431603595", 
+            "properties": {
+                "tags/name": "Dr. Rodtmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9787581, 
+                    50.822642
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431746199", 
+            "properties": {
+                "tags/name": "Braunfels, Henke, Konopka"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9788039, 
+                    50.8226227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431746200", 
+            "properties": {
+                "tags/name": "Dr. Kaas, Pieter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9786057, 
+                    50.8224329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431746201", 
+            "properties": {
+                "tags/name": "Schädel, Stapelamnn und Laufenberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9786795, 
+                    50.8225978
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431746207", 
+            "properties": {
+                "tags/name": "Dr. med. Jan Haensel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9807227, 
+                    50.8245196
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1479123787", 
+            "properties": {
+                "tags/name": "Dr. med. M Niebecker"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9860879, 
+                    50.8221904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487377258", 
+            "properties": {
+                "tags/name": "Dr. Recht und Falkenstein-Recht"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.985663, 
+                    50.8221388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487377260", 
+            "properties": {
+                "tags/name": "Nierenzentrum Wesseling"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9863445, 
+                    50.8219547
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487377270", 
+            "properties": {
+                "tags/name": "Plastische Chirurgie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9527619, 
+                    50.8284625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487379933", 
+            "properties": {
+                "tags/name": "Dr. med Sévère"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9760348, 
+                    50.8201532
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487400524", 
+            "properties": {
+                "tags/name": "Dr. Doumit, Willke, Denise"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9801589, 
+                    50.8134168
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487407899", 
+            "properties": {
+                "tags/name": "Dr. Aylin Urmersbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9777275, 
+                    50.8240696
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487410198", 
+            "properties": {
+                "tags/name": "Dr. Naumann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9799242, 
+                    50.8240579
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487425263", 
+            "properties": {
+                "tags/name": "Schweizer, Nadeschda"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.980075, 
+                    50.8132951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487428125", 
+            "properties": {
+                "tags/name": "Dr. Wiesel, Peter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9821043, 
+                    50.82453
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487437807", 
+            "properties": {
+                "tags/name": "Dr. Schulze, Andreas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9786022, 
+                    50.8225519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487437811", 
+            "properties": {
+                "tags/name": "Dr.med. D.Khalili-Araghi-Brunklaus u.Kollegin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9822216, 
+                    50.8246257
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487442557", 
+            "properties": {
+                "tags/name": "Dr. Heidrich, Albert und Dr. Bücker, Markus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0265248, 
+                    50.871099
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1489675816", 
+            "properties": {
+                "tags/name": "Dr. med. Francois Steinbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9764036, 
+                    50.8061158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491365486", 
+            "properties": {
+                "tags/name": "Dipl.-Psych. Burkert, Ulrike"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9859289, 
+                    50.8230488
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491372964", 
+            "properties": {
+                "tags/name": "Dr. Campian, Corina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9749657, 
+                    50.8151786
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491389361", 
+            "properties": {
+                "tags/name": "Dr. Dahlmeyer, Michael"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9757506, 
+                    50.819828
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491389367", 
+            "properties": {
+                "tags/name": "Dr. Dehof, Karl-Ludwig"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9775861, 
+                    50.8222467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491400788", 
+            "properties": {
+                "tags/name": "Dr. Denecke, Arnd"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9852323, 
+                    50.8213738
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491400798", 
+            "properties": {
+                "tags/name": "MVZ RNR Wesseling"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9757042, 
+                    50.8198079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491405701", 
+            "properties": {
+                "tags/name": "Dr. Dolfen, Beatrix, Dr. Selke, Karsten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9860349, 
+                    50.8220036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491438264", 
+            "properties": {
+                "tags/name": "Professor Jacobi, Christoph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.977493, 
+                    50.8200412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491446644", 
+            "properties": {
+                "tags/name": "Kirchmann, Astrid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9800369, 
+                    50.8132815
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491446652", 
+            "properties": {
+                "tags/name": "PD Dr. med. Lutz und Dr. Stranzenbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9807492, 
+                    50.824541
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491449314", 
+            "properties": {
+                "tags/name": "Dr. Moini-Afchari, Ute"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.980743, 
+                    50.8245278
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491453438", 
+            "properties": {
+                "tags/name": "Dr. Pucker, Manfred"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9751024, 
+                    50.8179298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491459089", 
+            "properties": {
+                "tags/name": "Dr. Ring, Daniel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9760123, 
+                    50.8201226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491475129", 
+            "properties": {
+                "tags/name": "Dr. Schmeel, Angelika"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9747921, 
+                    50.8211516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491483991", 
+            "properties": {
+                "tags/name": "Dr. med. Schönrock, Lisa Manuela"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9757212, 
+                    50.8197823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491616743", 
+            "properties": {
+                "tags/name": "Dr.med.dent. Owin und Dr.med.dent. Harhoff"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.779665, 
+                    50.8436998
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491644468", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8119558, 
+                    50.9167333
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1502279344", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.806302, 
+                    50.9093803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1502281679", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8030471, 
+                    50.9091225
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1558147633", 
+            "properties": {
+                "tags/name": "Radiologische Praxis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065314, 
+                    50.9593282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1593180021", 
+            "properties": {
+                "tags/name": "Chirurgische Praxis Dr. med. Arne Wilhelm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9673289, 
+                    50.9114665
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1631239948", 
+            "properties": {
+                "tags/name": "Praxis für Präventivmedizin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1627731, 
+                    50.9623364
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1636256358", 
+            "properties": {
+                "tags/name": "Dr. med. Jürgen Ramacher"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1635386, 
+                    50.9623163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1636256396", 
+            "properties": {
+                "tags/name": "Zahnarzt Stefan Gottschalk 02204-58000"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9185281, 
+                    50.9587676
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709873236", 
+            "properties": {
+                "tags/name": "Ärztehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9779121, 
+                    50.8217849
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1748320997", 
+            "properties": {
+                "tags/name": "Augenzentrum Wesseling"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9779014, 
+                    50.821803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1748320999", 
+            "properties": {
+                "tags/name": "HNO Dr. Reichel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9849652, 
+                    51.0319118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1780114263", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0437818, 
+                    50.8962001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1826237370", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493626, 
+                    50.8298127
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1913082528", 
+            "properties": {
+                "tags/name": "Dr. Diallo und Dr. Gerdes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0609808, 
+                    50.8931259
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1924788923", 
+            "properties": {
+                "tags/name": "Klaus Roll"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.003508, 
+                    50.962593
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1952637407", 
+            "properties": {
+                "tags/name": "Dr. med.Benno Raffelsieper"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0411365, 
+                    50.9286674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1952649758", 
+            "properties": {
+                "tags/name": "Dr.Dr. Reiner Beck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.11981, 
+                    50.986656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1976352577", 
+            "properties": {
+                "tags/name": "Praxis Hans-Hermann Bongard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9835508, 
+                    51.0301
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1979172048", 
+            "properties": {
+                "tags/name": "Dr. Krause"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0630803, 
+                    50.8845617
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2061148008", 
+            "properties": {
+                "tags/name": "Simin Fakhim-Haschemi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9675901, 
+                    50.9623867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2070368442", 
+            "properties": {
+                "tags/name": "Kinder- und Jugendärztliche Notfallpraxis Köln-Riehl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9585902, 
+                    50.9615561
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2096385813", 
+            "properties": {
+                "tags/name": "Dr. med. Evelyn Teßmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1218768, 
+                    50.9843373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2099892926", 
+            "properties": {
+                "tags/name": "Dr med. Rainer Koll"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.057017, 
+                    50.8841224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2133333513", 
+            "properties": {
+                "tags/name": "Dr. med. H.-Joachim Schaefer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0020486, 
+                    51.032794
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2150925241", 
+            "properties": {
+                "tags/name": "Dr. med Gerd-Volker Schmeisser"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8961748, 
+                    50.9369019
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2156309519", 
+            "properties": {
+                "tags/name": "Dr. Hönscheid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8169068, 
+                    51.099907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2193345223", 
+            "properties": {
+                "tags/name": "A. Özburun"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9605044, 
+                    50.94429
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2294646866", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Andrea Schmitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9213139, 
+                    50.9531878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2303809408", 
+            "properties": {
+                "tags/name": "Kuhn & Schachtsiek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9012078, 
+                    50.8257159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2311320842", 
+            "properties": {
+                "tags/name": "Arztpraxis Pajaczek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8178178, 
+                    50.8165216
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2354609362", 
+            "properties": {
+                "tags/name": "Wolfram Kaiser"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8890393, 
+                    50.8144497
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2362313473", 
+            "properties": {
+                "tags/name": "Hausärztliche Gemeinschaftspraxis Dr. med. Hans-Joachim Wolf und Hans-Friedrich Wolf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8152394, 
+                    50.8148157
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2383436679", 
+            "properties": {
+                "tags/name": "Wilhelm A. Bier"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.812771, 
+                    50.8124168
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2386263968", 
+            "properties": {
+                "tags/name": "Dr. med. J. Pascal Otte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8127689, 
+                    50.8124004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2386263971", 
+            "properties": {
+                "tags/name": "Dr. med. Lars Brachtendorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7618848, 
+                    51.0923363
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2407116682", 
+            "properties": {
+                "tags/name": "Dr. Igelbrinck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.823494, 
+                    50.8065249
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2418097992", 
+            "properties": {
+                "tags/name": "Gemeinschaftspraxis  Dr. med. Nina Jung und  Dr. med. Anja Thurmüller"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8260343, 
+                    50.8028586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425239761", 
+            "properties": {
+                "tags/name": "Dr. med. Andreas Kage & Dr. med. Michaela Kage"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.826041, 
+                    50.8032782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425239762", 
+            "properties": {
+                "tags/name": "Dr. med. Ewa Pogorzelska"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8260794, 
+                    50.8035056
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425239763", 
+            "properties": {
+                "tags/name": "Dr. med. Marianne Rohde"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8262415, 
+                    50.8044996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425239764", 
+            "properties": {
+                "tags/name": "Dr. med. Vinzenz Kuß"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1209195, 
+                    50.9994086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2521649874", 
+            "properties": {
+                "tags/name": "Achim Dederichs"
+            }
+        }
+    ]
+}

@@ -1,0 +1,2545 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7053965, 
+        50.8007955, 
+        7.1988826, 
+        51.0999415
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8987719, 
+                    50.9430962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "53979527", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9074493, 
+                    50.9449754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "53980042", 
+            "properties": {
+                "tags/name": "JET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7755877, 
+                    50.9284487
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "60629635", 
+            "properties": {
+                "tags/name": "Frechen Süd (Jet)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.127288, 
+                    51.0843062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "75828785", 
+            "properties": {
+                "tags/name": "Aral Tankstelle Arnd Spies"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1279831, 
+                    51.0840721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "75829079", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1042302, 
+                    50.9488295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "137482295", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0053242, 
+                    50.8697793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "150560454", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9805559, 
+                    50.923058
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "177498624", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0819618, 
+                    50.8820468
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "205439670", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8949457, 
+                    50.9772509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "215158192", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8804761, 
+                    50.9470016
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "218291654", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7754124, 
+                    50.9292544
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "229720219", 
+            "properties": {
+                "tags/name": "Frechen Nord (Aral)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9050657, 
+                    50.9583989
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "233302211", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9046745, 
+                    50.9727375
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "234589992", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9235596, 
+                    50.8568279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "241860413", 
+            "properties": {
+                "tags/name": "bft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9136771, 
+                    50.9641427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "245798665", 
+            "properties": {
+                "tags/name": "Tankhof Braun"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9582925, 
+                    50.9743147
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247379922", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95185, 
+                    50.8985371
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248061976", 
+            "properties": {
+                "tags/name": "Star Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.929085, 
+                    50.9217634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "250887112", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9380366, 
+                    50.9058178
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "251056118", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0385411, 
+                    50.8098571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "251978810", 
+            "properties": {
+                "tags/name": "star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.810095, 
+                    50.9952675
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252024875", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8190125, 
+                    50.991975
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252024876", 
+            "properties": {
+                "tags/name": "Badziong"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8177634, 
+                    50.9106932
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254629229", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8270332, 
+                    50.9127787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254630910", 
+            "properties": {
+                "tags/name": "STAR"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9511846, 
+                    50.9355877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256546180", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1427806, 
+                    50.9588574
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256576264", 
+            "properties": {
+                "tags/name": "Tankstelle Gottschlich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7958056, 
+                    51.0005045
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257088239", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.806481, 
+                    51.0011455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257088417", 
+            "properties": {
+                "tags/name": "UTA"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8694193, 
+                    50.9231229
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257813674", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0072917, 
+                    50.9769673
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258191983", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9917247, 
+                    50.9370268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "260685136", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1301097, 
+                    50.8071231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262904176", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9607663, 
+                    50.9158911
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265727934", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0271349, 
+                    50.829656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266413792", 
+            "properties": {
+                "tags/name": "Mundorf-Tank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92739, 
+                    50.9455914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267114267", 
+            "properties": {
+                "tags/name": "Shell Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8313416, 
+                    50.9453504
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268031367", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9489375, 
+                    51.0999415
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268302518", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9223048, 
+                    50.9364255
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268439305", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1869645, 
+                    51.0911591
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268762456", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.776274, 
+                    50.9366299
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269042361", 
+            "properties": {
+                "tags/name": "Freie Tankstelle Klein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1112302, 
+                    51.0313881
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270252805", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0872522, 
+                    50.9880776
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362964", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1042763, 
+                    50.9839271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "271773359", 
+            "properties": {
+                "tags/name": "SB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1096243, 
+                    50.9953023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "271773431", 
+            "properties": {
+                "tags/name": "Total"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0240984, 
+                    50.8308563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275037953", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0678481, 
+                    50.8910298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275095965", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9539126, 
+                    50.9001123
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276133298", 
+            "properties": {
+                "tags/name": "Star Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1313673, 
+                    51.0001889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276348966", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0037568, 
+                    51.0230186
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277113501", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9987538, 
+                    50.9895308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277797487", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0024979, 
+                    50.9789223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277797727", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0348715, 
+                    50.9678192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277816190", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405697, 
+                    50.9931151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "278284309", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0980191, 
+                    50.881109
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "279373876", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9034176, 
+                    50.9267466
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280958966", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1367752, 
+                    50.9819905
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519969", 
+            "properties": {
+                "tags/name": "bft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1402969, 
+                    50.9752299
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519981", 
+            "properties": {
+                "tags/name": "total"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540874, 
+                    50.9509484
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "285671384", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9612456, 
+                    50.9546394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "285674557", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8964376, 
+                    50.8369717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287716640", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8945522, 
+                    50.8299777
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287716729", 
+            "properties": {
+                "tags/name": "FTB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004277, 
+                    50.9551898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292278888", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7627611, 
+                    50.9349727
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294718346", 
+            "properties": {
+                "tags/name": "Kuttenkeuler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8236156, 
+                    51.0588694
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295211947", 
+            "properties": {
+                "tags/name": "Gastankstelle Augstein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038595, 
+                    51.0617797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "298495232", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9521864, 
+                    50.9035618
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "300371629", 
+            "properties": {
+                "tags/name": "Billiger Tanken"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0474711, 
+                    50.8679684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "300889193", 
+            "properties": {
+                "tags/name": "SB-Tank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0720915, 
+                    51.0430638
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "301808107", 
+            "properties": {
+                "tags/name": "Total"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9960898, 
+                    50.9983062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "312870444", 
+            "properties": {
+                "tags/name": "Freie Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1778214, 
+                    51.0527352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "312942764", 
+            "properties": {
+                "tags/name": "Schultes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1014624, 
+                    50.8389821
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317589961", 
+            "properties": {
+                "tags/name": "OIL!"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9497633, 
+                    50.8745262
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998809", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0418244, 
+                    51.0018039
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404367", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0006042, 
+                    51.0233266
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "332091473", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.924611, 
+                    50.8878218
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "334127530", 
+            "properties": {
+                "tags/name": "SVG Autohof Eifeltor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1988826, 
+                    50.8739864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "336717098", 
+            "properties": {
+                "tags/name": "Mundorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.837996, 
+                    50.8911082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339690217", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0250375, 
+                    50.9652408
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "356200737", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0001133, 
+                    50.9273027
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359036969", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0618269, 
+                    50.9460197
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359690511", 
+            "properties": {
+                "tags/name": "Weyrich Tank (LPG)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0626246, 
+                    50.9450403
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359691753", 
+            "properties": {
+                "tags/name": "Total"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.909639, 
+                    50.9272466
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "360744001", 
+            "properties": {
+                "tags/name": "shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1863517, 
+                    50.8845698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364825097", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1702046, 
+                    50.8970965
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366223559", 
+            "properties": {
+                "tags/name": "ARAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1877617, 
+                    50.9675416
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366291699", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7053965, 
+                    50.9244403
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367006461", 
+            "properties": {
+                "tags/name": "ARAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8478088, 
+                    50.9378373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367009323", 
+            "properties": {
+                "tags/name": "JET Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8485531, 
+                    50.9383333
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367009327", 
+            "properties": {
+                "tags/name": "Aral Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1950149, 
+                    50.9880125
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "371640593", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8795346, 
+                    50.9996145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "376064264", 
+            "properties": {
+                "tags/name": "Avex"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1647522, 
+                    50.8991476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "379483740", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1632358, 
+                    50.8992001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "379484164", 
+            "properties": {
+                "tags/name": "Kuhl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0192397, 
+                    50.9397188
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380438650", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1458332, 
+                    50.9574762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382277651", 
+            "properties": {
+                "tags/name": "Vielhauer 24h SB Tankhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7617571, 
+                    51.0185398
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395819386", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7576327, 
+                    50.8699123
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406372033", 
+            "properties": {
+                "tags/name": "Westfalen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7566501, 
+                    50.8698537
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406372644", 
+            "properties": {
+                "tags/name": "Aral Diesel Automatik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9717315, 
+                    50.8579087
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "414680753", 
+            "properties": {
+                "tags/name": "SB-Tankstelle Amin Chaudhry"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0284999, 
+                    50.9848841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434804833", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8581953, 
+                    50.9377002
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "440829412", 
+            "properties": {
+                "tags/name": "Freie Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0855501, 
+                    50.8978894
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "440919155", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0791157, 
+                    50.9234553
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441098973", 
+            "properties": {
+                "tags/name": "Aral Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.082495, 
+                    50.8984028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446784373", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8257015, 
+                    50.8096375
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "449283456", 
+            "properties": {
+                "tags/name": "Morgenstern GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8085, 
+                    50.8102976
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "510759802", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7572091, 
+                    50.9677388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "512096081", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.793155, 
+                    50.8382754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "520183588", 
+            "properties": {
+                "tags/name": "bft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.889025, 
+                    50.937731
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "535884562", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004985, 
+                    51.061885
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "560396849", 
+            "properties": {
+                "tags/name": "Unitol"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9919007, 
+                    50.8903358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568486699", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7527198, 
+                    50.8604861
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593877607", 
+            "properties": {
+                "tags/name": "ESSO"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7763213, 
+                    50.8482013
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593877608", 
+            "properties": {
+                "tags/name": "bft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8302081, 
+                    50.9111706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "595712985", 
+            "properties": {
+                "tags/name": "AVEX"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8963298, 
+                    51.0195565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "613501267", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1575582, 
+                    50.8102436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "618726917", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9689085, 
+                    50.9790038
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "639157308", 
+            "properties": {
+                "tags/name": "JET"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0606336, 
+                    51.0480414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "648862900", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9884734, 
+                    50.8203148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654132325", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1178805, 
+                    51.0790518
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "676737476", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0423896, 
+                    51.0271456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "687693221", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0419926, 
+                    51.0274088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "687693244", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9903289, 
+                    51.0216853
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "687697216", 
+            "properties": {
+                "tags/name": "Eller-Montan"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8756689, 
+                    51.0037669
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "693316512", 
+            "properties": {
+                "tags/name": "Imbiss"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0934371, 
+                    50.9205915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868695", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.87175, 
+                    51.00454
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "731282404", 
+            "properties": {
+                "tags/name": "LPG Gas Tank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92739, 
+                    50.86154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732712145", 
+            "properties": {
+                "tags/name": "RuLa Autogas GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.19214, 
+                    50.80203
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732712300", 
+            "properties": {
+                "tags/name": "TMC Motorradwerkstatt Gm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.90813, 
+                    50.8467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732712657", 
+            "properties": {
+                "tags/name": "Propan Rheingas GmbH&Co..."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.74455, 
+                    50.86625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732712761", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.89718, 
+                    50.8624
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732712821", 
+            "properties": {
+                "tags/name": "Freie SB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8117548, 
+                    50.8213936
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732713510", 
+            "properties": {
+                "tags/name": "Gase- Goldbecker"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.11809, 
+                    51.0344
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732714586", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9369, 
+                    50.99915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732715132", 
+            "properties": {
+                "tags/name": "Coelln Gas GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.01722, 
+                    51.0575
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732715482", 
+            "properties": {
+                "tags/name": "Münch Anhängerreparatur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8849993, 
+                    50.9802688
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732715889", 
+            "properties": {
+                "tags/name": "Gerhard von Umbscheiden..."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.90167, 
+                    50.88333
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732716118", 
+            "properties": {
+                "tags/name": "Betriebshof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.08563, 
+                    51.0878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "732716870", 
+            "properties": {
+                "tags/name": "Muhr GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0367476, 
+                    51.079864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "759836518", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9781376, 
+                    50.8493958
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "794982001", 
+            "properties": {
+                "tags/name": "Faul"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9845761, 
+                    51.0329747
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "892740084", 
+            "properties": {
+                "tags/name": "LTC Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9746986, 
+                    50.975153
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "936372129", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0865149, 
+                    50.9879454
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "972698104", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7617205, 
+                    50.8007955
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1154216944", 
+            "properties": {
+                "tags/name": "Total"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1148549, 
+                    50.9545179
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1237801812", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8046277, 
+                    50.8583159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1256757895", 
+            "properties": {
+                "tags/name": "BAT Ville West"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8061497, 
+                    50.8570444
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1257009695", 
+            "properties": {
+                "tags/name": "BAT Ville Ost"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.142989, 
+                    50.9925698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1309884399", 
+            "properties": {
+                "tags/name": "JET-Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194503, 
+                    51.0327153
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1332029846", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9317559, 
+                    51.0056401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341187684", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1479985, 
+                    50.9614018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1393930233", 
+            "properties": {
+                "tags/name": "Jet"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.016871, 
+                    50.9502846
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420140082", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1238858, 
+                    50.8182968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1430404138", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8535956, 
+                    50.9352596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1473575842", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8210157, 
+                    50.8974381
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1555695113", 
+            "properties": {
+                "tags/name": "Avex"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7492313, 
+                    50.8329407
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1557059349", 
+            "properties": {
+                "tags/name": "ED Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0529086, 
+                    50.9110361
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562493356", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0450909, 
+                    51.0230527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1573841627", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0011005, 
+                    50.9558509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1597902087", 
+            "properties": {
+                "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0850564, 
+                    50.9468258
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1600186945", 
+            "properties": {
+                "tags/name": "Aral"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0750246, 
+                    51.0183968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1639450918", 
+            "properties": {
+                "tags/name": "Freie Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0491199, 
+                    50.9000198
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668655288", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9240723, 
+                    51.0581264
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1672539331", 
+            "properties": {
+                "tags/name": "bft-Tankstelle Richters"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9244858, 
+                    51.066084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1688740219", 
+            "properties": {
+                "tags/name": "Freie Tankstelle Brinkschulte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8468592, 
+                    50.9801383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1780403764", 
+            "properties": {
+                "tags/name": "Westfalia Tankhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8192291, 
+                    50.9124437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1815681445", 
+            "properties": {
+                "tags/name": "Shell-Station"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1031476, 
+                    50.8403669
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1836683275", 
+            "properties": {
+                "tags/name": "tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.031106, 
+                    50.8335744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1843207440", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058363, 
+                    50.9657275
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1862696629", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.894337, 
+                    50.8836552
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2093832340", 
+            "properties": {
+                "tags/name": "Tankstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0005708, 
+                    51.0532297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2117495477", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8524188, 
+                    50.9197194
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2130690333", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9647873, 
+                    50.9264509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2137577401", 
+            "properties": {
+                "tags/name": "Diesel und Superbenzin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8315929, 
+                    50.9146189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2204543515", 
+            "properties": {
+                "tags/name": "Badziong"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.962349, 
+                    50.932357
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2258125900", 
+            "properties": {
+                "tags/name": "H. Weiden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1976888, 
+                    50.9180014
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2379377253", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9612451, 
+                    50.9166124
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2521176984", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8649682, 
+                    50.9375382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2542274781", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.895251, 
+                    50.9250912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2551743225", 
+            "properties": {
+                "tags/name": "Markant"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9097334, 
+                    50.9272166
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2554683194", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.909679, 
+                    50.9272717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2554683198", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

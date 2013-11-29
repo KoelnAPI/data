@@ -1,0 +1,179 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8119258, 
+        50.8121962, 
+        7.0196817, 
+        50.9707255
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0093376, 
+                    50.9707255
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583434185", 
+            "properties": {
+                "tags/name": "ABC Automaten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0196817, 
+                    50.9403933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "730936276", 
+            "properties": {
+                "tags/name": "Casino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9398918, 
+                    50.9392536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "904885237", 
+            "properties": {
+                "tags/name": "Spielsalon Fair Play"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0006883, 
+                    50.9381866
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038738876", 
+            "properties": {
+                "tags/name": "Bet3000"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0012479, 
+                    50.9391674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038738931", 
+            "properties": {
+                "tags/name": "Sportwetten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9451318, 
+                    50.9353333
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1143670305", 
+            "properties": {
+                "tags/name": "Zokki's Spielplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9376285, 
+                    50.929177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643521261", 
+            "properties": {
+                "tags/name": "Rio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9751841, 
+                    50.9367403
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1797207764", 
+            "properties": {
+                "tags/name": "Spiel mit!"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9978061, 
+                    50.9213028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2299937727", 
+            "properties": {
+                "tags/name": "Merkur-Spielothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8119258, 
+                    50.8121962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2386680202", 
+            "properties": {
+                "tags/name": "goolpoint"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397625, 
+                    50.9385134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419064717", 
+            "properties": {
+                "tags/name": "Billy's Point"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397522, 
+                    50.938483
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419064961", 
+            "properties": {
+                "tags/name": "Spielpalast"
+            }
+        }
+    ]
+}

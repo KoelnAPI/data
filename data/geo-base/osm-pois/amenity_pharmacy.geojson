@@ -1,0 +1,5093 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7002294, 
+        50.8000154, 
+        7.1979826, 
+        51.0984883
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9224536, 
+                    50.9471095
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "96703163", 
+            "properties": {
+                "tags/name": "Pro Vita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949118, 
+                    50.9351813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "186506045", 
+            "properties": {
+                "tags/name": "Apotheke im Haubrichforum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9229165, 
+                    50.9526527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "192294114", 
+            "properties": {
+                "tags/name": "Zum weißen Hirsch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9283918, 
+                    50.9715608
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "223293713", 
+            "properties": {
+                "tags/name": "Im Bilderstöckchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.918154, 
+                    50.9581808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224422591", 
+            "properties": {
+                "tags/name": "Iltis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194994, 
+                    50.9568709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224422608", 
+            "properties": {
+                "tags/name": "Lenau"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8987755, 
+                    50.9586388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224445234", 
+            "properties": {
+                "tags/name": "Neptun"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9065789, 
+                    50.9676226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230241356", 
+            "properties": {
+                "tags/name": "Margareta"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9015119, 
+                    50.9611765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230292872", 
+            "properties": {
+                "tags/name": "Rochus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.958847, 
+                    50.9240391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242516129", 
+            "properties": {
+                "tags/name": "Severin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9133384, 
+                    50.9965497
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242848109", 
+            "properties": {
+                "tags/name": "St. Martin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8799829, 
+                    50.9998182
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243172247", 
+            "properties": {
+                "tags/name": "Max und Moritz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9168016, 
+                    50.9549326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243924636", 
+            "properties": {
+                "tags/name": "Sankt Peter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8956992, 
+                    50.9600094
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243974618", 
+            "properties": {
+                "tags/name": "am Rosengarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8323205, 
+                    50.9653935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244118343", 
+            "properties": {
+                "tags/name": "Jakobus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8681504, 
+                    50.9801875
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244296644", 
+            "properties": {
+                "tags/name": "Kopernikus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8662303, 
+                    50.9797548
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244296704", 
+            "properties": {
+                "tags/name": "Albert-Schweitzer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9140576, 
+                    50.9661938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "245988496", 
+            "properties": {
+                "tags/name": "Ossendorfer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9254246, 
+                    50.9952106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246812985", 
+            "properties": {
+                "tags/name": "Gartenstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9334386, 
+                    50.9932738
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246813599", 
+            "properties": {
+                "tags/name": "Fasanen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8963413, 
+                    51.0101908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247313589", 
+            "properties": {
+                "tags/name": "Damian"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9546772, 
+                    50.9604389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247383456", 
+            "properties": {
+                "tags/name": "Flora"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9578972, 
+                    51.0249785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247388975", 
+            "properties": {
+                "tags/name": "in Merkenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9781786, 
+                    50.9357323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249117924", 
+            "properties": {
+                "tags/name": "Kastel Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8588018, 
+                    51.0648995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249759181", 
+            "properties": {
+                "tags/name": "Linden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8211575, 
+                    51.0252097
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "253973543", 
+            "properties": {
+                "tags/name": "Helenenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8063803, 
+                    50.9093742
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254630909", 
+            "properties": {
+                "tags/name": "Stadt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540067, 
+                    50.9624995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256302758", 
+            "properties": {
+                "tags/name": "Hildegardis-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8023067, 
+                    51.0004326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257072182", 
+            "properties": {
+                "tags/name": "Hirsch Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8000983, 
+                    50.9986348
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257072511", 
+            "properties": {
+                "tags/name": "Apotheke Titelbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571184, 
+                    50.9361516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "259198454", 
+            "properties": {
+                "tags/name": "Gürzenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9703985, 
+                    50.9082544
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265944255", 
+            "properties": {
+                "tags/name": "Bayenthalapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9235769, 
+                    50.9116588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265944329", 
+            "properties": {
+                "tags/name": "Beethoven Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0996423, 
+                    50.9996192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266840598", 
+            "properties": {
+                "tags/name": "Apotheke in Paffrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8631721, 
+                    51.0633868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267517089", 
+            "properties": {
+                "tags/name": "Worringer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8050879, 
+                    50.9094767
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267726841", 
+            "properties": {
+                "tags/name": "Burg Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.877597, 
+                    50.9988265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268256797", 
+            "properties": {
+                "tags/name": "Donatus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0382985, 
+                    50.8120956
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269730977", 
+            "properties": {
+                "tags/name": "Sonnen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0379652, 
+                    50.8135823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269735424", 
+            "properties": {
+                "tags/name": "Post-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0885914, 
+                    50.9894924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362965", 
+            "properties": {
+                "tags/name": "Akazienapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.106861, 
+                    50.9928271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270368916", 
+            "properties": {
+                "tags/name": "Bergische Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1074837, 
+                    50.9843442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "271773394", 
+            "properties": {
+                "tags/name": "Gronauer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0528449, 
+                    50.9721563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274119030", 
+            "properties": {
+                "tags/name": "Gudenus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0474461, 
+                    50.9705054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274119035", 
+            "properties": {
+                "tags/name": "Alte Post Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1340355, 
+                    50.9961735
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276348969", 
+            "properties": {
+                "tags/name": "Malteser Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9477932, 
+                    50.980782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "278284959", 
+            "properties": {
+                "tags/name": "Nordstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9537799, 
+                    50.9656682
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "278286624", 
+            "properties": {
+                "tags/name": "Greif"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.939201, 
+                    50.9342189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "278289626", 
+            "properties": {
+                "tags/name": "Birken Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0720554, 
+                    50.9776563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280572121", 
+            "properties": {
+                "tags/name": "Von Quadt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9078347, 
+                    50.9272317
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280958968", 
+            "properties": {
+                "tags/name": "Falkenburg Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9084726, 
+                    50.9274772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280958971", 
+            "properties": {
+                "tags/name": "Virchow Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9136342, 
+                    50.9298387
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280958976", 
+            "properties": {
+                "tags/name": "Lindenthal Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.915236, 
+                    50.9301167
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280959699", 
+            "properties": {
+                "tags/name": "Adler Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9202036, 
+                    50.931927
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280959701", 
+            "properties": {
+                "tags/name": "Valder Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9105612, 
+                    50.9286388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280961561", 
+            "properties": {
+                "tags/name": "Landgrafen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1434936, 
+                    50.9594679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281087104", 
+            "properties": {
+                "tags/name": "Bären Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.079313, 
+                    50.9743177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281236702", 
+            "properties": {
+                "tags/name": "Mohrenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8968384, 
+                    50.8279315
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281242351", 
+            "properties": {
+                "tags/name": "Marienapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9811877, 
+                    50.8245368
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281279331", 
+            "properties": {
+                "tags/name": "St. Germanus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9798266, 
+                    50.8239442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281279351", 
+            "properties": {
+                "tags/name": "Apotheke am Rathaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.978656, 
+                    50.8227782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281299089", 
+            "properties": {
+                "tags/name": "Apotheke am Bahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9766385, 
+                    50.8206949
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281304826", 
+            "properties": {
+                "tags/name": "Hubertus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.976097, 
+                    50.8201161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281304829", 
+            "properties": {
+                "tags/name": "Äskulap Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1369975, 
+                    50.9815384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519974", 
+            "properties": {
+                "tags/name": "Einhorn Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9362385, 
+                    50.941545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286414932", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8960238, 
+                    50.839778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287712364", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1546447, 
+                    50.9652364
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288567636", 
+            "properties": {
+                "tags/name": "Park-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1620328, 
+                    50.9644437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290456764", 
+            "properties": {
+                "tags/name": "Adler Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1609382, 
+                    50.9651741
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290456766", 
+            "properties": {
+                "tags/name": "Sonnenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1574855, 
+                    50.9662969
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290456779", 
+            "properties": {
+                "tags/name": "Schloß Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1360564, 
+                    50.9932273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292037503", 
+            "properties": {
+                "tags/name": "Rosen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9752939, 
+                    50.9647431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292078130", 
+            "properties": {
+                "tags/name": "Apotheke am Zoo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.837298, 
+                    50.9375757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292680051", 
+            "properties": {
+                "tags/name": "Römer-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0480647, 
+                    50.9707264
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293424753", 
+            "properties": {
+                "tags/name": "Ilsen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9205235, 
+                    51.0625932
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294291851", 
+            "properties": {
+                "tags/name": "Glocken-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9160584, 
+                    51.0613136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294291855", 
+            "properties": {
+                "tags/name": "Rheinpark-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9424627, 
+                    50.9291715
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295036470", 
+            "properties": {
+                "tags/name": "Reh-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828316, 
+                    50.8973227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296231965", 
+            "properties": {
+                "tags/name": "Zur alten Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.775181, 
+                    51.0786134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306001017", 
+            "properties": {
+                "tags/name": "Delhovener Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1220566, 
+                    51.0595876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308650543", 
+            "properties": {
+                "tags/name": "Barbara Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9570654, 
+                    50.9538971
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "311121343", 
+            "properties": {
+                "tags/name": "Ewaldi Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9577772, 
+                    50.9543834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "311121546", 
+            "properties": {
+                "tags/name": "Agnes-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566991, 
+                    50.951006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "311121968", 
+            "properties": {
+                "tags/name": "Hansa Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9599118, 
+                    50.9519278
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "311122147", 
+            "properties": {
+                "tags/name": "Petrus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9893757, 
+                    50.9962182
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317333408", 
+            "properties": {
+                "tags/name": "Marienapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.003984, 
+                    50.9624058
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317630493", 
+            "properties": {
+                "tags/name": "Einhorn-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0329821, 
+                    50.9814172
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320884936", 
+            "properties": {
+                "tags/name": "Höhenhausapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1170901, 
+                    50.9562282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320946269", 
+            "properties": {
+                "tags/name": "St. Johannis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9590946, 
+                    50.8764429
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998816", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957682, 
+                    50.8760232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998818", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0202422, 
+                    50.958106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "334531810", 
+            "properties": {
+                "tags/name": "Johanniterapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9190418, 
+                    50.949016
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "335406654", 
+            "properties": {
+                "tags/name": "Punkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9217458, 
+                    50.913336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "336358626", 
+            "properties": {
+                "tags/name": "Grafenwerth-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0074981, 
+                    50.9696403
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "337657234", 
+            "properties": {
+                "tags/name": "Nibelungen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9152865, 
+                    50.9509065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "338660500", 
+            "properties": {
+                "tags/name": "Goethe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8352665, 
+                    50.890334
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339711922", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.003647, 
+                    50.9625118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578721", 
+            "properties": {
+                "tags/name": "Brückenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9262177, 
+                    50.9141882
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345621254", 
+            "properties": {
+                "tags/name": "Ahorn-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9232822, 
+                    50.9168318
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345623500", 
+            "properties": {
+                "tags/name": "Apotheke am Questerhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9241996, 
+                    50.9173148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345623611", 
+            "properties": {
+                "tags/name": "Die Herz Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9246951, 
+                    50.917298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345720623", 
+            "properties": {
+                "tags/name": "Sonnen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9270915, 
+                    50.9161737
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345725184", 
+            "properties": {
+                "tags/name": "Sülzburg-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9293499, 
+                    50.9148408
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345730288", 
+            "properties": {
+                "tags/name": "Apotheke am Gottesweg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9273248, 
+                    50.9152246
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345733475", 
+            "properties": {
+                "tags/name": "Siebengebirgsapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9208569, 
+                    50.9144112
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345751846", 
+            "properties": {
+                "tags/name": "Mariannen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9849718, 
+                    51.03221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225534", 
+            "properties": {
+                "tags/name": "Markt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9860926, 
+                    51.0321714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225547", 
+            "properties": {
+                "tags/name": "Germania Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9885876, 
+                    51.0315253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225590", 
+            "properties": {
+                "tags/name": "DocMorris"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9332202, 
+                    50.9216159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "353960910", 
+            "properties": {
+                "tags/name": "Uni-Center Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9417248, 
+                    50.91095
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "354526883", 
+            "properties": {
+                "tags/name": "Fortuna-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8161043, 
+                    50.9001614
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "355251511", 
+            "properties": {
+                "tags/name": "Mauritius-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1222957, 
+                    50.9877711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358160516", 
+            "properties": {
+                "tags/name": "Römer-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1213659, 
+                    50.9866925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358160520", 
+            "properties": {
+                "tags/name": "Jerusalem-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1766355, 
+                    50.9248729
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358378036", 
+            "properties": {
+                "tags/name": "Apotheke am Halfenhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1767299, 
+                    50.9250514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358388062", 
+            "properties": {
+                "tags/name": "Sülztal-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9146632, 
+                    50.9201594
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358825310", 
+            "properties": {
+                "tags/name": "West-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.916717, 
+                    50.92056
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358830781", 
+            "properties": {
+                "tags/name": "Eifelapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9270568, 
+                    50.9199497
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359205867", 
+            "properties": {
+                "tags/name": "Nicolai-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7648664, 
+                    50.9573981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "361193713", 
+            "properties": {
+                "tags/name": "Apotheke Lindenplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9564827, 
+                    50.9326961
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "362520713", 
+            "properties": {
+                "tags/name": "Stern"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1858108, 
+                    50.9666829
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364468417", 
+            "properties": {
+                "tags/name": "Rotdorn-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8112435, 
+                    50.9098239
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364834668", 
+            "properties": {
+                "tags/name": "Hirsch-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9459579, 
+                    50.9128211
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366949152", 
+            "properties": {
+                "tags/name": "Arkaden-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.94984, 
+                    50.9006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366958727", 
+            "properties": {
+                "tags/name": "Markus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410637, 
+                    50.9050285
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366967552", 
+            "properties": {
+                "tags/name": "Bären-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0372947, 
+                    50.9970274
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367975285", 
+            "properties": {
+                "tags/name": "Wildpark-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1918247, 
+                    50.9866025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370617138", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1897438, 
+                    50.9868181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370617141", 
+            "properties": {
+                "tags/name": "Antoniusapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.710329, 
+                    51.0511925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372796123", 
+            "properties": {
+                "tags/name": "Martinus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1240203, 
+                    50.9829906
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373475203", 
+            "properties": {
+                "tags/name": "Avia-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.07597, 
+                    50.9451878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "389998262", 
+            "properties": {
+                "tags/name": "Römer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9968722, 
+                    51.0325431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "391488428", 
+            "properties": {
+                "tags/name": "Stern Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7611269, 
+                    51.0199498
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395818852", 
+            "properties": {
+                "tags/name": "Adler Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7592413, 
+                    51.0190494
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395818950", 
+            "properties": {
+                "tags/name": "Delphin Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8394491, 
+                    51.0964058
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "401300163", 
+            "properties": {
+                "tags/name": "Rhein Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9063176, 
+                    50.8327187
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "402550327", 
+            "properties": {
+                "tags/name": "Wetterstein-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8853986, 
+                    50.8632336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "403163279", 
+            "properties": {
+                "tags/name": "Ortshof-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9003884, 
+                    50.8958551
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406252691", 
+            "properties": {
+                "tags/name": "Rosen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.897287, 
+                    50.896562
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406252707", 
+            "properties": {
+                "tags/name": "Turm-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9474885, 
+                    50.9485413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "409740998", 
+            "properties": {
+                "tags/name": "MediaPark Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8929093, 
+                    50.8193246
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "415367645", 
+            "properties": {
+                "tags/name": "Römer-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9490458, 
+                    51.0509549
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "415801824", 
+            "properties": {
+                "tags/name": "Ahorn Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.948644, 
+                    51.0504589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "415801825", 
+            "properties": {
+                "tags/name": "Rheindorfer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8083569, 
+                    50.8231257
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420179339", 
+            "properties": {
+                "tags/name": "St. Joseph-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.921645, 
+                    50.9221279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "425897176", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9801755, 
+                    50.8133757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "429633826", 
+            "properties": {
+                "tags/name": "Kronen-Apotheke Marxen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9784777, 
+                    51.0310109
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "431464680", 
+            "properties": {
+                "tags/name": "Eulen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9481174, 
+                    50.9599036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434464737", 
+            "properties": {
+                "tags/name": "Germania Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8226891, 
+                    50.8068845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434473820", 
+            "properties": {
+                "tags/name": "Apotheke am Bürgerplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8206757, 
+                    50.8101214
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434575027", 
+            "properties": {
+                "tags/name": "Schloss-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0247048, 
+                    50.981661
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434804831", 
+            "properties": {
+                "tags/name": "Apotheke Neurath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8405575, 
+                    51.0952768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437131024", 
+            "properties": {
+                "tags/name": "Römer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8385161, 
+                    51.0941864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437260564", 
+            "properties": {
+                "tags/name": "Park Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0725758, 
+                    50.9027523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "440906865", 
+            "properties": {
+                "tags/name": "Apotheke 1 extra"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95814, 
+                    50.9266166
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702952", 
+            "properties": {
+                "tags/name": "Katharinen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486507, 
+                    50.9370007
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444020091", 
+            "properties": {
+                "tags/name": "Apotheke am Neumarkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452563, 
+                    50.9372212
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444111718", 
+            "properties": {
+                "tags/name": "Kosmas Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0051862, 
+                    50.9711982
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444555236", 
+            "properties": {
+                "tags/name": "Böcking-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7814351, 
+                    50.9605701
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453456814", 
+            "properties": {
+                "tags/name": "Nikolaus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540899, 
+                    50.9380641
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "460373036", 
+            "properties": {
+                "tags/name": "manufactum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.964996, 
+                    50.9748487
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "462754597", 
+            "properties": {
+                "tags/name": "Syring Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0993831, 
+                    50.8760466
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "464014232", 
+            "properties": {
+                "tags/name": "Paracelsus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9922381, 
+                    50.9873352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469472299", 
+            "properties": {
+                "tags/name": "Schloßapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0426749, 
+                    50.9336677
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "473174800", 
+            "properties": {
+                "tags/name": "Engel-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9848417, 
+                    51.0468048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "474531941", 
+            "properties": {
+                "tags/name": "Bürriger Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9907363, 
+                    51.0465372
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "474533665", 
+            "properties": {
+                "tags/name": "Bahnhof Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9171033, 
+                    50.9497486
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "479893722", 
+            "properties": {
+                "tags/name": "Bären"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1958549, 
+                    51.0952046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "483697388", 
+            "properties": {
+                "tags/name": "Damian-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0135271, 
+                    50.955752
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "499488768", 
+            "properties": {
+                "tags/name": "Buchheimer Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1077578, 
+                    50.9538837
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506347696", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7823365, 
+                    50.9602888
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "511098099", 
+            "properties": {
+                "tags/name": "Abtei-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8090882, 
+                    51.0984883
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517288391", 
+            "properties": {
+                "tags/name": "Bären-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7892063, 
+                    50.8402928
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "519834170", 
+            "properties": {
+                "tags/name": "Martinus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9590924, 
+                    50.9363218
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "529383121", 
+            "properties": {
+                "tags/name": "Augustiner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8892955, 
+                    50.8573604
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "551337045", 
+            "properties": {
+                "tags/name": "Linden-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0785602, 
+                    50.9455801
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "565514928", 
+            "properties": {
+                "tags/name": "Margareten-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9515206, 
+                    50.9389732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566149020", 
+            "properties": {
+                "tags/name": "an der Oper"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9451143, 
+                    50.9267012
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567500950", 
+            "properties": {
+                "tags/name": "Albertus Magnus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.94136, 
+                    50.930292
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567503364", 
+            "properties": {
+                "tags/name": "Hohenstaufen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614597, 
+                    50.9215803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567872525", 
+            "properties": {
+                "tags/name": "Colonia Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601619, 
+                    50.9210427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567873062", 
+            "properties": {
+                "tags/name": "Ubier-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.991882, 
+                    50.888573
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568488810", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.904452, 
+                    50.9974886
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569920086", 
+            "properties": {
+                "tags/name": "Charlotten-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95836, 
+                    50.921117
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "574331726", 
+            "properties": {
+                "tags/name": "Chlodwig Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9560951, 
+                    50.9219444
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "577033085", 
+            "properties": {
+                "tags/name": "Overstolz Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0016323, 
+                    50.9633908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583314775", 
+            "properties": {
+                "tags/name": "Hirschapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9349444, 
+                    50.9382933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "585339026", 
+            "properties": {
+                "tags/name": "Apotheke am Brüsseler Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7548155, 
+                    50.8597883
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "590191428", 
+            "properties": {
+                "tags/name": "Max und Moritz Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7591161, 
+                    50.8563412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "590419691", 
+            "properties": {
+                "tags/name": "Viktoria-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8065482, 
+                    50.9096772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "594793672", 
+            "properties": {
+                "tags/name": "Barbara Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9784326, 
+                    51.0008394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "595644457", 
+            "properties": {
+                "tags/name": "Pelikan Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9888771, 
+                    51.0281018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "595644463", 
+            "properties": {
+                "tags/name": "Sina Vital Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065136, 
+                    50.9610034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711647", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0059691, 
+                    50.961111
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711653", 
+            "properties": {
+                "tags/name": "Eck-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0075984, 
+                    50.9601919
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711674", 
+            "properties": {
+                "tags/name": "Jan-Wellem-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9559499, 
+                    50.950787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614115812", 
+            "properties": {
+                "tags/name": "- Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1240246, 
+                    50.8102996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619124342", 
+            "properties": {
+                "tags/name": "Vitalis Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0554023, 
+                    51.0649557
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622880762", 
+            "properties": {
+                "tags/name": "Löwenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0347171, 
+                    51.0660345
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622893309", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0520159, 
+                    51.0645779
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622893331", 
+            "properties": {
+                "tags/name": "Dorfapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0343094, 
+                    51.0779937
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622908440", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9701714, 
+                    51.0855027
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "630732434", 
+            "properties": {
+                "tags/name": "Delphin Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0072659, 
+                    51.0302221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635722179", 
+            "properties": {
+                "tags/name": "Damian Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0221933, 
+                    50.940412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "637185000", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.022124, 
+                    50.9401574
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "637570851", 
+            "properties": {
+                "tags/name": "Vital-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0468212, 
+                    50.8679405
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "638350857", 
+            "properties": {
+                "tags/name": "Zollturm-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9406467, 
+                    50.912361
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "647858036", 
+            "properties": {
+                "tags/name": "Markt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9875298, 
+                    51.0328725
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "652805838", 
+            "properties": {
+                "tags/name": "Pinguin Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9131138, 
+                    50.9522939
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659351187", 
+            "properties": {
+                "tags/name": "Venlo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.907121, 
+                    50.9162365
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659495758", 
+            "properties": {
+                "tags/name": "Paracelsus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95765, 
+                    50.928379
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "661092708", 
+            "properties": {
+                "tags/name": "Paradies Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0711642, 
+                    50.9778666
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "664017549", 
+            "properties": {
+                "tags/name": "Rosen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8534538, 
+                    51.0140684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "665064255", 
+            "properties": {
+                "tags/name": "Martinus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8836584, 
+                    51.0369774
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "667457291", 
+            "properties": {
+                "tags/name": "Bären Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0143785, 
+                    51.027176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672401574", 
+            "properties": {
+                "tags/name": "Apotheke im real,-"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9889896, 
+                    50.9504785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672731161", 
+            "properties": {
+                "tags/name": "Stegerwald Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7864705, 
+                    50.981074
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672932554", 
+            "properties": {
+                "tags/name": "Martinus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0553071, 
+                    50.8806567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678502058", 
+            "properties": {
+                "tags/name": "Pharmacy Doc Morris"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0578441, 
+                    50.8845168
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678884931", 
+            "properties": {
+                "tags/name": "Damian-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8661347, 
+                    50.868443
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "688402172", 
+            "properties": {
+                "tags/name": "Katharinen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0901686, 
+                    50.9222715
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868697", 
+            "properties": {
+                "tags/name": "Königsforst Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572492, 
+                    50.9420343
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "713717900", 
+            "properties": {
+                "tags/name": "Dom-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9189956, 
+                    50.9486972
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "723976523", 
+            "properties": {
+                "tags/name": "Engel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8298018, 
+                    50.9466793
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "739037256", 
+            "properties": {
+                "tags/name": "Stein-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9265337, 
+                    50.862126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "746983374", 
+            "properties": {
+                "tags/name": "Park-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9994432, 
+                    50.9377134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "762351421", 
+            "properties": {
+                "tags/name": "Christophorus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058194, 
+                    50.9618063
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "765264593", 
+            "properties": {
+                "tags/name": "Apotheke am Wiener Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9969124, 
+                    50.9299085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "769153798", 
+            "properties": {
+                "tags/name": "Humboldt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9964577, 
+                    50.9326054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "769153799", 
+            "properties": {
+                "tags/name": "Taunus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9054519, 
+                    50.8309414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773205796", 
+            "properties": {
+                "tags/name": "Schloss-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0382905, 
+                    50.9991043
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "775265724", 
+            "properties": {
+                "tags/name": "Apotheke zur Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9053426, 
+                    50.8297567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "792467805", 
+            "properties": {
+                "tags/name": "Stern Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9028479, 
+                    50.8339652
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "811088075", 
+            "properties": {
+                "tags/name": "Glückauf Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9934422, 
+                    51.0458136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "813583109", 
+            "properties": {
+                "tags/name": "Sonnenapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.121988, 
+                    50.8791031
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639234", 
+            "properties": {
+                "tags/name": "Aviator"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.921798, 
+                    50.9466537
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "824182120", 
+            "properties": {
+                "tags/name": "Apotheke im Kaufland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.712903, 
+                    50.9153688
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "838861505", 
+            "properties": {
+                "tags/name": "Barbara-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9044659, 
+                    50.8283454
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "856842739", 
+            "properties": {
+                "tags/name": "Kurfürsten Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0569797, 
+                    50.8838797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "859531900", 
+            "properties": {
+                "tags/name": "Markt Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9939164, 
+                    50.892233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "877180646", 
+            "properties": {
+                "tags/name": "Kosmos Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0829483, 
+                    50.9217211
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "890619235", 
+            "properties": {
+                "tags/name": "Apotheke Rath-Heumar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0838574, 
+                    50.922175
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "890619237", 
+            "properties": {
+                "tags/name": "Rather Burg Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9381042, 
+                    50.9365618
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "894503622", 
+            "properties": {
+                "tags/name": "Viktoria"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8999813, 
+                    50.8265414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "894569595", 
+            "properties": {
+                "tags/name": "Gieslerapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0205652, 
+                    50.9331996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "903912020", 
+            "properties": {
+                "tags/name": "Röntgen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0195859, 
+                    50.9332717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "905203347", 
+            "properties": {
+                "tags/name": "Hesshof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1979826, 
+                    50.915232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "910478033", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8968909, 
+                    50.8276505
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "924088503", 
+            "properties": {
+                "tags/name": "Balthasar Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9765651, 
+                    50.9650363
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "956085826", 
+            "properties": {
+                "tags/name": "Dominikus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0010311, 
+                    50.9315517
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "975969922", 
+            "properties": {
+                "tags/name": "Eulen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9109421, 
+                    50.9250364
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "976649091", 
+            "properties": {
+                "tags/name": "Prisma Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9774146, 
+                    50.9368976
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028251", 
+            "properties": {
+                "tags/name": "Goten-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0087103, 
+                    50.9410185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028263", 
+            "properties": {
+                "tags/name": "Stephanus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0053182, 
+                    50.9380942
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028280", 
+            "properties": {
+                "tags/name": "Kalker-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9761359, 
+                    50.9369808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028293", 
+            "properties": {
+                "tags/name": "Apotheke im Alten Rathaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9738153, 
+                    50.9367007
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028300", 
+            "properties": {
+                "tags/name": "Löwen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0061808, 
+                    50.938582
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989028316", 
+            "properties": {
+                "tags/name": "St. Josef-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8874181, 
+                    51.091741
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "991095050", 
+            "properties": {
+                "tags/name": "Sanitätshaus Buchbender"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8899787, 
+                    51.0868005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "993468753", 
+            "properties": {
+                "tags/name": "Aesculap-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8893976, 
+                    51.0893438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "993550845", 
+            "properties": {
+                "tags/name": "Hebbel Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065837, 
+                    50.9386469
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1008206796", 
+            "properties": {
+                "tags/name": "Lukas-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0458231, 
+                    50.8670358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1016378893", 
+            "properties": {
+                "tags/name": "Marien-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9425094, 
+                    50.9441858
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1020616666", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9015613, 
+                    50.8259497
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1026917173", 
+            "properties": {
+                "tags/name": "DocMorris Apotheke Brühl am Stern"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8156398, 
+                    50.8023382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038415203", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9377311, 
+                    50.935244
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1069200530", 
+            "properties": {
+                "tags/name": "Merlin Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8027513, 
+                    50.9977605
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1111095773", 
+            "properties": {
+                "tags/name": "Barbara Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8320256, 
+                    51.0977098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1137416182", 
+            "properties": {
+                "tags/name": "Sonnen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8656641, 
+                    50.8697601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1193593243", 
+            "properties": {
+                "tags/name": "Sonnen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0110414, 
+                    50.9577356
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198461213", 
+            "properties": {
+                "tags/name": "Vincenz-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9598177, 
+                    50.9197674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1214863246", 
+            "properties": {
+                "tags/name": "Apotheke zum Goldenen Horn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1829033, 
+                    50.895775
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1251423544", 
+            "properties": {
+                "tags/name": "Sanitätshaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0087732, 
+                    50.9597024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1272607749", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1814458, 
+                    50.8954968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1274508198", 
+            "properties": {
+                "tags/name": "Sulztalapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0047677, 
+                    50.9623041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1309260602", 
+            "properties": {
+                "tags/name": "Windmühlen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9628092, 
+                    50.9084438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1317027152", 
+            "properties": {
+                "tags/name": "Artus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0052066, 
+                    50.9498503
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1337589623", 
+            "properties": {
+                "tags/name": "Augusta-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7002294, 
+                    50.9343525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1339396269", 
+            "properties": {
+                "tags/name": "Apotheke im Quadrapark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0022007, 
+                    51.0659161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1339957485", 
+            "properties": {
+                "tags/name": "Birken-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959708, 
+                    50.943017
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341290307", 
+            "properties": {
+                "tags/name": "Gesundheitserlebnis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1154508, 
+                    50.9577584
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1356831695", 
+            "properties": {
+                "tags/name": "Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9578332, 
+                    50.9207949
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384135152", 
+            "properties": {
+                "tags/name": "Merowinger Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9058056, 
+                    50.9559627
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384912537", 
+            "properties": {
+                "tags/name": "Sophien Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0318324, 
+                    50.8741406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1388469785", 
+            "properties": {
+                "tags/name": "Rosen- Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0263115, 
+                    50.8079153
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1398864208", 
+            "properties": {
+                "tags/name": "St. Thomas-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0882276, 
+                    50.9893664
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420064482", 
+            "properties": {
+                "tags/name": "Sonnen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9624602, 
+                    50.9126721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1422989332", 
+            "properties": {
+                "tags/name": "Apotheke Kürsch Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.008328, 
+                    50.8626125
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1423318868", 
+            "properties": {
+                "tags/name": "Rheinbogen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8346269, 
+                    50.9424031
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1448588475", 
+            "properties": {
+                "tags/name": "Goethe Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9778511, 
+                    50.9343585
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1456574553", 
+            "properties": {
+                "tags/name": "Marien-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0002106, 
+                    50.9375126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1456626119", 
+            "properties": {
+                "tags/name": "Hirsch-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0646205, 
+                    50.8951521
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1458680010", 
+            "properties": {
+                "tags/name": "Humboldt-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8145894, 
+                    50.9103004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460568684", 
+            "properties": {
+                "tags/name": "St. Audomar Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9661205, 
+                    50.8990796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1478928676", 
+            "properties": {
+                "tags/name": "Opal Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.019036, 
+                    50.868078
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1482206769", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8057092, 
+                    50.9111136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1483003870", 
+            "properties": {
+                "tags/name": "Saturn Apotheke im Marktkauf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9472686, 
+                    50.9387717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1541261289", 
+            "properties": {
+                "tags/name": "Schwanen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9038966, 
+                    50.8929001
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1545617319", 
+            "properties": {
+                "tags/name": "Lux 99"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9567469, 
+                    51.0632263
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1577311613", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9546178, 
+                    50.961439
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1583832552", 
+            "properties": {
+                "tags/name": "Maris Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8883038, 
+                    50.8725962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591079327", 
+            "properties": {
+                "tags/name": "easyApotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8577432, 
+                    50.9321107
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1612991999", 
+            "properties": {
+                "tags/name": "Franken Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0790364, 
+                    51.0138929
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1639541451", 
+            "properties": {
+                "tags/name": "Stern-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0800927, 
+                    51.0150658
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1639595985", 
+            "properties": {
+                "tags/name": "Löwen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9004109, 
+                    51.0210414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668098344", 
+            "properties": {
+                "tags/name": "Cosmas-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8969514, 
+                    51.0206901
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668098346", 
+            "properties": {
+                "tags/name": "Pegasus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8977722, 
+                    51.0202346
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668098347", 
+            "properties": {
+                "tags/name": "Vita Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0814171, 
+                    50.8816114
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1673071218", 
+            "properties": {
+                "tags/name": "Schwanen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0790132, 
+                    50.8812267
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1673071219", 
+            "properties": {
+                "tags/name": "Thomas-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8141506, 
+                    51.0597712
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1696392478", 
+            "properties": {
+                "tags/name": "Center-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9827042, 
+                    51.031049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702437136", 
+            "properties": {
+                "tags/name": "Nobel Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1136871, 
+                    51.0851712
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708958715", 
+            "properties": {
+                "tags/name": "Gemeinschaftpraxis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1130541, 
+                    51.0850028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708959834", 
+            "properties": {
+                "tags/name": "Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8977601, 
+                    51.0945102
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709173177", 
+            "properties": {
+                "tags/name": "Sandberg-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8889175, 
+                    51.0922385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709181392", 
+            "properties": {
+                "tags/name": "Gänseliesel Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0489486, 
+                    51.0223151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1717794599", 
+            "properties": {
+                "tags/name": "Linden Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9520321, 
+                    50.9635129
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1728300413", 
+            "properties": {
+                "tags/name": "Adler-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7681194, 
+                    50.8000154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1740262900", 
+            "properties": {
+                "tags/name": "Kilian Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0023772, 
+                    51.0682372
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1754326154", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.951315, 
+                    51.0964482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1805848562", 
+            "properties": {
+                "tags/name": "Galerie Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8325175, 
+                    50.9600217
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1807746473", 
+            "properties": {
+                "tags/name": "Apotheke Unter Linden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9814832, 
+                    50.9615898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1853443679", 
+            "properties": {
+                "tags/name": "Apotheke an der Schanz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9492255, 
+                    50.8297306
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1913082533", 
+            "properties": {
+                "tags/name": "Entenfang Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.756286, 
+                    50.9665785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1934799828", 
+            "properties": {
+                "tags/name": "Landmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0540338, 
+                    50.8894692
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1951378278", 
+            "properties": {
+                "tags/name": "Rubin - Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.990447, 
+                    50.9164261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2003963435", 
+            "properties": {
+                "tags/name": "Anker-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8124711, 
+                    50.81247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2034849812", 
+            "properties": {
+                "tags/name": "Adler Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9916208, 
+                    50.9157726
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2061501210", 
+            "properties": {
+                "tags/name": "Hubertus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1476646, 
+                    50.8156586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2064741128", 
+            "properties": {
+                "tags/name": "Aesculap-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0179053, 
+                    50.9326099
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2087068531", 
+            "properties": {
+                "tags/name": "Elisen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7653749, 
+                    50.8003864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2098921738", 
+            "properties": {
+                "tags/name": "Rathaus Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8887988, 
+                    50.8146516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2127933229", 
+            "properties": {
+                "tags/name": "Ville-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0707026, 
+                    50.8921437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129805071", 
+            "properties": {
+                "tags/name": "Marien-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.05827, 
+                    50.8837202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129833008", 
+            "properties": {
+                "tags/name": "Adler-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0780491, 
+                    50.8913671
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129877123", 
+            "properties": {
+                "tags/name": "Sonnen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0295694, 
+                    50.8978098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2136896196", 
+            "properties": {
+                "tags/name": "Nikolaus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.853832, 
+                    50.922334
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2141264719", 
+            "properties": {
+                "tags/name": "Apotheke im Globus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.896171, 
+                    50.937023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2146192218", 
+            "properties": {
+                "tags/name": "Braunsfelder Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1272622, 
+                    50.9909649
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2182253257", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0200318, 
+                    51.0597434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2183779992", 
+            "properties": {
+                "tags/name": "Bären Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8358995, 
+                    50.9220606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2206508322", 
+            "properties": {
+                "tags/name": "Delmed Versandapotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7972279, 
+                    50.926388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2234852936", 
+            "properties": {
+                "tags/name": "Ulrich-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9395408, 
+                    50.9348593
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2276820281", 
+            "properties": {
+                "tags/name": "Westgate-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9402867, 
+                    50.9310107
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2282235712", 
+            "properties": {
+                "tags/name": "Eschen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0779549, 
+                    50.8940967
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2290136783", 
+            "properties": {
+                "tags/name": "Doc Rotter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0763718, 
+                    51.0502604
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2320978300", 
+            "properties": {
+                "tags/name": "Mathildenhof Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0292586, 
+                    51.0624153
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2324562271", 
+            "properties": {
+                "tags/name": "Maurinus-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9646178, 
+                    50.9120871
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2326427962", 
+            "properties": {
+                "tags/name": "St. Antonius-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0508576, 
+                    51.0355005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2339593404", 
+            "properties": {
+                "tags/name": "Carl Duisberg Apotheke J. Bolcky u. Dr. G. Leidig OHG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9604301, 
+                    50.9188547
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2341643015", 
+            "properties": {
+                "tags/name": "Bonntor-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8172009, 
+                    50.8158213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2354609209", 
+            "properties": {
+                "tags/name": "Carl-Schurz-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8801886, 
+                    50.9558135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2393717039", 
+            "properties": {
+                "tags/name": "Storchen Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.044733, 
+                    51.0249762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395061319", 
+            "properties": {
+                "tags/name": "Neue Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0457447, 
+                    51.0285649
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2411430170", 
+            "properties": {
+                "tags/name": "Marien-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0488126, 
+                    51.0338933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2420246763", 
+            "properties": {
+                "tags/name": "Adler Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0483462, 
+                    51.0334816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2420254543", 
+            "properties": {
+                "tags/name": "Schlehen-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0465706, 
+                    51.0319027
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2420255713", 
+            "properties": {
+                "tags/name": "Die Krey Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0033848, 
+                    51.0674003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425353905", 
+            "properties": {
+                "tags/name": "Altstadt-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0037067, 
+                    51.0669755
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2425353907", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0306359, 
+                    51.0411502
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2434144317", 
+            "properties": {
+                "tags/name": "Schloss-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9396542, 
+                    50.9381213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439165246", 
+            "properties": {
+                "tags/name": "Hohenzollern Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9174368, 
+                    50.9499005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2492299534", 
+            "properties": {
+                "tags/name": "Punkt-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.945873, 
+                    50.9104756
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2519201471", 
+            "properties": {
+                "tags/name": "Zollstock-Apotheke"
+            }
+        }
+    ]
+}

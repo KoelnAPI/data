@@ -1,0 +1,6451 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7102629, 
+        50.8001581, 
+        7.1914544, 
+        51.0968011
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9273853, 
+                    50.9623442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "98150559", 
+            "properties": {
+                "tags/name": "Im Blücherpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9225004, 
+                    50.9563517
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "104272811", 
+            "properties": {
+                "tags/name": "Franck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8846243, 
+                    50.9880151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "215195860", 
+            "properties": {
+                "tags/name": "Filmstübchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8808933, 
+                    50.9867265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242848099", 
+            "properties": {
+                "tags/name": "Bistro im Park"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9321013, 
+                    50.9552745
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243917364", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9120848, 
+                    50.9567919
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243975724", 
+            "properties": {
+                "tags/name": "Bistro Limone Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9130089, 
+                    50.9646588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "245798667", 
+            "properties": {
+                "tags/name": "Cappucino-Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9489128, 
+                    50.9749965
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246770153", 
+            "properties": {
+                "tags/name": "Eiscafe Rademacher"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9226599, 
+                    50.9478037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246781523", 
+            "properties": {
+                "tags/name": "secco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9511225, 
+                    50.9609891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247383457", 
+            "properties": {
+                "tags/name": "Eiscafe Engeln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9584898, 
+                    51.0254662
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247388978", 
+            "properties": {
+                "tags/name": "Eiscafe Dolomiti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8681671, 
+                    50.9800966
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249228888", 
+            "properties": {
+                "tags/name": "Eiscafe Campo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8019164, 
+                    50.9585957
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252009463", 
+            "properties": {
+                "tags/name": "Bäckerei Café Voosen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9541233, 
+                    50.9635168
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252043800", 
+            "properties": {
+                "tags/name": "Merzenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9533664, 
+                    50.9657699
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252043804", 
+            "properties": {
+                "tags/name": "Eiscafe Capri"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9526336, 
+                    50.9644644
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256542313", 
+            "properties": {
+                "tags/name": "Café Eichhörnchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8034179, 
+                    50.9976156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257082566", 
+            "properties": {
+                "tags/name": "Bäckerei und Konditorei Kayser"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9705701, 
+                    50.9080244
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265944260", 
+            "properties": {
+                "tags/name": "Bäckerei Schmitz&Nittenwilm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8185038, 
+                    51.0246913
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274583338", 
+            "properties": {
+                "tags/name": "Eis-Café San Marco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.996149, 
+                    50.9600101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "279148032", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9500565, 
+                    50.9757803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287567816", 
+            "properties": {
+                "tags/name": "Eiscafe Bellariva"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0017698, 
+                    51.0768662
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "289952065", 
+            "properties": {
+                "tags/name": "Cafe Römer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.97993, 
+                    50.9161132
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292876382", 
+            "properties": {
+                "tags/name": "vKc"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.96437, 
+                    50.918936
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293205365", 
+            "properties": {
+                "tags/name": "Römerpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1825141, 
+                    50.8965804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296340585", 
+            "properties": {
+                "tags/name": "Eisdiele Panciera"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0354896, 
+                    50.8130272
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296970660", 
+            "properties": {
+                "tags/name": "Eiscafé Vanessa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9226298, 
+                    50.9467273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "298079666", 
+            "properties": {
+                "tags/name": "San Marco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566555, 
+                    50.9188476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "300467348", 
+            "properties": {
+                "tags/name": "BI-PI´s Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9556544, 
+                    50.942977
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305162046", 
+            "properties": {
+                "tags/name": "IceBar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8394243, 
+                    51.0937891
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305460277", 
+            "properties": {
+                "tags/name": "Adami's Top Eis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8417284, 
+                    51.0936523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305461010", 
+            "properties": {
+                "tags/name": "Limit Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7771845, 
+                    51.0797945
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306004825", 
+            "properties": {
+                "tags/name": "Sugarbird Cupcakes Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9543539, 
+                    50.9432071
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306098540", 
+            "properties": {
+                "tags/name": "Dom Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9165191, 
+                    50.9306303
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "314445664", 
+            "properties": {
+                "tags/name": "Eiscafe Azzurro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0229678, 
+                    50.9632714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "316257606", 
+            "properties": {
+                "tags/name": "Zum Piccolo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9185933, 
+                    50.9310894
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317335296", 
+            "properties": {
+                "tags/name": "Café Cosmic"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.033685, 
+                    50.9813328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320884926", 
+            "properties": {
+                "tags/name": "Bistro Melánge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0190359, 
+                    50.9384309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320947628", 
+            "properties": {
+                "tags/name": "Esmeralda"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9488892, 
+                    50.9387772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "331939036", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9192941, 
+                    50.9542865
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "332040053", 
+            "properties": {
+                "tags/name": "Couleur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9501884, 
+                    50.9369821
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "333592706", 
+            "properties": {
+                "tags/name": "Woyton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9181617, 
+                    50.9497981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "336681463", 
+            "properties": {
+                "tags/name": "Sevinc"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0106183, 
+                    50.9722888
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "337657174", 
+            "properties": {
+                "tags/name": "Die Mütze"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9371489, 
+                    50.9304655
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "338578563", 
+            "properties": {
+                "tags/name": "Cafe Feynsinn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9158103, 
+                    50.950599
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "338655982", 
+            "properties": {
+                "tags/name": "Damak"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9980607, 
+                    50.9624718
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578669", 
+            "properties": {
+                "tags/name": "Rosenzeit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0023347, 
+                    50.9630978
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578714", 
+            "properties": {
+                "tags/name": "Eiscafé Venezia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0033262, 
+                    50.9630188
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578724", 
+            "properties": {
+                "tags/name": "Am Wiener Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0087399, 
+                    50.9721609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578791", 
+            "properties": {
+                "tags/name": "Dostlar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9239981, 
+                    50.9171094
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345758244", 
+            "properties": {
+                "tags/name": "Jules"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9401543, 
+                    50.9360685
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345853108", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9173573, 
+                    50.9510709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "346155974", 
+            "properties": {
+                "tags/name": "türk. Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558685, 
+                    50.9410023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "347539412", 
+            "properties": {
+                "tags/name": "Café Reichard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0219173, 
+                    50.9834518
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "350488271", 
+            "properties": {
+                "tags/name": "Stehcafé Yilmaz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9190951, 
+                    50.9576324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352976212", 
+            "properties": {
+                "tags/name": "Eis Café Venezia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9013493, 
+                    50.8263772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "354681126", 
+            "properties": {
+                "tags/name": "Eiscafe Venetia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.782375, 
+                    50.9597317
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "357186212", 
+            "properties": {
+                "tags/name": "Cafe Heyartz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9272701, 
+                    50.9239663
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "357199403", 
+            "properties": {
+                "tags/name": "Café Krümel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1788928, 
+                    50.9259279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358385518", 
+            "properties": {
+                "tags/name": "Vierkötter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92288, 
+                    50.9159868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358813498", 
+            "properties": {
+                "tags/name": "Il Giardino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493874, 
+                    50.9362207
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359862708", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601277, 
+                    50.9359101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "363744354", 
+            "properties": {
+                "tags/name": "The Coffee Bean & Tea Leaf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1874984, 
+                    50.8852788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364765032", 
+            "properties": {
+                "tags/name": "SpielCasino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8066478, 
+                    50.909391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364837299", 
+            "properties": {
+                "tags/name": "Eiscafe Dolomiti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8062466, 
+                    50.9096594
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364837300", 
+            "properties": {
+                "tags/name": "Eiscafe Rialto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9648037, 
+                    50.979478
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366680898", 
+            "properties": {
+                "tags/name": "Orient-Teestube"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614016, 
+                    50.9891588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366722675", 
+            "properties": {
+                "tags/name": "Ital. Eiscafe Picolo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9613747, 
+                    50.9899165
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366725738", 
+            "properties": {
+                "tags/name": "Konditorei - Cafe U. Rong"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9617379, 
+                    50.9465088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "368176706", 
+            "properties": {
+                "tags/name": "Weiser's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571391, 
+                    50.9302662
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370557495", 
+            "properties": {
+                "tags/name": "Café Freddy"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.955261, 
+                    50.938845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "371069811", 
+            "properties": {
+                "tags/name": "Carroux"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9554144, 
+                    50.9392084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "371085749", 
+            "properties": {
+                "tags/name": "Cölner Cafehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9549849, 
+                    50.941541
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684596", 
+            "properties": {
+                "tags/name": "Scholl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956047, 
+                    50.9416148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684620", 
+            "properties": {
+                "tags/name": "Eataliano"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9515252, 
+                    50.9397385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377982617", 
+            "properties": {
+                "tags/name": "tall tree coffee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9379452, 
+                    50.9344604
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "394948609", 
+            "properties": {
+                "tags/name": "Cafe Fleur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7614484, 
+                    51.0203578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395819390", 
+            "properties": {
+                "tags/name": "Eiscafe Venezia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8387596, 
+                    51.0968011
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "401328430", 
+            "properties": {
+                "tags/name": "Internet Cafe \"the 17th Inn\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8983387, 
+                    50.8975172
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406252694", 
+            "properties": {
+                "tags/name": "Burg-Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9011507, 
+                    50.8953592
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "408440936", 
+            "properties": {
+                "tags/name": "Eiscafe Fontanella"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9209757, 
+                    50.9481619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "410124703", 
+            "properties": {
+                "tags/name": "Blitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9520362, 
+                    50.9361486
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412428607", 
+            "properties": {
+                "tags/name": "Woyton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9404587, 
+                    50.9407448
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412645535", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.950389, 
+                    50.9363762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "413152029", 
+            "properties": {
+                "tags/name": "Riese"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8024018, 
+                    50.9991599
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "414066632", 
+            "properties": {
+                "tags/name": "Cafe Voosen, Bäckerei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9532515, 
+                    50.9193951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420446779", 
+            "properties": {
+                "tags/name": "Sur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9625359, 
+                    50.9373536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "427087678", 
+            "properties": {
+                "tags/name": "Enteresan"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9174913, 
+                    50.9549672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "428481971", 
+            "properties": {
+                "tags/name": "Sport Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9170117, 
+                    50.9551507
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "428481975", 
+            "properties": {
+                "tags/name": "Eiscafé Liliana"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9588312, 
+                    50.9057674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434483598", 
+            "properties": {
+                "tags/name": "Eiscafe Da Vinci"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9413872, 
+                    50.9305764
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "435575965", 
+            "properties": {
+                "tags/name": "Eiscafe Cortina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9197092, 
+                    50.9487008
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "438042767", 
+            "properties": {
+                "tags/name": "Simitland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9110452, 
+                    51.0617435
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441348724", 
+            "properties": {
+                "tags/name": "Kran-Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8579773, 
+                    50.8457795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441913338", 
+            "properties": {
+                "tags/name": "Sonnendeck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9570613, 
+                    50.9402021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442567987", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956888, 
+                    50.940068
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442572661", 
+            "properties": {
+                "tags/name": "Gelateria 4D"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9580617, 
+                    50.9259323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702962", 
+            "properties": {
+                "tags/name": "Café Schulz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486935, 
+                    50.9365975
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444020094", 
+            "properties": {
+                "tags/name": "Ca'd'oro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9456992, 
+                    50.9387924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444111732", 
+            "properties": {
+                "tags/name": "Café Fromme"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9489725, 
+                    50.9389674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444316932", 
+            "properties": {
+                "tags/name": "Woyton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9190039, 
+                    50.9568351
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444401493", 
+            "properties": {
+                "tags/name": "Expresso Point"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9441465, 
+                    50.9369662
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444782789", 
+            "properties": {
+                "tags/name": "Fassbender"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.944677, 
+                    50.9361185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444782802", 
+            "properties": {
+                "tags/name": "Riphahn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9469791, 
+                    50.9365628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444782813", 
+            "properties": {
+                "tags/name": "Fromme"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9425718, 
+                    50.938611
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "445355941", 
+            "properties": {
+                "tags/name": "Törtchen Törtchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558263, 
+                    50.9453446
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446769225", 
+            "properties": {
+                "tags/name": "Tuga"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9418232, 
+                    50.9380902
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "448400562", 
+            "properties": {
+                "tags/name": "Dolce & Gelato"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9406511, 
+                    50.9376314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "448400578", 
+            "properties": {
+                "tags/name": "era"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9406381, 
+                    50.9374752
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "448400579", 
+            "properties": {
+                "tags/name": "Galestro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9436361, 
+                    50.9383722
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "448400735", 
+            "properties": {
+                "tags/name": "Capavi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0508292, 
+                    50.8743094
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "449237770", 
+            "properties": {
+                "tags/name": "Gilgen's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8154864, 
+                    50.8152483
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "451029102", 
+            "properties": {
+                "tags/name": "Baur Café und Konditorei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9160573, 
+                    50.9555235
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "452495638", 
+            "properties": {
+                "tags/name": "O'Cavallucio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9663488, 
+                    50.9258352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "452736516", 
+            "properties": {
+                "tags/name": "Leone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8077123, 
+                    51.0699908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "452975391", 
+            "properties": {
+                "tags/name": "Cafe Wipperführt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7494765, 
+                    50.9677182
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453409191", 
+            "properties": {
+                "tags/name": "Cult Cafe und Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9455959, 
+                    50.9276224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "456372580", 
+            "properties": {
+                "tags/name": "Adria"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9583116, 
+                    50.9397091
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "458599339", 
+            "properties": {
+                "tags/name": "Raffaello"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9224516, 
+                    50.9475565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "458790816", 
+            "properties": {
+                "tags/name": "Jaely's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9322438, 
+                    50.9556619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "460691110", 
+            "properties": {
+                "tags/name": "Eiscafe Caruso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9454572, 
+                    50.9385342
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "467766433", 
+            "properties": {
+                "tags/name": "Dulce"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.992442, 
+                    50.9874137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469472289", 
+            "properties": {
+                "tags/name": "Café Lichtblick"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9910862, 
+                    50.9867895
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469472316", 
+            "properties": {
+                "tags/name": "Italienisches Eiscafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1824425, 
+                    50.8959543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "470394793", 
+            "properties": {
+                "tags/name": "Eiscafé Elisa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9587213, 
+                    50.9392246
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "478633068", 
+            "properties": {
+                "tags/name": "Connollys"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959298, 
+                    50.9392509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "478663806", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9596186, 
+                    50.93972
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "478759263", 
+            "properties": {
+                "tags/name": "juicy dreams"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9175575, 
+                    50.9494613
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "479893754", 
+            "properties": {
+                "tags/name": "Liva"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9497941, 
+                    50.9370331
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "485107025", 
+            "properties": {
+                "tags/name": "Marco Polo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9180069, 
+                    50.9487214
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "496126090", 
+            "properties": {
+                "tags/name": "Cobra"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9176706, 
+                    50.9484423
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "496126135", 
+            "properties": {
+                "tags/name": "Elfida"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9089964, 
+                    50.9372493
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "502648297", 
+            "properties": {
+                "tags/name": "Bonnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0225329, 
+                    51.0805297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "504591565", 
+            "properties": {
+                "tags/name": "Cafe Flocke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9233154, 
+                    50.9499457
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517231322", 
+            "properties": {
+                "tags/name": "Café Sehnsucht"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394648, 
+                    50.9324893
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "532018508", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7116661, 
+                    51.0467645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "534368072", 
+            "properties": {
+                "tags/name": "Lichters Oldiethek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7132373, 
+                    51.0620025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "534373215", 
+            "properties": {
+                "tags/name": "Ansteller Kaffeehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960507, 
+                    50.9198126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538209656", 
+            "properties": {
+                "tags/name": "Zikade"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9615597, 
+                    50.9207807
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538211048", 
+            "properties": {
+                "tags/name": "Kaimaks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9576175, 
+                    50.9214778
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538242620", 
+            "properties": {
+                "tags/name": "Leuchte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9623867, 
+                    50.9229476
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538244336", 
+            "properties": {
+                "tags/name": "Paris-Nord Cafe Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9595554, 
+                    50.9194486
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538273571", 
+            "properties": {
+                "tags/name": "Formula Uno"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9172098, 
+                    50.9503628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "546438004", 
+            "properties": {
+                "tags/name": "Palmiye"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7409921, 
+                    50.8639496
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "546874295", 
+            "properties": {
+                "tags/name": "Hofcafé & Hofladen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601464, 
+                    50.9368633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "559988592", 
+            "properties": {
+                "tags/name": "Rosenow"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9499179, 
+                    50.9385905
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566143094", 
+            "properties": {
+                "tags/name": "Rick's Cafe Américain"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.94999, 
+                    50.9385859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566143095", 
+            "properties": {
+                "tags/name": "Printen Schmitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9270962, 
+                    50.9233545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "567404736", 
+            "properties": {
+                "tags/name": "Al Baretto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9424658, 
+                    50.9387988
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568130654", 
+            "properties": {
+                "tags/name": "Royal Cupcakes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.941097, 
+                    50.9407352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569775371", 
+            "properties": {
+                "tags/name": "Alex"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9362424, 
+                    50.9366131
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570692365", 
+            "properties": {
+                "tags/name": "Salon Schmitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9364556, 
+                    50.936621
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570693110", 
+            "properties": {
+                "tags/name": "Café Bauturm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.936579, 
+                    50.9366176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570693673", 
+            "properties": {
+                "tags/name": "Die Rösterei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9360529, 
+                    50.9363707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570694021", 
+            "properties": {
+                "tags/name": "Café Storch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.962178, 
+                    50.9213
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570779447", 
+            "properties": {
+                "tags/name": "Eiscafé Forum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9246292, 
+                    50.9576584
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "574748686", 
+            "properties": {
+                "tags/name": "de lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9567808, 
+                    50.9368423
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "577250358", 
+            "properties": {
+                "tags/name": "Woyton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565643, 
+                    50.9368149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "577251058", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9389326, 
+                    50.9382101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "581886748", 
+            "properties": {
+                "tags/name": "Brownies"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9455585, 
+                    50.9378183
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "581936182", 
+            "properties": {
+                "tags/name": "Hernando Cortez"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.932822, 
+                    50.934161
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "582059218", 
+            "properties": {
+                "tags/name": "takatomo.de"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.123237, 
+                    50.877664
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "591429156", 
+            "properties": {
+                "tags/name": "Cafeterio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9798732, 
+                    51.0013017
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "596154904", 
+            "properties": {
+                "tags/name": "Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8414478, 
+                    51.0940606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "597264734", 
+            "properties": {
+                "tags/name": "Rathaus-Café Kraus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1900463, 
+                    51.0912384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "599932401", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9295103, 
+                    50.9131025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600020298", 
+            "properties": {
+                "tags/name": "Cafe Rosemarie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8076886, 
+                    50.9097737
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600908161", 
+            "properties": {
+                "tags/name": "Stadt-Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0064461, 
+                    50.9610438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711649", 
+            "properties": {
+                "tags/name": "Merzenich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0069556, 
+                    50.9606633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711668", 
+            "properties": {
+                "tags/name": "Cortina Eis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558755, 
+                    50.9377262
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "613450177", 
+            "properties": {
+                "tags/name": "Eigel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9548996, 
+                    50.9384054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "613548080", 
+            "properties": {
+                "tags/name": "Valentin's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.96116, 
+                    50.937133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614215778", 
+            "properties": {
+                "tags/name": "Eiscafe Stella D'oro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9586113, 
+                    50.9373699
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614234065", 
+            "properties": {
+                "tags/name": "Richartz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95686, 
+                    50.9378135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614237718", 
+            "properties": {
+                "tags/name": "Jansen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9544675, 
+                    50.935628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "617197874", 
+            "properties": {
+                "tags/name": "Antik & Trödel Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9500703, 
+                    50.9388178
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "617816503", 
+            "properties": {
+                "tags/name": "Printen Schmitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8655149, 
+                    51.065231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619183273", 
+            "properties": {
+                "tags/name": "Eiscafe Piras Grote di Netuno"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8664268, 
+                    51.0653659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619183784", 
+            "properties": {
+                "tags/name": "Bistro Krone"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1569533, 
+                    50.8150838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619205267", 
+            "properties": {
+                "tags/name": "Bröhl's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9539929, 
+                    50.9388756
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619389907", 
+            "properties": {
+                "tags/name": "Espresso Perfetto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9344726, 
+                    50.9281081
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "623520104", 
+            "properties": {
+                "tags/name": "Cafe Duddel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9604435, 
+                    50.9382021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181813", 
+            "properties": {
+                "tags/name": "täglich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960433, 
+                    50.938316
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181821", 
+            "properties": {
+                "tags/name": "Cafe Extrablatt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9603805, 
+                    50.9386286
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181834", 
+            "properties": {
+                "tags/name": "Marco Polo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9603135, 
+                    50.9390962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181872", 
+            "properties": {
+                "tags/name": "Kaffebud"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9627665, 
+                    50.9368768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "634987652", 
+            "properties": {
+                "tags/name": "Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9559636, 
+                    50.934818
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635830169", 
+            "properties": {
+                "tags/name": "Oebel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9573868, 
+                    50.9371162
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635897065", 
+            "properties": {
+                "tags/name": "Eiscafe Toto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960189, 
+                    50.920837
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "639570730", 
+            "properties": {
+                "tags/name": "La Piazza - Eiscafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9476297, 
+                    50.9393431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "648263118", 
+            "properties": {
+                "tags/name": "Bastians"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9129635, 
+                    50.9522057
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659351185", 
+            "properties": {
+                "tags/name": "Verkamp's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9331673, 
+                    50.9437362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659589753", 
+            "properties": {
+                "tags/name": "Maria Eetcafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9479979, 
+                    50.935473
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "660100845", 
+            "properties": {
+                "tags/name": "Cafe Green"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9622562, 
+                    50.9377939
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "661055188", 
+            "properties": {
+                "tags/name": "Beppo Bratu"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9503137, 
+                    50.9389941
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "662763200", 
+            "properties": {
+                "tags/name": "Eis Cafe Colonia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0077748, 
+                    51.0314665
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672401579", 
+            "properties": {
+                "tags/name": "Eis-Café Dolomiti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9193492, 
+                    50.956588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "677442825", 
+            "properties": {
+                "tags/name": "Alexandra Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9135141, 
+                    50.9566202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678588971", 
+            "properties": {
+                "tags/name": "Wagner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0574986, 
+                    50.8836221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678884928", 
+            "properties": {
+                "tags/name": "Brando Coffee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8646271, 
+                    50.8691566
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "688402167", 
+            "properties": {
+                "tags/name": "Kränzchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9209003, 
+                    50.9476339
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "690207481", 
+            "properties": {
+                "tags/name": "LizBÄT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9424084, 
+                    50.9113709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "690261608", 
+            "properties": {
+                "tags/name": "Cafe Kleks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9156149, 
+                    51.0615453
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "694499541", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.922494, 
+                    50.9428676
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "695756810", 
+            "properties": {
+                "tags/name": "Impi Snack"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0965587, 
+                    50.9202842
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868690", 
+            "properties": {
+                "tags/name": "Cafe am Königsforst"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486624, 
+                    50.9389426
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "704452964", 
+            "properties": {
+                "tags/name": "Alfredo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933672, 
+                    50.938904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "717639965", 
+            "properties": {
+                "tags/name": "Brussels"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9191535, 
+                    50.9471335
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "729099550", 
+            "properties": {
+                "tags/name": "Badenbaden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8310892, 
+                    50.94455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "739020754", 
+            "properties": {
+                "tags/name": "Dolomiti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8469956, 
+                    51.0473625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "741344313", 
+            "properties": {
+                "tags/name": "Eiscafe Celli"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.925629, 
+                    50.946193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "752045462", 
+            "properties": {
+                "tags/name": "Weltempfänger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0129871, 
+                    50.9629243
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "765264588", 
+            "properties": {
+                "tags/name": "Café Selim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9258363, 
+                    50.9952536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "766067673", 
+            "properties": {
+                "tags/name": "Bossio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571907, 
+                    50.942354
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "768139949", 
+            "properties": {
+                "tags/name": "Galestro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9977219, 
+                    50.934909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "768877782", 
+            "properties": {
+                "tags/name": "Casablanka"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9325237, 
+                    50.9315901
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "772522951", 
+            "properties": {
+                "tags/name": "Cafe Braun"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9059034, 
+                    50.8309257
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773205661", 
+            "properties": {
+                "tags/name": "Guglhupf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9604354, 
+                    50.939726
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "774756924", 
+            "properties": {
+                "tags/name": "Mövenpick Eis-Lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9550323, 
+                    50.9217032
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "781764703", 
+            "properties": {
+                "tags/name": "Mi Tienda"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9567478, 
+                    50.9228383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "781793053", 
+            "properties": {
+                "tags/name": "HaPTiLu"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0815346, 
+                    51.0168223
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "799478909", 
+            "properties": {
+                "tags/name": "Sandro Pol Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9309627, 
+                    50.9246912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "800258861", 
+            "properties": {
+                "tags/name": "AStA-Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9936241, 
+                    51.0463599
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "813583627", 
+            "properties": {
+                "tags/name": "Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1198613, 
+                    50.8804119
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639075", 
+            "properties": {
+                "tags/name": "Käfer DeilLounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1222969, 
+                    50.87765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639212", 
+            "properties": {
+                "tags/name": "starbucks coffee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1218125, 
+                    50.8777874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639217", 
+            "properties": {
+                "tags/name": "Maredo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.119356, 
+                    50.880678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639219", 
+            "properties": {
+                "tags/name": "Cafeterio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9237618, 
+                    50.9467348
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "823682739", 
+            "properties": {
+                "tags/name": "Schwesterherz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9238599, 
+                    50.9466994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "823682822", 
+            "properties": {
+                "tags/name": "Sportsbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0577125, 
+                    50.8853526
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "844138518", 
+            "properties": {
+                "tags/name": "Eiscafe Rialto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8686733, 
+                    50.9355684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "846980627", 
+            "properties": {
+                "tags/name": "Cafeteria \"Auszeit\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0304002, 
+                    50.9401049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "847541809", 
+            "properties": {
+                "tags/name": "Konditorei Klüppelberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600672, 
+                    50.9538362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "849962331", 
+            "properties": {
+                "tags/name": "Cafe Elefant"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9005678, 
+                    50.8261003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "867457216", 
+            "properties": {
+                "tags/name": "Gieslers Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8625353, 
+                    50.9379702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "893083740", 
+            "properties": {
+                "tags/name": "Le Bistrot 99"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9574561, 
+                    50.9361509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "905142244", 
+            "properties": {
+                "tags/name": "capavi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9837976, 
+                    50.8061909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "909416075", 
+            "properties": {
+                "tags/name": "Eiscafé Grimaldi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9053339, 
+                    50.8302321
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "951713944", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9770451, 
+                    50.9655388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "956085849", 
+            "properties": {
+                "tags/name": "Internetcafe Karadeniz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9550106, 
+                    50.9496019
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960118095", 
+            "properties": {
+                "tags/name": "Cafe Schmitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565541, 
+                    50.949416
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960119125", 
+            "properties": {
+                "tags/name": "Leo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9564631, 
+                    50.9492909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960119259", 
+            "properties": {
+                "tags/name": "Extrablatt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572688, 
+                    50.9495076
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960172421", 
+            "properties": {
+                "tags/name": "Klaaf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9547403, 
+                    50.9398812
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "964735300", 
+            "properties": {
+                "tags/name": "Café im MAK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9148185, 
+                    50.9201817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "976649086", 
+            "properties": {
+                "tags/name": "Limya"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.946063, 
+                    50.9337137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "981232936", 
+            "properties": {
+                "tags/name": "Signor Verde"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9192814, 
+                    51.0580742
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "989268097", 
+            "properties": {
+                "tags/name": "Eiscafe zur Hitdorfer Fähre"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9484581, 
+                    50.9339386
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "990217365", 
+            "properties": {
+                "tags/name": "Libresso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8889817, 
+                    51.0913329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "990410105", 
+            "properties": {
+                "tags/name": "Dolomiti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933525, 
+                    50.936376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1013141580", 
+            "properties": {
+                "tags/name": "cafecafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9421368, 
+                    50.9429385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1020616638", 
+            "properties": {
+                "tags/name": "Quartier´s Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0087776, 
+                    50.9418322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1022938109", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0110244, 
+                    50.9399571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1024920153", 
+            "properties": {
+                "tags/name": "Cafe Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0073147, 
+                    50.940201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1025038980", 
+            "properties": {
+                "tags/name": "Cafe 18 (Cafe-Bistro)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9576768, 
+                    50.9288788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1025197040", 
+            "properties": {
+                "tags/name": "CRUX"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9454173, 
+                    50.9483347
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1033499764", 
+            "properties": {
+                "tags/name": "Freiraum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.001263, 
+                    50.9388722
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038738835", 
+            "properties": {
+                "tags/name": "Cafe und mehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0556303, 
+                    51.0241753
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039029493", 
+            "properties": {
+                "tags/name": "Curtius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0017152, 
+                    50.9424059
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039919887", 
+            "properties": {
+                "tags/name": "Cafe No1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9259955, 
+                    50.9169241
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1045649835", 
+            "properties": {
+                "tags/name": "Melange orange"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9233421, 
+                    50.9114111
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1045649890", 
+            "properties": {
+                "tags/name": "Café 333"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8154435, 
+                    50.8033546
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1059661877", 
+            "properties": {
+                "tags/name": "Eis Cafe Bella"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0066729, 
+                    50.9405042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025098", 
+            "properties": {
+                "tags/name": "Caribic Cafe/Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058702, 
+                    50.9425234
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025106", 
+            "properties": {
+                "tags/name": "Bistro Cafe Balcik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0068743, 
+                    50.9425772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025197", 
+            "properties": {
+                "tags/name": "Selos Eck Stehcafe+DDP Paketshop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0075099, 
+                    50.9450442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025202", 
+            "properties": {
+                "tags/name": "Taksim Cafe und Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0029128, 
+                    50.9415498
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124067", 
+            "properties": {
+                "tags/name": "Teestube Bereket"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0068886, 
+                    50.9402088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1098303947", 
+            "properties": {
+                "tags/name": "Frühstart Coffee and Snack House"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9250341, 
+                    50.9313425
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1116969397", 
+            "properties": {
+                "tags/name": "ESG, Cafe Sandspur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9825179, 
+                    51.0561273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1118805131", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9372366, 
+                    50.9286659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1145336656", 
+            "properties": {
+                "tags/name": "Barista"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.159329, 
+                    50.9642384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1149614206", 
+            "properties": {
+                "tags/name": "Cafe Kroppenberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9214143, 
+                    50.9323157
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1151500324", 
+            "properties": {
+                "tags/name": "Cafe Hirsch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0238827, 
+                    50.9810846
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1152590447", 
+            "properties": {
+                "tags/name": "Café 330"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8659653, 
+                    50.869767
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1193647294", 
+            "properties": {
+                "tags/name": "Italienisches Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0106891, 
+                    50.9579955
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198775104", 
+            "properties": {
+                "tags/name": "Diamonds"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9351069, 
+                    50.9413626
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1233484707", 
+            "properties": {
+                "tags/name": "Milchmädchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.934273, 
+                    50.934724
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1233497108", 
+            "properties": {
+                "tags/name": "Yummy Müslibar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.021002, 
+                    50.9639718
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1239618953", 
+            "properties": {
+                "tags/name": "Café Sahân"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9205771, 
+                    50.9534957
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1242256441", 
+            "properties": {
+                "tags/name": "Samata"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9160356, 
+                    50.9308034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1252516729", 
+            "properties": {
+                "tags/name": "Cafe Pascher"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9123441, 
+                    50.9241226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1252516733", 
+            "properties": {
+                "tags/name": "Eiscafe La Perla"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7102629, 
+                    50.9145365
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1263764420", 
+            "properties": {
+                "tags/name": "Bäckerei Café Dackweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1854019, 
+                    50.8993685
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1268208175", 
+            "properties": {
+                "tags/name": "Bistro Eulenbroich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1159353, 
+                    50.9537036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1274103809", 
+            "properties": {
+                "tags/name": "La Luna"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.796014, 
+                    50.9600683
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1282538354", 
+            "properties": {
+                "tags/name": "Café im Zahnrad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9217834, 
+                    50.9324486
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1316368397", 
+            "properties": {
+                "tags/name": "Mokambo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9582463, 
+                    50.9529834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327631523", 
+            "properties": {
+                "tags/name": "Mutter Kind Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9597751, 
+                    50.9521723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327631525", 
+            "properties": {
+                "tags/name": "Cafe Muffini"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9592108, 
+                    50.9530283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327631529", 
+            "properties": {
+                "tags/name": "Cafe Lupus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9568963, 
+                    50.9519311
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327646798", 
+            "properties": {
+                "tags/name": "Eisdiele"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9573934, 
+                    50.9524021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327646867", 
+            "properties": {
+                "tags/name": "Cafe Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0054314, 
+                    50.9497079
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1338122169", 
+            "properties": {
+                "tags/name": "Jung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9576525, 
+                    50.942871
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341316048", 
+            "properties": {
+                "tags/name": "Starbucks coffee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9773445, 
+                    50.8216049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1343711013", 
+            "properties": {
+                "tags/name": "Eiscafe Forum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0017579, 
+                    51.0646051
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350382929", 
+            "properties": {
+                "tags/name": "Cafe Tapas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.115542, 
+                    50.9576773
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1356831694", 
+            "properties": {
+                "tags/name": "Refrather Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.996499, 
+                    50.891419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1359428815", 
+            "properties": {
+                "tags/name": "Cortina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9827975, 
+                    51.0309183
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1363652912", 
+            "properties": {
+                "tags/name": "Eis San Marco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.934741, 
+                    50.936073
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1366555885", 
+            "properties": {
+                "tags/name": "Martins Kaffeebar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.920872, 
+                    50.9483343
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1369858409", 
+            "properties": {
+                "tags/name": "Saudade"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9225681, 
+                    50.9492701
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1370091341", 
+            "properties": {
+                "tags/name": "van Dyck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8804452, 
+                    50.8001581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1386912487", 
+            "properties": {
+                "tags/name": "Eiscafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9335188, 
+                    50.9389011
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1390714407", 
+            "properties": {
+                "tags/name": "Miss Päpki"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0009142, 
+                    50.9386748
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1407130278", 
+            "properties": {
+                "tags/name": "Eiscafé Allegra"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9277182, 
+                    50.9280788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420001047", 
+            "properties": {
+                "tags/name": "PhilCafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940957, 
+                    50.9365312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431911427", 
+            "properties": {
+                "tags/name": "Eiscafé Breda"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410393, 
+                    50.9366401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431911428", 
+            "properties": {
+                "tags/name": "Eiscafé Breda"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9171199, 
+                    50.9244781
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431923204", 
+            "properties": {
+                "tags/name": "Cafeteria UKC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9280258, 
+                    50.9269634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431926132", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9271568, 
+                    50.9268349
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431926133", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9296888, 
+                    50.9284376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431926134", 
+            "properties": {
+                "tags/name": "Erfrischungsraum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9195286, 
+                    50.9341446
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431926136", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9598014, 
+                    50.9395644
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1439231900", 
+            "properties": {
+                "tags/name": "Kiosk Call Shop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9531864, 
+                    50.9361345
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1447061658", 
+            "properties": {
+                "tags/name": "Café Stanton"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8583747, 
+                    51.0154065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1447074389", 
+            "properties": {
+                "tags/name": "Café.Bistro.Restaurant Miró"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9199147, 
+                    50.9512128
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1448231983", 
+            "properties": {
+                "tags/name": "GOLDMUND LiteraturCafé ∙ Restaurant"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9267947, 
+                    50.9163656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1456616002", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493393, 
+                    50.9591553
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1457249449", 
+            "properties": {
+                "tags/name": "Café Kommödchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0415274, 
+                    50.9294508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1468099375", 
+            "properties": {
+                "tags/name": "Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9575591, 
+                    50.8285623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1484822388", 
+            "properties": {
+                "tags/name": "Eiscafé Am Entenfang"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.029011, 
+                    50.8724826
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1485723661", 
+            "properties": {
+                "tags/name": "Eiscafe Marano"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9809297, 
+                    50.8244996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1485874993", 
+            "properties": {
+                "tags/name": "Bistro Cést La Vie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9256567, 
+                    50.9949192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1490848235", 
+            "properties": {
+                "tags/name": "Croissini"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8126668, 
+                    50.9098202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1506936732", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8122789, 
+                    50.9099746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1506944919", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8404269, 
+                    51.0953878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1515636003", 
+            "properties": {
+                "tags/name": "Cafe seitenweise"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9817892, 
+                    50.8258462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1536670468", 
+            "properties": {
+                "tags/name": "Kinder-Spiel-Cafe Sternthaler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9811803, 
+                    50.8252727
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1536670471", 
+            "properties": {
+                "tags/name": "Em Ahle Kluster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9700309, 
+                    50.8257619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1536682808", 
+            "properties": {
+                "tags/name": "Eiscafe Fredo é Dolce"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9605141, 
+                    50.9443291
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1559515510", 
+            "properties": {
+                "tags/name": "Schnicks Casino Lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9507829, 
+                    50.9347407
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562396467", 
+            "properties": {
+                "tags/name": "Kolbs im Kulturquartier"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9531017, 
+                    50.9391512
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1574173960", 
+            "properties": {
+                "tags/name": "Alfredo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9745387, 
+                    50.935659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1579254277", 
+            "properties": {
+                "tags/name": "Villa Mathilde"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1914544, 
+                    50.987177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1579366053", 
+            "properties": {
+                "tags/name": "Dolomiti Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565825, 
+                    50.9466769
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1583754137", 
+            "properties": {
+                "tags/name": "Bambi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565369, 
+                    50.9464006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1583877671", 
+            "properties": {
+                "tags/name": "Steh-Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7118173, 
+                    50.911602
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596103344", 
+            "properties": {
+                "tags/name": "Campo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0328717, 
+                    50.9810921
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1598000977", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0986912, 
+                    50.9201173
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1601118162", 
+            "properties": {
+                "tags/name": "Schmitzebud"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8792379, 
+                    51.0003614
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1602177044", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9593044, 
+                    50.9231691
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1602747784", 
+            "properties": {
+                "tags/name": "Paul's Schwester"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1316791, 
+                    51.0551686
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1612106467", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8585609, 
+                    50.9325486
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1613006418", 
+            "properties": {
+                "tags/name": "Cafe Zimmermann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9851482, 
+                    51.0543497
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1614535150", 
+            "properties": {
+                "tags/name": "Waldcafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9466181, 
+                    50.9412023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1631250713", 
+            "properties": {
+                "tags/name": "Cheshmeh"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8085369, 
+                    51.072698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1667358950", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8998063, 
+                    51.0216067
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1671128482", 
+            "properties": {
+                "tags/name": "Olko"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0810592, 
+                    50.881124
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1673071164", 
+            "properties": {
+                "tags/name": "Heisters"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.899125, 
+                    51.0221822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1674091653", 
+            "properties": {
+                "tags/name": "Seniorencafé Treffpunkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.886613, 
+                    50.8849382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1674956280", 
+            "properties": {
+                "tags/name": "Esco Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9398948, 
+                    50.9367427
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1681486387", 
+            "properties": {
+                "tags/name": "McCafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997402, 
+                    51.0226993
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1683451703", 
+            "properties": {
+                "tags/name": "Jugendcafé Pegasus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9023151, 
+                    51.0211909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1683458631", 
+            "properties": {
+                "tags/name": "Jugendcafé Seeberger Treff"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9733246, 
+                    50.9369309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1690317536", 
+            "properties": {
+                "tags/name": "Boba Cherry"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8193801, 
+                    50.93731
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1701309490", 
+            "properties": {
+                "tags/name": "Stammhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.796419, 
+                    50.933972
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1701314882", 
+            "properties": {
+                "tags/name": "Salatschüssel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9747933, 
+                    50.9368357
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702751067", 
+            "properties": {
+                "tags/name": "Goldgelb"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.905477, 
+                    50.9558044
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702755016", 
+            "properties": {
+                "tags/name": "Caffé Rustico"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9051588, 
+                    50.9559009
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702755054", 
+            "properties": {
+                "tags/name": "Schamong Kaffee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8782207, 
+                    50.9677816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708429727", 
+            "properties": {
+                "tags/name": "Café Augentrost"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.118279, 
+                    51.0822732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708980158", 
+            "properties": {
+                "tags/name": "Café Arnz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8890963, 
+                    51.091954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709194999", 
+            "properties": {
+                "tags/name": "Café Primavera"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0394503, 
+                    51.0004037
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1718525869", 
+            "properties": {
+                "tags/name": "Café Mittendrin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9624343, 
+                    50.8785663
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719176117", 
+            "properties": {
+                "tags/name": "Eiscafe van der Put"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9596094, 
+                    50.9204879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1735603238", 
+            "properties": {
+                "tags/name": "Frozen Yogurt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9414561, 
+                    50.9379033
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1735613647", 
+            "properties": {
+                "tags/name": "Frozen Yogurt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9766322, 
+                    50.8100854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1772740684", 
+            "properties": {
+                "tags/name": "Mittendrin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9367216, 
+                    50.9366065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1772978939", 
+            "properties": {
+                "tags/name": "Foxberry Frozen Yogurt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8322314, 
+                    50.9653536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1773928958", 
+            "properties": {
+                "tags/name": "Eiscafé Dolomiti Due"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9298022, 
+                    51.0705668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1782860487", 
+            "properties": {
+                "tags/name": "Café Strandgut"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9381247, 
+                    50.9352363
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1787350862", 
+            "properties": {
+                "tags/name": "Stehcafe & Drugstore"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9554551, 
+                    50.9424542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1792375377", 
+            "properties": {
+                "tags/name": "Internet Cafe/Call Shop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.952338, 
+                    51.0505168
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1794116918", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9499294, 
+                    51.0509467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1794116919", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0408104, 
+                    50.9302419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1797369576", 
+            "properties": {
+                "tags/name": "Schlechtrimen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9236773, 
+                    50.9526363
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1803895555", 
+            "properties": {
+                "tags/name": "Stehcafe Su"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8327248, 
+                    50.9601025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1807746481", 
+            "properties": {
+                "tags/name": "Bäckerei · Konditorei · Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.94024, 
+                    50.9329348
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1813835154", 
+            "properties": {
+                "tags/name": "Café & Chocolaterie 20°"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.988593, 
+                    51.03305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1814604490", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9866, 
+                    51.0324958
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1814604492", 
+            "properties": {
+                "tags/name": "Primadonna"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9828044, 
+                    51.0323613
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1814665520", 
+            "properties": {
+                "tags/name": "Lai Bubble Tea"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9829386, 
+                    51.0322195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1814665526", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9439835, 
+                    50.9580904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1821113071", 
+            "properties": {
+                "tags/name": "Café Eiszeit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8828332, 
+                    51.0244174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1822911449", 
+            "properties": {
+                "tags/name": "Bausch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9270344, 
+                    50.9269006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1827579475", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9625734, 
+                    50.9226303
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1828369602", 
+            "properties": {
+                "tags/name": "Café Walter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9574953, 
+                    50.9519681
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1845605494", 
+            "properties": {
+                "tags/name": "Pausenglück"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9355871, 
+                    50.9339134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1854024566", 
+            "properties": {
+                "tags/name": "Café Central"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561745, 
+                    50.9339738
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1861692953", 
+            "properties": {
+                "tags/name": "Laura"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7661253, 
+                    50.8003523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1862687141", 
+            "properties": {
+                "tags/name": "Der Naschladen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9594389, 
+                    50.9433167
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1869875659", 
+            "properties": {
+                "tags/name": "McCafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9625384, 
+                    50.9225815
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1879147303", 
+            "properties": {
+                "tags/name": "Café Walter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9544893, 
+                    50.9649021
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1886097250", 
+            "properties": {
+                "tags/name": "Das kleine Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9434171, 
+                    50.9292865
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1893100560", 
+            "properties": {
+                "tags/name": "a-mey"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9171487, 
+                    50.9503189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1895932165", 
+            "properties": {
+                "tags/name": "BubbleTeaM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9170656, 
+                    50.9501202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1895932220", 
+            "properties": {
+                "tags/name": "Yogissimo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9458107, 
+                    50.9369503
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1900594267", 
+            "properties": {
+                "tags/name": "BoboQ"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9359406, 
+                    50.921863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1919890525", 
+            "properties": {
+                "tags/name": "Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9048461, 
+                    50.8280914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1942454566", 
+            "properties": {
+                "tags/name": "Eiscafé"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9050791, 
+                    50.8289256
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1942454898", 
+            "properties": {
+                "tags/name": "Süsse Ecke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9582689, 
+                    50.9392287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1962875726", 
+            "properties": {
+                "tags/name": "Relax-Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9400949, 
+                    50.9422744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1969878504", 
+            "properties": {
+                "tags/name": "Tipico Sportsbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452582, 
+                    50.9373068
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1975393267", 
+            "properties": {
+                "tags/name": "Espresso Colonia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452277, 
+                    50.9378192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1975412683", 
+            "properties": {
+                "tags/name": "Coffee Lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1207578, 
+                    51.0609968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2003518822", 
+            "properties": {
+                "tags/name": "Eiscafé Valerio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9054928, 
+                    50.829035
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2005341218", 
+            "properties": {
+                "tags/name": "Mäx"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.158545, 
+                    50.965913
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2009663574", 
+            "properties": {
+                "tags/name": "Schloß-Cafè Himperich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.129333, 
+                    50.9924266
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2009673413", 
+            "properties": {
+                "tags/name": "Cafe Leichtsinn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9330352, 
+                    50.927586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2042747185", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9266351, 
+                    50.9178506
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2049756182", 
+            "properties": {
+                "tags/name": "Café Lamerdin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8996435, 
+                    50.9639253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2053374038", 
+            "properties": {
+                "tags/name": "St. Mocca"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9674016, 
+                    50.9627754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2070368438", 
+            "properties": {
+                "tags/name": "Café Kiosk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0526609, 
+                    50.8904996
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2079251169", 
+            "properties": {
+                "tags/name": "Café Elisa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9476482, 
+                    50.9395289
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2085007699", 
+            "properties": {
+                "tags/name": "Kleines"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7666784, 
+                    50.8006329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2098508901", 
+            "properties": {
+                "tags/name": "Schloß Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.954286, 
+                    50.960479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2111944785", 
+            "properties": {
+                "tags/name": "Eiscafé Sommariva"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9274391, 
+                    50.9509287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2114070178", 
+            "properties": {
+                "tags/name": "Mavi Kösk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9225227, 
+                    50.9475289
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2116073067", 
+            "properties": {
+                "tags/name": "La Cigale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9230846, 
+                    50.9473023
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2116073281", 
+            "properties": {
+                "tags/name": "Scholzen Privat"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9048432, 
+                    50.8272801
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2118955869", 
+            "properties": {
+                "tags/name": "Buschheuers"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9019062, 
+                    50.82791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2118955882", 
+            "properties": {
+                "tags/name": "Lido Eis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8879607, 
+                    50.8131961
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2134311640", 
+            "properties": {
+                "tags/name": "Kalt und Süss"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566194, 
+                    50.9354909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2139132908", 
+            "properties": {
+                "tags/name": "Café 30a"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9226758, 
+                    50.9516517
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2144150096", 
+            "properties": {
+                "tags/name": "Kaffeebud Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9645967, 
+                    50.9318902
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2159902971", 
+            "properties": {
+                "tags/name": "Chocolade Grand Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1238397, 
+                    50.9901055
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2182253259", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8467062, 
+                    50.9318248
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2211158228", 
+            "properties": {
+                "tags/name": "Cafe Safari"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9593333, 
+                    50.9355514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2214790088", 
+            "properties": {
+                "tags/name": "Cafe Le Bistro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9034856, 
+                    50.8941617
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2218352939", 
+            "properties": {
+                "tags/name": "EisZeit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9618578, 
+                    50.9393085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2225404718", 
+            "properties": {
+                "tags/name": "Aloha Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1274853, 
+                    50.9922263
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2251172784", 
+            "properties": {
+                "tags/name": "Espresso-Haus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7984323, 
+                    50.9255782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2270631322", 
+            "properties": {
+                "tags/name": "Portofino Cafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.782359, 
+                    50.9601118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2278009903", 
+            "properties": {
+                "tags/name": "Eiscafe Bez"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9348868, 
+                    50.9333877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279123378", 
+            "properties": {
+                "tags/name": "Café Lomi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397213, 
+                    50.9356316
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279503094", 
+            "properties": {
+                "tags/name": "Il Mio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566069, 
+                    50.9361969
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2283137893", 
+            "properties": {
+                "tags/name": "Gelati"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0780993, 
+                    50.8944087
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2290136784", 
+            "properties": {
+                "tags/name": "Eiscafe Imperium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9009291, 
+                    50.8254082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2295794372", 
+            "properties": {
+                "tags/name": "Café Bar Prestige"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9181349, 
+                    50.9548791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2305700356", 
+            "properties": {
+                "tags/name": "Kindercafe Herr Landmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9618338, 
+                    50.9192216
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2319690639", 
+            "properties": {
+                "tags/name": "A la Tarte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0965785, 
+                    50.8964353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2330814916", 
+            "properties": {
+                "tags/name": "Gut Leidenhausen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9574215, 
+                    50.9401934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2346020696", 
+            "properties": {
+                "tags/name": "Romeo & Giulia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9239294, 
+                    50.9119924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2346702034", 
+            "properties": {
+                "tags/name": "Bäckerei Cafe Heilinger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9231438, 
+                    50.9112353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2352475028", 
+            "properties": {
+                "tags/name": "Eiscafe Sagittario"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9637589, 
+                    50.9207309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2378929028", 
+            "properties": {
+                "tags/name": "Cafe Terrarium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405933, 
+                    50.9386252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419064715", 
+            "properties": {
+                "tags/name": "Bastard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405838, 
+                    50.9383933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419064962", 
+            "properties": {
+                "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0498053, 
+                    51.0342811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2420230108", 
+            "properties": {
+                "tags/name": "Eiscafé Minini"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0502059, 
+                    51.0342472
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2423063699", 
+            "properties": {
+                "tags/name": "Café im Dorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9415283, 
+                    50.9379512
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2427896643", 
+            "properties": {
+                "tags/name": "Bar Bistro Gründer's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8891942, 
+                    50.9408353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2430181088", 
+            "properties": {
+                "tags/name": "Café Linné"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405248, 
+                    50.9380674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439418617", 
+            "properties": {
+                "tags/name": "Magic Cup Frozen Yoghurt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0520521, 
+                    51.0352825
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2445914570", 
+            "properties": {
+                "tags/name": "Herkenrath-Hof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9498484, 
+                    50.9356622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2449858701", 
+            "properties": {
+                "tags/name": "City Internetcafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9497384, 
+                    50.9356622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2449858704", 
+            "properties": {
+                "tags/name": "Massimo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9569574, 
+                    50.9428362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2453044702", 
+            "properties": {
+                "tags/name": "Bistro Sion am Bahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9345162, 
+                    50.9390134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2515517396", 
+            "properties": {
+                "tags/name": "Yo!"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0121731, 
+                    50.9339709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2518079338", 
+            "properties": {
+                "tags/name": "dimedis GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9931974, 
+                    50.949886
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2518491474", 
+            "properties": {
+                "tags/name": "Café Stegerwald"
+            }
+        }
+    ]
+}

@@ -1,0 +1,1957 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7106742, 
+        50.8071536, 
+        7.1868079, 
+        51.0937402
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9500711, 
+                    50.9599991
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "232284761", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9184534, 
+                    50.9587348
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "233308921", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9184429, 
+                    50.9524217
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252060634", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8020937, 
+                    50.908865
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254452574", 
+            "properties": {
+                "tags/name": "Geldautomat Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9516036, 
+                    50.9726542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256262479", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956287, 
+                    50.9411286
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275203232", 
+            "properties": {
+                "tags/name": "Pax-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8652502, 
+                    50.8935362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280707065", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.890553, 
+                    50.8803462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280951882", 
+            "properties": {
+                "tags/name": "Deutsche Bank 24"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410884, 
+                    50.9291921
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "283622283", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7427289, 
+                    50.8367056
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287720542", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9356487, 
+                    50.9355682
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292003608", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0526923, 
+                    50.9141334
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292209369", 
+            "properties": {
+                "tags/name": "Sparkasse Köln/Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9466026, 
+                    50.9377075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295804617", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1273986, 
+                    50.9907723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "298448122", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571356, 
+                    50.9419435
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "303222532", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0298263, 
+                    50.8985181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313316389", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9141823, 
+                    50.967294
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313462050", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9474932, 
+                    50.9375828
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "321255609", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7973042, 
+                    50.9262279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322896592", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9484353, 
+                    50.9388146
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "331936687", 
+            "properties": {
+                "tags/name": "KarstadtQuelle-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9501769, 
+                    50.9369096
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "333592703", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9895633, 
+                    51.0315389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225576", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9046054, 
+                    50.8287979
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369326167", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0025335, 
+                    51.0679608
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369777319", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9725546, 
+                    50.9369326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370908690", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9732455, 
+                    50.9369326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370908710", 
+            "properties": {
+                "tags/name": "Sparkasse Köln-Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9531594, 
+                    50.9416724
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "376578732", 
+            "properties": {
+                "tags/name": "Dresdner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.953748, 
+                    50.9416937
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "376712441", 
+            "properties": {
+                "tags/name": "Deutsche Bank AG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561522, 
+                    50.9416231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684622", 
+            "properties": {
+                "tags/name": "Geldautomat Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9523826, 
+                    50.9394784
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380486083", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7577177, 
+                    50.8698158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406372034", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9450106, 
+                    50.9476332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412850377", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9480994, 
+                    50.936662
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "413034944", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8342402, 
+                    50.9161868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420450374", 
+            "properties": {
+                "tags/name": "Geldautomat Sparkasse Köln/Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0296724, 
+                    50.8979535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "423830101", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0327264, 
+                    50.9809501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434804765", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8390838, 
+                    51.0937402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "437131011", 
+            "properties": {
+                "tags/name": "VR Bank eG SB-Center Rathaus-Galerie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0527667, 
+                    50.9126019
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "440917613", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9347554, 
+                    50.9277721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441261186", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9329217, 
+                    50.9274145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441715155", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9550739, 
+                    50.9375147
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442129668", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9562709, 
+                    50.9393562
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446940424", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.895272, 
+                    50.9370479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "470255372", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600476, 
+                    50.974093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "471841250", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561483, 
+                    50.9392046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "529409960", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.017891, 
+                    50.9402999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "554161940", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9438062, 
+                    50.9625881
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "558660146", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9231324, 
+                    50.9468251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "564156334", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510995, 
+                    50.9389839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566149017", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9736847, 
+                    50.9414572
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566634494", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.943109, 
+                    50.940799
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583063296", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9389224, 
+                    50.9384495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "631103261", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9903841, 
+                    50.9957432
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635042930", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0242072, 
+                    50.9403913
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "637570854", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9569783, 
+                    50.9389059
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "641407278", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9520453, 
+                    50.9365313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "655191475", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601807, 
+                    50.9376848
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "660695060", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9012829, 
+                    50.8262184
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "665123604", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.989256, 
+                    50.950389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "673347141", 
+            "properties": {
+                "tags/name": "Stadt-Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410836, 
+                    50.9103436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "690259795", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9631988, 
+                    50.9377838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "774696882", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563697, 
+                    50.9336453
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "787101174", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1221006, 
+                    50.8780961
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639078", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.121638, 
+                    50.8778207
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639104", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1199652, 
+                    50.8799125
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639129", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9729705, 
+                    50.9582946
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "937649793", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9404429, 
+                    50.9311139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "945101949", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8950457, 
+                    50.8208971
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "957511604", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8899576, 
+                    50.9851447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "966850923", 
+            "properties": {
+                "tags/name": "Geldautomat Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0049119, 
+                    51.0524897
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "986387662", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1260226, 
+                    50.9919642
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1041839659", 
+            "properties": {
+                "tags/name": "EC"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1241319, 
+                    50.9904957
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1043093638", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0111053, 
+                    50.9676063
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1099218853", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065668, 
+                    51.0662463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1150810272", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9451876, 
+                    50.9380466
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1170419289", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9907515, 
+                    51.0315212
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1197270895", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7106742, 
+                    50.9137431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1263764440", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1520323, 
+                    50.8142294
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1296296324", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1302323, 
+                    50.8071536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1296296327", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0117904, 
+                    50.9569705
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1308092123", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.980434, 
+                    50.8241674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1308809908", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0052849, 
+                    50.9609493
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1309260597", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0051246, 
+                    50.9619643
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1309260607", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005646, 
+                    50.8141943
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1316143604", 
+            "properties": {
+                "tags/name": "Degussa Bank Public ATM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0053984, 
+                    50.8459225
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1332283940", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9041883, 
+                    51.0762988
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1338120923", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9317023, 
+                    51.0055051
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341187667", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9688562, 
+                    50.9805869
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341187693", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9800774, 
+                    50.824148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1343662625", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9790073, 
+                    50.9390356
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1356834461", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8576454, 
+                    50.9705305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1359771053", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9209756, 
+                    50.9481391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1366778297", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9268215, 
+                    50.9278707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420013272", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9175437, 
+                    50.9234028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431923206", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8098431, 
+                    50.9188663
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1446028664", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0305623, 
+                    50.8752355
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1446805957", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8003141, 
+                    50.9059809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1479394349", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1868079, 
+                    51.091506
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1511380804", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8906339, 
+                    50.8805711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591079020", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038048, 
+                    50.962136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1597902246", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9442879, 
+                    50.938563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1641802022", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8587747, 
+                    51.0149206
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1687010772", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8187654, 
+                    51.0230832
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1715450296", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8162094, 
+                    51.024373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1715450342", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9585542, 
+                    51.0921809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1768996227", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8139272, 
+                    51.0600489
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1770674215", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8210941, 
+                    51.0611379
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1770674217", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9380644, 
+                    50.9352523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1787350833", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9495056, 
+                    51.0506264
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1794113794", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9815848, 
+                    51.0481275
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1794154570", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0088276, 
+                    50.9704644
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1862062035", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9597716, 
+                    50.9215809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1870357786", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9165674, 
+                    50.9504122
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1895089186", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0547368, 
+                    50.9046111
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1997295766", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1158708, 
+                    50.9559269
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1999701072", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9592438, 
+                    50.9435151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2004714337", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949723, 
+                    50.9391841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2019744028", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8164565, 
+                    50.8135282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2034880285", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1562774, 
+                    50.8132389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2066390044", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9676276, 
+                    50.9626935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2070368614", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9251279, 
+                    50.946204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2105476922", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1212474, 
+                    50.8793877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129681222", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.058608, 
+                    50.8849634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129684276", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8488213, 
+                    50.9171351
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2141285185", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8525416, 
+                    50.9218088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2141285186", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0145938, 
+                    51.0271836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2151584118", 
+            "properties": {
+                "tags/name": "real,-"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9741911, 
+                    50.94041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217104829", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7973138, 
+                    50.9264844
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2270631332", 
+            "properties": {
+                "tags/name": "Geldautomat Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9393359, 
+                    50.9355982
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279503113", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9401597, 
+                    50.9360183
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2279503154", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0308741, 
+                    51.0409727
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2289078882", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1234746, 
+                    50.8109606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2330452225", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9101166, 
+                    50.9544798
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2387224078", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7792297, 
+                    51.0827912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2401489379", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9559057, 
+                    50.9325256
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2403796508", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8127286, 
+                    51.0925519
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2412488793", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9395578, 
+                    50.9379173
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439165303", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9645501, 
+                    50.9748253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2537983419", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1234568, 
+                    50.8109279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2545339705", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

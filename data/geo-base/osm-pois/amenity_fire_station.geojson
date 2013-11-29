@@ -1,0 +1,725 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7087043, 
+        50.8002874, 
+        7.1974974, 
+        51.0994089
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.86109, 
+                    51.0651715
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249759178", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8072825, 
+                    50.907293
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267239392", 
+            "properties": {
+                "tags/name": "Feuerwehr- u. Rettungswache Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7087043, 
+                    50.9151817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269617555", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Kerpen - Horrem"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7610523, 
+                    51.0205944
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "278080282", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Pulheim - Stommeln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1152911, 
+                    50.8828848
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295820543", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1476717, 
+                    51.0246071
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "307613547", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1194067, 
+                    51.0570725
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308650505", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1974974, 
+                    51.095164
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "312345766", 
+            "properties": {
+                "tags/name": "Gerätehaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9806543, 
+                    50.9973903
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340023499", 
+            "properties": {
+                "tags/name": "Feuerwache Flittard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1760488, 
+                    50.9241428
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358387611", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9974591, 
+                    51.0625214
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365571791", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1526016, 
+                    50.9078462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367921004", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1902085, 
+                    50.9066389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370948579", 
+            "properties": {
+                "tags/name": "Rettungswache"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.71357, 
+                    51.0497695
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372796149", 
+            "properties": {
+                "tags/name": "Butzheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0796391, 
+                    51.0851877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373884277", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.080853, 
+                    50.9442157
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "389998258", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Brück"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9230053, 
+                    51.0581933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "409772582", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Hitdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9423489, 
+                    51.0517674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "415801826", 
+            "properties": {
+                "tags/name": "Feuerwehrkameradschaft Rheindorf NV"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7687758, 
+                    50.826071
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "418340899", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Dirmerzheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.779047, 
+                    51.0763193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "459811681", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Delhoven"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7719508, 
+                    50.8505366
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "546918412", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Kerpen - Brüggen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7451978, 
+                    50.9638661
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "572616976", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Bergheim - Glessen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1124416, 
+                    50.8288737
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619002323", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1167068, 
+                    51.081226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619099470", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0530738, 
+                    51.0381347
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "648549150", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0846279, 
+                    50.9166269
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "729766240", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Köln Löschgruppe Heumar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1133859, 
+                    50.9594792
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "734314379", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Refrath und Rettungswache West"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9135647, 
+                    50.9847257
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "747847660", 
+            "properties": {
+                "tags/name": "Katastrophenschutzzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8567975, 
+                    51.0737588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "928192831", 
+            "properties": {
+                "tags/name": "Feuerlöschboot Chempark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1372042, 
+                    50.8142917
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "983117427", 
+            "properties": {
+                "tags/name": "Freiw. Feuerwehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7146839, 
+                    50.9889964
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1187795558", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Bergheim - Büsdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7948775, 
+                    50.8129175
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1200362640", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Erftstadt - Blessem"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.746324, 
+                    50.8399909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1200388243", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Erftstadt - Gymnich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.803048, 
+                    50.8287507
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1200399958", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Erftstadt - Köttingen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7521496, 
+                    50.9122474
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1200441318", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Frechen - Habbelrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.989225, 
+                    51.0183938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1259213359", 
+            "properties": {
+                "tags/name": "Werkfeuerwehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8295442, 
+                    51.0721613
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1259220003", 
+            "properties": {
+                "tags/name": "Werkfeuerwehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7251952, 
+                    50.8021728
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1416406895", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Erftstadt - Herrig"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0735957, 
+                    50.8968215
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562490471", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Eil"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9323863, 
+                    51.0418788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1581347624", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Köln Löschgruppe Langel-Rheinkassel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.993711, 
+                    50.910839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1678689545", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0360255, 
+                    51.0021226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1710561248", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8356517, 
+                    50.9658115
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1739155903", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Köln - Löschgruppe Widdersdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8097735, 
+                    51.0661631
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1765931328", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9360195, 
+                    50.9605082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1836458286", 
+            "properties": {
+                "tags/name": "FF Umweltschutzdienst (USD)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7632381, 
+                    50.8002874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1859387692", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0132851, 
+                    51.0994089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1950750710", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1879286, 
+                    50.9072271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2246458103", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.170529, 
+                    50.8974569
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2248145745", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566213, 
+                    51.0078605
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2290850499", 
+            "properties": {
+                "tags/name": "Feuerwache Ford-Werke-GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7617812, 
+                    51.0932944
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2338192984", 
+            "properties": {
+                "tags/name": "Freiwillige Feuerwehr Straberg"
+            }
+        }
+    ]
+}

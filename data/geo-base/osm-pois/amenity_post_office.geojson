@@ -1,0 +1,1551 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7456056, 
+        50.8003595, 
+        7.1988849, 
+        51.0956352
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9230834, 
+                    50.9467501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "156587436", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8991261, 
+                    50.9616552
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230327899", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9254113, 
+                    50.9949315
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246813598", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8643567, 
+                    51.063702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249759189", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581967, 
+                    50.9221299
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "253298115", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8957431, 
+                    50.8279971
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255727098", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9356095, 
+                    50.9355732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265755473", 
+            "properties": {
+                "tags/name": "Postamt Richard-Wagner-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1800729, 
+                    50.8951491
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266346635", 
+            "properties": {
+                "tags/name": "Apropos"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.099744, 
+                    50.9997069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266840594", 
+            "properties": {
+                "tags/name": "Paffrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.12342, 
+                    51.0164818
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267685003", 
+            "properties": {
+                "tags/name": "Post Voiswinkel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8022127, 
+                    50.9088834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267726842", 
+            "properties": {
+                "tags/name": "Deutsche Post AG, Filiale Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8361289, 
+                    50.9366897
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269389487", 
+            "properties": {
+                "tags/name": "Rhein-Center Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0888496, 
+                    50.9896906
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362966", 
+            "properties": {
+                "tags/name": "Hand"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0508175, 
+                    50.9717182
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274119038", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0584383, 
+                    50.8857208
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275216093", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0781451, 
+                    50.8922406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277811015", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0744639, 
+                    50.9754898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280833853", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8795489, 
+                    50.8802644
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280945954", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.13744, 
+                    50.9808802
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519978", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9550431, 
+                    50.9516904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "283849770", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8965102, 
+                    50.8439154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "291784746", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1557539, 
+                    50.9669909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292298023", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.990901, 
+                    51.0306685
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293526680", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1273965, 
+                    50.9907018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293984245", 
+            "properties": {
+                "tags/name": "Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9161601, 
+                    51.0615332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294946752", 
+            "properties": {
+                "tags/name": "Deutsche Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8387899, 
+                    51.0938407
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305459972", 
+            "properties": {
+                "tags/name": "Deutsche Post AG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7799446, 
+                    51.0752593
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306002329", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1157061, 
+                    50.9558802
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320946268", 
+            "properties": {
+                "tags/name": "Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9421902, 
+                    50.9106122
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "354528007", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9646988, 
+                    50.904203
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "354534105", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9209548, 
+                    50.9143796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359629505", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9911827, 
+                    51.0464802
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382975204", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9421204, 
+                    50.9437668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "405905137", 
+            "properties": {
+                "tags/name": "Deutsche Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9525151, 
+                    51.0499198
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "435505550", 
+            "properties": {
+                "tags/name": "Deutsche Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0410395, 
+                    51.0014936
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442698909", 
+            "properties": {
+                "tags/name": "Hermes Paket Shop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0393985, 
+                    51.0007656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442698910", 
+            "properties": {
+                "tags/name": "DHL Paket Shop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9375459, 
+                    50.9314089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444556433", 
+            "properties": {
+                "tags/name": "Postamt Roonstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8952728, 
+                    50.9369917
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "470255370", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7817951, 
+                    50.9601551
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "511094758", 
+            "properties": {
+                "tags/name": "Schreibwarenladen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.897116, 
+                    50.8964009
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "553181066", 
+            "properties": {
+                "tags/name": "Wilura"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.998948, 
+                    50.9608329
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583036529", 
+            "properties": {
+                "tags/name": "TNT Paketservice"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0090507, 
+                    50.9705585
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583434182", 
+            "properties": {
+                "tags/name": "Tabakbörse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7456056, 
+                    50.8651767
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "590191430", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9903148, 
+                    50.9957788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "597647015", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8643566, 
+                    51.063702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619187532", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0548297, 
+                    50.884126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678556787", 
+            "properties": {
+                "tags/name": "Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7816652, 
+                    50.9601139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "722967378", 
+            "properties": {
+                "tags/name": "Hermes PaketShop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7532601, 
+                    50.8600217
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "748126195", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9564395, 
+                    50.9336525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "787101166", 
+            "properties": {
+                "tags/name": "Deutsche Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8606368, 
+                    50.9336556
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "824242539", 
+            "properties": {
+                "tags/name": "Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1911696, 
+                    51.0937126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "836510141", 
+            "properties": {
+                "tags/name": "Postfiliale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9524544, 
+                    50.9394924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "854639352", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0832468, 
+                    50.9220495
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "894361091", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0301283, 
+                    50.8982265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "938326293", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8891966, 
+                    51.0896946
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "998584290", 
+            "properties": {
+                "tags/name": "Gabriele Beier Tabakswaren LOTTO TOTO"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8888517, 
+                    51.0912385
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1008384330", 
+            "properties": {
+                "tags/name": "Gabriele Mahr-Sahler Tabakswaren  LOTTO TOTO ( DHL )"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1305503, 
+                    50.8285759
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1091569096", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828282, 
+                    50.9657306
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1110339233", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8035504, 
+                    50.9980312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1111095803", 
+            "properties": {
+                "tags/name": "Post am Markt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.950708, 
+                    50.974041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1232417512", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0488193, 
+                    51.022158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1268736548", 
+            "properties": {
+                "tags/name": "DHL Paketshop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9332683, 
+                    50.9216634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1305920098", 
+            "properties": {
+                "tags/name": "CopyShop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9966618, 
+                    50.8930879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1340944638", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9509664, 
+                    50.9735963
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1349143624", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004697, 
+                    51.066643
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1352478451", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8129007, 
+                    51.0951907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1370357961", 
+            "properties": {
+                "tags/name": "Hermes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1519592, 
+                    50.8143034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1377921181", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9082894, 
+                    50.9549118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384895293", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0563776, 
+                    51.0652251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1411257382", 
+            "properties": {
+                "tags/name": "Postfiliale im \"Kaufhaus im Dorf\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1083621, 
+                    50.9541323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1412129890", 
+            "properties": {
+                "tags/name": "Post Agentur"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0073248, 
+                    50.8622164
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1423317068", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8380906, 
+                    50.9208621
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460896115", 
+            "properties": {
+                "tags/name": "Deutsche Post Briefzentrum Köln-West"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0286884, 
+                    50.8721836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1485740792", 
+            "properties": {
+                "tags/name": "Lotto Toto"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.012233, 
+                    50.8047922
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1537410674", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.980316, 
+                    50.8130899
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1537429291", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.196401, 
+                    50.801234
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1564007059", 
+            "properties": {
+                "tags/name": "GLS Shop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565431, 
+                    51.0632465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1577311563", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9729006, 
+                    50.9368568
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1579250002", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1901006, 
+                    50.9850176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1579349277", 
+            "properties": {
+                "tags/name": "Deutsche Post Filiale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9703375, 
+                    51.0854481
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1584995799", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9292865, 
+                    50.921458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1593105381", 
+            "properties": {
+                "tags/name": "Poststelle Sülz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.07455, 
+                    50.9756319
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1604181635", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8959174, 
+                    51.0238009
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1665403529", 
+            "properties": {
+                "tags/name": "Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8584448, 
+                    51.015024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1687009274", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0053523, 
+                    50.8459287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1704809701", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9387354, 
+                    50.9687981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709829300", 
+            "properties": {
+                "tags/name": "Lotto-Presse-Tabak/Deutsche Post"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0425786, 
+                    50.9688535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1710029846", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9594034, 
+                    50.8767808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719170079", 
+            "properties": {
+                "tags/name": "Postshop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1462856, 
+                    51.0956352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1720197923", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1988849, 
+                    50.9146068
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1731015036", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1937327, 
+                    50.8008034
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1744458740", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8369046, 
+                    50.8904953
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1762285416", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8163841, 
+                    51.0625298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1770674218", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9990098, 
+                    50.937163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1879049863", 
+            "properties": {
+                "tags/name": "Deutsche Post Filiale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8391606, 
+                    50.9384174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1925731694", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9588369, 
+                    50.9435279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1935990550", 
+            "properties": {
+                "tags/name": "Deutsche Post Filiale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.128551, 
+                    50.8003595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2004848517", 
+            "properties": {
+                "tags/name": "GLS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0792937, 
+                    51.0180406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038213482", 
+            "properties": {
+                "tags/name": "Postfiliale Dinter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1567892, 
+                    50.8130391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2066390036", 
+            "properties": {
+                "tags/name": "Lotto Tabak Presse Lödl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8527836, 
+                    50.9218532
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2141281412", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0019472, 
+                    51.0642442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2172014415", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7973406, 
+                    50.9261953
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2234842111", 
+            "properties": {
+                "tags/name": "Deutsche Post Filiale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0351831, 
+                    50.8128995
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2266766608", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1212937, 
+                    51.0607876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2274266851", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0305576, 
+                    51.0413403
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2289076571", 
+            "properties": {
+                "tags/name": "Postshop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8724013, 
+                    50.8796303
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2311011164", 
+            "properties": {
+                "tags/name": "Deutsche Post und Postbank Filiale"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.888114, 
+                    50.8135871
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2360602781", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.815607, 
+                    50.8150273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2383212015", 
+            "properties": {
+                "tags/name": "Altstadt Kiosk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8237795, 
+                    50.8068924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2417613040", 
+            "properties": {
+                "tags/name": "Lollipop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1230779, 
+                    50.8110531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2545339709", 
+            "properties": {
+                "tags/name": "Ringfoto Platzen"
+            }
+        }
+    ]
+}

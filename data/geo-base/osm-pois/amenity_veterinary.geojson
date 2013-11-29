@@ -1,0 +1,515 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7078456, 
+        50.8050089, 
+        7.1867085, 
+        51.0982478
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9535201, 
+                    50.8726115
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998822", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0055291, 
+                    51.0323391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "348011079", 
+            "properties": {
+                "tags/name": "Dr. Stefan Hart"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1867085, 
+                    51.0907262
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "384846934", 
+            "properties": {
+                "tags/name": "Dr. Kolb"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8283544, 
+                    50.9643379
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "394768204", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9260918, 
+                    50.9168621
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "432425640", 
+            "properties": {
+                "tags/name": "Dr.med.vet. S. Augustiniok"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0805341, 
+                    50.8963218
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "448204248", 
+            "properties": {
+                "tags/name": "Dr. Thomas Graf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0823938, 
+                    50.8811221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "449206770", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8160159, 
+                    50.8997625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "557132060", 
+            "properties": {
+                "tags/name": "Dr. Lorenz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.899232, 
+                    50.8959722
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "565419694", 
+            "properties": {
+                "tags/name": "Jutta Nölke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8971554, 
+                    50.8226687
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "665103742", 
+            "properties": {
+                "tags/name": "Dr. Atzeni"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0699157, 
+                    50.9774661
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "820656055", 
+            "properties": {
+                "tags/name": "Dres. med. vet. Nicole Harms u. Claudia Szattelberger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0717291, 
+                    50.9725694
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "820656084", 
+            "properties": {
+                "tags/name": "Dr. med. vet. Angelika Hörauf u. Dr. med. vet. Michael Münster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0393677, 
+                    50.9291935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "890619205", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0923453, 
+                    50.924507
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "890619226", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0934156, 
+                    50.920883
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "890619233", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8418612, 
+                    50.8829133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153145726", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0317497, 
+                    50.9829247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1304022628", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9767017, 
+                    50.8217478
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1493112129", 
+            "properties": {
+                "tags/name": "Kleintierpraxis am Westring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0206297, 
+                    50.8050089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1497320465", 
+            "properties": {
+                "tags/name": "Mobiler Tierarztservice"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9217734, 
+                    50.9480697
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1644011313", 
+            "properties": {
+                "tags/name": "H. Heinrichs"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8545989, 
+                    51.0112597
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1699179143", 
+            "properties": {
+                "tags/name": "Kleintierpraxis Monika Morlak"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9608641, 
+                    50.9131527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719203227", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1362595, 
+                    51.086774
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1720203631", 
+            "properties": {
+                "tags/name": "Tierärztliche Praxis Jörgens und Theben GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0323282, 
+                    50.9798698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1747022228", 
+            "properties": {
+                "tags/name": "Dr. Joachim von Prittwitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0805703, 
+                    50.92237
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1818029164", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7078456, 
+                    51.0529073
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1893125005", 
+            "properties": {
+                "tags/name": "Hundeschule Haberland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8091862, 
+                    51.0982478
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1901389599", 
+            "properties": {
+                "tags/name": "Tierarztpraxis Detmer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8434959, 
+                    51.0908836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1975559536", 
+            "properties": {
+                "tags/name": "Tierarztpraxis an St. Michael"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8298014, 
+                    51.0952998
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1996012859", 
+            "properties": {
+                "tags/name": "Kleintierarztpraxis Dr. Tomas Schwarz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8151602, 
+                    50.8165765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2034880268", 
+            "properties": {
+                "tags/name": "Komorowski H.-H. Dr.med.vet."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0040035, 
+                    50.963441
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2092775635", 
+            "properties": {
+                "tags/name": "Dr. von Stumberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9586878, 
+                    50.9622064
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2096385803", 
+            "properties": {
+                "tags/name": "Dr. Jutta Mollidor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.009643, 
+                    50.8282535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2183536950", 
+            "properties": {
+                "tags/name": "G. von Reth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1591672, 
+                    50.8975474
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2295034178", 
+            "properties": {
+                "tags/name": "Tierarzt Menke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8059313, 
+                    50.9952481
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419294402", 
+            "properties": {
+                "tags/name": "Dr. Goldbeck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8187389, 
+                    50.9921469
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419299846", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

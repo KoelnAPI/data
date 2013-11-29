@@ -1,0 +1,543 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.732242, 
+        50.8054003, 
+        7.175791, 
+        51.091506
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9369729, 
+                    50.9313358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54020544", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8805055, 
+                    51.0910202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54050453", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9195561, 
+                    50.9515149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "104264486", 
+            "properties": {
+                "tags/name": "Goldmund"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9490882, 
+                    50.9684636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246763435", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8512195, 
+                    51.0567441
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249755600", 
+            "properties": {
+                "tags/name": "Krebelshof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.175791, 
+                    50.8054003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262359455", 
+            "properties": {
+                "tags/name": "Biergarten und Bootverleih"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9122695, 
+                    50.8291195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267860171", 
+            "properties": {
+                "tags/name": "Brauhaus am Schloss"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9119634, 
+                    50.9527606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "284371683", 
+            "properties": {
+                "tags/name": "K-30"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9354704, 
+                    50.9428327
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "285563259", 
+            "properties": {
+                "tags/name": "Stadtgarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9655718, 
+                    50.9258647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287223905", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0242762, 
+                    50.9811296
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288463354", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9297891, 
+                    51.0705782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "295746676", 
+            "properties": {
+                "tags/name": "Cafe & Biergarten STRANDGUT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1449192, 
+                    50.9601309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "315849734", 
+            "properties": {
+                "tags/name": "Klausmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0362387, 
+                    50.9963182
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404117", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9914679, 
+                    51.0014733
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "342793553", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0842065, 
+                    50.8566358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364174350", 
+            "properties": {
+                "tags/name": "Eltzhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065606, 
+                    51.0167541
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367949188", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.968725, 
+                    50.940545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372626707", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8153181, 
+                    50.8739833
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "426932542", 
+            "properties": {
+                "tags/name": "Zur Deutschen Ecke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9635106, 
+                    50.9325809
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "427668563", 
+            "properties": {
+                "tags/name": "Hafenterrasse am Schokoladenmuseum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9952814, 
+                    51.0533857
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "440991695", 
+            "properties": {
+                "tags/name": "Garten Schänke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9263596, 
+                    51.0192228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469408377", 
+            "properties": {
+                "tags/name": "Biergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9330099, 
+                    50.8925215
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "475547958", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9137046, 
+                    50.9150656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "522638338", 
+            "properties": {
+                "tags/name": "Em Birkenbäumche"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9466465, 
+                    50.921362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "631743923", 
+            "properties": {
+                "tags/name": "Heller's Volksgarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.839399, 
+                    50.881584
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "700335835", 
+            "properties": {
+                "tags/name": "Seeterrasse am Otto-Maigler-See"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7512459, 
+                    50.8644336
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "746711201", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9034611, 
+                    50.9275239
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "836211519", 
+            "properties": {
+                "tags/name": "Biergarten im Stadtwald"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8104405, 
+                    50.8743431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "838532178", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9839333, 
+                    50.8265938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "849063764", 
+            "properties": {
+                "tags/name": "Kulisse-Rheinpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8648709, 
+                    50.8692386
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "929062969", 
+            "properties": {
+                "tags/name": "Paula's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.732242, 
+                    50.8545324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1540695322", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8345819, 
+                    50.8102406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1645770899", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8729362, 
+                    50.9325455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1680566899", 
+            "properties": {
+                "tags/name": "Playa in Cologne"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9288565, 
+                    50.8195598
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1687025122", 
+            "properties": {
+                "tags/name": "Falkenlust"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9076462, 
+                    50.9488018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395060243", 
+            "properties": {
+                "tags/name": "Sonic Ballroom"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9664021, 
+                    50.9153567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2536207952", 
+            "properties": {
+                "tags/name": "Alteburg (Biergarten)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8805702, 
+                    51.091506
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2551146722", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

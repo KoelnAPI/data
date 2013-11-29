@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9403722, 
+        50.8534003, 
+        7.1140155, 
+        50.989093
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9403722, 
+                    50.9553774
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1500782605", 
+            "properties": {
+                "tags/name": "Pascha Club 11. Etage"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0854382, 
+                    50.858482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1874274359", 
+            "properties": {
+                "tags/name": "Cat-Exclusiv"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1140155, 
+                    50.9862086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1876967089", 
+            "properties": {
+                "tags/name": "Time-X Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1085573, 
+                    50.989093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2036823957", 
+            "properties": {
+                "tags/name": "Modelle-Rheinland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410845, 
+                    50.9427376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2083585919", 
+            "properties": {
+                "tags/name": "Massage & Relax Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.995823, 
+                    50.9574601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2328587401", 
+            "properties": {
+                "tags/name": "Danzier Team"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9750215, 
+                    50.8534003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2380554989", 
+            "properties": {
+                "tags/name": "Sechs Feen"
+            }
+        }
+    ]
+}

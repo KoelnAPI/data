@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7958053, 
+        50.8293325, 
+        7.0259127, 
+        51.0037921
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0110473, 
+                    50.9744952
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258183467", 
+            "properties": {
+                "tags/name": "Offene Tür Don-Bosco-Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9799655, 
+                    50.9531197
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "297187863", 
+            "properties": {
+                "tags/name": "Jugendpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9793195, 
+                    51.0031808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340026193", 
+            "properties": {
+                "tags/name": "Jugendzentrum Pauline"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0259127, 
+                    51.0037921
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "348275499", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8068266, 
+                    50.8293325
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420179324", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9375281, 
+                    50.9429623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "937535734", 
+            "properties": {
+                "tags/name": "Anyway"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7958053, 
+                    50.9601675
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1282538356", 
+            "properties": {
+                "tags/name": "Kinder- und Jugendhaus Zahnrad"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0057249, 
+                    50.9497189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2100117671", 
+            "properties": {
+                "tags/name": "Area51"
+            }
+        }
+    ]
+}

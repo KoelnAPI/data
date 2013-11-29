@@ -1,0 +1,949 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7664063, 
+        50.8056239, 
+        7.1858812, 
+        51.0856816
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8894963, 
+                    51.0856816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "35434203", 
+            "properties": {
+                "tags/name": "Stadbücherei Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.951991, 
+                    50.9447547
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "160695366", 
+            "properties": {
+                "tags/name": "Erzbischöfliche Diözesan- und Dombibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.866256, 
+                    50.9800812
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249229656", 
+            "properties": {
+                "tags/name": "Stadtbücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9192521, 
+                    50.9539252
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "250916063", 
+            "properties": {
+                "tags/name": "Stadtbücherei Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9502966, 
+                    50.9425603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255279145", 
+            "properties": {
+                "tags/name": "Wirtschaftsbibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8081604, 
+                    50.9089712
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255404306", 
+            "properties": {
+                "tags/name": "Stadtbücherei Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9515696, 
+                    50.9727177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256220994", 
+            "properties": {
+                "tags/name": "Stadtteilbibliothek Nippes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9517194, 
+                    50.9639446
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256737294", 
+            "properties": {
+                "tags/name": "Öffentliche Bücherei St. Marien"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0870376, 
+                    51.0156841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267685093", 
+            "properties": {
+                "tags/name": "Andreas Kirche"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9818728, 
+                    50.8247483
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268228347", 
+            "properties": {
+                "tags/name": "Stadtbibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7664063, 
+                    50.9380626
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269151113", 
+            "properties": {
+                "tags/name": "Pfarbücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997771, 
+                    50.8285616
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272086590", 
+            "properties": {
+                "tags/name": "Stadtbücherei Brühl"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8902241, 
+                    50.8156458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272086824", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.988458, 
+                    51.0333628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293514921", 
+            "properties": {
+                "tags/name": "Stadtbibliothek Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1827465, 
+                    50.8984419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296231966", 
+            "properties": {
+                "tags/name": "Stadtbücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9272403, 
+                    50.9547174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "314556466", 
+            "properties": {
+                "tags/name": "Kath. Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.958038, 
+                    50.8735443
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322998815", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.921107, 
+                    50.945251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364362226", 
+            "properties": {
+                "tags/name": "Katholische Öffentliche Bücherei St. Josef, St. Mechtern"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1858812, 
+                    50.9885228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370613610", 
+            "properties": {
+                "tags/name": "Katholische Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8995701, 
+                    51.0224994
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373509964", 
+            "properties": {
+                "tags/name": "Stadtbücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9259249, 
+                    50.9164399
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "464869711", 
+            "properties": {
+                "tags/name": "Stadtteilbibliothek Sülz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9670182, 
+                    50.9237478
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "486063878", 
+            "properties": {
+                "tags/name": "Feministisches Archiv und Dokumentationszentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949637, 
+                    50.9430259
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "495398036", 
+            "properties": {
+                "tags/name": "Historisches Archiv des Erzbistums Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9586596, 
+                    50.9401567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "561108020", 
+            "properties": {
+                "tags/name": "Bücherei der Dompfarrei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0106112, 
+                    50.984527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568485587", 
+            "properties": {
+                "tags/name": "Katholische Öffentliche Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.94907, 
+                    50.9340195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "579530540", 
+            "properties": {
+                "tags/name": "Germania Judaica"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959544, 
+                    50.940666
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "579538541", 
+            "properties": {
+                "tags/name": "Kunst- und Museumsbibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9606935, 
+                    50.9341314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "591538577", 
+            "properties": {
+                "tags/name": "Bibliothek/Mediathek der Kunsthochschule für Medien Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9361472, 
+                    50.942896
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "602240732", 
+            "properties": {
+                "tags/name": "minibib"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1633194, 
+                    50.813926
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619517768", 
+            "properties": {
+                "tags/name": "Stadtbibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.975082, 
+                    50.9659892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773527780", 
+            "properties": {
+                "tags/name": "Katholische öffentliche Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8913792, 
+                    50.8806816
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "931625681", 
+            "properties": {
+                "tags/name": "Öffentlicher Bücherschrank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9622169, 
+                    50.9347533
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039540318", 
+            "properties": {
+                "tags/name": "Historisches Archiv der Stadt Köln - Lesesaal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0385403, 
+                    51.0344742
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1080512638", 
+            "properties": {
+                "tags/name": "Schul- und Stadtteilbibliothek Schlebusch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0590851, 
+                    51.0499688
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1080821685", 
+            "properties": {
+                "tags/name": "Stadtbibliothek Leverkusen Zweigstelle Steinbüchel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0251907, 
+                    50.9821768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1152754643", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0027644, 
+                    50.9638016
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1152795617", 
+            "properties": {
+                "tags/name": "KÖB Liebfrauen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933693, 
+                    50.9229429
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1177476195", 
+            "properties": {
+                "tags/name": "Seminar für Soziologie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933659, 
+                    50.9243719
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198931030", 
+            "properties": {
+                "tags/name": "Fachbibliothek Chemie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0043821, 
+                    50.9610948
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198944362", 
+            "properties": {
+                "tags/name": "Stadtteilbibliothek Mülheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.780828, 
+                    50.9631321
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1222816667", 
+            "properties": {
+                "tags/name": "Katholische öffentliche Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.786318, 
+                    50.9820551
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1366023688", 
+            "properties": {
+                "tags/name": "Katholiche Öffentliche Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.160023, 
+                    50.9652726
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1382291637", 
+            "properties": {
+                "tags/name": "Stadtbücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9591282, 
+                    50.922465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1382830320", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1206253, 
+                    50.806902
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1400012696", 
+            "properties": {
+                "tags/name": "Stadt-Bibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9203123, 
+                    50.9344691
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431926135", 
+            "properties": {
+                "tags/name": "Humanwiss. Abteilung der USB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1310202, 
+                    50.9916985
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1444948991", 
+            "properties": {
+                "tags/name": "Öffentlicher Bücherschrank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9505481, 
+                    50.9343416
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1514253044", 
+            "properties": {
+                "tags/name": "Bibliothek des Rautenstrauch-Joest-Museums"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9721354, 
+                    50.8247018
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1540482152", 
+            "properties": {
+                "tags/name": "Schulzentralbibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9725377, 
+                    50.8113829
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1540484203", 
+            "properties": {
+                "tags/name": "Katholische öffentliche Bücherei St. Andreas Wesseling"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9502392, 
+                    50.9406575
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1572582913", 
+            "properties": {
+                "tags/name": "Bibliothek des NS-Dokumentationszentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0253267, 
+                    50.9822729
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591103952", 
+            "properties": {
+                "tags/name": "Öffentlicher Bücherschrank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0552465, 
+                    50.8849545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1625955327", 
+            "properties": {
+                "tags/name": "Stadtteilbibliothek Porz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9274333, 
+                    50.9189445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1674773590", 
+            "properties": {
+                "tags/name": "Katholische öffentliche Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540951, 
+                    50.9523874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1685794499", 
+            "properties": {
+                "tags/name": "TtE-Bücherei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9487304, 
+                    50.9687589
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1694302231", 
+            "properties": {
+                "tags/name": "Bücher tauschen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9501321, 
+                    50.9412804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1794628097", 
+            "properties": {
+                "tags/name": "Kölnisches Stadtmuseum, Bibliothek"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7739787, 
+                    50.8056239
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1862692419", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9248539, 
+                    50.9951705
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1904404638", 
+            "properties": {
+                "tags/name": "Kath. Bücherei Christ König"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9060541, 
+                    50.9970831
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1904413806", 
+            "properties": {
+                "tags/name": "Katholische Bücherei St.Dionysius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1336646, 
+                    50.9915254
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2182249198", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1831757, 
+                    50.897657
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2189712579", 
+            "properties": {
+                "tags/name": "KÖB"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9368757, 
+                    50.931391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2281301079", 
+            "properties": {
+                "tags/name": "Bücherschrank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.826659, 
+                    50.8088452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2331103567", 
+            "properties": {
+                "tags/name": "Evangelische Öffentliche Bücherei der Friedenskirchegemeinde"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8187829, 
+                    50.8122139
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2360267137", 
+            "properties": {
+                "tags/name": "Stadt-Bücherei Erftstadt Zweigstelle Liblar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8123087, 
+                    50.8123867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2386263985", 
+            "properties": {
+                "tags/name": "Katholische öffentliche Bibliothek St. Alban"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0837978, 
+                    50.8579499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2508600249", 
+            "properties": {
+                "tags/name": "Theaterwissenschaftliche Sammlung der Universität zu Köln"
+            }
+        }
+    ]
+}

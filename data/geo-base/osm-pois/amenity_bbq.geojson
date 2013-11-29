@@ -1,0 +1,39 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.741888, 
+        50.959406, 
+        6.8804286, 
+        51.0208503
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.741888, 
+                    50.959406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1229578039", 
+            "properties": {
+                "tags/name": "Grillhütte an der Glessener Höhe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8804286, 
+                    51.0208503
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1255322799", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,347 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8697729, 
+        50.9070649, 
+        6.9890218, 
+        51.0316934
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9645397, 
+                    50.9531214
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "259832868", 
+            "properties": {
+                "tags/name": "Katholischefachhochschule NW Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9465501, 
+                    50.9488209
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "264788724", 
+            "properties": {
+                "tags/name": "Fresenius Fachhochschule"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9785211, 
+                    50.9070649
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292849335", 
+            "properties": {
+                "tags/name": "Universität zu Köln Ökologisches Rheinlabor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9442381, 
+                    50.930285
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "601720732", 
+            "properties": {
+                "tags/name": "Rheinische Fachhochschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.963436, 
+                    50.92148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "639571587", 
+            "properties": {
+                "tags/name": "Fachhochschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9890218, 
+                    51.0316934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "645552645", 
+            "properties": {
+                "tags/name": "FernUniversität Studienzentrum Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9238227, 
+                    50.9273716
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "804463195", 
+            "properties": {
+                "tags/name": "Regionales Rechenzentrum Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9197452, 
+                    50.9337504
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1116998212", 
+            "properties": {
+                "tags/name": "Humanwissenschaftliche Fakultät, ehem. Erziehungswissenschaftliche Fakultät der Uni Koeln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.927015, 
+                    50.9280702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140745373", 
+            "properties": {
+                "tags/name": "Philosophische Fakultät"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9302981, 
+                    50.926623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140746478", 
+            "properties": {
+                "tags/name": "Institut für Afrikanistik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9310458, 
+                    50.924612
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140749011", 
+            "properties": {
+                "tags/name": "Büros Kölner Studierendenschaft"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9343321, 
+                    50.9272367
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140751449", 
+            "properties": {
+                "tags/name": "Geologie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9345252, 
+                    50.9269392
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140752339", 
+            "properties": {
+                "tags/name": "Fachbibliothek der Geologie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9349544, 
+                    50.9265808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140752523", 
+            "properties": {
+                "tags/name": "Mineralogie / Kristallographie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.936274, 
+                    50.9268513
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140752942", 
+            "properties": {
+                "tags/name": "Neue Biologische Institute"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.935405, 
+                    50.9277101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140753115", 
+            "properties": {
+                "tags/name": "Biochemie (Haus 1)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9361989, 
+                    50.9274734
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140753173", 
+            "properties": {
+                "tags/name": "Geographisches Institut (Rundbau)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9371967, 
+                    50.9270879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140753330", 
+            "properties": {
+                "tags/name": "Geographisches Institut (Südbau) Otto-Fischer-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9353483, 
+                    50.9261889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140755162", 
+            "properties": {
+                "tags/name": "Nuklearchemie / Physik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9297853, 
+                    50.92654
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1878938630", 
+            "properties": {
+                "tags/name": "KLIPS-Team"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8697729, 
+                    50.9351035
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217289561", 
+            "properties": {
+                "tags/name": "Deutsche Sporthochschule Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9620967, 
+                    50.9340393
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2356938227", 
+            "properties": {
+                "tags/name": "Kunsthochschule für Medien Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9304956, 
+                    50.9266838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2405425238", 
+            "properties": {
+                "tags/name": "Institut für Linguistik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9413502, 
+                    50.9302513
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2467724276", 
+            "properties": {
+                "tags/name": "Rheinische Fachhochschule e. V. - Hohenstaufenring"
+            }
+        }
+    ]
+}

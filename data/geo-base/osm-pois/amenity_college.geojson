@@ -1,0 +1,109 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.905814, 
+        50.9184841, 
+        7.0100934, 
+        50.9664875
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565017, 
+                    50.9664875
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247382429", 
+            "properties": {
+                "tags/name": "Planetarium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.964893, 
+                    50.9215477
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "282873159", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9290911, 
+                    50.9184841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "837716722", 
+            "properties": {
+                "tags/name": "VHS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.905814, 
+                    50.919737
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "994408029", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0096033, 
+                    50.9404566
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1024995677", 
+            "properties": {
+                "tags/name": "Medizinisches Bildungszetrum Kalk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9478294, 
+                    50.9380879
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1057207958", 
+            "properties": {
+                "tags/name": "Macromedia Hochschule für Medien und Kommunikation"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0100934, 
+                    50.943882
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089121148", 
+            "properties": {
+                "tags/name": "MedienCampus Nikolaus Gross Haus"
+            }
+        }
+    ]
+}

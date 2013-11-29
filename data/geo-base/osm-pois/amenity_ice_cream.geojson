@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.800427, 
+        50.8139152, 
+        7.1336684, 
+        51.0016108
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.800427, 
+                    50.9983672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255083092", 
+            "properties": {
+                "tags/name": "La Luna"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0415512, 
+                    51.0016108
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404368", 
+            "properties": {
+                "tags/name": "Eisdiele Grazia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0368987, 
+                    50.9968854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367975294", 
+            "properties": {
+                "tags/name": "Taormina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8986016, 
+                    50.8438287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "402825953", 
+            "properties": {
+                "tags/name": "Eis-Café Segalla"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9621368, 
+                    50.9383992
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "427539905", 
+            "properties": {
+                "tags/name": "Gelato"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9053779, 
+                    50.830216
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "668986836", 
+            "properties": {
+                "tags/name": "Bella Italia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9413162, 
+                    50.9429601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1020616644", 
+            "properties": {
+                "tags/name": "Romeo! Romeo!"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0052817, 
+                    50.9512925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1158128350", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0249933, 
+                    50.9326605
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1233526015", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0582091, 
+                    50.8846003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1808374633", 
+            "properties": {
+                "tags/name": "Eiscafe Dolce Vita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1279487, 
+                    50.9920698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1898272010", 
+            "properties": {
+                "tags/name": "Eiscafé Capucchino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1258222, 
+                    50.9912154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1898272011", 
+            "properties": {
+                "tags/name": "Eiscafé Leonardo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.132151, 
+                    50.9916291
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1898272038", 
+            "properties": {
+                "tags/name": "Eiscafé Venezia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1336684, 
+                    50.9917679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1898272039", 
+            "properties": {
+                "tags/name": "Eiscafé de Fanti"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1244108, 
+                    50.9903536
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1898272040", 
+            "properties": {
+                "tags/name": "Gelatissimo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0009376, 
+                    50.9385654
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1992596083", 
+            "properties": {
+                "tags/name": "Eiscafe"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0079794, 
+                    50.9597106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2104161354", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8146838, 
+                    50.8139152
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2385171456", 
+            "properties": {
+                "tags/name": "Bella Italia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0419248, 
+                    50.868823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2464893430", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,3637 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7094398, 
+        50.801092, 
+        7.1990012, 
+        51.0993775
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9342667, 
+                    50.9447925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "175624331", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.927081, 
+                    50.9710571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "223292416", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8819987, 
+                    51.0168563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258045337", 
+            "properties": {
+                "tags/name": "AWO KiTa Schatzinsel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9008386, 
+                    50.8244308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258059799", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Marien"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.884991, 
+                    51.0225379
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258070402", 
+            "properties": {
+                "tags/name": "kath. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9197179, 
+                    51.0479271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265620807", 
+            "properties": {
+                "tags/name": "Kita Regenbogen e. V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9465729, 
+                    50.9195227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265913421", 
+            "properties": {
+                "tags/name": "Waldorfkindergarten Köln-Volksgarten e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1060736, 
+                    51.0040632
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266840613", 
+            "properties": {
+                "tags/name": "Montessori-Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1231981, 
+                    51.0151998
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267685010", 
+            "properties": {
+                "tags/name": "St. Engelbert"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1182235, 
+                    51.014944
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267727520", 
+            "properties": {
+                "tags/name": "Voiswinkeler Wichtel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0727888, 
+                    51.0051894
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269219983", 
+            "properties": {
+                "tags/name": "Klutstein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1094684, 
+                    51.0304914
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270252792", 
+            "properties": {
+                "tags/name": "Caritas Familienzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1020436, 
+                    50.9919028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362992", 
+            "properties": {
+                "tags/name": "Heilig-Geist"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1294739, 
+                    51.0035049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276348962", 
+            "properties": {
+                "tags/name": "Kath. Kindertagesstätte Hl. Dreikönige"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7871172, 
+                    50.982137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280183301", 
+            "properties": {
+                "tags/name": "Bärenkinder"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1779752, 
+                    50.8915253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281179473", 
+            "properties": {
+                "tags/name": "Staedtischer Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0764415, 
+                    50.9745622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286456724", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten St. Joseph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0109483, 
+                    50.9752876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "289105053", 
+            "properties": {
+                "tags/name": "Kindergarten St. Antonius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1444091, 
+                    50.9513506
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290444805", 
+            "properties": {
+                "tags/name": "Waldkindergarten AWO"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1662299, 
+                    50.9587782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290444860", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0109144, 
+                    50.8509193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292536885", 
+            "properties": {
+                "tags/name": "Kindertagesstätte In der Bohnenbitze 76"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0416022, 
+                    50.8654312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "300606518", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Alte Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0497849, 
+                    50.8672819
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "300890868", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Martin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1531561, 
+                    50.9083
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "307736642", 
+            "properties": {
+                "tags/name": "Die kleinen Eichen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1164306, 
+                    50.8272106
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313499191", 
+            "properties": {
+                "tags/name": "Städt. Kindertagesstätte Niederkasseler Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1679721, 
+                    51.0597765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "314821288", 
+            "properties": {
+                "tags/name": "Kindergarten Hüttchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0209275, 
+                    50.962661
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "316257608", 
+            "properties": {
+                "tags/name": "Tageseinrichtung am Steinbergs Weiher"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9902481, 
+                    50.9969966
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317333406", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0491728, 
+                    50.9786513
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320884703", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Glockenblumenweg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0325233, 
+                    51.0002707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404137", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.045229, 
+                    50.9975028
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404446", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0359831, 
+                    50.9719629
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "325851942", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Anno"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0086543, 
+                    50.9795744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "330269339", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9983754, 
+                    50.9799275
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "331459951", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8342365, 
+                    50.8906968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339711842", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten St. Dionysius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7522393, 
+                    50.9718077
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340092606", 
+            "properties": {
+                "tags/name": "Abtsmühle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0061668, 
+                    50.9749605
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "345583388", 
+            "properties": {
+                "tags/name": "Mülheimer Rasselbande"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0511999, 
+                    50.9753328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "347591104", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0240809, 
+                    50.9610242
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "347612418", 
+            "properties": {
+                "tags/name": "Ev. Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0213363, 
+                    50.9822323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "350488189", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.023125, 
+                    50.9637233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "353075700", 
+            "properties": {
+                "tags/name": "St. Theresia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0947228, 
+                    50.9899992
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364138833", 
+            "properties": {
+                "tags/name": "Kindergarten Rasselbande eV"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.994078, 
+                    51.0798149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365091259", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Michael (Ulrichstraße)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004043, 
+                    51.059013
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365233603", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Elisabeth (Kölner Straße)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0285709, 
+                    51.0788386
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365243482", 
+            "properties": {
+                "tags/name": "Montessori Kinderhaus Bergisch Neukirchen (Platanenweg)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1630219, 
+                    50.8978852
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365381899", 
+            "properties": {
+                "tags/name": "AWO   Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601432, 
+                    50.976465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366662573", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9575671, 
+                    50.9880878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366711934", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Feldgärtenstraße 109a"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0369527, 
+                    50.9973942
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367975270", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.001556, 
+                    51.056701
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370247168", 
+            "properties": {
+                "tags/name": "Lummerland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.193149, 
+                    50.9910843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370652081", 
+            "properties": {
+                "tags/name": "Herkenrather Farbkleckse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1259933, 
+                    50.9793167
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370791751", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Arbeiterwohlfahrt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1225136, 
+                    50.9853644
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372927294", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0247646, 
+                    50.9347089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375779854", 
+            "properties": {
+                "tags/name": "St. Theodor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0254871, 
+                    50.9350827
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375779857", 
+            "properties": {
+                "tags/name": "KiTa - Stadt Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9026663, 
+                    50.9537276
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375790526", 
+            "properties": {
+                "tags/name": "Regenbogen/Fröbel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9029625, 
+                    51.0189144
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "376371897", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9051671, 
+                    51.0212442
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377819697", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.90726, 
+                    51.0232637
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377819705", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.025251, 
+                    50.9305237
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "381831575", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1657239, 
+                    50.9008242
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "388775369", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7602889, 
+                    51.0151456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395819228", 
+            "properties": {
+                "tags/name": "Räuberhöhle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9173987, 
+                    51.063824
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "401122175", 
+            "properties": {
+                "tags/name": "AWO Kita GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9208437, 
+                    51.0609237
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "411103885", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Josef"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0882243, 
+                    50.8770968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "411539853", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.931518, 
+                    50.9550305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "411740604", 
+            "properties": {
+                "tags/name": "Kita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9206429, 
+                    50.9489344
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "431845055", 
+            "properties": {
+                "tags/name": "Kita St. Joseph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005652, 
+                    50.9710972
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "444555241", 
+            "properties": {
+                "tags/name": "Städtischer Kindergarten Böckingstraße 53"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.081605, 
+                    50.8948934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "447505126", 
+            "properties": {
+                "tags/name": "Sankt Rochus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0032417, 
+                    50.9639545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "455224431", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Liebfrauen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7593063, 
+                    51.0940782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "459813193", 
+            "properties": {
+                "tags/name": "St. Agatha"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1912508, 
+                    51.093261
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "485078320", 
+            "properties": {
+                "tags/name": "Evangelischer Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0112812, 
+                    50.9861405
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "486659452", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7868967, 
+                    51.0809614
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "499190385", 
+            "properties": {
+                "tags/name": "Waldkindergarten Dormagen e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0602854, 
+                    51.0927399
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506331201", 
+            "properties": {
+                "tags/name": "Pattscheid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0021082, 
+                    50.9458097
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517610327", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0005653, 
+                    50.954048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "517610405", 
+            "properties": {
+                "tags/name": "SKM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0254689, 
+                    50.9758105
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "522046785", 
+            "properties": {
+                "tags/name": "Kindertagesstätte des SKM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0212492, 
+                    50.9610228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "526122090", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0071335, 
+                    50.9729813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "529935359", 
+            "properties": {
+                "tags/name": "Bewegungskindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0096262, 
+                    50.9644848
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "529935373", 
+            "properties": {
+                "tags/name": "Städtischer Kindergarten Genovevastraße 72a"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0115114, 
+                    50.9500878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "534440218", 
+            "properties": {
+                "tags/name": "Kindergarten Tante Maria"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0132772, 
+                    50.9639084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "535205837", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0016574, 
+                    51.0715321
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "546214501", 
+            "properties": {
+                "tags/name": "Evangelische Kindertagesstätte Am Bielert"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0020925, 
+                    51.0717622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "546219041", 
+            "properties": {
+                "tags/name": "Städtische Tageseinrichtung f. Kinder"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7478481, 
+                    50.9682096
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569684879", 
+            "properties": {
+                "tags/name": "St. Pankratius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7552027, 
+                    50.9642873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569685878", 
+            "properties": {
+                "tags/name": "Am Sieberath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9988143, 
+                    50.9591138
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "583036401", 
+            "properties": {
+                "tags/name": "Katholische Kindertagesstätte Herz Jesu"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1767555, 
+                    50.9225787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593326008", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.718183, 
+                    50.9000554
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "604979271", 
+            "properties": {
+                "tags/name": "Erftpiraten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452092, 
+                    50.9567748
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "634355178", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten St. Joseph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9446874, 
+                    50.9363346
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "651505648", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Aposteln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9820099, 
+                    50.9607198
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654553683", 
+            "properties": {
+                "tags/name": "städtischer Kindergarten Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9128252, 
+                    50.952151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659351177", 
+            "properties": {
+                "tags/name": "Kita Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8583461, 
+                    51.0134137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "665063363", 
+            "properties": {
+                "tags/name": "Waldorfkindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7787666, 
+                    50.9731016
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672938818", 
+            "properties": {
+                "tags/name": "Kinder Kinder e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7805507, 
+                    50.97312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672940107", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten St. Martinus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0871003, 
+                    50.9933167
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "686572561", 
+            "properties": {
+                "tags/name": "Tausendfüßler Hand"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8814785, 
+                    50.8203527
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "691494007", 
+            "properties": {
+                "tags/name": "Waldkindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1235325, 
+                    50.9760425
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "713476537", 
+            "properties": {
+                "tags/name": "Kindergarten am Golfplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9061989, 
+                    51.0993775
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "715814000", 
+            "properties": {
+                "tags/name": "MoWaKi (Monheimer Waldkindergarten)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0574983, 
+                    51.0481429
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "718380189", 
+            "properties": {
+                "tags/name": "Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0565864, 
+                    51.0467129
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "718380190", 
+            "properties": {
+                "tags/name": "Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0904769, 
+                    50.9176032
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "729766000", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9617943, 
+                    50.9387907
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "761143184", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Martin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8877883, 
+                    51.0749254
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "763528449", 
+            "properties": {
+                "tags/name": "AWO Robert-Koch-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9217408, 
+                    50.933143
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "763549635", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9747207, 
+                    50.9661432
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773527776", 
+            "properties": {
+                "tags/name": "Kindergarten und Hort St. Engelbert"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.009746, 
+                    50.9695445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "794256302", 
+            "properties": {
+                "tags/name": "Städt. Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0117661, 
+                    50.9632394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "802453134", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9230508, 
+                    50.9463736
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "823702958", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7850761, 
+                    50.9620082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "898627039", 
+            "properties": {
+                "tags/name": "Schnullerbaum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.963275, 
+                    50.923853
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "898941103", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0192173, 
+                    50.9484296
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "947026849", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0082987, 
+                    50.9734602
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960317027", 
+            "properties": {
+                "tags/name": "Villa Kunterbunt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0089202, 
+                    50.974227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960317085", 
+            "properties": {
+                "tags/name": "Sonnenstrahlen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.00855, 
+                    50.9741577
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960317086", 
+            "properties": {
+                "tags/name": "Internationale Strolche"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9262254, 
+                    50.9565069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "983407751", 
+            "properties": {
+                "tags/name": "Franz-Herschtritt-Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0094048, 
+                    50.9426761
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1023190088", 
+            "properties": {
+                "tags/name": "Katholisches Familienzentrum Kindertagesstätte St. Marien & St. Joseph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0107669, 
+                    50.9398668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1024908075", 
+            "properties": {
+                "tags/name": "Ev. Kindertagesstätte \"Paul Gerhardt\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9991064, 
+                    50.9384195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1038602693", 
+            "properties": {
+                "tags/name": "Kindergarten Stadt Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9160837, 
+                    50.9924227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1070595788", 
+            "properties": {
+                "tags/name": "Kindergarten an St. Bernhard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.887708, 
+                    50.8346491
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1076740740", 
+            "properties": {
+                "tags/name": "Integrative Tageseinrichtung Mühlenbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9169823, 
+                    50.9464514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1076995833", 
+            "properties": {
+                "tags/name": "Evangelische Kindertagesstätte Fröbelstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9184848, 
+                    50.9461974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1076995868", 
+            "properties": {
+                "tags/name": "Städtischer Kindergarten Vogelsanger Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0093439, 
+                    50.94672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025162", 
+            "properties": {
+                "tags/name": "Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0070686, 
+                    50.9400916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1098303957", 
+            "properties": {
+                "tags/name": "Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8429423, 
+                    51.0942711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1137743072", 
+            "properties": {
+                "tags/name": "Caritas Kindertagesstätte im „Haus der Familie“"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.858796, 
+                    51.0101642
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1172120130", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9866076, 
+                    51.0442744
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1234678931", 
+            "properties": {
+                "tags/name": "Glühwürmchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1826062, 
+                    50.8940565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1256877060", 
+            "properties": {
+                "tags/name": "Caritas Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1827828, 
+                    50.894033
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1264027458", 
+            "properties": {
+                "tags/name": "Caritas Familienzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058112, 
+                    50.9564015
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1272589829", 
+            "properties": {
+                "tags/name": "Haus der kleinen Forscher"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0031356, 
+                    50.9572307
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1272591875", 
+            "properties": {
+                "tags/name": "KIndergarten Stadtgarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.182474, 
+                    50.8909701
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1291810548", 
+            "properties": {
+                "tags/name": "Lummerland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8456407, 
+                    50.8850525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1297060010", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7421404, 
+                    50.8398639
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1310752887", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten Gymnich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1238282, 
+                    50.9578456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1313210233", 
+            "properties": {
+                "tags/name": "Evang. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9427499, 
+                    50.922055
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1314916928", 
+            "properties": {
+                "tags/name": "Kath. Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9014324, 
+                    51.0384388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1324900048", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten St. Marien"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8429884, 
+                    51.0439351
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1349481801", 
+            "properties": {
+                "tags/name": "Kita Further Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.11288, 
+                    51.0141439
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1364749817", 
+            "properties": {
+                "tags/name": "Waldkindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9213643, 
+                    50.9488578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1369858358", 
+            "properties": {
+                "tags/name": "Krabbelgruppe Wirbelwind"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9619229, 
+                    50.9157326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384828116", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1422129, 
+                    50.9812595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1385391458", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1457651, 
+                    50.9822595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1385402296", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0334523, 
+                    50.8733387
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1387443383", 
+            "properties": {
+                "tags/name": "St. Georg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9268134, 
+                    50.950455
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420172806", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.007232, 
+                    50.8614706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1420991140", 
+            "properties": {
+                "tags/name": "Miteinander Leben e. V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1585902, 
+                    50.9883359
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1421371162", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0025782, 
+                    50.8676899
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1426230805", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1334514, 
+                    50.988319
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1429352220", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9714003, 
+                    50.9022931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1464616336", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9732135, 
+                    50.9070426
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1464616337", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9662013, 
+                    50.8986915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1478239386", 
+            "properties": {
+                "tags/name": "Kita Marienkäfer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8191234, 
+                    50.9195887
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1502271500", 
+            "properties": {
+                "tags/name": "Städt. Kindertagesstätte Flohzirkus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7791102, 
+                    50.935703
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1506387084", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8132742, 
+                    50.8146937
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1510443839", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8123099, 
+                    50.8123749
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1510443842", 
+            "properties": {
+                "tags/name": "Kindertagesstätte St. Alban"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8706638, 
+                    50.9242043
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1571774449", 
+            "properties": {
+                "tags/name": "Städtischer Kindergarten Else-Lang-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8708196, 
+                    50.9267817
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1571800843", 
+            "properties": {
+                "tags/name": "Städtische Kita Eichenstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7148536, 
+                    50.9090516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596103332", 
+            "properties": {
+                "tags/name": "Kindergarten und -tagesstätte Löwenzahn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7096925, 
+                    50.911927
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596103429", 
+            "properties": {
+                "tags/name": "Katholischer Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7538858, 
+                    51.0215876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1605522829", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9805467, 
+                    51.0478785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1621246063", 
+            "properties": {
+                "tags/name": "Kita St.Stephanus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.015891, 
+                    50.9570078
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1628786917", 
+            "properties": {
+                "tags/name": "St. Mauritius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9161768, 
+                    50.9357374
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1655855111", 
+            "properties": {
+                "tags/name": "Katholische Kindertagesstätte Christi-Auferstehung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.902938, 
+                    51.020319
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668101522", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten Abendrothstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7094398, 
+                    51.0556045
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1673081327", 
+            "properties": {
+                "tags/name": "Pusteblume"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9363703, 
+                    50.9402253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1673244037", 
+            "properties": {
+                "tags/name": "Eichhörnchen e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9033088, 
+                    51.0254036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1676051726", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9245105, 
+                    50.9179513
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1677047877", 
+            "properties": {
+                "tags/name": "Katholische Kindertagesstädte St. Nikolaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8539658, 
+                    51.0109482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1687015491", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Martinus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9719777, 
+                    50.9346065
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702851719", 
+            "properties": {
+                "tags/name": "freie Kita Benediktusgasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9767199, 
+                    50.931645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702851721", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9247676, 
+                    50.8549898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1704182454", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004538, 
+                    50.8454747
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1704783335", 
+            "properties": {
+                "tags/name": "Clemenskids"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0276248, 
+                    51.0008389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708373024", 
+            "properties": {
+                "tags/name": "Ev. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.037395, 
+                    51.0000127
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708375243", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0409108, 
+                    51.0016445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1713294846", 
+            "properties": {
+                "tags/name": "Kinder-Café Lollypop"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1990012, 
+                    50.916116
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1727294190", 
+            "properties": {
+                "tags/name": "Purzelbaum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8679969, 
+                    50.870149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1743781128", 
+            "properties": {
+                "tags/name": "Kath. Familienzentrum St. Katharina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0549529, 
+                    51.0653785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1747375974", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten \"Im Dorf\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.194182, 
+                    50.8577244
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1749564746", 
+            "properties": {
+                "tags/name": "Integrative und Heilpädagogische Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1939679, 
+                    50.8568572
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1749564973", 
+            "properties": {
+                "tags/name": "Städtische Kindertagesstätte Rübkamp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8074454, 
+                    51.0641672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1765931343", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7143553, 
+                    51.059409
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1775805141", 
+            "properties": {
+                "tags/name": "Kita Abenteuerland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194483, 
+                    51.0601003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1782838190", 
+            "properties": {
+                "tags/name": "KiTa \"Die Rheinpiraten e.V.\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9111218, 
+                    50.914735
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1789847905", 
+            "properties": {
+                "tags/name": "Kindergarten Castellauner Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0075802, 
+                    50.9706652
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1815667480", 
+            "properties": {
+                "tags/name": "Kindertagesstätte und Familienzentrum Clevischer Ring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.778751, 
+                    50.801092
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1867661365", 
+            "properties": {
+                "tags/name": "Kindergarten an der Baumschule e. V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9063709, 
+                    50.997813
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1904416416", 
+            "properties": {
+                "tags/name": "Kindergarten an St.Dionysius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9573845, 
+                    50.9092549
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1937722514", 
+            "properties": {
+                "tags/name": "Kita Mare"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92129, 
+                    50.9986192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1949229153", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1949867, 
+                    50.9684083
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1951223671", 
+            "properties": {
+                "tags/name": "Tausendfüßler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0557022, 
+                    50.889342
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1951313466", 
+            "properties": {
+                "tags/name": "Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9797291, 
+                    50.9269959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2004546394", 
+            "properties": {
+                "tags/name": "KölnKitas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9602718, 
+                    50.9619948
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2036832572", 
+            "properties": {
+                "tags/name": "Kindertageseinrichtung Beuelsweg 17"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8977083, 
+                    51.0939629
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038479939", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9387567, 
+                    50.9453804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038999518", 
+            "properties": {
+                "tags/name": "Vorschule am Stadtgarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9675265, 
+                    50.9623467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2070368447", 
+            "properties": {
+                "tags/name": "Kindertageseinrichtung Amsterdamer Straße 59"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1351799, 
+                    50.9553657
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2079975738", 
+            "properties": {
+                "tags/name": "Kindertagestätte St. Maria Königin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9956195, 
+                    50.9520581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2083185418", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9930188, 
+                    50.9526779
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2083264189", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0178114, 
+                    50.9300993
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2087068532", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7623771, 
+                    51.0247739
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2087422614", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0178746, 
+                    50.9280178
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2088330444", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0590192, 
+                    50.9432202
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2132120341", 
+            "properties": {
+                "tags/name": "Stepke Kita am Walnußweg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0773445, 
+                    50.8874391
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2147196905", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0744872, 
+                    50.886728
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2147204255", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0558214, 
+                    50.9038286
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2147257575", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1025316, 
+                    50.8757583
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2147270761", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1035074, 
+                    50.8731156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2147281627", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.137637, 
+                    50.9870799
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2182194282", 
+            "properties": {
+                "tags/name": "Caritas Kindergarten Ferrenberg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.872444, 
+                    50.9254953
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2228680360", 
+            "properties": {
+                "tags/name": "Kinderkrippe  Hummelhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9368312, 
+                    50.9299228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2281301107", 
+            "properties": {
+                "tags/name": "Katholische Kindertagesstätte Herz Jesu"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0322417, 
+                    51.0423085
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2289069217", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1667944, 
+                    50.8959808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2289925413", 
+            "properties": {
+                "tags/name": "Villa Löwenzahn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9603674, 
+                    51.0043973
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2290889333", 
+            "properties": {
+                "tags/name": "Ford Pänz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1790605, 
+                    50.8204688
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2293639874", 
+            "properties": {
+                "tags/name": "KiKu Kinderland"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8346031, 
+                    50.9460054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2299117909", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0865852, 
+                    50.8773097
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2326340551", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.918186, 
+                    50.9615827
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2349268055", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0206295, 
+                    50.9012237
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2355452373", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9345603, 
+                    50.9185706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2355694153", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8706873, 
+                    50.8853514
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2358565590", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9356282, 
+                    50.9641848
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2374509817", 
+            "properties": {
+                "tags/name": "Kita Haus Adelheid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9385357, 
+                    50.9643909
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2374510824", 
+            "properties": {
+                "tags/name": "SKM - Familienzentrum Bilderstöckchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9530035, 
+                    50.9640969
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2374511307", 
+            "properties": {
+                "tags/name": "Montessori-Kita St.Marien"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9467101, 
+                    50.8735797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395867327", 
+            "properties": {
+                "tags/name": "HdF-Pünktchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9546414, 
+                    50.8686659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395867329", 
+            "properties": {
+                "tags/name": "Städtische Kita Am Sportplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9611619, 
+                    50.8712303
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395867331", 
+            "properties": {
+                "tags/name": "Evangelischer Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9629241, 
+                    50.8763029
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2395867335", 
+            "properties": {
+                "tags/name": "Köln Kitas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0003689, 
+                    50.8871799
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2406622184", 
+            "properties": {
+                "tags/name": "Städt. Tageseinrichtung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8976386, 
+                    50.8594039
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2408802014", 
+            "properties": {
+                "tags/name": "Kath. integratives Familienzentrum St. Martinus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8638378, 
+                    50.8671419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409296245", 
+            "properties": {
+                "tags/name": "St.Katharina"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8384503, 
+                    50.8898915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409576255", 
+            "properties": {
+                "tags/name": "Heilpäd. KiTa der Lebenshilfe im Rhein-Erft-Kreis e.V. \"Eberhard Höpfner\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8623673, 
+                    50.8926967
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409606164", 
+            "properties": {
+                "tags/name": "KiTa \"Zwergengarten\" e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8581727, 
+                    50.8666195
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409729483", 
+            "properties": {
+                "tags/name": "KiTa der Diakonie Michaelshhoven"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.859393, 
+                    50.8691874
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409729486", 
+            "properties": {
+                "tags/name": "Städt. KiTa \"Regenbogen-Fische\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8746355, 
+                    50.8660404
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409729494", 
+            "properties": {
+                "tags/name": "Waldkindergarten der Füngeling Router e.V. \"Waldwichtel\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9036599, 
+                    50.8591823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409729503", 
+            "properties": {
+                "tags/name": "KiTa der Fröbel-Gruppe \"Wasserkäfer\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8761483, 
+                    50.8813784
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409747967", 
+            "properties": {
+                "tags/name": "Städt. Familienzentrum \"Wibbelstätz\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8899457, 
+                    50.8776603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409747975", 
+            "properties": {
+                "tags/name": "Ev. KiTa \"Sterntaler\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8847864, 
+                    50.87642
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409747982", 
+            "properties": {
+                "tags/name": "KiTa der Käpt´n Browser gGmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9016616, 
+                    50.8974471
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409765179", 
+            "properties": {
+                "tags/name": "KiTa der Elterninitiative Kinderhaus Efferen e.V."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7560947, 
+                    50.902811
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409839354", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten Sterntaler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8108681, 
+                    50.916615
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409872275", 
+            "properties": {
+                "tags/name": "AWO-Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8128203, 
+                    50.8988948
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410304232", 
+            "properties": {
+                "tags/name": "AWO Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7778206, 
+                    50.939977
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410357823", 
+            "properties": {
+                "tags/name": "Städt. Kindergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8115766, 
+                    50.901591
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410357945", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Regenbogen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7504433, 
+                    50.9128997
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410382922", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Antonius von Padua"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8013034, 
+                    50.9262981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410382930", 
+            "properties": {
+                "tags/name": "Kath. Kindergarten St. Ulrich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7980471, 
+                    50.9053786
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410382954", 
+            "properties": {
+                "tags/name": "Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7790626, 
+                    50.9097911
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2410382971", 
+            "properties": {
+                "tags/name": "Caritas Kindertagesstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8246375, 
+                    50.8071885
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2417613038", 
+            "properties": {
+                "tags/name": "Kindertagesstätte Tausendfüßler (Liblar II)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1496509, 
+                    50.9618732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2484163339", 
+            "properties": {
+                "tags/name": "Evangelische KiTa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0024656, 
+                    50.948434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2513309043", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8396299, 
+                    50.9612842
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2537215197", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,431 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.761596, 
+        50.8008163, 
+        7.198979, 
+        51.0841805
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0545902, 
+                    50.9087271
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "311157466", 
+            "properties": {
+                "tags/name": "Truck Wash"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0046735, 
+                    50.963378
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320344934", 
+            "properties": {
+                "tags/name": "Mr. Wash"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0419883, 
+                    51.0016875
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "324404369", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7751825, 
+                    50.9293753
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "347388371", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9520445, 
+                    50.9432912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "348138034", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9565307, 
+                    50.935498
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "360389422", 
+            "properties": {
+                "tags/name": "Carwash"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1868237, 
+                    50.8846865
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365163715", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9244888, 
+                    51.0664141
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406268730", 
+            "properties": {
+                "tags/name": "Brinkschulte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9242523, 
+                    51.0581492
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406268733", 
+            "properties": {
+                "tags/name": "bft-Tankstelle Richters"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9697153, 
+                    50.9805796
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "936372127", 
+            "properties": {
+                "tags/name": "imo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510797, 
+                    50.9356086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "974769671", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9743879, 
+                    50.8196204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1362710305", 
+            "properties": {
+                "tags/name": "Star"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0791197, 
+                    50.9235275
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1397015500", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0748147, 
+                    50.901895
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562485569", 
+            "properties": {
+                "tags/name": "Car Wash"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1268299, 
+                    51.0841805
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708945367", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9268468, 
+                    50.9692041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1711315428", 
+            "properties": {
+                "tags/name": "ARAL"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1976322, 
+                    50.9180628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1712616488", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9106232, 
+                    50.9402697
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1735431753", 
+            "properties": {
+                "tags/name": "mr wash"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1033566, 
+                    50.8401041
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1836682489", 
+            "properties": {
+                "tags/name": "2 Hochdruckreiniger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9327929, 
+                    50.9655056
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1837007941", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.761596, 
+                    50.8008163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1859388527", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7762365, 
+                    50.9365458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1964361540", 
+            "properties": {
+                "tags/name": "Freie Tankstelle Klein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8947769, 
+                    50.8832762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2093832341", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8385519, 
+                    50.9221853
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2205070894", 
+            "properties": {
+                "tags/name": "WAP Wash Center"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9623451, 
+                    50.9323356
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2258125897", 
+            "properties": {
+                "tags/name": "H. Weiden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1986654, 
+                    50.8741962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2292937215", 
+            "properties": {
+                "tags/name": "Mundorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1201904, 
+                    50.8743856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2345187890", 
+            "properties": {
+                "tags/name": "Waschanlage FHG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.198979, 
+                    50.8737308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2367758545", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0820005, 
+                    50.8819458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2390046142", 
+            "properties": {
+                "tags/name": "Shell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1455917, 
+                    50.9580735
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2460418266", 
+            "properties": {
+                "tags/name": "Lapp Land Autowaschanlage"
+            }
+        }
+    ]
+}

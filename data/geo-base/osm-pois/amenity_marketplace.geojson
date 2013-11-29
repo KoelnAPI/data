@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7112267, 
+        50.8020845, 
+        7.1829435, 
+        51.0318523
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1829435, 
+                    50.9655988
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "240937972", 
+            "properties": {
+                "tags/name": "Burgwinkels Obst & Gemüse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0590653, 
+                    50.8840439
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "863814080", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957388, 
+                    50.954477
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327631536", 
+            "properties": {
+                "tags/name": "Biomarkt immer Donnerstag"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.955912, 
+                    50.8020845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1473296464", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9270712, 
+                    50.9106404
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1503600618", 
+            "properties": {
+                "tags/name": "Klettenbergmarkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9830098, 
+                    51.0318523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1577408251", 
+            "properties": {
+                "tags/name": "Galeria Kaufhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7112267, 
+                    50.9111626
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596103370", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8363331, 
+                    50.9656328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1741318998", 
+            "properties": {
+                "tags/name": "Widdersdorfer Marktplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8347105, 
+                    50.8908878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1762285418", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8337932, 
+                    50.8894564
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1762285423", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9479282, 
+                    50.9398098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2081237758", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9479536, 
+                    50.9397241
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2084986133", 
+            "properties": {
+                "tags/name": "Schuhmode in Übergroßen Marion Späth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9476509, 
+                    50.9394638
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2085008511", 
+            "properties": {
+                "tags/name": "abitare"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9987981, 
+                    50.9373157
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357580221", 
+            "properties": {
+                "tags/name": "Kalkpost Markt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8446997, 
+                    50.8892586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2409576399", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9398404, 
+        50.9412089, 
+        6.9398404, 
+        50.9412089
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9398404, 
+                    50.9412089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "704784643", 
+            "properties": {
+                "tags/name": "Cecile Fashion Shop"
+            }
+        }
+    ]
+}

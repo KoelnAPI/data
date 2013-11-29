@@ -1,0 +1,1033 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.887226, 
+        50.8285767, 
+        7.074326, 
+        50.98383
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9635812, 
+                    50.9056542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359831", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.955333, 
+                    50.95861
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256222117", 
+            "properties": {
+                "tags/name": "Lohse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9393237, 
+                    50.9181735
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265730444", 
+            "properties": {
+                "tags/name": "Peugeot"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8992614, 
+                    50.8285767
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272054176", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.919745, 
+                    50.95347
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "304576743", 
+            "properties": {
+                "tags/name": "Subbel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563935, 
+                    50.9456007
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "350157416", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9192942, 
+                    50.9520626
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "391545475", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9551793, 
+                    50.9375858
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442129667", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9240597, 
+                    50.9525652
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "458705701", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.931856, 
+                    50.9235086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "539772273", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9151252, 
+                    50.9483346
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "539772274", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9584381, 
+                    50.9631895
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "547437312", 
+            "properties": {
+                "tags/name": "cambio Flora"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9093402, 
+                    50.8928276
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "556441154", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0119113, 
+                    50.9577383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "576990100", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.919606, 
+                    50.90872
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "634987521", 
+            "properties": {
+                "tags/name": "Lux"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.91831, 
+                    50.91863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "634987522", 
+            "properties": {
+                "tags/name": "Auerbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.931032, 
+                    50.92268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635736877", 
+            "properties": {
+                "tags/name": "Uni"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.942662, 
+                    50.93262
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635736883", 
+            "properties": {
+                "tags/name": "Mauritius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9362258, 
+                    50.9382568
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635736884", 
+            "properties": {
+                "tags/name": "Maas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9506093, 
+                    50.9429185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "646954179", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.92561, 
+                    50.916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "652407674", 
+            "properties": {
+                "tags/name": "cambio Wicht"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9738115, 
+                    50.9403159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "663713069", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9156581, 
+                    50.950025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "706090549", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.924133, 
+                    50.94638
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "749779000", 
+            "properties": {
+                "tags/name": "Barthonia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.936429, 
+                    50.92834
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1052477675", 
+            "properties": {
+                "tags/name": "Südbahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.944015, 
+                    50.9287324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1052477679", 
+            "properties": {
+                "tags/name": "Barbarossa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.913995, 
+                    50.9589946
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1108033858", 
+            "properties": {
+                "tags/name": "Taku"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058882, 
+                    50.9632015
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198976462", 
+            "properties": {
+                "tags/name": "Wiener"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9551016, 
+                    50.9518156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1338523469", 
+            "properties": {
+                "tags/name": "Cambio;Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9495425, 
+                    50.9180985
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491468191", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510605, 
+                    50.9359597
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1584996540", 
+            "properties": {
+                "tags/name": "Flinkster"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0605504, 
+                    50.8854113
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1625969921", 
+            "properties": {
+                "tags/name": "Markt/Porz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.97089, 
+                    50.939785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2052859638", 
+            "properties": {
+                "tags/name": "Hermann-Pünder"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.941117, 
+                    50.90932
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2057464690", 
+            "properties": {
+                "tags/name": "Höninger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.970058, 
+                    50.90855
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2057464700", 
+            "properties": {
+                "tags/name": "Tacitus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.909071, 
+                    50.93711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453017", 
+            "properties": {
+                "tags/name": "Aachener/Gürtel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.950462, 
+                    50.93903
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453018", 
+            "properties": {
+                "tags/name": "Appellhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9459249, 
+                    50.9654601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453019", 
+            "properties": {
+                "tags/name": "Autofrei/Kempener"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956427, 
+                    50.94546
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453020", 
+            "properties": {
+                "tags/name": "Bahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9193636, 
+                    50.9514324
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453021", 
+            "properties": {
+                "tags/name": "Bhf Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.963197, 
+                    50.9554
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453022", 
+            "properties": {
+                "tags/name": "Blume"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.962371, 
+                    50.9118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453023", 
+            "properties": {
+                "tags/name": "Bonner/Marktstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959592, 
+                    50.92609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453024", 
+            "properties": {
+                "tags/name": "Busch/Südstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.958348, 
+                    50.921964
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453025", 
+            "properties": {
+                "tags/name": "Chlodwig"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.943231, 
+                    50.94494
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453026", 
+            "properties": {
+                "tags/name": "Christoph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.979644, 
+                    50.938155
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453027", 
+            "properties": {
+                "tags/name": "Constantin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.973438, 
+                    50.93729
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453028", 
+            "properties": {
+                "tags/name": "Deutzer Freiheit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956084, 
+                    50.96185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453029", 
+            "properties": {
+                "tags/name": "Eich"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9577061, 
+                    50.9204165
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453030", 
+            "properties": {
+                "tags/name": "Elsaß"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95094, 
+                    50.9679
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453031", 
+            "properties": {
+                "tags/name": "Erzberger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.958283, 
+                    50.96313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453032", 
+            "properties": {
+                "tags/name": "Flora"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.913962, 
+                    50.92845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453033", 
+            "properties": {
+                "tags/name": "Flotow"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.916966, 
+                    50.94684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453034", 
+            "properties": {
+                "tags/name": "Fröbel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.953573, 
+                    50.97108
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453035", 
+            "properties": {
+                "tags/name": "Gürtel/Kirchweg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.99518, 
+                    50.959467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453036", 
+            "properties": {
+                "tags/name": "Hafen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.953799, 
+                    50.94952
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453037", 
+            "properties": {
+                "tags/name": "Hansa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.961094, 
+                    50.93636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453038", 
+            "properties": {
+                "tags/name": "Heumarkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.896453, 
+                    50.98383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453040", 
+            "properties": {
+                "tags/name": "IKEA"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.961437, 
+                    50.94447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453041", 
+            "properties": {
+                "tags/name": "Johannis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0096573, 
+                    50.9392485
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453042", 
+            "properties": {
+                "tags/name": "Cambio CarSharing Kapelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.074326, 
+                    50.97568
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453043", 
+            "properties": {
+                "tags/name": "Kemperwiese"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.90746, 
+                    50.9224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453044", 
+            "properties": {
+                "tags/name": "Krieler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960418, 
+                    50.919762
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453045", 
+            "properties": {
+                "tags/name": "Kurfürsten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9129, 
+                    50.95361
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453046", 
+            "properties": {
+                "tags/name": "Lessing"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9520257, 
+                    50.9236404
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453047", 
+            "properties": {
+                "tags/name": "Lothringer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9344, 
+                    50.94177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453048", 
+            "properties": {
+                "tags/name": "Stadtgarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9803402, 
+                    50.9396137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453049", 
+            "properties": {
+                "tags/name": "Stadthaus/Kölnarena"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.955172, 
+                    50.95176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453050", 
+            "properties": {
+                "tags/name": "Suderman"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.887226, 
+                    50.94623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453051", 
+            "properties": {
+                "tags/name": "TPK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.913973, 
+                    50.95893
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453053", 
+            "properties": {
+                "tags/name": "Taku"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.943874, 
+                    50.96297
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453054", 
+            "properties": {
+                "tags/name": "Werkstatt/Kesselhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005769, 
+                    50.96268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453055", 
+            "properties": {
+                "tags/name": "Wiener"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.926922, 
+                    50.91768
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2059453056", 
+            "properties": {
+                "tags/name": "Wittekind"
+            }
+        }
+    ]
+}

@@ -1,0 +1,123 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7081687, 
+        50.8059624, 
+        6.9460318, 
+        51.0496926
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9460318, 
+                    50.9416581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1631311606", 
+            "properties": {
+                "tags/name": "Pfarrsaal St. Gereon"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7081687, 
+                    51.0494684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1775798983", 
+            "properties": {
+                "tags/name": "Begegnungsstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7082129, 
+                    51.0496926
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1775977856", 
+            "properties": {
+                "tags/name": "Jugendzentrum Gil'ty"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8299794, 
+                    50.8074657
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2328090437", 
+            "properties": {
+                "tags/name": "DPSG Stamm Las Casas"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8301207, 
+                    50.8074496
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2328090458", 
+            "properties": {
+                "tags/name": "Kulturhaus Erftstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8187014, 
+                    50.8126314
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2359008278", 
+            "properties": {
+                "tags/name": "Kulturhaus Erftstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.818229, 
+                    50.8141551
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2359008281", 
+            "properties": {
+                "tags/name": "Kulturhaus Erftstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8308492, 
+                    50.8059624
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2392982528", 
+            "properties": {
+                "tags/name": "Kulturhaus Erftstadt"
+            }
+        }
+    ]
+}

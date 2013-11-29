@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7665678, 
+        50.9393824, 
+        6.9563282, 
+        50.958646
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7665678, 
+                    50.958646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "455028499", 
+            "properties": {
+                "tags/name": "Central FM"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563282, 
+                    50.940949
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1057516766", 
+            "properties": {
+                "tags/name": "Domradio"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9514146, 
+                    50.9393824
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1686890049", 
+            "properties": {
+                "tags/name": "1 Live"
+            }
+        }
+    ]
+}

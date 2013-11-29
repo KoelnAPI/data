@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9562113, 
+        50.8793606, 
+        7.1212737, 
+        50.942553
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9562113, 
+                    50.9415923
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684626", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1212737, 
+                    50.8793606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639099", 
+            "properties": {
+                "tags/name": "ReiseBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.958062, 
+                    50.942553
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341313792", 
+            "properties": {
+                "tags/name": "Reisebank"
+            }
+        }
+    ]
+}

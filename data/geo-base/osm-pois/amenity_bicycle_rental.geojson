@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7013157, 
+        50.810623, 
+        6.9626602, 
+        51.0392387
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9599182, 
+                    50.9427135
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352712348", 
+            "properties": {
+                "tags/name": "Radstation"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9626602, 
+                    50.9366156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "630743018", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9408462, 
+                    50.921193
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "798615792", 
+            "properties": {
+                "tags/name": "BierBike GmbH"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8348988, 
+                    50.810623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "854433155", 
+            "properties": {
+                "tags/name": "Waldbiergarten"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9267529, 
+                    50.8621099
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "933986200", 
+            "properties": {
+                "tags/name": "Radstation"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7013157, 
+                    51.0392387
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2363151211", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

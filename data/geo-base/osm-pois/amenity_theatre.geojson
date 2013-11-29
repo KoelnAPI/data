@@ -1,0 +1,725 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7942712, 
+        50.8277317, 
+        7.0413239, 
+        51.0859543
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9354139, 
+                    50.9326471
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54020150", 
+            "properties": {
+                "tags/name": "Atelier Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9589528, 
+                    50.9421137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249318732", 
+            "properties": {
+                "tags/name": "Alter Wartesaal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9645047, 
+                    50.9251773
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "253229333", 
+            "properties": {
+                "tags/name": "Theater 509"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7943387, 
+                    50.9080069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254449613", 
+            "properties": {
+                "tags/name": "Haus am Bahndamm/Theater Harlekin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9449479, 
+                    50.9374878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257905592", 
+            "properties": {
+                "tags/name": "Gloria Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9619478, 
+                    50.937088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "260728717", 
+            "properties": {
+                "tags/name": "Hänneschen-Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9496154, 
+                    50.9212025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293147739", 
+            "properties": {
+                "tags/name": "Orangerie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9198863, 
+                    50.951031
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "333609209", 
+            "properties": {
+                "tags/name": "Kölner Künstler Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9449135, 
+                    50.9243771
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441666353", 
+            "properties": {
+                "tags/name": "Metropol Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8663956, 
+                    50.8702226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "477220846", 
+            "properties": {
+                "tags/name": "Löhrerhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9512096, 
+                    50.9386343
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566148999", 
+            "properties": {
+                "tags/name": "Theater am Dom"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9364306, 
+                    50.9366208
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570692795", 
+            "properties": {
+                "tags/name": "Theater am Bauturm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9369574, 
+                    50.9363222
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570694025", 
+            "properties": {
+                "tags/name": "Millowitsch Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581163, 
+                    50.9267088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593371083", 
+            "properties": {
+                "tags/name": "Puppentheater im Blauen-Haus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9605508, 
+                    50.9405784
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633480737", 
+            "properties": {
+                "tags/name": "Philharmonie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9805082, 
+                    51.0343312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635722176", 
+            "properties": {
+                "tags/name": "Erholungshaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9602849, 
+                    50.9493564
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "643554530", 
+            "properties": {
+                "tags/name": "Horizont-Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7942712, 
+                    51.0004485
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672935695", 
+            "properties": {
+                "tags/name": "Theater im Walzwerk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9508799, 
+                    50.9381203
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "721834700", 
+            "properties": {
+                "tags/name": "Schlosserei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0045987, 
+                    50.9364431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "766477984", 
+            "properties": {
+                "tags/name": "Halle Kalk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960011, 
+                    50.9482714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "770600756", 
+            "properties": {
+                "tags/name": "Tiefrot"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9360482, 
+                    50.9322558
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "772522952", 
+            "properties": {
+                "tags/name": "theater im hof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960819, 
+                    50.9396767
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "774756974", 
+            "properties": {
+                "tags/name": "Senftöpfchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9634869, 
+                    50.9282603
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "846546326", 
+            "properties": {
+                "tags/name": "Musiktheater Werkschutz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.87945, 
+                    50.8792859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "959639816", 
+            "properties": {
+                "tags/name": "Bürgerhaus Hürth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9558898, 
+                    50.9407011
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1026198707", 
+            "properties": {
+                "tags/name": "Klaus-von-Bismarck-Saal"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8524935, 
+                    50.886169
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153144950", 
+            "properties": {
+                "tags/name": "Reiterhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8423011, 
+                    50.8828253
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153145403", 
+            "properties": {
+                "tags/name": "Reiterhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8454983, 
+                    50.8790616
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153148068", 
+            "properties": {
+                "tags/name": "Ruderheim Ruderclub Hürth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8401339, 
+                    50.8754398
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153148501", 
+            "properties": {
+                "tags/name": "Kloster Burbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8398442, 
+                    50.8756158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153149273", 
+            "properties": {
+                "tags/name": "Bootsschuppen Kanuclub Schwimmclub Hürth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8314114, 
+                    50.8857629
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153155287", 
+            "properties": {
+                "tags/name": "Hundeübungsplatz der SV OG Gleuel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8638446, 
+                    50.9040613
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153166194", 
+            "properties": {
+                "tags/name": "Klärwerk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8867614, 
+                    50.9061857
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153172160", 
+            "properties": {
+                "tags/name": "Schrebergärten - Kleingartenkolonie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9457799, 
+                    50.9382806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1265004394", 
+            "properties": {
+                "tags/name": "Kabarett Klingelpütz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8878741, 
+                    51.0859543
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1428923341", 
+            "properties": {
+                "tags/name": "Aula am Berliner Ring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8116518, 
+                    50.9106806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1480576355", 
+            "properties": {
+                "tags/name": "Stadtsaal Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0164241, 
+                    50.968843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1712482162", 
+            "properties": {
+                "tags/name": "Palladium/Oper"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9635114, 
+                    50.9069797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719197564", 
+            "properties": {
+                "tags/name": "Die Baustelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8325648, 
+                    50.8897576
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1762285429", 
+            "properties": {
+                "tags/name": "Festhalle Gleuel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8331388, 
+                    50.8902246
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1762285430", 
+            "properties": {
+                "tags/name": "Schützenplatz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9194912, 
+                    51.0602048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1782843866", 
+            "properties": {
+                "tags/name": "Matchbox Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0413239, 
+                    50.9691617
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1902701873", 
+            "properties": {
+                "tags/name": "Cassopeia Bühne"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9276355, 
+                    50.9201389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1933712053", 
+            "properties": {
+                "tags/name": "Casamax Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9815841, 
+                    50.8277317
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2062704134", 
+            "properties": {
+                "tags/name": "Phönix Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949148, 
+                    50.961625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2111971110", 
+            "properties": {
+                "tags/name": "Kulturkirche Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9506316, 
+                    50.9229443
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2278367185", 
+            "properties": {
+                "tags/name": "Theater der Keller"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9456351, 
+                    50.9445563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2325601605", 
+            "properties": {
+                "tags/name": "Erstes Kölner Wohnzimmertheater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9559291, 
+                    50.9220196
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2345358823", 
+            "properties": {
+                "tags/name": "Theater am Sachsenring - TAS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9357079, 
+                    50.9393335
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2464989492", 
+            "properties": {
+                "tags/name": "Theaterpädagisches Zentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9652868, 
+                    50.9173784
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2536089905", 
+            "properties": {
+                "tags/name": "Helios Figurentheater"
+            }
+        }
+    ]
+}

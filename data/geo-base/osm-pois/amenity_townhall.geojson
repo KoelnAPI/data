@@ -1,0 +1,95 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8081734, 
+        50.9086934, 
+        7.1198785, 
+        51.0826723
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8081734, 
+                    50.9086934
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255404308", 
+            "properties": {
+                "tags/name": "Rathaus Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.808581, 
+                    50.9088287
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "364970257", 
+            "properties": {
+                "tags/name": "Standesamt Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8993447, 
+                    51.0223104
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373494395", 
+            "properties": {
+                "tags/name": "Bezirksrathaus Chorweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1198785, 
+                    51.0826723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619099472", 
+            "properties": {
+                "tags/name": "Burscheid"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0055721, 
+                    51.0598802
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1433270349", 
+            "properties": {
+                "tags/name": "Beauty Art Tattoo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9879998, 
+                    51.0325233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1843617270", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

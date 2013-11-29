@@ -1,0 +1,375 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7013067, 
+        50.8297596, 
+        7.1835568, 
+        51.0393247
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9639535, 
+                    50.9049155
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "359829", 
+            "properties": {
+                "tags/name": "Starcar Autovermietung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9286162, 
+                    50.8297596
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272054305", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9376991, 
+                    50.942025
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "285569148", 
+            "properties": {
+                "tags/name": "Hertz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9555741, 
+                    50.9430355
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305162047", 
+            "properties": {
+                "tags/name": "Sixt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.006077, 
+                    50.9667958
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578766", 
+            "properties": {
+                "tags/name": "Auto-Blitz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601172, 
+                    50.9438462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "352673137", 
+            "properties": {
+                "tags/name": "Hertz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9576414, 
+                    50.9429258
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446900833", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.049104, 
+                    50.9186049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "447472992", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0751927, 
+                    50.8969457
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "449224052", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9316571, 
+                    50.9561109
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "460509604", 
+            "properties": {
+                "tags/name": "AVK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.978982, 
+                    50.9387413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "659594931", 
+            "properties": {
+                "tags/name": "EuropCar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9596206, 
+                    50.9344156
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "790034333", 
+            "properties": {
+                "tags/name": "Europa Service"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0012932, 
+                    50.9435754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039369252", 
+            "properties": {
+                "tags/name": "STARCAR"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9326385, 
+                    50.9218118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1305920099", 
+            "properties": {
+                "tags/name": "Kristall Autovermietung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1835568, 
+                    50.8870558
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1314363194", 
+            "properties": {
+                "tags/name": "SIXT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9012346, 
+                    50.945659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1395343951", 
+            "properties": {
+                "tags/name": "Europcar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8890134, 
+                    50.9468523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1395344007", 
+            "properties": {
+                "tags/name": "Sixt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.889238, 
+                    50.8794088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591079054", 
+            "properties": {
+                "tags/name": "Europcar Autovermietung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9076002, 
+                    50.9454146
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1676897392", 
+            "properties": {
+                "tags/name": "Starcar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9074813, 
+                    50.9478714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1676993562", 
+            "properties": {
+                "tags/name": "Enterprise"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.996569, 
+                    50.9231722
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1776184353", 
+            "properties": {
+                "tags/name": "Hertz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.121563, 
+                    50.8793243
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2138910330", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1213874, 
+                    50.8793979
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2138910331", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1212118, 
+                    50.8794714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2138910332", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1210362, 
+                    50.8795449
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2138910335", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7013067, 
+                    51.0393247
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2363021762", 
+            "properties": {
+                "tags/name": "Mietwagen Cun"
+            }
+        }
+    ]
+}

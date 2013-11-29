@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8044195, 
+        50.8132641, 
+        7.155954, 
+        51.0961634
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9450516, 
+                    50.9477049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249519055", 
+            "properties": {
+                "tags/name": "Cinedom"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8044195, 
+                    50.9139395
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254877487", 
+            "properties": {
+                "tags/name": "Linden-Theater"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581126, 
+                    50.9510974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256221801", 
+            "properties": {
+                "tags/name": "Metropolis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9052017, 
+                    50.8272176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272089111", 
+            "properties": {
+                "tags/name": "Zoom Kino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.155954, 
+                    50.8132641
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281850938", 
+            "properties": {
+                "tags/name": "Cineplex"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9379096, 
+                    50.9296761
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "283419882", 
+            "properties": {
+                "tags/name": "Off Broadway"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.988108, 
+                    51.03373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293514914", 
+            "properties": {
+                "tags/name": "Kinopolis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004729, 
+                    51.062926
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365574086", 
+            "properties": {
+                "tags/name": "Scala"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1369187, 
+                    50.9917966
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370652142", 
+            "properties": {
+                "tags/name": "Viktoria Kino"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8146528, 
+                    50.8743112
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "423885688", 
+            "properties": {
+                "tags/name": "Berli"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9582191, 
+                    50.9252605
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702960", 
+            "properties": {
+                "tags/name": "Odeon"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8414803, 
+                    51.0961634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "618833041", 
+            "properties": {
+                "tags/name": "Cineplex Dormagen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9553029, 
+                    50.9495613
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "960117141", 
+            "properties": {
+                "tags/name": "Filmpalette"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8753528, 
+                    50.8790498
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1547098411", 
+            "properties": {
+                "tags/name": "UCI-Multiplexkinocenter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0733846, 
+                    50.900925
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562484705", 
+            "properties": {
+                "tags/name": "DriveIn Cinema"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9422668, 
+                    50.9439275
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2093703654", 
+            "properties": {
+                "tags/name": "Residenz - ASTOR Film Lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600503, 
+                    50.9406755
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2154861456", 
+            "properties": {
+                "tags/name": "Filmforum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9396443, 
+                    50.9379258
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439165336", 
+            "properties": {
+                "tags/name": "ehem. Filmpalast"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.059991, 
+                    50.885877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2490663641", 
+            "properties": {
+                "tags/name": "Kino in der Glashütte"
+            }
+        }
+    ]
+}

@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9508999, 
+        50.9405678, 
+        7.1590232, 
+        50.9667999
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9508999, 
+                    50.9405678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262401321", 
+            "properties": {
+                "tags/name": "Finanzgericht Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9518112, 
+                    50.9406159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262401322", 
+            "properties": {
+                "tags/name": "Verwaltungsgericht Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1590232, 
+                    50.9667999
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292298029", 
+            "properties": {
+                "tags/name": "Amtsgericht Bergisch-Gladbach"
+            }
+        }
+    ]
+}

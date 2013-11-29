@@ -1,0 +1,1313 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7945104, 
+        50.8809126, 
+        7.1830067, 
+        51.0672131
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.017219, 
+                    51.0652172
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "289942919", 
+            "properties": {
+                "tags/name": "Kulturausbesserungswerk (KAW)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.939786, 
+                    50.9287886
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "356175401", 
+            "properties": {
+                "tags/name": "Pacific Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9591367, 
+                    50.9355208
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "363841991", 
+            "properties": {
+                "tags/name": "1460"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0372954, 
+                    50.9967475
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "367975297", 
+            "properties": {
+                "tags/name": "Liga Loco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9336921, 
+                    50.9433992
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412848040", 
+            "properties": {
+                "tags/name": "westpol"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.947408, 
+                    50.9375908
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "413028093", 
+            "properties": {
+                "tags/name": "Marx's Winebar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9259006, 
+                    50.9483593
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "425837928", 
+            "properties": {
+                "tags/name": "82drei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9620657, 
+                    50.9382278
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "427539908", 
+            "properties": {
+                "tags/name": "Sonderbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9396744, 
+                    50.9270298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "435136644", 
+            "properties": {
+                "tags/name": "Kyba Lounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9351795, 
+                    50.9414488
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "441632086", 
+            "properties": {
+                "tags/name": "Barracuda Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.95737, 
+                    50.9405216
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442567969", 
+            "properties": {
+                "tags/name": "Ustinov's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9554774, 
+                    50.9270155
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702948", 
+            "properties": {
+                "tags/name": "Apropos"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600631, 
+                    50.9243684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702967", 
+            "properties": {
+                "tags/name": "Sieben"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.955215, 
+                    50.9450873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446769239", 
+            "properties": {
+                "tags/name": "Stardust"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9548026, 
+                    50.9450039
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446769243", 
+            "properties": {
+                "tags/name": "Moon Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9378184, 
+                    50.9302501
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "467770617", 
+            "properties": {
+                "tags/name": "Rosebud"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8395897, 
+                    50.8809126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "471580715", 
+            "properties": {
+                "tags/name": "OMS Beach Club"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486103, 
+                    50.9643251
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "526964035", 
+            "properties": {
+                "tags/name": "BarFly"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9611403, 
+                    50.9215423
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538210451", 
+            "properties": {
+                "tags/name": "Kulturcafé Lichtung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9606226, 
+                    50.9169469
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538267332", 
+            "properties": {
+                "tags/name": "Orchidee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9615753, 
+                    50.921162
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538271013", 
+            "properties": {
+                "tags/name": "coellner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9408454, 
+                    50.9407634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "569774928", 
+            "properties": {
+                "tags/name": "Bar Cologne"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9415924, 
+                    50.941584
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "570690945", 
+            "properties": {
+                "tags/name": "Lotte Haifischbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0094221, 
+                    50.958749
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603316692", 
+            "properties": {
+                "tags/name": "Goldrausch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9597759, 
+                    50.9375583
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614228329", 
+            "properties": {
+                "tags/name": "Cheznous"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9422073, 
+                    50.9438594
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "615080947", 
+            "properties": {
+                "tags/name": "Cafe Schneider"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.961458, 
+                    50.92586
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "652578701", 
+            "properties": {
+                "tags/name": "Internationale Teestube"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.959384, 
+                    50.932597
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "655213219", 
+            "properties": {
+                "tags/name": "Blue Lounge Tanzbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9619003, 
+                    50.9378951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "661055175", 
+            "properties": {
+                "tags/name": "Purn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7945104, 
+                    51.0002392
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "672935694", 
+            "properties": {
+                "tags/name": "Kran 3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9624085, 
+                    50.9228265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "684697033", 
+            "properties": {
+                "tags/name": "Fiffi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.938281, 
+                    50.9365585
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "717677100", 
+            "properties": {
+                "tags/name": "Goldener Pudelclub"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9174084, 
+                    50.9490298
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "754311152", 
+            "properties": {
+                "tags/name": "Rubinrot"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9862582, 
+                    50.9359927
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "773143028", 
+            "properties": {
+                "tags/name": "bei Deniz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9589672, 
+                    50.9336619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "786918226", 
+            "properties": {
+                "tags/name": "My Lord"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9587334, 
+                    50.9336364
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "786918256", 
+            "properties": {
+                "tags/name": "Cox Cologne"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9591747, 
+                    50.9353916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "790036605", 
+            "properties": {
+                "tags/name": "Guckiii"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9455046, 
+                    50.9411325
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "837941813", 
+            "properties": {
+                "tags/name": "Dingleberry's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405828, 
+                    50.9288889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "849724586", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9780785, 
+                    50.9247115
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "888174258", 
+            "properties": {
+                "tags/name": "Essigfabrik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9402534, 
+                    50.9391024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "898730500", 
+            "properties": {
+                "tags/name": "Chez Nous"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9411509, 
+                    50.9347392
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "937529177", 
+            "properties": {
+                "tags/name": "Iron"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407835, 
+                    50.9347306
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "937530545", 
+            "properties": {
+                "tags/name": "Die Mumu"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407671, 
+                    50.9344799
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "938889650", 
+            "properties": {
+                "tags/name": "ix-bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9375647, 
+                    50.9380462
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "942678109", 
+            "properties": {
+                "tags/name": "barlounge40"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394248, 
+                    50.9392917
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "942692370", 
+            "properties": {
+                "tags/name": "Skweeze"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9383996, 
+                    50.9399205
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "942692392", 
+            "properties": {
+                "tags/name": "Qhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9393918, 
+                    50.9391845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "942692484", 
+            "properties": {
+                "tags/name": "Klapsmühle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.93952, 
+                    50.939649
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "942692527", 
+            "properties": {
+                "tags/name": "einundfünfzig"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.932885, 
+                    50.9379623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1010672372", 
+            "properties": {
+                "tags/name": "De.lite"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.933107, 
+                    50.936356
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1018043685", 
+            "properties": {
+                "tags/name": "#Tausend"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.945915, 
+                    50.9462578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1037519512", 
+            "properties": {
+                "tags/name": "Mc Lennon"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0015903, 
+                    50.9403375
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039582577", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397455, 
+                    50.955323
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1068667413", 
+            "properties": {
+                "tags/name": "Bar Petit Bijou"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.93287, 
+                    50.93311
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1069189906", 
+            "properties": {
+                "tags/name": "Ona Mor"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.935089, 
+                    50.936622
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1080251832", 
+            "properties": {
+                "tags/name": "Lauschgift"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0098751, 
+                    50.9438264
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089025178", 
+            "properties": {
+                "tags/name": "Michys Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9436123, 
+                    50.9275978
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1108425819", 
+            "properties": {
+                "tags/name": "BarBarA"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9271447, 
+                    50.9235659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1117023613", 
+            "properties": {
+                "tags/name": "Bistro 43"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9379732, 
+                    50.9266463
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1140753690", 
+            "properties": {
+                "tags/name": "Cafe Süd"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8340077, 
+                    50.8865142
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1153157264", 
+            "properties": {
+                "tags/name": "Tennisheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.018109, 
+                    51.0672131
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1178668780", 
+            "properties": {
+                "tags/name": "Früh-Schänke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.989247, 
+                    51.031578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1178679929", 
+            "properties": {
+                "tags/name": "Uncle Sam's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9378369, 
+                    50.9295973
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1217588473", 
+            "properties": {
+                "tags/name": "Podium"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9771, 
+                    51.0307
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1270385334", 
+            "properties": {
+                "tags/name": "Zeitgeist"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9374119, 
+                    50.9306675
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1282716111", 
+            "properties": {
+                "tags/name": "Shepheard"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1353724, 
+                    50.9652518
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1314229097", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601678, 
+                    50.9355236
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1362834395", 
+            "properties": {
+                "tags/name": "beim SIR"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9118405, 
+                    50.9535256
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384885581", 
+            "properties": {
+                "tags/name": "Zoo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8084952, 
+                    50.9101073
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460569883", 
+            "properties": {
+                "tags/name": "Havanita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9780268, 
+                    50.9245801
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487173138", 
+            "properties": {
+                "tags/name": "Elektroküche"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9542552, 
+                    50.9514069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1512568892", 
+            "properties": {
+                "tags/name": "bar orange"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9371856, 
+                    50.92923
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643520918", 
+            "properties": {
+                "tags/name": "Bar Celos"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9375157, 
+                    50.9291101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643520936", 
+            "properties": {
+                "tags/name": "Cuba Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9373726, 
+                    50.9293365
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643520945", 
+            "properties": {
+                "tags/name": "Cubana"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9386697, 
+                    50.9300595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643520989", 
+            "properties": {
+                "tags/name": "Heimspiel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9374653, 
+                    50.9293861
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643521006", 
+            "properties": {
+                "tags/name": "Mojitos"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9373672, 
+                    50.9290281
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643521285", 
+            "properties": {
+                "tags/name": "Soul Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9378281, 
+                    50.929309
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643521362", 
+            "properties": {
+                "tags/name": "max"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9369976, 
+                    50.9288125
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1643521369", 
+            "properties": {
+                "tags/name": "miniBar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9530421, 
+                    50.9656038
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702453082", 
+            "properties": {
+                "tags/name": "Heimathirsch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9798545, 
+                    50.9175717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1802620883", 
+            "properties": {
+                "tags/name": "Poller Strandbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0095144, 
+                    50.9718575
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1862061788", 
+            "properties": {
+                "tags/name": "Don Quichote"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410726, 
+                    50.9394371
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1912760409", 
+            "properties": {
+                "tags/name": "Blauer Engel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410785, 
+                    50.9394856
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1912760415", 
+            "properties": {
+                "tags/name": "Menouche"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9400809, 
+                    50.942082
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1969878507", 
+            "properties": {
+                "tags/name": "7th Sky"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9896563, 
+                    50.9118825
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2038908004", 
+            "properties": {
+                "tags/name": "Bar Europa"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9922075, 
+                    50.9153932
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2104817206", 
+            "properties": {
+                "tags/name": "Serbed"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1830067, 
+                    50.8969143
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2189712614", 
+            "properties": {
+                "tags/name": "AusZeit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.943611, 
+                    50.9407171
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2285773937", 
+            "properties": {
+                "tags/name": "Friesen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9397853, 
+                    50.9385815
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419064719", 
+            "properties": {
+                "tags/name": "Casa Cuba"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9508373, 
+                    50.9358827
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419807497", 
+            "properties": {
+                "tags/name": "Sky Beach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0500664, 
+                    51.0341882
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2423062722", 
+            "properties": {
+                "tags/name": "Apfelbaum"
+            }
+        }
+    ]
+}

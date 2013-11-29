@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9783389, 
+        50.898189, 
+        6.9783389, 
+        50.898189
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9783389, 
+                    50.898189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2200427140", 
+            "properties": {
+                "tags/name": "Generalkonsulat der Republik Polen in Köln"
+            }
+        }
+    ]
+}

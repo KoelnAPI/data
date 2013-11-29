@@ -1,0 +1,347 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7143917, 
+        50.8203804, 
+        7.1828552, 
+        51.0831892
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8974, 
+                    51.0199384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "73756722", 
+            "properties": {
+                "tags/name": "Chorweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960543, 
+                    50.9429955
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "73760785", 
+            "properties": {
+                "tags/name": "ZOB Köln / Breslauer Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0068233, 
+                    51.0674731
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "75030617", 
+            "properties": {
+                "tags/name": "Lev.-Opladen Busbahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8032285, 
+                    50.9541983
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248973954", 
+            "properties": {
+                "tags/name": "Freimersdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1181065, 
+                    51.0831892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266907533", 
+            "properties": {
+                "tags/name": "Burscheid Busbf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8768837, 
+                    50.8784118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275993857", 
+            "properties": {
+                "tags/name": "Hürth Mitte (ZOB)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0155636, 
+                    51.0314256
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293596750", 
+            "properties": {
+                "tags/name": "Schlebusch Bf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9904415, 
+                    51.0323533
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "298497854", 
+            "properties": {
+                "tags/name": "ZOB Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1826606, 
+                    50.9000904
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "380895139", 
+            "properties": {
+                "tags/name": "1"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8072873, 
+                    50.8203804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420179338", 
+            "properties": {
+                "tags/name": "Paul-Klee-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.895246, 
+                    50.8813574
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "549255359", 
+            "properties": {
+                "tags/name": "Hürth- Hermülheim (Stadtbahn)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0081955, 
+                    51.0665847
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "652664503", 
+            "properties": {
+                "tags/name": "Opladen Bahnhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7143917, 
+                    50.9162946
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "722633232", 
+            "properties": {
+                "tags/name": "Horrem Bf. Bus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828552, 
+                    50.9008191
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350552268", 
+            "properties": {
+                "tags/name": "4"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1827332, 
+                    50.9003607
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350552273", 
+            "properties": {
+                "tags/name": "2"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1827995, 
+                    50.9005804
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350552276", 
+            "properties": {
+                "tags/name": "3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.017426, 
+                    51.066951
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1352493822", 
+            "properties": {
+                "tags/name": "Kolberger Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956492, 
+                    51.064088
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1369836217", 
+            "properties": {
+                "tags/name": "Königsberger Platz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1247209, 
+                    50.9909539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1660641590", 
+            "properties": {
+                "tags/name": "Bergisch Gladbach S-Bahn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1242351, 
+                    50.9909555
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1660641746", 
+            "properties": {
+                "tags/name": "Bergisch Gladbach S-Bahn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0029662, 
+                    50.9349797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357580202", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0092574, 
+                    50.9348791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357580205", 
+            "properties": {
+                "tags/name": "Christion-Sünner-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.011037, 
+                    50.9340343
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357580208", 
+            "properties": {
+                "tags/name": "Christion-Sünner-Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0026441, 
+                    50.9351623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2357580211", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

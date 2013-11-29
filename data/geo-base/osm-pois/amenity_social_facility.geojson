@@ -1,0 +1,277 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7074316, 
+        50.8140069, 
+        7.1501713, 
+        51.0538279
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1501713, 
+                    50.890162
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373544799", 
+            "properties": {
+                "tags/name": "Stephansheide"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0102988, 
+                    50.9394342
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1023711221", 
+            "properties": {
+                "tags/name": "Seniorenwohnheim Alten-Club der ev. Kirchengemeinde"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.009846, 
+                    50.9392808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1023711251", 
+            "properties": {
+                "tags/name": "Frauenberatung und Gewaltenschutzzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0069629, 
+                    50.9460012
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1033403883", 
+            "properties": {
+                "tags/name": "KALKschmiede*"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9701115, 
+                    50.9380818
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1065961556", 
+            "properties": {
+                "tags/name": "Caritas Altenzentrum Sankt Heribert"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0073012, 
+                    50.9411219
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089121122", 
+            "properties": {
+                "tags/name": "Altenzentrum St. Marien"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.004712, 
+                    50.9423974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124007", 
+            "properties": {
+                "tags/name": "Caritas Werkstätten Clara Fey Haus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0046919, 
+                    50.9434227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124082", 
+            "properties": {
+                "tags/name": "Bürgerbüro und Bürgertreff Kalk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0028774, 
+                    50.9416882
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124094", 
+            "properties": {
+                "tags/name": "Kalker Jugendbüro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038482, 
+                    50.9427201
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124113", 
+            "properties": {
+                "tags/name": "Caritashaus Kalk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9900765, 
+                    50.8941763
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1397171501", 
+            "properties": {
+                "tags/name": "Caritas Altenzentrum St. Maternus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8830979, 
+                    50.880529
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1591079120", 
+            "properties": {
+                "tags/name": "JugendZentrum der Stadt Hürth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0401434, 
+                    50.9637437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1640480152", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7074316, 
+                    51.0538279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1775804844", 
+            "properties": {
+                "tags/name": "Trauerhalle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9436726, 
+                    50.9352694
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2009791544", 
+            "properties": {
+                "tags/name": "KISS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8145039, 
+                    50.8140069
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2385171446", 
+            "properties": {
+                "tags/name": "Arbeiter-Samariter Bund (ASB) Pflegezentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0027776, 
+                    50.9623939
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2390874320", 
+            "properties": {
+                "tags/name": "Mädchenzentrum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0588866, 
+                    50.895426
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2536690013", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0460325, 
+                    50.865372
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2537293041", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

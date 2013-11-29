@@ -1,0 +1,431 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7138399, 
+        50.8174798, 
+        7.1650121, 
+        51.0922832
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8883693, 
+                    51.0914443
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248743357", 
+            "properties": {
+                "tags/name": "Rathaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9718491, 
+                    50.90127
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265958670", 
+            "properties": {
+                "tags/name": "polnisches Konsulat"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8197336, 
+                    50.9079196
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267239387", 
+            "properties": {
+                "tags/name": "Agentur für Arbeit Brühl, GS Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7788563, 
+                    50.9731943
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288455301", 
+            "properties": {
+                "tags/name": "Bürgerhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0062539, 
+                    50.9859757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "332047095", 
+            "properties": {
+                "tags/name": "Trauerhalle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0102205, 
+                    50.97171
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343471429", 
+            "properties": {
+                "tags/name": "Bürgertreff Berliner 67"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1148696, 
+                    50.9432631
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "368209159", 
+            "properties": {
+                "tags/name": "Bethanien Kinderdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7176036, 
+                    51.0612659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372795288", 
+            "properties": {
+                "tags/name": "Schützenhalle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7138399, 
+                    51.0553983
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372795376", 
+            "properties": {
+                "tags/name": "Schützenhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9033396, 
+                    51.0182177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373490964", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9040452, 
+                    51.0177306
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373509972", 
+            "properties": {
+                "tags/name": "Jugendbüro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9032603, 
+                    50.9539127
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375790518", 
+            "properties": {
+                "tags/name": "OT Nonni"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9028707, 
+                    50.9537953
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375790522", 
+            "properties": {
+                "tags/name": "JMD (KJW Köln e.V.)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9030811, 
+                    50.9538567
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "375790530", 
+            "properties": {
+                "tags/name": "Raphael3"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0058477, 
+                    51.0294489
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "410607553", 
+            "properties": {
+                "tags/name": "Katholische Familienbildungsstätte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8935319, 
+                    50.8175265
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "784096160", 
+            "properties": {
+                "tags/name": "Familienkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581031, 
+                    50.9335496
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "786918305", 
+            "properties": {
+                "tags/name": "Mieterverein Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9482669, 
+                    50.9348127
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "990902482", 
+            "properties": {
+                "tags/name": "Methadon-Ambulanz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8903746, 
+                    51.087231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "994834949", 
+            "properties": {
+                "tags/name": "Polizei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9462445, 
+                    50.9292452
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1158927171", 
+            "properties": {
+                "tags/name": "Finanzamt Altstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0035842, 
+                    50.9351892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1214765980", 
+            "properties": {
+                "tags/name": "Amt für Öffentliche Ordnung - Fundbüro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9632917, 
+                    50.9223528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1447056763", 
+            "properties": {
+                "tags/name": "Zentrum für selbstbestimmtes Leben Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8970277, 
+                    50.9422733
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1450914111", 
+            "properties": {
+                "tags/name": "Bundesnetzagentur Außenstelle Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8978107, 
+                    51.0222159
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1674097186", 
+            "properties": {
+                "tags/name": "Röntgenpraxis Chorweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1650121, 
+                    50.8174798
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1797074468", 
+            "properties": {
+                "tags/name": "Standesamt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8112915, 
+                    51.0922832
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1934478145", 
+            "properties": {
+                "tags/name": "Strassenverkehrsamt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9416522, 
+                    50.9331889
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468130871", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9415299, 
+                    50.9331841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468130873", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9413643, 
+                    50.9331502
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468130879", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9368429, 
+                    50.9338937
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468451554", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

@@ -1,0 +1,4799 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7074035, 
+        50.8000282, 
+        7.1984082, 
+        51.0982843
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9405608, 
+                    50.9354444
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "54749669", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9198855, 
+                    50.953704
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "196170706", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9776458, 
+                    50.9370326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "201455751", 
+            "properties": {
+                "tags/name": "Sparda-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8803851, 
+                    50.9558199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224392074", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9009467, 
+                    50.9575192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224445220", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997524, 
+                    50.9678877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230226555", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9135369, 
+                    50.9959353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242847946", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9499996, 
+                    50.9759046
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "242924511", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8982255, 
+                    50.9588321
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "243974624", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8339548, 
+                    50.9662279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244118363", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8678883, 
+                    50.9801707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244296667", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9392709, 
+                    50.9686268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246829498", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9587787, 
+                    51.0252249
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247388977", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563643, 
+                    51.0277869
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247388985", 
+            "properties": {
+                "tags/name": "Volksbank Köln-Nord"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8660707, 
+                    50.9797938
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "249229655", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8790611, 
+                    50.9992709
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "252852557", 
+            "properties": {
+                "tags/name": "Stadtsparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8118212, 
+                    50.9096924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254613328", 
+            "properties": {
+                "tags/name": "Kreisparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949425, 
+                    50.9358387
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255239657", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9513304, 
+                    50.942332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255279299", 
+            "properties": {
+                "tags/name": "İşbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9510449, 
+                    50.9424138
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255279931", 
+            "properties": {
+                "tags/name": "HypoVereinsbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9506987, 
+                    50.942456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255279932", 
+            "properties": {
+                "tags/name": "UBS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9541466, 
+                    50.942839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255280061", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9569078, 
+                    50.9427152
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255305437", 
+            "properties": {
+                "tags/name": "BBBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9176839, 
+                    50.9493477
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256579796", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8015079, 
+                    50.9981835
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257083704", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.803162, 
+                    50.9982872
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257089009", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8077842, 
+                    51.004158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257089023", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.811781, 
+                    51.003175
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257089316", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8030027, 
+                    50.9976905
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "257089719", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571212, 
+                    50.9383437
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "259178954", 
+            "properties": {
+                "tags/name": "psd Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572986, 
+                    50.9363873
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "259198814", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8805956, 
+                    50.9380133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "262073154", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9234185, 
+                    50.9114974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265728727", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9392711, 
+                    50.9361118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265757811", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1927985, 
+                    50.8085857
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266184989", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.860427, 
+                    50.9336412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266326067", 
+            "properties": {
+                "tags/name": "Kölner Bank e.G."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1173804, 
+                    51.0820086
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266756504", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0998313, 
+                    50.9991266
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266840601", 
+            "properties": {
+                "tags/name": "VR-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.09927, 
+                    50.9990121
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "266840605", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8803124, 
+                    50.9996952
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268256783", 
+            "properties": {
+                "tags/name": "VoBa Köln-Nord eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7726691, 
+                    50.9361234
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268337411", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Frechen-Hürth eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7730286, 
+                    50.936445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268337418", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1869209, 
+                    51.0915406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268761833", 
+            "properties": {
+                "tags/name": "Stadtsparkasse Wermelskirchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0803918, 
+                    51.0147516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269228684", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0810139, 
+                    51.0160078
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269228703", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0363086, 
+                    50.8129986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "269730457", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1123854, 
+                    51.0316572
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270252803", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1141578, 
+                    51.0319525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270252810", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0879979, 
+                    50.9890539
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362962", 
+            "properties": {
+                "tags/name": "VR Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0891357, 
+                    50.9896843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "270362968", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8964851, 
+                    50.8280754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "272087111", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0470771, 
+                    50.9703595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "274119034", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0065502, 
+                    50.9607154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275364500", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1316378, 
+                    51.000646
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276348965", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7107117, 
+                    50.9137059
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276912263", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0777923, 
+                    50.8917008
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "277805255", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0722719, 
+                    50.9768152
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280572117", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0729237, 
+                    50.9765787
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280572120", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8915492, 
+                    50.8809845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280951899", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9147977, 
+                    50.9303197
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "280961557", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.112579, 
+                    50.9843098
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281087074", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1169936, 
+                    50.9566581
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281087113", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9805389, 
+                    50.8241955
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281279344", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9782069, 
+                    50.8222281
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281299093", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1372244, 
+                    50.9822532
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519972", 
+            "properties": {
+                "tags/name": "VR-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1374741, 
+                    50.9816745
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "281519976", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9415515, 
+                    50.9287722
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "283622259", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9189098, 
+                    50.9211784
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286411164", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9417141, 
+                    50.9433635
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "286416915", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9483054, 
+                    50.9803003
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "287571416", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1479225, 
+                    50.9619724
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "288567793", 
+            "properties": {
+                "tags/name": "Bensberger Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1603582, 
+                    50.9655673
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290456770", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1562928, 
+                    50.9661711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290456789", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0055197, 
+                    50.8460005
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292538274", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8372308, 
+                    50.9380438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292680043", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0159225, 
+                    51.0317295
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293596753", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9202049, 
+                    51.0624369
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294291853", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Rhein-Berg eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9168982, 
+                    51.0613939
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "294946753", 
+            "properties": {
+                "tags/name": "Sparkasse Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.182755, 
+                    50.8976772
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296218300", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1831811, 
+                    50.8986916
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "296340583", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9225831, 
+                    50.9472123
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "298080261", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9571763, 
+                    50.9424151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "303222533", 
+            "properties": {
+                "tags/name": "Banque Chaabi du Maroc"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1228211, 
+                    51.0604601
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "303907804", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0055251, 
+                    50.9509115
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "304060421", 
+            "properties": {
+                "tags/name": "Sparkasse Köln/Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7606057, 
+                    51.093625
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "305462784", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7795755, 
+                    51.077659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306004351", 
+            "properties": {
+                "tags/name": "Volksbank Köln-Nord EG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7787773, 
+                    51.0772276
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "306004750", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9271612, 
+                    50.9161284
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "307868669", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0510966, 
+                    51.0354219
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308623580", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0697515, 
+                    51.0418133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308623872", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1221752, 
+                    51.0601308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "308650535", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9631436, 
+                    50.9533755
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "310319890", 
+            "properties": {
+                "tags/name": "apoBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1827818, 
+                    50.8982876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "312725916", 
+            "properties": {
+                "tags/name": "VR Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.925776, 
+                    50.9165876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313929830", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9263758, 
+                    50.9166583
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "313936999", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9092392, 
+                    50.9270029
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "315646189", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0301121, 
+                    50.9805508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "318720315", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9049789, 
+                    50.8285579
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "320337056", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7971691, 
+                    50.9265012
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "322896590", 
+            "properties": {
+                "tags/name": "Kreissparkasse-Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9489736, 
+                    50.9370968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "331312176", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1257517, 
+                    50.9574985
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339354830", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8352837, 
+                    50.8901012
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339694650", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1794721, 
+                    50.8916591
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "339904993", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0088359, 
+                    50.9703777
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340350854", 
+            "properties": {
+                "tags/name": "Sparkasse Köln-Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9845235, 
+                    51.0321362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225510", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9866457, 
+                    51.0322962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "351225561", 
+            "properties": {
+                "tags/name": "Dresdner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.928063, 
+                    50.9166179
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "353954223", 
+            "properties": {
+                "tags/name": "BB Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9625223, 
+                    50.9095714
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "354534104", 
+            "properties": {
+                "tags/name": "Sparkasse Köln/Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1770727, 
+                    50.9255383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358384312", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1769697, 
+                    50.925353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358384377", 
+            "properties": {
+                "tags/name": "VR-Bank Bergisch Gladbach-Overath-Rösrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.002695, 
+                    51.0631305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365572586", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0037849, 
+                    51.0652358
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365572804", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0033386, 
+                    51.0669565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365572930", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9537723, 
+                    50.9637735
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366608439", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614659, 
+                    50.989383
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366725735", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9514447, 
+                    50.900242
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366955070", 
+            "properties": {
+                "tags/name": "Sparkasse Köln/Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9049527, 
+                    50.8284723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369326429", 
+            "properties": {
+                "tags/name": "Santander"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.904604, 
+                    50.8272758
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369659949", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0061902, 
+                    50.9618062
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369748924", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038818, 
+                    51.0595398
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369777312", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0036014, 
+                    51.0601137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369777313", 
+            "properties": {
+                "tags/name": "Sparda-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038623, 
+                    51.0626019
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369777315", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0037592, 
+                    51.0649338
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "369777318", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0048235, 
+                    51.0666814
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370510074", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1581255, 
+                    50.9890645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370606978", 
+            "properties": {
+                "tags/name": "VR Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1918889, 
+                    50.9872445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370617137", 
+            "properties": {
+                "tags/name": "Sparkasse KSK Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1919357, 
+                    50.9867841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370617139", 
+            "properties": {
+                "tags/name": "VR Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8340562, 
+                    50.9406447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "371629288", 
+            "properties": {
+                "tags/name": "Raiffeisenkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7089918, 
+                    50.9926905
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "371639520", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7105572, 
+                    51.0514897
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372795566", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7074035, 
+                    51.0508494
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "372795755", 
+            "properties": {
+                "tags/name": "VR-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9555425, 
+                    50.9415825
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684607", 
+            "properties": {
+                "tags/name": "Ziraat Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9556598, 
+                    50.9415986
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684610", 
+            "properties": {
+                "tags/name": "Şekerbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9465485, 
+                    50.9355667
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "382026593", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9495547, 
+                    50.9426525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "387410433", 
+            "properties": {
+                "tags/name": "Delbrück Bethmann Maffei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0770696, 
+                    50.9453024
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "389998266", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7370871, 
+                    50.9917752
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "391949777", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8311261, 
+                    50.9607181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "393845070", 
+            "properties": {
+                "tags/name": "Stadtsparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7590179, 
+                    51.0195472
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395818922", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.759358, 
+                    51.0191006
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "395818946", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.816265, 
+                    50.9000353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "401236584", 
+            "properties": {
+                "tags/name": "KSK Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9065603, 
+                    50.8323302
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "402550319", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9474024, 
+                    50.9387798
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "405905135", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8977425, 
+                    50.8971328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "406252692", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0810949, 
+                    50.8815842
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "412472648", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7674192, 
+                    50.8243063
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "418340904", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.920235, 
+                    50.9485047
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419010276", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9202781, 
+                    50.9481728
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419010439", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8049348, 
+                    50.827953
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "420179225", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9213791, 
+                    50.922279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "425897167", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960127, 
+                    50.936395
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "426691513", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0565494, 
+                    50.8842404
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "432472638", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0563079, 
+                    50.8837745
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "432472639", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0587573, 
+                    50.8842226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "432472640", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493306, 
+                    51.0506207
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "435512031", 
+            "properties": {
+                "tags/name": "Sparkasse Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9197992, 
+                    50.9486672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "438042768", 
+            "properties": {
+                "tags/name": "Western Union"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9582607, 
+                    50.9251142
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442702961", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9560733, 
+                    50.9423769
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "446900822", 
+            "properties": {
+                "tags/name": "HypoVereinsbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7499125, 
+                    50.9679678
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453409186", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7816533, 
+                    50.9605988
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453456806", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7813881, 
+                    50.9588491
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "453456861", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9899734, 
+                    50.916741
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "455225288", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9589914, 
+                    50.9512742
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "456716533", 
+            "properties": {
+                "tags/name": "Sparda-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540078, 
+                    50.9375525
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "460390776", 
+            "properties": {
+                "tags/name": "Santander Consumer Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9913118, 
+                    50.986954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "469472314", 
+            "properties": {
+                "tags/name": "Volksbank Dünnwald-Holweide"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9478425, 
+                    50.9433354
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "473794005", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9486658, 
+                    50.9431924
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "473794008", 
+            "properties": {
+                "tags/name": "BW Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9061345, 
+                    51.0117479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "475012301", 
+            "properties": {
+                "tags/name": "Stadtsparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7790783, 
+                    50.975419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "485994805", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7817308, 
+                    50.9601342
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "511093472", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9110755, 
+                    50.9284526
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "518836331", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7896181, 
+                    50.8405354
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "519834231", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600172, 
+                    50.9213683
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "533914913", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9602284, 
+                    50.9213788
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "533914916", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1570526, 
+                    50.8149535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "538975818", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7758573, 
+                    50.8484158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "540847040", 
+            "properties": {
+                "tags/name": "KSK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9494694, 
+                    50.9351649
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "549697717", 
+            "properties": {
+                "tags/name": "MoneyGramm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9515085, 
+                    50.9391393
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "549990578", 
+            "properties": {
+                "tags/name": "Santander"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8901024, 
+                    50.8571821
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "551337050", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940575, 
+                    50.941042
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "568522557", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957875, 
+                    50.921325
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "571872019", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7538758, 
+                    50.8599619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "590191421", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7542933, 
+                    50.8593352
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "590191423", 
+            "properties": {
+                "tags/name": "KSK"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0291393, 
+                    50.8300942
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "593993209", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8108819, 
+                    50.9098402
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "596105566", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7500711, 
+                    50.9660145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "602085687", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0099716, 
+                    50.9585084
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603316690", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0068274, 
+                    50.960776
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "603711679", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9527861, 
+                    50.9389328
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "617822815", 
+            "properties": {
+                "tags/name": "Creditplus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1177417, 
+                    50.8291089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619512024", 
+            "properties": {
+                "tags/name": "Allianz Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9793012, 
+                    51.0022505
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "621969295", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1510853, 
+                    50.8141172
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "622728718", 
+            "properties": {
+                "tags/name": "ReiseBank AG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9603359, 
+                    50.9388893
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181862", 
+            "properties": {
+                "tags/name": "VakifBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9603141, 
+                    50.9391228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "633181873", 
+            "properties": {
+                "tags/name": "BBBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0242056, 
+                    50.9400832
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "637570861", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0631275, 
+                    51.050409
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "648861724", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957694, 
+                    50.9274988
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "661092952", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9041951, 
+                    50.8265184
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "663759866", 
+            "properties": {
+                "tags/name": "Brühler Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9054945, 
+                    50.8307935
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "666141042", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9621624, 
+                    50.9389556
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "674754103", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9187413, 
+                    50.9556923
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "677442810", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0592683, 
+                    50.883341
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "678554867", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0365068, 
+                    50.8133699
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "679045053", 
+            "properties": {
+                "tags/name": "VR-Bank Rhein-Sieg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9411157, 
+                    50.910418
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "690259794", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9416968, 
+                    50.9103165
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "690260024", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0850922, 
+                    50.9223434
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "698868715", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410641, 
+                    50.9120365
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "701856773", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0813916, 
+                    50.9217786
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "707714092", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.050609, 
+                    51.0344399
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "720895722", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0494816, 
+                    51.0351896
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "722148277", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9920011, 
+                    51.0462661
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "726798985", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.834015, 
+                    50.9421126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "739048812", 
+            "properties": {
+                "tags/name": "Sparkasse Köln-Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9263657, 
+                    50.9943144
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "766067626", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9776739, 
+                    50.9369076
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "766868332", 
+            "properties": {
+                "tags/name": "BBBank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572002, 
+                    50.942294
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "768139954", 
+            "properties": {
+                "tags/name": "Banco Santander Totta"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9488049, 
+                    51.0505803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "771079336", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0553069, 
+                    51.0652151
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "814743231", 
+            "properties": {
+                "tags/name": "Volksbank Rhein-Wupper"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0557361, 
+                    51.0649892
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "814743232", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9947358, 
+                    50.89313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "877180641", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9942745, 
+                    50.8929205
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "877180644", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9935455, 
+                    50.8920867
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "877180648", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9871709, 
+                    51.0332433
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "899395428", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0207985, 
+                    50.933177
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "903911992", 
+            "properties": {
+                "tags/name": "Sparkasse - Geschäftsstelle Köln-Vingst"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7869381, 
+                    50.9810017
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "907160181", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7864208, 
+                    50.9811453
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "907160218", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1984082, 
+                    50.9147386
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "910478466", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9882054, 
+                    51.0322606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "919787103", 
+            "properties": {
+                "tags/name": "Sparkasse Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9765053, 
+                    50.9649165
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "956085804", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9113459, 
+                    50.9285612
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "986290473", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9733125, 
+                    51.0852273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "988233743", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8893384, 
+                    51.0889313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "990479219", 
+            "properties": {
+                "tags/name": "Stadtsparkasse Düsseldorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8850612, 
+                    51.0868302
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "998236624", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Rhein-Berg eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7645322, 
+                    50.8001838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1013845313", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9431706, 
+                    50.9442395
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1020616649", 
+            "properties": {
+                "tags/name": "Fortis-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9426143, 
+                    50.9442878
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1020616669", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9140699, 
+                    50.9960738
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1070593486", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9832499, 
+                    51.0325734
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1084030922", 
+            "properties": {
+                "tags/name": "Sparkasse Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1322037, 
+                    50.9995136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1109117344", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1817887, 
+                    50.9654172
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1110339241", 
+            "properties": {
+                "tags/name": "Bensberger Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.04035, 
+                    51.001118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1115991480", 
+            "properties": {
+                "tags/name": "Sparkasse Köln Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.957747, 
+                    50.951094
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1141072367", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9568138, 
+                    50.9510578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1141072371", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1562806, 
+                    50.9663163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1149614209", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0112422, 
+                    50.9576981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198461179", 
+            "properties": {
+                "tags/name": "MoneyGram"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9843409, 
+                    51.0306233
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1263827063", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9908342, 
+                    51.0306687
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1268736536", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0051497, 
+                    50.9619987
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1309260588", 
+            "properties": {
+                "tags/name": "Kreisspakasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7409174, 
+                    50.8388814
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1310752872", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Gymnich eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9563368, 
+                    50.9505384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1327683010", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9966081, 
+                    50.8930945
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1340944637", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.861026, 
+                    51.0630931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341151971", 
+            "properties": {
+                "tags/name": "Sparkasse Köln Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0731015, 
+                    50.9023711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1344434779", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.029657, 
+                    51.061392
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1344651213", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9848737, 
+                    51.0321893
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1344838655", 
+            "properties": {
+                "tags/name": "Targo Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9125192, 
+                    50.9290571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1350070514", 
+            "properties": {
+                "tags/name": "BB Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9122162, 
+                    50.9292808
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1351059375", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1162994, 
+                    50.9574246
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1359715939", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9594912, 
+                    50.9208094
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1384138195", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1318141, 
+                    50.9916276
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1385415788", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8768114, 
+                    50.8792386
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1398569890", 
+            "properties": {
+                "tags/name": "Behindertenparkplatz (Parkahus)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0172802, 
+                    50.8063615
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1400003890", 
+            "properties": {
+                "tags/name": "Raiffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1032508, 
+                    50.9541347
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1412129896", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0109656, 
+                    50.864071
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1421014624", 
+            "properties": {
+                "tags/name": "Sparkasse Köln-Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9956233, 
+                    50.9303164
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1427508090", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9777315, 
+                    50.8217043
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431603594", 
+            "properties": {
+                "tags/name": "Brühler Kreditbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0452462, 
+                    50.8665839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1447350851", 
+            "properties": {
+                "tags/name": "Sparkasse Köln Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0011143, 
+                    50.9378673
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1456626265", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.810947, 
+                    50.9098421
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1460569475", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Frechen-Hürth eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9450967, 
+                    50.8304606
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1486256294", 
+            "properties": {
+                "tags/name": "VR Bank Rhein Erftkreis eg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9607758, 
+                    50.9443322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1521978138", 
+            "properties": {
+                "tags/name": "Sparda-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9022092, 
+                    50.894875
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1545534397", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0643456, 
+                    50.8967365
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1562448841", 
+            "properties": {
+                "tags/name": "SK Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561569, 
+                    51.0623093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1577311550", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0009823, 
+                    50.9378577
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1580756483", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0016673, 
+                    50.9378962
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1580758642", 
+            "properties": {
+                "tags/name": "Santander"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.003894, 
+                    50.937864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1580767666", 
+            "properties": {
+                "tags/name": "Targo Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005244, 
+                    50.938396
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1580768354", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9991676, 
+                    50.9377401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1580793422", 
+            "properties": {
+                "tags/name": "Kölner Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7104977, 
+                    50.9135299
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1596089979", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0754565, 
+                    50.9453858
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1600099684", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9912278, 
+                    50.987149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1602470675", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0745129, 
+                    50.9756189
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1604195752", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8581438, 
+                    50.9327184
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1613007921", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8944381, 
+                    50.8428769
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1644308428", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8964917, 
+                    50.9370133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1656071751", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.897402, 
+                    51.0216619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668102576", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9540567, 
+                    50.962185
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1674101385", 
+            "properties": {
+                "tags/name": "Targobank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7886812, 
+                    50.841191
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1684632644", 
+            "properties": {
+                "tags/name": "VR-Bank Rhein-Erft eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9827525, 
+                    51.0309814
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1702437141", 
+            "properties": {
+                "tags/name": "Santander Consumer Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.889926, 
+                    51.0944725
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1706972127", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.116777, 
+                    51.0828595
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708947194", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1188744, 
+                    51.0820609
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1708947609", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8888462, 
+                    51.0915807
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1709184891", 
+            "properties": {
+                "tags/name": "Deutsche Bank Investment & FinanzCenter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0801081, 
+                    50.8825268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1711929703", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.039221, 
+                    51.0006554
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1713319666", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0484082, 
+                    51.0223666
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1717796666", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.853314, 
+                    51.0141369
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1717922383", 
+            "properties": {
+                "tags/name": "Kölner Bank eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9073232, 
+                    50.9374428
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719090227", 
+            "properties": {
+                "tags/name": "HypoVereinsbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9591727, 
+                    50.8766166
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719170082", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9627791, 
+                    50.9093915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1719197566", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0025091, 
+                    51.0660795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1755917034", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9791408, 
+                    50.8236859
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1772728173", 
+            "properties": {
+                "tags/name": "Postbank Finanzcenter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1866664, 
+                    50.9671697
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1800922139", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1264053, 
+                    50.9910294
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1800927047", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9830471, 
+                    51.0301414
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1802266331", 
+            "properties": {
+                "tags/name": "Santander Consumer Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572175, 
+                    50.9514048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1865787185", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8095779, 
+                    51.0982843
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1901389598", 
+            "properties": {
+                "tags/name": "Sparkasse Neuss - Geschäftsstelle Horrem"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8837879, 
+                    50.8628545
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1902039096", 
+            "properties": {
+                "tags/name": "Riaffeisenbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493155, 
+                    50.829721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1913082537", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997882, 
+                    50.9374598
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1930855965", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410824, 
+                    50.9296114
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2009765979", 
+            "properties": {
+                "tags/name": "Santander Consumer Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7687663, 
+                    50.8000282
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2098489196", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9021465, 
+                    50.8280467
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2118955897", 
+            "properties": {
+                "tags/name": "VR-Bank Rhein-Erft eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9207433, 
+                    50.9953968
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2122677706", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8896111, 
+                    50.8153327
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2125696346", 
+            "properties": {
+                "tags/name": "VR-Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8891136, 
+                    50.8144919
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2127933225", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0455115, 
+                    50.9429209
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2127985180", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0583488, 
+                    50.8842698
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2129684607", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.008424, 
+                    51.0315623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2167549801", 
+            "properties": {
+                "tags/name": "Sparkasse Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8543504, 
+                    50.9323864
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2197633072", 
+            "properties": {
+                "tags/name": "Raiffeisenbank Junkersdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9783964, 
+                    50.8228645
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2207790813", 
+            "properties": {
+                "tags/name": "Kreissparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8336998, 
+                    50.9385591
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2216614570", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7984349, 
+                    50.9255089
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2234846564", 
+            "properties": {
+                "tags/name": "Geschäftsstelle Buschbell - Raiffeisenbank Frechen-Hürth eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7972762, 
+                    50.9265232
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2234859270", 
+            "properties": {
+                "tags/name": "KSK-Buschbell"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8846788, 
+                    50.8355618
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2270976980", 
+            "properties": {
+                "tags/name": "Kreissparkasse Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9375435, 
+                    50.9314133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2282818599", 
+            "properties": {
+                "tags/name": "Postbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0307778, 
+                    51.0410198
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2289074289", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8309212, 
+                    50.8763943
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2315854536", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0288097, 
+                    51.0612225
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2324566648", 
+            "properties": {
+                "tags/name": "Volksbank Rhein-Wupper eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8610342, 
+                    51.060965
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2327275470", 
+            "properties": {
+                "tags/name": "Volksbank Köln-Nord, Zweigniederlassung der Raiffeisenbank Frechen-Hürth eG"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1965543, 
+                    50.9139154
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2353614897", 
+            "properties": {
+                "tags/name": "Volksbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8164968, 
+                    50.8135717
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2365478906", 
+            "properties": {
+                "tags/name": "Postbank Finanzcenter"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0477892, 
+                    51.0333752
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2423069278", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394946, 
+                    50.9373072
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2439165242", 
+            "properties": {
+                "tags/name": "Deutsche Bank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9955629, 
+                    51.0349132
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2485497515", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9954314, 
+                    51.0348306
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2485497516", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9980627, 
+                    51.0343954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2485497520", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9981432, 
+                    51.0342436
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2485497521", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9983577, 
+                    51.034301
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2485497522", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9737895, 
+                    50.9368684
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2486269354", 
+            "properties": {
+                "tags/name": "Commerzbank"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9398896, 
+                    50.9428136
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2514199128", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394598, 
+                    50.942681
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2514199129", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

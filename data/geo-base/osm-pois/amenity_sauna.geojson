@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.914985, 
+        50.8139895, 
+        7.1546525, 
+        50.9355674
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1546525, 
+                    50.8139895
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "654403684", 
+            "properties": {
+                "tags/name": "Hochhaussauna"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9358883, 
+                    50.9355674
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "919491227", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.914985, 
+                    50.917332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1732217891", 
+            "properties": {
+                "tags/name": "Mommsen-Bad"
+            }
+        }
+    ]
+}

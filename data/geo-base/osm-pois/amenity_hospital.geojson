@@ -1,0 +1,501 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7748579, 
+        50.80754, 
+        7.1828551, 
+        51.0920413
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1214438, 
+                    50.9991305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276278879", 
+            "properties": {
+                "tags/name": "Reha-Zentrum Reuterstraße (Geriatrische Klinik)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1307877, 
+                    50.9938765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276278910", 
+            "properties": {
+                "tags/name": "Marien-Krankenhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1375496, 
+                    50.9896205
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "279775848", 
+            "properties": {
+                "tags/name": "Evangelisches Krankenhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9161366, 
+                    50.9233174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "335707711", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0037081, 
+                    50.9631915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "343578729", 
+            "properties": {
+                "tags/name": "Rheinische Kliniken Ambulanz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1825787, 
+                    50.8973489
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366064149", 
+            "properties": {
+                "tags/name": "Ärztehaus Rösrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9477478, 
+                    50.9484276
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "409741004", 
+            "properties": {
+                "tags/name": "MediaPark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8091682, 
+                    50.80754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434644874", 
+            "properties": {
+                "tags/name": "Marien-Hospital"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828551, 
+                    50.8958685
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "442707293", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9757054, 
+                    51.0308838
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "451944481", 
+            "properties": {
+                "tags/name": "St. Josef"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9600822, 
+                    50.9872699
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600849041", 
+            "properties": {
+                "tags/name": "St. Agatha Krankenhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9484572, 
+                    50.9370636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "614728761", 
+            "properties": {
+                "tags/name": "PAN Klinik am Neumarkt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0356704, 
+                    51.0308007
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "724898966", 
+            "properties": {
+                "tags/name": "MVZ RNR Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8086354, 
+                    50.9231573
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1125110635", 
+            "properties": {
+                "tags/name": "Eingang Notaufnahme"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410818, 
+                    50.9146695
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1170480250", 
+            "properties": {
+                "tags/name": "Praxis fuer Physiotherapie"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9614053, 
+                    50.9219839
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1487136303", 
+            "properties": {
+                "tags/name": "Tagesklink Alteburger Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9348687, 
+                    50.9649055
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1534378150", 
+            "properties": {
+                "tags/name": "Tagesklinik u. Ambulanz Rheinische Kliniken"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9418821, 
+                    50.9151791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1785351207", 
+            "properties": {
+                "tags/name": "Institut für Psychotherapeutische Forschung, Methodenentwicklung und Weiterbildung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7748579, 
+                    50.9364373
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1965021028", 
+            "properties": {
+                "tags/name": "Privatklinik Prof. Lenz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.952134, 
+                    50.97014
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2075027207", 
+            "properties": {
+                "tags/name": "Frauenarztpraxis Dr. Mallmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8866562, 
+                    51.0920413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2131011094", 
+            "properties": {
+                "tags/name": "St. Josef Krankenhaus Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9223438, 
+                    50.9247711
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371239217", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9202785, 
+                    50.9240137
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371239218", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9209276, 
+                    50.9250517
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371251190", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9162255, 
+                    50.9255607
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371253954", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9167326, 
+                    50.9251481
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371254533", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9165717, 
+                    50.9234422
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371281052", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9155792, 
+                    50.924105
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371281068", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9181166, 
+                    50.9251059
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371284291", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9185887, 
+                    50.9237668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2371284292", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.916653, 
+                    50.923143
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2405749095", 
+            "properties": {
+                "tags/name": "Universitätsklinik Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9412716, 
+                    50.9311802
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2467724187", 
+            "properties": {
+                "tags/name": "Klinik am Ring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9376847, 
+                    50.9352523
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2468451564", 
+            "properties": {
+                "tags/name": "Privatklinik Dr. Stettner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0180293, 
+                    51.0570346
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2498744786", 
+            "properties": {
+                "tags/name": "MVZ RNR Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0179016, 
+                    51.0573101
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2498744792", 
+            "properties": {
+                "tags/name": "MVZ RNR Leverkusen"
+            }
+        }
+    ]
+}

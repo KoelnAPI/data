@@ -1,0 +1,417 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7796535, 
+        50.8124927, 
+        7.1819117, 
+        51.0872634
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7796535, 
+                    50.9282828
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "60629628", 
+            "properties": {
+                "tags/name": "Autobahnpolizeiwache Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9158335, 
+                    50.9509656
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "203814559", 
+            "properties": {
+                "tags/name": "Polizeiwache Ehrenfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1194127, 
+                    50.9844471
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "248454419", 
+            "properties": {
+                "tags/name": "Polizei Wache Bergisch-Gladbach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.801601, 
+                    50.9972217
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254090932", 
+            "properties": {
+                "tags/name": "Polizeiwache Pulheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8007223, 
+                    50.9075401
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "254393044", 
+            "properties": {
+                "tags/name": "Polizeiwache Frechen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.960132, 
+                    50.9754176
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "256482711", 
+            "properties": {
+                "tags/name": "Polizeiwache Nippes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0061216, 
+                    50.9723044
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "258205733", 
+            "properties": {
+                "tags/name": "Polizeihauptwache Mülheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0569356, 
+                    50.8828751
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "275216105", 
+            "properties": {
+                "tags/name": "Polizeiwache Porz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1469764, 
+                    50.9517279
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "290444798", 
+            "properties": {
+                "tags/name": "Autobahnpolizei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.973194, 
+                    50.9266227
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "292877031", 
+            "properties": {
+                "tags/name": "Wasserschutzpolizei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0020511, 
+                    51.0646845
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "365571729", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9946764, 
+                    50.9381991
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "368298696", 
+            "properties": {
+                "tags/name": "Polizeipräsidium Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8958464, 
+                    50.8302033
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "447047381", 
+            "properties": {
+                "tags/name": "Polizei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9798446, 
+                    50.824952
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "473161016", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9981625, 
+                    51.0287721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506302614", 
+            "properties": {
+                "tags/name": "Wache Wiesdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.117285, 
+                    50.9542406
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "506347365", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9843889, 
+                    50.9450756
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "566610934", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1197819, 
+                    51.0830312
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "619099471", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8905348, 
+                    51.0872634
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "621540098", 
+            "properties": {
+                "tags/name": "Polizeiwache Monheim"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1197814, 
+                    50.8804488
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "818639183", 
+            "properties": {
+                "tags/name": "Bundespolizei"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0629262, 
+                    50.9779532
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1158710692", 
+            "properties": {
+                "tags/name": "Zollkriminalamt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8287423, 
+                    50.9386234
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1239944518", 
+            "properties": {
+                "tags/name": "Polizeiwache Weiden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1819117, 
+                    50.8958343
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1254554659", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9932135, 
+                    50.8920505
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1340944634", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1053993, 
+                    50.8589948
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1475055782", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9034326, 
+                    51.0235166
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1671097271", 
+            "properties": {
+                "tags/name": "Polizeiwache Chorweiler"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0347975, 
+                    50.8124927
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2266766542", 
+            "properties": {
+                "tags/name": "Polizeibezirksdienst Niederkassel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8913971, 
+                    50.8801126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419281835", 
+            "properties": {
+                "tags/name": "Polizeidienststelle Hürth"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8961099, 
+                    50.8815732
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2419283352", 
+            "properties": {
+                "tags/name": "Direktion Kriminalität"
+            }
+        }
+    ]
+}

@@ -1,0 +1,781 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7645743, 
+        50.8000038, 
+        7.1828463, 
+        51.0982322
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8456379, 
+                    51.0462771
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "268249841", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.174258, 
+                    50.9187048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "358383626", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1821409, 
+                    50.8973326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366032247", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Heibach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.121999, 
+                    50.9841806
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "373475206", 
+            "properties": {
+                "tags/name": "Dr. Premm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9162136, 
+                    50.9507191
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "391798729", 
+            "properties": {
+                "tags/name": "Zahnklinik Colonia"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7648085, 
+                    50.8218868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "418341760", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394279, 
+                    50.9920542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635079955", 
+            "properties": {
+                "tags/name": "Kurpiers/Pennekamp"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8932512, 
+                    50.9375863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "765303927", 
+            "properties": {
+                "tags/name": "Marek Tustanski"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9008149, 
+                    50.8264118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "792432643", 
+            "properties": {
+                "tags/name": "Kerstin Hersch"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9837942, 
+                    51.0290643
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "803959290", 
+            "properties": {
+                "tags/name": "Drs. (NL) Berend van Aalderen, Matthias Göttinger"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8981513, 
+                    50.8286516
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "833224594", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7789748, 
+                    50.9723499
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "933918222", 
+            "properties": {
+                "tags/name": "Michael Domin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1596743, 
+                    50.8148496
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "948127578", 
+            "properties": {
+                "tags/name": "Dr.med.dent. E. Pannen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1407372, 
+                    50.8107797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "982082738", 
+            "properties": {
+                "tags/name": "A. Nöbel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7645778, 
+                    50.8001075
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1013845315", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0131797, 
+                    50.9398447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1024971682", 
+            "properties": {
+                "tags/name": "G. Schulz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7645743, 
+                    50.8000038
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1028422184", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7657239, 
+                    50.8007854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1028422207", 
+            "properties": {
+                "tags/name": "Zahnarzt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8834009, 
+                    51.0370921
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1055417881", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Stefan Schmitz und Katharina Decker"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9602917, 
+                    50.995273
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1086736610", 
+            "properties": {
+                "tags/name": "Prof. Prof. h.c. Dr. med. dent. Werner Becker"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0015379, 
+                    50.943353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1089124115", 
+            "properties": {
+                "tags/name": "Zahnärztin Petra May"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0106551, 
+                    50.9580228
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1198775082", 
+            "properties": {
+                "tags/name": "M. Bulawaki, R.Sulkowski"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1828463, 
+                    50.8971342
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1289403284", 
+            "properties": {
+                "tags/name": "RDT"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8996571, 
+                    50.834031
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1300693929", 
+            "properties": {
+                "tags/name": "Meike Husta"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.078239, 
+                    50.8913528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1365467293", 
+            "properties": {
+                "tags/name": "Dr. Thomas Wilke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9889841, 
+                    50.9505239
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1380595247", 
+            "properties": {
+                "tags/name": "Dr. med. dent. Brigitte Manske"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0226704, 
+                    50.8054221
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431582602", 
+            "properties": {
+                "tags/name": "Dr. Wagner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9766147, 
+                    50.8206686
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431597379", 
+            "properties": {
+                "tags/name": "Dr. Schlumm"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9801259, 
+                    50.8134315
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1431617519", 
+            "properties": {
+                "tags/name": "Dr. med. dent. Christoph Manger MSc mult."
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9479072, 
+                    50.9822456
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1440232768", 
+            "properties": {
+                "tags/name": "Jung & Kuypers"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9790479, 
+                    50.8224231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1484666122", 
+            "properties": {
+                "tags/name": "Dr. med. dent. Klaus Decker"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9493451, 
+                    50.8297991
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491599769", 
+            "properties": {
+                "tags/name": "Gerald Sprügel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.984295, 
+                    50.8245397
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491616742", 
+            "properties": {
+                "tags/name": "Zahnklinik Rheinpark"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9776339, 
+                    50.8220242
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491616744", 
+            "properties": {
+                "tags/name": "Haus der Zahnmedizin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9712002, 
+                    50.8123561
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491617261", 
+            "properties": {
+                "tags/name": "Christoph Mann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.78276, 
+                    50.8448915
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1491644474", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8191787, 
+                    50.9195681
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1502271491", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8061304, 
+                    50.9101445
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1502281678", 
+            "properties": {
+                "tags/name": "Dr. Teichmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9547737, 
+                    50.9372773
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1613320465", 
+            "properties": {
+                "tags/name": "Zahnklinik Medeco"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9456533, 
+                    50.9392447
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1879164955", 
+            "properties": {
+                "tags/name": "Dr. Schlegel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0032759, 
+                    51.0329868
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2079739403", 
+            "properties": {
+                "tags/name": "Mutajuka"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0540293, 
+                    50.8895257
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2103290339", 
+            "properties": {
+                "tags/name": "Maessner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0582513, 
+                    50.8856876
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2127654318", 
+            "properties": {
+                "tags/name": "Dr. Bernhard Schulte"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8909748, 
+                    50.8082038
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2134255602", 
+            "properties": {
+                "tags/name": "Strack"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7772499, 
+                    50.9372357
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2158842359", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Wegener"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8143256, 
+                    51.0982322
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2217509047", 
+            "properties": {
+                "tags/name": "Boris Pronilow"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8630382, 
+                    51.0635538
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2290929841", 
+            "properties": {
+                "tags/name": "Zahnärztliche Praxisgemeinschaft Rolf Marquardt & Mathias Cramer"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.952122, 
+                    50.9358361
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2299439696", 
+            "properties": {
+                "tags/name": "Denvita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8127701, 
+                    50.8124243
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2386263965", 
+            "properties": {
+                "tags/name": "Dr. (RO) Magdalena Mangesius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8209388, 
+                    50.8100757
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2398170298", 
+            "properties": {
+                "tags/name": "Zahnärztin Andrea Latz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8223885, 
+                    50.8068748
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2417612949", 
+            "properties": {
+                "tags/name": "Dr. med. dent. Lena Taureck & Dr. med. dent. Anne Vianden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9509222, 
+                    50.9726378
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2448565798", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Dr. Michael Hundertmark & Daniel Moinzadeh"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1573339, 
+                    50.9665238
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2459775235", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Hardt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9372673, 
+                    50.9376518
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2464989493", 
+            "properties": {
+                "tags/name": "Wendels"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1212573, 
+                    50.9996668
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2521638961", 
+            "properties": {
+                "tags/name": "Ekkehard Kraft"
+            }
+        }
+    ]
+}

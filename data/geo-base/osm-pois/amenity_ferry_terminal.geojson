@@ -1,0 +1,207 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8765295, 
+        50.8256795, 
+        7.0406193, 
+        51.0982694
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9155172, 
+                    51.0536419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "21750543", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9179842, 
+                    51.0570993
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "21750559", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9633322, 
+                    50.942769
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "267478954", 
+            "properties": {
+                "tags/name": "Frei fahrende Fähre (ferry)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9947942, 
+                    50.8256795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "600027780", 
+            "properties": {
+                "tags/name": "Personenfähre \"Marienfels\""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9843733, 
+                    50.8266803
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "849063761", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9920861, 
+                    50.8274542
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1060062606", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9862294, 
+                    50.8257362
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1436693102", 
+            "properties": {
+                "tags/name": "Marienfels"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0406193, 
+                    50.8717117
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1469427978", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0395003, 
+                    50.8746623
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1469428073", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.007341, 
+                    50.8257507
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1505635688", 
+            "properties": {
+                "tags/name": "Marienfels"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8765295, 
+                    51.0982694
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1930401877", 
+            "properties": {
+                "tags/name": "Piwipper Böötchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8827822, 
+                    51.0982278
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2218665973", 
+            "properties": {
+                "tags/name": "Piwipper Böötchen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9151402, 
+                    51.0538544
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2255295014", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9185464, 
+                    51.0566588
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2401645554", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

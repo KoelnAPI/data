@@ -1,0 +1,25 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.992959, 
+        51.0145384, 
+        6.992959, 
+        51.0145384
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.992959, 
+                    51.0145384
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "635040113", 
+            "properties": {
+                "tags/name": "Impuls fitness"
+            }
+        }
+    ]
+}
