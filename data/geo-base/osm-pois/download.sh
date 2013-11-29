@@ -14,7 +14,7 @@ which curl || { echo "curl is not installed. Exiting."; exit 1; }
 # Get popular tags and store as CSV
 curl -s -X GET -d "key=amenity&page=1&rp=100&sortname=count&sortorder=desc" \
 	http://taginfo.openstreetmap.org/api/4/key/values|in2csv -f json -k data \
-	>> tags_amenity.csv
+	> tags_amenity.csv
 
 # Get nodes per tag
 for tag in $(csvcut -c 5 tags_amenity.csv|tail -n+2)
