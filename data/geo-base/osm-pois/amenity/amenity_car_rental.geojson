@@ -370,6 +370,34 @@
             "properties": {
                 "tags/name": "Mietwagen Cun"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9046318, 
+                    50.9580872
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2556770161", 
+            "properties": {
+                "tags/name": "AVIS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8960956, 
+                    50.9580954
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2556770162", 
+            "properties": {
+                "tags/name": "Hertz"
+            }
         }
     ]
 }

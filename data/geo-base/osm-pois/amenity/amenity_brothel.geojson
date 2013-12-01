@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection", 
     "bbox": [
-        6.9403722, 
+        6.8522376, 
         50.8534003, 
         7.1140155, 
         50.989093
@@ -103,6 +103,20 @@
             "id": "2380554989", 
             "properties": {
                 "tags/name": "Sechs Feen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8522376, 
+                    50.9198585
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558324131", 
+            "properties": {
+                "tags/name": "Kings Club Köln"
             }
         }
     ]

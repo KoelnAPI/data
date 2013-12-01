@@ -431,20 +431,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9624085, 
-                    50.9228265
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "684697033", 
-            "properties": {
-                "tags/name": "Fiffi"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.938281, 
                     50.9365585
                 ]

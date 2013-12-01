@@ -776,6 +776,20 @@
             "properties": {
                 "tags/name": "Ekkehard Kraft"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8726528, 
+                    50.9251565
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528462", 
+            "properties": {
+                "tags/name": "Oralchirurgie plus"
+            }
         }
     ]
 }

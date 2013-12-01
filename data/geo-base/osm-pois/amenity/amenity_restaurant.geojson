@@ -7837,8 +7837,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9618501, 
-                    50.9221502
+                    6.9618016, 
+                    50.9222455
                 ]
             }, 
             "type": "Feature", 
@@ -10511,8 +10511,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8877235, 
-                    51.0705418
+                    6.8877291, 
+                    51.0705445
                 ]
             }, 
             "type": "Feature", 
@@ -16441,6 +16441,62 @@
             "id": "2539923314", 
             "properties": {
                 "tags/name": "Anselmos Lilakissimo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8832632, 
+                    51.0371785
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558204969", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.854386, 
+                    50.9309015
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528446", 
+            "properties": {
+                "tags/name": "Anno Pomm Kartoffelhaus"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8547585, 
+                    50.9308174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528455", 
+            "properties": {
+                "tags/name": "Junkersdorfer Hof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8693581, 
+                    50.9306327
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528465", 
+            "properties": {
+                "tags/name": "Restaurant & Cafeteria Ulrich Türner"
             }
         }
     ]

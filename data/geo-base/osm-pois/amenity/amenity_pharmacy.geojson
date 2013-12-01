@@ -2573,8 +2573,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.95836, 
-                    50.921117
+                    6.9585274, 
+                    50.921111
                 ]
             }, 
             "type": "Feature", 
@@ -3945,8 +3945,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9578332, 
-                    50.9207949
+                    6.9578202, 
+                    50.9208122
                 ]
             }, 
             "type": "Feature", 
@@ -5087,6 +5087,20 @@
             "id": "2519201471", 
             "properties": {
                 "tags/name": "Zollstock-Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8594948, 
+                    50.9331215
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558265611", 
+            "properties": {
+                "tags/name": "Alte Apotheke"
             }
         }
     ]

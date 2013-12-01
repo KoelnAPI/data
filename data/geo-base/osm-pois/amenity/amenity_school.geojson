@@ -361,20 +361,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9652912, 
-                    50.9233737
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "248110701", 
-            "properties": {
-                "tags/name": "Theo-Burauen-Schule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9507884, 
                     50.93219
                 ]

@@ -67,20 +67,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.963436, 
-                    50.92148
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "639571587", 
-            "properties": {
-                "tags/name": "Fachhochschule Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9890218, 
                     51.0316934
                 ]

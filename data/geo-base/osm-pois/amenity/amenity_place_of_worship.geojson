@@ -753,20 +753,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0845026, 
-                    50.9740085
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "281234456", 
-            "properties": {
-                "tags/name": "Pauluskirche"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1450098, 
                     50.9721291
                 ]

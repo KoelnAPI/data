@@ -4813,8 +4813,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8585609, 
-                    50.9325486
+                    6.858511, 
+                    50.9325247
                 ]
             }, 
             "type": "Feature", 
@@ -5409,20 +5409,6 @@
             "id": "1827579475", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9625734, 
-                    50.9226303
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1828369602", 
-            "properties": {
-                "tags/name": "Café Walter"
             }
         }, 
         {
@@ -6445,6 +6431,20 @@
             "id": "2518491474", 
             "properties": {
                 "tags/name": "Café Stegerwald"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0720183, 
+                    50.9808723
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558337587", 
+            "properties": {
+                "tags/name": "dieZIRKUSfabrik"
             }
         }
     ]

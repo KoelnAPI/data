@@ -179,20 +179,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.7817965, 
-                    50.97616
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "933919063", 
-            "properties": {
-                "tags/name": "Gennen & Neufang"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7756456, 
                     50.8033169
                 ]
@@ -1461,6 +1447,48 @@
             "id": "2521649874", 
             "properties": {
                 "tags/name": "Achim Dederichs"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8728111, 
+                    50.9247898
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528451", 
+            "properties": {
+                "tags/name": "Frauenärztin Anne Helmig-Kümmel"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8577836, 
+                    50.9314431
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528457", 
+            "properties": {
+                "tags/name": "Medizinisches Zentrum Kastanienhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8723067, 
+                    50.924187
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2558528464", 
+            "properties": {
+                "tags/name": "Ottilie Pütz-Puhlmann"
             }
         }
     ]

@@ -5695,20 +5695,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9331689, 
-                    50.9653143
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1499238804", 
-            "properties": {
-                "tags/name": "Kiosk"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1315035, 
                     50.9916547
                 ]
@@ -6619,8 +6605,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9597485, 
-                    50.9216546
+                    6.9597675, 
+                    50.9216557
                 ]
             }, 
             "type": "Feature", 
@@ -7081,8 +7067,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8593944, 
-                    50.9376481
+                    6.8593636, 
+                    50.9376435
                 ]
             }, 
             "type": "Feature", 

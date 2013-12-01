@@ -25,20 +25,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.964893, 
-                    50.9215477
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "282873159", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9290911, 
                     50.9184841
                 ]
