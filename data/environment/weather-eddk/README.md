@@ -9,7 +9,7 @@ The records should have an hourly interval, however some intervals are empty.
 
 The data collection has been started in October 2013 and dates back until some day in June 2012.
 
-CSV files in this fodler contain the following columns:
+CSV files in this folder contain the following columns:
 
 * timestamp: Unix timestamp for the hour interval
 * hum_count: Number of humidity measures within the interval
