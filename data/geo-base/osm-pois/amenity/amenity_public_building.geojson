@@ -426,6 +426,48 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9494607, 
+                    50.9550637
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561949513", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0552841, 
+                    50.8848782
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2562436278", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0553177, 
+                    50.8853398
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2562436280", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

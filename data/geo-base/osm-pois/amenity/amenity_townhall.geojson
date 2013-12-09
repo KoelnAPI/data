@@ -67,6 +67,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    7.0014323, 
+                    50.9398981
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1039582581", 
+            "properties": {
+                "tags/name": "Bürgerhaus Kalk"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     7.0055721, 
                     51.0598802
                 ]

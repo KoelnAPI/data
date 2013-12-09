@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection", 
     "bbox": [
-        6.9126488, 
+        6.9003367, 
         50.9269785, 
         7.1101378, 
         51.0988891
@@ -481,6 +481,20 @@
             "id": "2439165335", 
             "properties": {
                 "tags/name": "Vanity"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9003367, 
+                    50.9570616
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2569080812", 
+            "properties": {
+                "tags/name": "e-feld"
             }
         }
     ]

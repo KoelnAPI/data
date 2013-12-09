@@ -3987,8 +3987,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8964917, 
-                    50.9370133
+                    6.8964648, 
+                    50.9370363
                 ]
             }, 
             "type": "Feature", 
@@ -4463,6 +4463,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    7.0561666, 
+                    50.8848412
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2164874359", 
+            "properties": {
+                "tags/name": "LBS"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     7.008424, 
                     51.0315623
                 ]
@@ -4791,6 +4805,62 @@
             }, 
             "type": "Feature", 
             "id": "2514199129", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9422686, 
+                    50.9418394
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561000523", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9423255, 
+                    50.9419007
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561000559", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9631625, 
+                    50.953191
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2567624957", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9669684, 
+                    50.9524682
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2568215412", 
             "properties": {
                 "tags/name": ""
             }

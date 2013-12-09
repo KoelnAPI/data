@@ -109,20 +109,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8789468, 
-                    50.9343732
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2217272409", 
-            "properties": {
-                "tags/name": "Stadion Bad"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1956046, 
                     51.0871036
                 ]

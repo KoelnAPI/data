@@ -3007,8 +3007,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9519724, 
-                    50.9521822
+                    6.9521307, 
+                    50.9522863
                 ]
             }, 
             "type": "Feature", 
@@ -5625,8 +5625,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8955455, 
-                    50.9370257
+                    6.8955023, 
+                    50.9370633
                 ]
             }, 
             "type": "Feature", 
@@ -5653,8 +5653,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9459475, 
-                    50.928066
+                    6.9459876, 
+                    50.9280534
                 ]
             }, 
             "type": "Feature", 
@@ -6129,14 +6129,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.963205, 
-                    50.921849
+                    6.9632046, 
+                    50.9219255
                 ]
             }, 
             "type": "Feature", 
             "id": "532096158", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Bento Box"
             }
         }, 
         {
@@ -6193,20 +6193,6 @@
             "id": "538206288", 
             "properties": {
                 "tags/name": "Zhing-San"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9549022, 
-                    50.9214916
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "538206422", 
-            "properties": {
-                "tags/name": "El Alli Oli"
             }
         }, 
         {
@@ -6843,8 +6829,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.941378, 
-                    50.9416744
+                    6.9413986, 
+                    50.9417256
                 ]
             }, 
             "type": "Feature", 
@@ -8860,13 +8846,13 @@
                 "type": "Point", 
                 "coordinates": [
                     6.8310999, 
-                    50.9447934
+                    50.9448146
                 ]
             }, 
             "type": "Feature", 
             "id": "739017569", 
             "properties": {
-                "tags/name": "im Rauchfang"
+                "tags/name": "Im Rauchfang"
             }
         }, 
         {
@@ -9685,8 +9671,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.055798, 
-                    50.882894
+                    7.0557648, 
+                    50.8830502
                 ]
             }, 
             "type": "Feature", 
@@ -9749,20 +9735,6 @@
             "id": "892957221", 
             "properties": {
                 "tags/name": "Limette"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8774458, 
-                    50.9310754
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "894153400", 
-            "properties": {
-                "tags/name": "Club Astoria"
             }
         }, 
         {
@@ -10203,8 +10175,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9523402, 
-                    50.9506901
+                    6.9523118, 
+                    50.9507713
                 ]
             }, 
             "type": "Feature", 
@@ -10245,8 +10217,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9613786, 
-                    50.9491255
+                    6.9613931, 
+                    50.9492029
                 ]
             }, 
             "type": "Feature", 
@@ -10259,8 +10231,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9535917, 
-                    50.9488925
+                    6.9534837, 
+                    50.9489733
                 ]
             }, 
             "type": "Feature", 
@@ -10301,8 +10273,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9534302, 
-                    50.9502192
+                    6.9534399, 
+                    50.9502501
                 ]
             }, 
             "type": "Feature", 
@@ -10315,8 +10287,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9559086, 
-                    50.9504794
+                    6.9557731, 
+                    50.9503802
                 ]
             }, 
             "type": "Feature", 
@@ -11799,28 +11771,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0546451, 
-                    50.8842214
+                    7.0546177, 
+                    50.8843112
                 ]
             }, 
             "type": "Feature", 
             "id": "1301222346", 
             "properties": {
                 "tags/name": "Haus Knott"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0543549, 
-                    50.8839569
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1301222347", 
-            "properties": {
-                "tags/name": "Rheinblick"
             }
         }, 
         {
@@ -13199,8 +13157,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9442428, 
-                    50.9243483
+                    6.9442398, 
+                    50.9243718
                 ]
             }, 
             "type": "Feature", 
@@ -15201,34 +15159,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8818766, 
-                    50.9373762
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2213342794", 
-            "properties": {
-                "tags/name": "Stadtwaldgarten"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8795621, 
-                    50.9346676
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2217272402", 
-            "properties": {
-                "tags/name": "Landhaus Kuckuck"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9033495, 
                     50.8942541
                 ]
@@ -16497,6 +16427,76 @@
             "id": "2558528465", 
             "properties": {
                 "tags/name": "Restaurant & Cafeteria Ulrich Türner"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9559117, 
+                    50.9230458
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2559529094", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9057087, 
+                    50.9969724
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2559559694", 
+            "properties": {
+                "tags/name": "Da Enzo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8535141, 
+                    50.9727351
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2560452034", 
+            "properties": {
+                "tags/name": "Akropolis"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.963724, 
+                    50.9220535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561188785", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8687832, 
+                    50.9308444
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2565369563", 
+            "properties": {
+                "tags/name": "Club Astoria Seaside Garden (Biergarten)"
             }
         }
     ]

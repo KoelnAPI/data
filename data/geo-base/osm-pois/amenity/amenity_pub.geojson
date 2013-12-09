@@ -123,8 +123,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8979042, 
-                    51.0946542
+                    6.8979263, 
+                    51.0946774
                 ]
             }, 
             "type": "Feature", 
@@ -3133,8 +3133,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9536261, 
-                    50.9530847
+                    6.9536461, 
+                    50.9530313
                 ]
             }, 
             "type": "Feature", 
@@ -3679,8 +3679,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9463588, 
-                    50.927804
+                    6.9463353, 
+                    50.9278151
                 ]
             }, 
             "type": "Feature", 
@@ -4323,8 +4323,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.945543, 
-                    50.926927
+                    6.9456095, 
+                    50.926939
                 ]
             }, 
             "type": "Feature", 
@@ -6451,8 +6451,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9553185, 
-                    50.9491017
+                    6.9553462, 
+                    50.9491249
                 ]
             }, 
             "type": "Feature", 
@@ -6493,8 +6493,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9621152, 
-                    50.9493338
+                    6.9621588, 
+                    50.949337
                 ]
             }, 
             "type": "Feature", 
@@ -8229,8 +8229,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.82967, 
-                    50.946741
+                    6.8296499, 
+                    50.9466538
                 ]
             }, 
             "type": "Feature", 
@@ -8537,14 +8537,28 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8985972, 
-                    50.9365283
+                    6.8986071, 
+                    50.9364885
                 ]
             }, 
             "type": "Feature", 
             "id": "2556100566", 
             "properties": {
                 "tags/name": "Alt Braunsfeld"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0033352, 
+                    50.9403959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564044508", 
+            "properties": {
+                "tags/name": "em ahle Brennes"
             }
         }
     ]

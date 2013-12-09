@@ -2573,8 +2573,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.115843, 
-                    50.9504989
+                    7.1157038, 
+                    50.9506573
                 ]
             }, 
             "type": "Feature", 
@@ -7523,6 +7523,20 @@
             "id": "2523169234", 
             "properties": {
                 "tags/name": "asiahung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9942103, 
+                    50.9428854
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564047735", 
+            "properties": {
+                "tags/name": "McDonald's"
             }
         }
     ]

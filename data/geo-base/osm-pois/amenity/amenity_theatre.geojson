@@ -235,8 +235,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9602849, 
-                    50.9493564
+                    6.9600314, 
+                    50.9493651
                 ]
             }, 
             "type": "Feature", 
@@ -683,8 +683,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9559291, 
-                    50.9220196
+                    6.9559334, 
+                    50.9220154
                 ]
             }, 
             "type": "Feature", 

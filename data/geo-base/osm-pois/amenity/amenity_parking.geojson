@@ -907,20 +907,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8290671, 
-                    50.9453234
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "268030006", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8594446, 
                     51.0151049
                 ]
@@ -7487,20 +7473,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.115323, 
-                    50.9572016
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1359716351", 
-            "properties": {
-                "tags/name": "Öffentlicher Parkplatz"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9905275, 
                     50.8904482
                 ]
@@ -10007,20 +9979,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1153216, 
-                    50.9546186
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2345928661", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1982494, 
                     50.9147873
                 ]
@@ -10629,6 +10587,34 @@
             }, 
             "type": "Feature", 
             "id": "2536990417", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9963453, 
+                    50.9385131
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564047736", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9974236, 
+                    50.9390438
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564047738", 
             "properties": {
                 "tags/name": ""
             }

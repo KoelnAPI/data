@@ -1369,20 +1369,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9486935, 
-                    50.9365975
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "444020094", 
-            "properties": {
-                "tags/name": "Ca'd'oro"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9456992, 
                     50.9387924
                 ]
@@ -1635,8 +1621,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9455959, 
-                    50.9276224
+                    6.9456649, 
+                    50.9275692
                 ]
             }, 
             "type": "Feature", 
@@ -3231,8 +3217,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8686733, 
-                    50.9355684
+                    6.8686525, 
+                    50.9354727
                 ]
             }, 
             "type": "Feature", 
@@ -3259,8 +3245,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9600672, 
-                    50.9538362
+                    6.9598593, 
+                    50.9538682
                 ]
             }, 
             "type": "Feature", 
@@ -6445,6 +6431,34 @@
             "id": "2558337587", 
             "properties": {
                 "tags/name": "dieZIRKUSfabrik"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9631834, 
+                    50.9218826
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561177960", 
+            "properties": {
+                "tags/name": "Caffe´Bar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9179958, 
+                    50.9519621
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564828038", 
+            "properties": {
+                "tags/name": "Linie 7"
             }
         }
     ]

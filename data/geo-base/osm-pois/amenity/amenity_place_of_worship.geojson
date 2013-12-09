@@ -445,20 +445,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8609254, 
-                    50.9332193
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "266325425", 
-            "properties": {
-                "tags/name": "Dietrich-Bonhoeffer-Kirche"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0242285, 
                     50.9606267
                 ]
@@ -985,20 +971,6 @@
             "id": "292698128", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8297737, 
-                    50.9452383
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "296862491", 
-            "properties": {
-                "tags/name": "St. Severin"
             }
         }, 
         {
@@ -3337,6 +3309,62 @@
             "id": "2518407127", 
             "properties": {
                 "tags/name": "Ehrenfelder Moschee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9524751, 
+                    50.9216736
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2559948372", 
+            "properties": {
+                "tags/name": "St. Paul"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9474928, 
+                    50.9269145
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2560228939", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9395515, 
+                    50.9251959
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2560451366", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0036138, 
+                    50.9413017
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2564052240", 
+            "properties": {
+                "tags/name": "St. Joseph"
             }
         }
     ]

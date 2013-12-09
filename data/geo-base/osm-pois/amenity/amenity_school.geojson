@@ -431,8 +431,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8718996, 
-                    50.9969266
+                    6.8720089, 
+                    50.9969168
                 ]
             }, 
             "type": "Feature", 
@@ -1419,20 +1419,6 @@
             "id": "450323600", 
             "properties": {
                 "tags/name": "VHS Erftstadt"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9471235, 
-                    50.9279022
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "456372583", 
-            "properties": {
-                "tags/name": "Katholische Offene Ganztagsschule Trierer Straße"
             }
         }, 
         {
@@ -2867,34 +2853,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8723973, 
-                    50.9351858
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2217279257", 
-            "properties": {
-                "tags/name": "Sportinternat Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8722043, 
-                    50.9348615
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2217279259", 
-            "properties": {
-                "tags/name": "1. Jugend Fußball Schule Köln e.V."
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0929112, 
                     50.9961937
                 ]
@@ -3239,6 +3197,62 @@
             "id": "2541657326", 
             "properties": {
                 "tags/name": "GGS Loreleystraße Köln Südstadt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.946634, 
+                    50.9278659
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2560228949", 
+            "properties": {
+                "tags/name": "Kath. Grundschule Trierer Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9626024, 
+                    50.9481945
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561163189", 
+            "properties": {
+                "tags/name": "Célestin-Freinet-Grundschule (kath.)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9630323, 
+                    50.9485091
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2561164013", 
+            "properties": {
+                "tags/name": "Realschule am Rhein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9601908, 
+                    50.9530126
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2567241108", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Balthasarstraße"
             }
         }
     ]

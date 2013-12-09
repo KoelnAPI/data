@@ -529,8 +529,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8952728, 
-                    50.9369917
+                    6.8952505, 
+                    50.9370633
                 ]
             }, 
             "type": "Feature", 
@@ -1545,6 +1545,48 @@
             "id": "2545339709", 
             "properties": {
                 "tags/name": "Ringfoto Platzen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0471371, 
+                    50.8683036
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2560717474", 
+            "properties": {
+                "tags/name": "Postamt Zündorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9561913, 
+                    50.9556388
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2562090305", 
+            "properties": {
+                "tags/name": "Postamt Neusser Straße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9657435, 
+                    50.9532562
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2568215510", 
+            "properties": {
+                "tags/name": "Postamt Clever Straße"
             }
         }
     ]

@@ -95,20 +95,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9465729, 
-                    50.9195227
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "265913421", 
-            "properties": {
-                "tags/name": "Waldorfkindergarten Köln-Volksgarten e.V."
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1060736, 
                     51.0040632
                 ]
@@ -313,20 +299,6 @@
             "id": "300606518", 
             "properties": {
                 "tags/name": "Kindertagesstätte Alte Apotheke"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0497849, 
-                    50.8672819
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "300890868", 
-            "properties": {
-                "tags/name": "Kath. Kindergarten St. Martin"
             }
         }, 
         {
@@ -2993,8 +2965,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.137637, 
-                    50.9870799
+                    7.1375002, 
+                    50.9871154
                 ]
             }, 
             "type": "Feature", 
@@ -3085,20 +3057,6 @@
             "id": "2293639874", 
             "properties": {
                 "tags/name": "KiKu Kinderland"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8346031, 
-                    50.9460054
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2299117909", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {

@@ -11,20 +11,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9645397, 
-                    50.9531214
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "259832868", 
-            "properties": {
-                "tags/name": "Katholischefachhochschule NW Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9465501, 
                     50.9488209
                 ]
