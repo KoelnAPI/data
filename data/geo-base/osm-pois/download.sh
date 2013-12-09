@@ -30,3 +30,13 @@ do
 done
 
 rm tags_amenity.csv
+
+# Remove empty files
+for filename in $(ls amenity)
+do
+        if [ $(stat -c%s amenity/$filename) -eq 0 ]
+        then
+                echo "$filename is empty - removed"
+		rm amenity/$filename
+        fi
+done
