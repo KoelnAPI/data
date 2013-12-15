@@ -2209,6 +2209,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    6.9502106, 
+                    50.9287469
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "578278243", 
+            "properties": {
+                "tags/name": "Kaffeeprinzen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     6.9389326, 
                     50.9382101
                 ]
@@ -2440,7 +2454,7 @@
             "type": "Feature", 
             "id": "617197874", 
             "properties": {
-                "tags/name": "Antik & Trödel Café"
+                "tags/name": "Cafe Mokambo"
             }
         }, 
         {
@@ -2909,8 +2923,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8310892, 
-                    50.94455
+                    6.831065, 
+                    50.944532
                 ]
             }, 
             "type": "Feature", 
@@ -3497,8 +3511,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9421368, 
-                    50.9429385
+                    6.9421577, 
+                    50.9429346
                 ]
             }, 
             "type": "Feature", 
@@ -4141,8 +4155,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.115542, 
-                    50.9576773
+                    7.1155786, 
+                    50.9576377
                 ]
             }, 
             "type": "Feature", 
@@ -4561,8 +4575,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8404269, 
-                    51.0953878
+                    6.8405331, 
+                    51.0953245
                 ]
             }, 
             "type": "Feature", 
@@ -4911,8 +4925,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9398948, 
-                    50.9367427
+                    6.93993, 
+                    50.9367426
                 ]
             }, 
             "type": "Feature", 

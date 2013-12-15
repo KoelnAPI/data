@@ -1229,22 +1229,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8478088, 
-                    50.9378373
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "367009323", 
-            "properties": {
-                "tags/name": "JET Tankstelle"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8485531, 
-                    50.9383333
+                    6.8485298, 
+                    50.9383463
                 ]
             }, 
             "type": "Feature", 
@@ -1285,8 +1271,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1647522, 
-                    50.8991476
+                    7.1647672, 
+                    50.8991968
                 ]
             }, 
             "type": "Feature", 
@@ -2537,6 +2523,20 @@
             }, 
             "type": "Feature", 
             "id": "2554683198", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8331961, 
+                    50.9432578
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2573375911", 
             "properties": {
                 "tags/name": ""
             }

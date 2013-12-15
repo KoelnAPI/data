@@ -1040,7 +1040,7 @@
             "type": "Feature", 
             "id": "1305724823", 
             "properties": {
-                "tags/name": "Fahrradständer auf dem Wiener Platz, Haltestelle Linie4"
+                "tags/name": ""
             }
         }, 
         {
@@ -1054,7 +1054,7 @@
             "type": "Feature", 
             "id": "1305728878", 
             "properties": {
-                "tags/name": "Fahrradabstellanlage am U-Bahnhof Wiener Platz"
+                "tags/name": ""
             }
         }, 
         {
@@ -3973,8 +3973,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9518936, 
-                    50.948689
+                    6.951881, 
+                    50.948682
                 ]
             }, 
             "type": "Feature", 

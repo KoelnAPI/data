@@ -1929,20 +1929,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8311261, 
-                    50.9607181
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "393845070", 
-            "properties": {
-                "tags/name": "Stadtsparkasse Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7590179, 
                     51.0195472
                 ]
@@ -4863,6 +4849,20 @@
             "id": "2568215412", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8416944, 
+                    51.0938004
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2572074903", 
+            "properties": {
+                "tags/name": "VR Bank eG Hauptstelle Dormagen"
             }
         }
     ]

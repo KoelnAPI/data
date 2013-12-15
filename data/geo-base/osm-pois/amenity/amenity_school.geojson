@@ -893,20 +893,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0773516, 
-                    50.9754162
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "286441074", 
-            "properties": {
-                "tags/name": "Katholische Grundschule Thurner Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0326533, 
                     50.9824143
                 ]

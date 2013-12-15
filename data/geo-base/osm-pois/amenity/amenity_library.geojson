@@ -3,7 +3,7 @@
     "bbox": [
         6.7664063, 
         50.8056239, 
-        7.1858812, 
+        7.1970451, 
         51.0856816
     ], 
     "features": [
@@ -943,6 +943,20 @@
             "id": "2508600249", 
             "properties": {
                 "tags/name": "Theaterwissenschaftliche Sammlung der Universität zu Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1970451, 
+                    50.9138093
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2574941423", 
+            "properties": {
+                "tags/name": "Offener Bücherschrank"
             }
         }
     ]

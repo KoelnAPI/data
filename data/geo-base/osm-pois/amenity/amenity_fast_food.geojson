@@ -3266,7 +3266,7 @@
             "type": "Feature", 
             "id": "614228330", 
             "properties": {
-                "tags/name": "Piccolo Milano"
+                "tags/name": "Pizzeria Piccolo"
             }
         }, 
         {
@@ -4393,20 +4393,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9385326, 
-                    50.9383543
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "915269683", 
-            "properties": {
-                "tags/name": "King Wah"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9068518, 
                     50.8850984
                 ]
@@ -5331,8 +5317,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1591461, 
-                    51.008049
+                    7.1593816, 
+                    51.0083289
                 ]
             }, 
             "type": "Feature", 
@@ -6087,8 +6073,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0707454, 
-                    50.8821054
+                    7.0705281, 
+                    50.8821455
                 ]
             }, 
             "type": "Feature", 
@@ -7537,6 +7523,34 @@
             "id": "2564047735", 
             "properties": {
                 "tags/name": "McDonald's"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8394693, 
+                    51.0943335
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2572074832", 
+            "properties": {
+                "tags/name": "Markt Grill"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9384873, 
+                    50.9383896
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578761803", 
+            "properties": {
+                "tags/name": "King Wah"
             }
         }
     ]

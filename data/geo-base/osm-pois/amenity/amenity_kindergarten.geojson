@@ -2104,7 +2104,7 @@
             "type": "Feature", 
             "id": "1429352220", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "KiTa  \"Kunterbunt\""
             }
         }, 
         {
@@ -2909,20 +2909,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0744872, 
-                    50.886728
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2147204255", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0558214, 
                     50.9038286
                 ]
@@ -3587,6 +3573,20 @@
             }, 
             "type": "Feature", 
             "id": "2537215197", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1107781, 
+                    50.9636013
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2571532002", 
             "properties": {
                 "tags/name": ""
             }

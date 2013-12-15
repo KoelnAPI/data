@@ -8551,8 +8551,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0275559, 
-                    50.8504481
+                    7.0275116, 
+                    50.850338
                 ]
             }, 
             "type": "Feature", 
@@ -14375,14 +14375,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1554918, 
-                    51.0116083
+                    7.1554511, 
+                    51.0116271
                 ]
             }, 
             "type": "Feature", 
             "id": "1083688989", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Friedrichsruh"
             }
         }, 
         {
@@ -20458,7 +20458,7 @@
             "type": "Feature", 
             "id": "1721582375", 
             "properties": {
-                "tags/name": "Sitzbank"
+                "tags/name": ""
             }
         }, 
         {
@@ -27793,6 +27793,62 @@
             }, 
             "type": "Feature", 
             "id": "2560455134", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1659192, 
+                    51.003181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119594", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1481752, 
+                    51.0194318
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119742", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1563314, 
+                    51.0445742
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119826", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1534219, 
+                    51.037255
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580128203", 
             "properties": {
                 "tags/name": ""
             }

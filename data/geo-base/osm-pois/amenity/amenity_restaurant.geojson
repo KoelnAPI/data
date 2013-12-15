@@ -2573,8 +2573,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0662044, 
-                    50.8821538
+                    7.0662931, 
+                    50.8820778
                 ]
             }, 
             "type": "Feature", 
@@ -3721,8 +3721,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1323266, 
-                    51.0560372
+                    7.1320694, 
+                    51.0558588
                 ]
             }, 
             "type": "Feature", 
@@ -4477,8 +4477,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9655992, 
-                    50.9550678
+                    6.9655908, 
+                    50.9550289
                 ]
             }, 
             "type": "Feature", 
@@ -4603,8 +4603,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9623651, 
-                    50.9370329
+                    6.9623993, 
+                    50.9369857
                 ]
             }, 
             "type": "Feature", 
@@ -5373,8 +5373,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9402932, 
-                    50.9382221
+                    6.9403128, 
+                    50.9382198
                 ]
             }, 
             "type": "Feature", 
@@ -7319,20 +7319,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1925917, 
-                    51.0856922
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "599933017", 
-            "properties": {
-                "tags/name": "Pfannkuchenhaus Coenenmühle"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9487675, 
                     50.9352456
                 ]
@@ -7480,15 +7466,15 @@
             "type": "Feature", 
             "id": "614217658", 
             "properties": {
-                "tags/name": "Memo's Treff"
+                "tags/name": "Pfeffermühle"
             }
         }, 
         {
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9611727, 
-                    50.9373929
+                    6.9611576, 
+                    50.9374095
                 ]
             }, 
             "type": "Feature", 
@@ -7991,8 +7977,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9437095, 
-                    50.9443092
+                    6.9436532, 
+                    50.9443694
                 ]
             }, 
             "type": "Feature", 
@@ -9853,8 +9839,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1366709, 
-                    50.9917526
+                    7.1366913, 
+                    50.9917029
                 ]
             }, 
             "type": "Feature", 
@@ -10049,20 +10035,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9388822, 
-                    50.9390482
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "942692437", 
-            "properties": {
-                "tags/name": "Bistro bella vita"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9394455, 
                     50.9393656
                 ]
@@ -10071,34 +10043,6 @@
             "id": "942692664", 
             "properties": {
                 "tags/name": "Il Castillo"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9382949, 
-                    50.9401583
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "942692677", 
-            "properties": {
-                "tags/name": "Limburg"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9387329, 
-                    50.9393063
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "942692704", 
-            "properties": {
-                "tags/name": "El Touro"
             }
         }, 
         {
@@ -10147,8 +10091,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9056514, 
-                    50.8290677
+                    6.905701, 
+                    50.8290623
                 ]
             }, 
             "type": "Feature", 
@@ -10903,8 +10847,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9388107, 
-                    50.9461073
+                    6.9388475, 
+                    50.946086
                 ]
             }, 
             "type": "Feature", 
@@ -11639,20 +11583,6 @@
             "id": "1252516748", 
             "properties": {
                 "tags/name": "Al Gufo"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8461427, 
-                    50.9473792
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1255618024", 
-            "properties": {
-                "tags/name": "Mahlzeit"
             }
         }, 
         {
@@ -16482,21 +16412,105 @@
             "type": "Feature", 
             "id": "2561188785", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "WIPPN'BK"
             }
         }, 
         {
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8687832, 
-                    50.9308444
+                    6.8774577, 
+                    50.9309569
                 ]
             }, 
             "type": "Feature", 
             "id": "2565369563", 
             "properties": {
                 "tags/name": "Club Astoria Seaside Garden (Biergarten)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9059357, 
+                    50.8289194
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2571247935", 
+            "properties": {
+                "tags/name": "Seasons"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9611593, 
+                    50.9372283
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2572880598", 
+            "properties": {
+                "tags/name": "La Tagliatelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8407439, 
+                    50.9380224
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2573041289", 
+            "properties": {
+                "tags/name": "Pizzeria New York"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9388535, 
+                    50.9391022
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578761773", 
+            "properties": {
+                "tags/name": "Bistro bella vita"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9387096, 
+                    50.9393571
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578761776", 
+            "properties": {
+                "tags/name": "El Touro"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9382712, 
+                    50.9401318
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578761808", 
+            "properties": {
+                "tags/name": "Limburg"
             }
         }
     ]

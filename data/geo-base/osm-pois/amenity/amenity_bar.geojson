@@ -641,20 +641,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9383996, 
-                    50.9399205
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "942692392", 
-            "properties": {
-                "tags/name": "Qhof"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9393918, 
                     50.9391845
                 ]
@@ -1293,6 +1279,20 @@
             "id": "2423062722", 
             "properties": {
                 "tags/name": "Apfelbaum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9383853, 
+                    50.9399289
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578762350", 
+            "properties": {
+                "tags/name": "Qhof"
             }
         }
     ]

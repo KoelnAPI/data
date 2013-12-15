@@ -3203,8 +3203,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9623866, 
-                    50.9369378
+                    6.9624091, 
+                    50.9369226
                 ]
             }, 
             "type": "Feature", 
@@ -4919,20 +4919,6 @@
             "id": "617136121", 
             "properties": {
                 "tags/name": "Mittelblond"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9545312, 
-                    50.9356712
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "617197876", 
-            "properties": {
-                "tags/name": "Liev & Siel"
             }
         }, 
         {
@@ -7095,7 +7081,7 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9112218, 
+                    6.9113076, 
                     50.9170513
                 ]
             }, 
@@ -8222,7 +8208,7 @@
             "type": "Feature", 
             "id": "2153212932", 
             "properties": {
-                "tags/name": "Keuchhof"
+                "tags/name": "Keuschhof"
             }
         }, 
         {

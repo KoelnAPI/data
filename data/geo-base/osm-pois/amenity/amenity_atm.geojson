@@ -725,20 +725,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9389224, 
-                    50.9384495
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "631103261", 
-            "properties": {
-                "tags/name": "Kölner Bank"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9903841, 
                     50.9957432
                 ]
@@ -1915,8 +1901,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9395578, 
-                    50.9379173
+                    6.9395814, 
+                    50.9379154
                 ]
             }, 
             "type": "Feature", 

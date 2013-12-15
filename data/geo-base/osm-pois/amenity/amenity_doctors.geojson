@@ -95,14 +95,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8402347, 
-                    51.095618
+                    6.8393174, 
+                    51.0964497
                 ]
             }, 
             "type": "Feature", 
             "id": "437131017", 
             "properties": {
-                "tags/name": "Borkhardt / Tralle - Fachärztinnen für Kinder- und Jugendmedizin"
+                "tags/name": "Kinderarztpraxis Anne-Kathrin Borkhardt und Dr. Katja Tralle"
             }
         }, 
         {
@@ -1489,6 +1489,20 @@
             "id": "2558528464", 
             "properties": {
                 "tags/name": "Ottilie Pütz-Puhlmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9119096, 
+                    50.9167019
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2579097552", 
+            "properties": {
+                "tags/name": "Dr. H. Deyng"
             }
         }
     ]

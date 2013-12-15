@@ -1140,6 +1140,90 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.031667, 
+                    50.8547346
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2576220824", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1963716, 
+                    51.0541083
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2578556907", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1400124, 
+                    50.9247721
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2579174931", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1494971, 
+                    51.0175241
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119727", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1494854, 
+                    51.0190133
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119732", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1486002, 
+                    51.0327753
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580119795", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }
