@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:07", 
+    "created": "Donnerstag, 19. September 2013 - 13:27", 
+    "data_dictionary": "", 
+    "description": "Bundestagswahl 2009, Zweitstimmen\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "58d0bae1-5bec-4450-9bcf-39da4d12c7a6", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 19. September 2013 - 16:07", 
+            "description": null, 
+            "file_id": "cb0359ad-d537-40ec-9abe-dddb63096bcc", 
+            "file_link": null, 
+            "file_name": "Bundestagswahl 2009, Zweitstimmen.xls", 
+            "file_size": "223 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Bundestagswahl%202009%2C%20Zweitstimmen.xls", 
+            "format": "xls", 
+            "id": "b29f8d38-b379-4058-bbf9-22c7ad6b80ab", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.ms-excel", 
+            "modified": "Dienstag, 19. November 2013 - 16:08", 
+            "title": "Bundestagswahl 2009, Zweitstimmen", 
+            "url": "/dataset/resource/b29f8d38-b379-4058-bbf9-22c7ad6b80ab"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Bundestagswahl 2009, Zweitstimmen"
+}

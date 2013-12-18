@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:29", 
+    "created": "Freitag, 25. Januar 2013 - 14:18", 
+    "data_dictionary": "", 
+    "description": "\u00dcber die Daten des Verkehrskalenders bietet sich Ihnen verschiedene M\u00f6glichkeiten, einen \u00dcberblick \u00fcber die Verkehrslage in K\u00f6ln zu erhalten. Neben Verkehrsbelastung und Parkhausbelegung (in Version 1.5) finden sich hier aktuelle Daten zu Baustellen und Veranstaltungen.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "ad7eff28-5c20-43bc-8503-9808646aeca3", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Freitag, 25. Januar 2013 - 14:19", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "90e5fad9-fd9f-4e7d-8e3d-934eb7dc1d34", 
+            "link_to_api": "http://www.stadt-koeln.de/externe-dienste/open-data/traffic.php", 
+            "mime_type": "", 
+            "modified": "Montag, 18. November 2013 - 15:07", 
+            "title": "Verkehrskalender der Stadt K\u00f6ln", 
+            "url": "/dataset/resource/90e5fad9-fd9f-4e7d-8e3d-934eb7dc1d34"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Verkehrsdaten", 
+    "temporal_coverage": "", 
+    "title": "Verkehrskalender der Stadt K\u00f6ln "
+}

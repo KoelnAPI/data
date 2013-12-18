@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 25. November 2013 - 9:43", 
+    "created": "Mittwoch, 25. September 2013 - 9:41", 
+    "data_dictionary": "", 
+    "description": "Die Dateien sind in UTF-8 codiert. Folgende Felder sind in der Datei vorhanden:\n<ul><li>Nr (Nummer des Wahlbezirks)</li>\n  <li>Name (jeweilige Bezeichnung)</li>\n  <li>MaxSchnellmeldungen (maximale Anzahl der Schnellmeldungen)</li>\n  <li>AnzSchnellmeldungen (Anzahl der bereits erfassten Schnellmeldungen)</li>\n  <li>Wahlberechtigte (Anzahl der Wahlberechtigten)</li>\n  <li>abgegeben (Anzahl der abgegebenen Stimmzettel)</li>\n  <li>Wahlbeteiligung (Wahlbeteiligungen in den jeweiligen Ansichtsebenen)</li>\n  <li>g\u00fcltigeStimmzettel (Anzahl der g\u00fcltig abgegebenen Stimmzettel)</li>\n  <li>g\u00fcltig (Anzahl der g\u00fcltig abgegebenen Erststimmen)</li>\n  <li>ung\u00fcltig (Anzahl der ung\u00fcltig abgegebenen Erststimmen)</li>\n  <li>g\u00fcltig2 (Anzahl der g\u00fcltig abgegebenen Zweitstimmen)</li>\n  <li>ung\u00fcltig2 (Anzahl der ung\u00fcltig abgegebenen Zweitstimmen)</li>\n</ul>\n \nZus\u00e4tzlich sind f\u00fcr jede Partei folgende Felder vorhanden (Beispiel f\u00fcr eine Partei namens \u201cA-Partei\u201d):\n<ul><li>A-Partei (Erststimmen der Partei)</li>\n  <li>A-Partei_Proz (prozentualer Anteil an Erststimmen der Partei)</li>\n  <li>Z_A-Partei (Zweitstimmen der Partei)</li>\n  <li>Z_A-Partei_Proz (prozentualer Anteil an Zweitstimmen der Partei)</li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "d03218e6-1efd-465b-8bbd-09c3685ee047", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 10. Dezember 2013 - 6:57", 
+            "description": null, 
+            "file_id": "289f49e0-e2f5-4804-af98-0facd1958bdf", 
+            "file_link": null, 
+            "file_name": "Bundestagswahl11_new.csv", 
+            "file_size": "31 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Bundestagswahl11_new_0.csv", 
+            "format": "csv", 
+            "id": "b18ab725-d1e7-4724-b3fd-a97773f49de8", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Freitag, 13. Dezember 2013 - 8:38", 
+            "title": "Bundestagswahl 11", 
+            "url": "/dataset/resource/b18ab725-d1e7-4724-b3fd-a97773f49de8"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Bundestagswahl11-Stadtteil"
+}

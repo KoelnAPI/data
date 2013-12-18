@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:48", 
+    "created": "Donnerstag, 5. September 2013 - 11:29", 
+    "data_dictionary": "", 
+    "description": "Wahlvorschlaege in K\u00f6ln. Wahlkreis 93 bis 101\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "da19b809-c5b3-4014-adcb-9351ebf54b26", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 5. September 2013 - 14:43", 
+            "description": null, 
+            "file_id": "8e8afd9c-15dc-4555-990d-9a31220f15f4", 
+            "file_link": null, 
+            "file_name": "wahlvorschlaege_koeln_wahlkreis_93_bis_101.csv", 
+            "file_size": "2.75 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/wahlvorschlaege_koeln_wahlkreis_93_bis_101.csv", 
+            "format": "csv", 
+            "id": "8b03d49e-79fc-47bd-9a45-6066354d19a6", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:49", 
+            "title": "wahlvorschlaege_koeln_wahlkreis_93_bis_101", 
+            "url": "/dataset/resource/8b03d49e-79fc-47bd-9a45-6066354d19a6"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Wahlvorschlaege_Koeln_Wahlkreis_93_bis_101"
+}

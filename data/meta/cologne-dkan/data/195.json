@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:05", 
+    "created": "Dienstag, 3. September 2013 - 12:09", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Landtagswahlen in K\u00f6ln seit 2010 (Nach Erststimmen und der Verteilung nach absoluten Zahlen)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "2a995206-02fa-4550-836d-c59b5b041810", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 15:10", 
+            "description": null, 
+            "file_id": "b37354aa-3ee5-46e8-b298-a2cd23a1c7f5", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_landtagswahlen_in_koeln_seit_2010_erststimmen_zahl.csv", 
+            "file_size": "243 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_landtagswahlen_in_koeln_seit_2010_erststimmen_zahl.csv", 
+            "format": "csv", 
+            "id": "603cb3a7-d7cd-43f4-9d2f-67b573667aee", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 16:06", 
+            "title": "ergebnisse_der_landtagswahlen_in_koeln_seit_2010_erststimmen_zahl", 
+            "url": "/dataset/resource/603cb3a7-d7cd-43f4-9d2f-67b573667aee"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Landtagswahlen_in_Koeln_seit_2010_Erststimmen_Zahl"
+}

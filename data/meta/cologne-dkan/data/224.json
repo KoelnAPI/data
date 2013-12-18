@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:12", 
+    "created": "Donnerstag, 19. September 2013 - 13:50", 
+    "data_dictionary": "", 
+    "description": "Kommunalwahl 2009\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "d2ded432-85ad-443b-8df4-dbc9afc1a5a0", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 19. September 2013 - 13:50", 
+            "description": null, 
+            "file_id": "1574e26c-f4c4-45da-bdf7-fb417736672a", 
+            "file_link": null, 
+            "file_name": "Kommunalwahl 2009.xls", 
+            "file_size": "223 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Kommunalwahl%202009.xls", 
+            "format": "xls", 
+            "id": "149674a6-d800-4398-b149-a16b5529e9e4", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.ms-excel", 
+            "modified": "Dienstag, 19. November 2013 - 16:12", 
+            "title": "Kommunalwahl 2009", 
+            "url": "/dataset/resource/149674a6-d800-4398-b149-a16b5529e9e4"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Kommunalwahl 2009"
+}

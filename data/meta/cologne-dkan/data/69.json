@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:21", 
+    "created": "Montag, 21. Mai 2012 - 14:57", 
+    "data_dictionary": "", 
+    "description": "Newsfeed der aktuellen Veranstaltungen der Stadt K\u00f6ln aus dem entsprechenden Veranstaltungskalender\n \u2014\u2013\n aktualiserte Fassung 1.5:\n Alle Veranstaltungen, die im Zeitraum vom aktuellen Datum bis 7 Tage in der Zukunft laufen im json-Format.\n\nEinschr\u00e4nkungen und Spezifikation der Ausgabe:\n\nZur \u00dcberpr\u00fcfung der Ergebnisse ist der Parameter \u2018out\u2019 n\u00fctzlich.\n\nWenn dieser mit dem Wert \u2018show \u2018 angegeben wird, wird kein json, sondern eine Strukturdarstellung ausgeliefert:\n <a href=\"http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=show\">http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=show</a>\n\nAnzeige aller Veranstaltungskategorien mit dem Parameter \u2018type\u2019\n\nWird der Parameter \u2018type\u2019 mit dem Wert \u2018listkat\u2019 angegeben, erfolgt eine Auflistung aller Veranstaltungskategorien, die ver\u00f6ffentlicht werden:\n\n<a href=\"http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=show&amp;type=listkat\">http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=sh...</a>\n\nVon den Ergebnissen der Kategorienliste ist die \u2018id\u2019 entscheidend f\u00fcr eine Auflistung aller Veranstaltungen dieser Kategorie:\n\nFiltern der Veranstaltungen nach Kategorie mit dem Parameter \u2018kat\u2019\n\nIm Parameter \u2018kat\u2019 kann eine der ids angegeben werden, die in der Liste der Kategorien erscheint.\n Beispiel: Alle Veranstaltungen der Kategorie Ferienprogramm:\n\n<a href=\"http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=show&amp;kat=28\">http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=sh...</a>\n\nBegrenzen oder Erweitern des Zeitraums mit dem Parameter \u2018ndays\u2019\n\n\u00dcber den Paramter \u2018ndays\u2019 wird die Anzahl der Tage, gerechnet ab dem aktuellen Datum spezifiziert (default: 7 Tage).\n Beispiel: Alle Veranstaltungen der Kategorie Ferienprogramm in den n\u00e4chsten 4 Tagen:\n\n<a href=\"http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=show&amp;kat=28&amp;ndays=4\">http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php?out=sh...</a>\n\nKombination der Parameter\n\nDie Parameter k\u00f6nnen auch kombiniert werden, wobei die Angabe von type=listkat alle anderen Parameter \u00fcberschreibt.\n\nMerke: der Parameter out=show dient wirklich nur zur Sichtkontrolle der Ergebnisse, hat aber mit OpenData ansonsten wenig zu tun.\n\nEnthaltene Daten:\n\nLink\n Beginndatum\n Endedatum\n Title\n Description\n Teaserbild\n Uhrzeit\n Veranstaltungsort\n Plz\n Ort\n Stadtbezirk\n Stadtteil\n Strasse\n Hausnummer\n Oepnv\n Latitude\n Longitude\n\nDie Koordinaten wurden weitestgehend automatisiert ermittelt und sind noch nicht bei allen Veranstaltungsorten vorhanden. Hier bessern wir sukzessive nach!\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "d02f5a8a-0153-43a4-ada0-934ae6deb667", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 21. Mai 2012 - 14:59", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "94d5e889-ed56-403d-9cd6-4e98d3d5c8bd", 
+            "link_to_api": "http://www.stadt-koeln.de/externe-dienste/open-data/events-od.php", 
+            "mime_type": "", 
+            "modified": "Montag, 18. November 2013 - 15:04", 
+            "title": "Veranstaltungen der Stadt K\u00f6ln", 
+            "url": "/dataset/resource/94d5e889-ed56-403d-9cd6-4e98d3d5c8bd"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Termine", 
+    "temporal_coverage": "", 
+    "title": "Veranstaltungen der Stadt K\u00f6ln"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:57", 
+    "created": "Dienstag, 25. September 2012 - 14:07", 
+    "data_dictionary": "", 
+    "description": "Haushaltsplan 2012 der Stadt K\u00f6ln\n\nDie Daten umfassen den abschlie\u00dfend, von der Bezirksregierung genehmigten Stand des Haushaltsplans 2012 der Stadt K\u00f6ln.\n\nGesamtfinanzplan\n Daten f\u00fcr die Jahre 2009, 2010, 2011, 2012, 2014, 2015\n Autor: Stadt K\u00f6ln, K\u00e4mmerei\n Letzte Aktualisierung: 20.09.2012\n\nDie Daten umfassen den Haushaltsplan 2012 der Stadt K\u00f6ln. F\u00fcr das Jahr 2010 werden Ist-Werte (Spalte \u201cErgebnis\u201d) ausgewiesen. Die Werte f\u00fcr die Jahre 2011 bis 2015 sind lediglich Plan-Werte. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "bef3e994-6195-4be8-8a42-557abafef166", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 25. September 2012 - 13:14", 
+            "description": null, 
+            "file_id": "aa77c27a-f263-4a9d-a2b6-59875305bdc6", 
+            "file_link": null, 
+            "file_name": "gesamtfinanzplan.csv", 
+            "file_size": "4.08 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/gesamtfinanzplan.csv", 
+            "format": "csv", 
+            "id": "75abc4f4-36d3-4537-9b0e-c5651677ae02", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 18. November 2013 - 14:58", 
+            "title": "gesamtfinanzplan", 
+            "url": "/dataset/resource/75abc4f4-36d3-4537-9b0e-c5651677ae02"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Haushalt", 
+    "temporal_coverage": "", 
+    "title": "Gesamtfinanzplan"
+}

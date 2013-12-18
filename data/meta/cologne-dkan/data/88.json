@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 9:50", 
+    "created": "Mittwoch, 26. Juni 2013 - 12:16", 
+    "data_dictionary": "", 
+    "description": "Shape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ\n\nBlockabschnitte unterteilen eine Blockseite nach den unterschiedlichen Nutzungen. Ma\u00dfstab f\u00fcr die nutzungsspezifische Unterteilung von Blockseiten ist nicht die flurst\u00fccksbezogene Gliederung, sondern eine dem STABIS-Schl\u00fcssel entsprechende Differenzierung (STAtistisches BodenInformationsSystem des Statistischen Bundesamtes). Die Blockabschnitte k\u00f6nnen mosaikartig verschiedenen raumbezogenen Strukturen zugeordnet werden.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "565fe7c8-17a7-4ebf-87d0-647f920e180c", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 18. Dezember 2013 - 10:47", 
+            "description": "Shape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Blockabschnitte unterteilen eine Blockseite nach den unterschiedlichen Nutzungen. Ma\u00dfstab f\u00fcr die nutzungsspezifische Unterteilung von Blockseiten ist nicht die flurst\u00fccksbezogene Gliederung, sondern eine dem STABIS-Schl\u00fcssel entsprechende Differenzierung (STAtistisches BodenInformationsSystem des Statistischen Bundesamtes). Die Blockabschnitte k\u00f6nnen mosaikartig verschiedenen raumbezogenen Strukturen zugeordnet werden.", 
+            "file_id": "3710a267-8ddb-480a-b5a3-b8f79ea4ccd5", 
+            "file_link": null, 
+            "file_name": "2913-10-04_shape_blockabschnitt.zip", 
+            "file_size": "5.14 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2913-10-04_shape_blockabschnitt.zip", 
+            "format": "zip", 
+            "id": "bf4f29ba-37f0-4d37-93f0-e482ab7e6c84", 
+            "link_to_api": null, 
+            "mime_type": "application/zip", 
+            "modified": "Mittwoch, 18. Dezember 2013 - 10:47", 
+            "title": "shape_blockabschnitt", 
+            "url": "/dataset/bf4f29ba-37f0-4d37-93f0-e482ab7e6c84/resource/bf4f29ba-37f0-4d37-93f0-e482ab7e6c84"
+        }, 
+        {
+            "created": "Mittwoch, 18. Dezember 2013 - 10:46", 
+            "description": "in xml-Format inkl. Metadaten nach ISO 19139\n\nAktualisiert 2013-10-04", 
+            "file_id": "9f107efe-0f84-4fbd-bfd2-c782634f3d23", 
+            "file_link": null, 
+            "file_name": "2013-10-04_blockabschnitt.xml.xml", 
+            "file_size": "4.4 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_blockabschnitt.xml.xml", 
+            "format": "xml", 
+            "id": "dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4", 
+            "link_to_api": null, 
+            "mime_type": "application/xml", 
+            "modified": "Mittwoch, 18. Dezember 2013 - 10:46", 
+            "title": "blockabschnitt", 
+            "url": "/dataset/dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4/resource/dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Strukturdaten", 
+    "temporal_coverage": "", 
+    "title": "Blockabschnitt"
+}

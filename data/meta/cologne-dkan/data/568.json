@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Mittwoch, 18. Dezember 2013 - 13:49", 
+    "created": "Mittwoch, 18. Dezember 2013 - 13:49", 
+    "data_dictionary": "", 
+    "description": "Strassenverzeichnis der Stadt K\u00f6ln vom 01.01.2013 in der Standard Ausf\u00fchrung und nach Stadtviertelgliederung", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "11a04964-26c5-41e2-ab01-ee3259b3c66f", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 18. Dezember 2013 - 13:55", 
+            "description": "Strassenverzeichnis mit Stadtviertelgliederung vom 01.01.2013", 
+            "file_id": "6967aff6-2405-4fa8-a171-87121b8abcb4", 
+            "file_link": null, 
+            "file_name": "2013-01-01_Stra\u00dfenverzeichnis_Stadtviertel.csv", 
+            "file_size": "512.98 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-01-01_Stra%C3%9Fenverzeichnis_Stadtviertel.csv", 
+            "format": "csv", 
+            "id": "7eeab302-9dc2-4fe7-a832-0a974c9bcbcc", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Mittwoch, 18. Dezember 2013 - 13:55", 
+            "title": "Strassenverzeichnis Stadtviertel", 
+            "url": "/dataset/7eeab302-9dc2-4fe7-a832-0a974c9bcbcc/resource/7eeab302-9dc2-4fe7-a832-0a974c9bcbcc"
+        }, 
+        {
+            "created": "Mittwoch, 18. Dezember 2013 - 13:50", 
+            "description": "Strassenverzeichnis vom 01.01.2013", 
+            "file_id": "f02466e3-b16e-4d04-a909-1ebe144babdf", 
+            "file_link": null, 
+            "file_name": "2013-01-01_Stra\u00dfenverzeichnis_Standard.csv", 
+            "file_size": "347.68 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-01-01_Stra%C3%9Fenverzeichnis_Standard.csv", 
+            "format": "csv", 
+            "id": "c6a2e2cc-65b1-4470-a532-dfd34f67b737", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Mittwoch, 18. Dezember 2013 - 13:50", 
+            "title": "Strassenverzeichnis Standard", 
+            "url": "/dataset/c6a2e2cc-65b1-4470-a532-dfd34f67b737/resource/c6a2e2cc-65b1-4470-a532-dfd34f67b737"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Verkehrsdaten", 
+    "temporal_coverage": "", 
+    "title": "Strassenverzeichnis"
+}

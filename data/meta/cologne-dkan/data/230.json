@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:14", 
+    "created": "Mittwoch, 14. August 2013 - 13:53", 
+    "data_dictionary": "", 
+    "description": "Grunds\u00e4tzlich soll die Wahlhandlung am Wahltag in sogenannten Wahllokalen vorgenommen werden. Ausnahmen gibt es bei der Briefwahl und der Direktwahl.\n\nDie Wahllokale bestimmt die Gemeinde f\u00fcr jeden einzelnen Stimmbezirk, wobei sich die R\u00e4umlichkeiten nach M\u00f6glichkeit in \u00f6ffentlichen Gemeindegeb\u00e4uden, wie zum Beispiel in Schulen, befinden sollen.\nDer beigef\u00fcgte Datensatz beinhaltet die georeferenzierte Lage der aktuellen Wahllokale inklusive Hinweis auf barrierefreien Zugang.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "c8da0e30-8e37-4ef7-9287-aba1faabee05", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 14. August 2013 - 16:43", 
+            "description": null, 
+            "file_id": "5c88046b-2ef5-4482-931f-bcd8ebd9d00f", 
+            "file_link": null, 
+            "file_name": "Wahllokale.csv", 
+            "file_size": "100.22 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Wahllokale.csv", 
+            "format": "csv", 
+            "id": "4deefd22-e7ff-4086-b867-695e698a0f31", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 16:15", 
+            "title": "Wahllokale", 
+            "url": "/dataset/resource/4deefd22-e7ff-4086-b867-695e698a0f31"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Wahllokale"
+}

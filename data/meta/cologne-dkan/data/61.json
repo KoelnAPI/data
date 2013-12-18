@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:59", 
+    "created": "Dienstag, 25. September 2012 - 14:08", 
+    "data_dictionary": "", 
+    "description": "Haushaltsplan 2012 der Stadt K\u00f6ln\n\nDie Daten umfassen den abschlie\u00dfend, von der Bezirksregierung genehmigten Stand des Haushaltsplans 2012 der Stadt K\u00f6ln.\n\nTeilergebnisplan\n Daten f\u00fcr die Jahre 2009, 2010, 2011, 2012, 2014, 2015\n Autor: Stadt K\u00f6ln, K\u00e4mmerei\n Letzte Aktualisierung: 20.09.2012\n\nDie Daten umfassen den Haushaltsplan 2012 der Stadt K\u00f6ln. F\u00fcr das Jahr 2010 werden Ist-Werte (Spalte \u201cErgebnis\u201d) ausgewiesen. Die Werte f\u00fcr die Jahre 2011 bis 2015 sind lediglich Plan-Werte. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "d890ebcf-560c-4d2e-8791-83fa5cb176de", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 25. September 2012 - 13:19", 
+            "description": null, 
+            "file_id": "34f29a4a-2163-4bdf-ae63-80c9d6991b0b", 
+            "file_link": null, 
+            "file_name": "teilergebnisplan.csv", 
+            "file_size": "361.17 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/teilergebnisplan.csv", 
+            "format": "csv", 
+            "id": "54805437-cae0-4527-b898-3b43ad13d3a6", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 18. November 2013 - 14:59", 
+            "title": "teilergebnisplan", 
+            "url": "/dataset/resource/54805437-cae0-4527-b898-3b43ad13d3a6"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Haushalt", 
+    "temporal_coverage": "", 
+    "title": "Teilergebnisplan"
+}

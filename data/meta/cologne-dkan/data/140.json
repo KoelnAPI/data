@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 10:40", 
+    "created": "Mittwoch, 26. Juni 2013 - 8:44", 
+    "data_dictionary": "", 
+    "description": "Strukturdaten zum Themenkomplex: 020 \u2013 Gesundheit und Soziales\n\nDer Datensatz enth\u00e4lt nach Stadtteil, Jahr und verschiedenen sachlichen Merkmalen gegliederte Sozialdaten\n\nEs kann in diesem Datensatz nach den folgenden Kriterien recherchiert werden:\n\n<ul><li>020 \u2013 Leistungsberechtigte nach SGB II \u2013 Grundsicherung f\u00fcr Arbeitssuchende</li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "28e69677-8ad4-40c4-8bc0-3fd49c119f16", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 26. Juni 2013 - 8:45", 
+            "description": null, 
+            "file_id": "ffa30b15-79d0-4684-9bb8-b45f0df7102c", 
+            "file_link": null, 
+            "file_name": "2013-06-24_020_Gesundheit_und_Soziales.csv", 
+            "file_size": "1.62 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-06-24_020_Gesundheit_und_Soziales.csv", 
+            "format": "csv", 
+            "id": "95ecfe27-83c4-4b7a-8644-a37d5f4fe010", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 10:41", 
+            "title": "Gesundheit_und_Soziales", 
+            "url": "/dataset/resource/95ecfe27-83c4-4b7a-8644-a37d5f4fe010"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Strukturdaten", 
+    "temporal_coverage": "", 
+    "title": "Gesundheit Und Soziales"
+}

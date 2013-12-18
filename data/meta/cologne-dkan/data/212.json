@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:09", 
+    "created": "Donnerstag, 19. September 2013 - 13:37", 
+    "data_dictionary": "", 
+    "description": "Bundestagswahl 2009, Erststimmen\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "cbb80dde-670d-43e2-b591-198fc2e6c2de", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 19. September 2013 - 13:38", 
+            "description": null, 
+            "file_id": "f995df50-24e1-489b-b650-bc38ec6e2625", 
+            "file_link": null, 
+            "file_name": "Bundestagswahl 2009, Erststimmen.xls", 
+            "file_size": "223.5 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Bundestagswahl%202009%2C%20Erststimmen_0.xls", 
+            "format": "xls", 
+            "id": "36d4a68f-5a41-47bb-ac16-936258dfccab", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.ms-excel", 
+            "modified": "Dienstag, 19. November 2013 - 16:09", 
+            "title": "Bundestagswahl 2009, Erststimmen", 
+            "url": "/dataset/resource/36d4a68f-5a41-47bb-ac16-936258dfccab"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Bundestagswahl 2009, Erststimmen"
+}

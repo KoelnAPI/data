@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:59", 
+    "created": "Dienstag, 3. September 2013 - 11:58", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Kommunalwahlen in K\u00f6ln seit 1946 (Aufteilung nach Sitze)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "0cf9cf4b-6fb3-4e82-b83c-576854218d56", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 14:57", 
+            "description": null, 
+            "file_id": "bf3a6ada-07fb-48b9-89ff-4c323ff0ce4d", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_sitze.csv", 
+            "file_size": "626 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_sitze.csv", 
+            "format": "csv", 
+            "id": "2a4147e4-446b-4450-a308-7becca72e13b", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:59", 
+            "title": "ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_sitze", 
+            "url": "/dataset/resource/2a4147e4-446b-4450-a308-7becca72e13b"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Sitze"
+}

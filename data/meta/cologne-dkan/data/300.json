@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:12", 
+    "created": "Freitag, 18. Oktober 2013 - 9:41", 
+    "data_dictionary": "", 
+    "description": "Aktueller Pegelstand des Rheins, bereitgestellt von den Stadtentw\u00e4sserungsbetrieben K\u00f6ln.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "0be719f4-c4a4-4993-a465-671b4147fd7c", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Freitag, 18. Oktober 2013 - 9:41", 
+            "description": "Aktueller Pegelstand des Rheins, bereitgestellt von den Stadtentw\u00e4sserungsbetrieben K\u00f6ln.", 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "xml", 
+            "id": "2c576a84-337d-483f-ae72-15c9527049b5", 
+            "link_to_api": "http://www.stadt-koeln.de/php/modules/hochwasser/pegel_ws.php", 
+            "mime_type": "", 
+            "modified": "Montag, 18. November 2013 - 13:58", 
+            "title": "Pegelstand", 
+            "url": "/dataset/resource/2c576a84-337d-483f-ae72-15c9527049b5"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Umweltzone", 
+    "temporal_coverage": "", 
+    "title": "Pegelstand Stadt K\u00f6ln"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 25. November 2013 - 9:51", 
+    "created": "Mittwoch, 25. September 2013 - 9:41", 
+    "data_dictionary": "", 
+    "description": "Die Dateien sind in UTF-8 codiert. Folgende Felder sind in der Datei vorhanden:\n<ul><li>Nr (Nummer des Wahlbezirks)</li>\n  <li>Name (jeweilige Bezeichnung)</li>\n  <li>MaxSchnellmeldungen (maximale Anzahl der Schnellmeldungen)</li>\n  <li>AnzSchnellmeldungen (Anzahl der bereits erfassten Schnellmeldungen)</li>\n  <li>Wahlberechtigte (Anzahl der Wahlberechtigten)</li>\n  <li>abgegeben (Anzahl der abgegebenen Stimmzettel)</li>\n  <li>Wahlbeteiligung (Wahlbeteiligungen in den jeweiligen Ansichtsebenen)</li>\n  <li>g\u00fcltigeStimmzettel (Anzahl der g\u00fcltig abgegebenen Stimmzettel)</li>\n  <li>g\u00fcltig (Anzahl der g\u00fcltig abgegebenen Erststimmen)</li>\n  <li>ung\u00fcltig (Anzahl der ung\u00fcltig abgegebenen Erststimmen)</li>\n  <li>g\u00fcltig2 (Anzahl der g\u00fcltig abgegebenen Zweitstimmen)</li>\n  <li>ung\u00fcltig2 (Anzahl der ung\u00fcltig abgegebenen Zweitstimmen)</li>\n  <li></li>\n</ul> \n\nZus\u00e4tzlich sind f\u00fcr jede Partei folgende Felder vorhanden (Beispiel f\u00fcr eine Partei namens \u201cA-Partei\u201d):\n\n<ul><li>A-Partei (Erststimmen der Partei)</li>\n  <li>A-Partei_Proz (prozentualer Anteil an Erststimmen der Partei)</li>\n  <li>Z_A-Partei (Zweitstimmen der Partei)</li>\n  <li>Z_A-Partei_Proz (prozentualer Anteil an Zweitstimmen der Partei)</li>\n  <li></li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "59ff285a-512f-4455-962b-eb3a29950308", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 25. September 2013 - 9:41", 
+            "description": null, 
+            "file_id": "db80f4c1-ce3a-4c4a-bbb7-eb7cb43c382c", 
+            "file_link": null, 
+            "file_name": "Bundestagswahl2.csv", 
+            "file_size": "3.07 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Bundestagswahl2_0.csv", 
+            "format": "csv", 
+            "id": "2e623e6f-915b-4a57-b45e-f48fb42358cc", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 25. November 2013 - 9:52", 
+            "title": "Bundestagswahl2 Wahlkreis", 
+            "url": "/dataset/resource/2e623e6f-915b-4a57-b45e-f48fb42358cc"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Bundestagswahl2-Wahlkreis"
+}

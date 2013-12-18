@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:20", 
+    "created": "Dienstag, 10. Juli 2012 - 14:53", 
+    "data_dictionary": "", 
+    "description": "Hier eine Datensatzdarstellung aller Veranstaltungen, die in Zusammenhang mit dem \u201cTag des Denkmals stehen\u201d in der Kontrollansicht.\n\nGegen\u00fcber dem normalen Veranstaltungsjson werden jetzt noch die Felder inhalt (lange Beschreibung mit html-Formatierungen), veranstalter, anmeldung mit ausgeliefert.\n\nLink: <a href=\"http://www.stadt-koeln.de/externe-dienste/open-data/tag-des-denkmals-od.php?year=2011&amp;out=show\">http://www.stadt-koeln.de/externe-dienste/open-data/tag-des-denkmals-od....</a>\n\nDie Parameter:\n year: theoretisch 2011 oder 2012, f\u00fcr 2012 sind aber noch keine Veranstaltungen \u2018Tag des Denkmals\u2019 freigeschaltet\n out: wie immer: show bedeutet Kontrollansicht lesbar alles andere bedeutet: Ausgabe als json.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "2d728485-6df4-4d8c-af1f-26800d4dd035", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 10. Juli 2012 - 14:55", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "f1f2ae2d-c80c-4b26-9bb5-37ba58d7f79a", 
+            "link_to_api": "http://www.stadt-koeln.de/externe-dienste/open-data/tag-des-denkmals-od.php?year=2011", 
+            "mime_type": "", 
+            "modified": "Montag, 18. November 2013 - 15:04", 
+            "title": "Tag des Denkmals", 
+            "url": "/dataset/resource/f1f2ae2d-c80c-4b26-9bb5-37ba58d7f79a"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Termine", 
+    "temporal_coverage": "", 
+    "title": "Tag des denkmals"
+}

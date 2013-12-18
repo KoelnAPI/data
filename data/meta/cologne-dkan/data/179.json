@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:56", 
+    "created": "Dienstag, 3. September 2013 - 11:54", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Europawahlen in K\u00f6ln seit 1979 (prozentuale Aufteilung)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "b5fcd37c-c5cf-4d83-818c-9c07e2a31151", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 14:51", 
+            "description": null, 
+            "file_id": "52435d8d-3df2-47a5-8b55-c663a770877d", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_europawahlen_in_koeln_seit_1979_prozent.csv", 
+            "file_size": "487 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_europawahlen_in_koeln_seit_1979_prozent.csv", 
+            "format": "csv", 
+            "id": "36d10599-f227-4f7b-9e33-80d3e7db98c5", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:56", 
+            "title": "ergebnisse_der_europawahlen_in_koeln_seit_1979_prozent", 
+            "url": "/dataset/resource/36d10599-f227-4f7b-9e33-80d3e7db98c5"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Prozent"
+}

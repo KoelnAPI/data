@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:35", 
+    "created": "Dienstag, 19. Februar 2013 - 13:26", 
+    "data_dictionary": "", 
+    "description": "Die Stadt K\u00f6ln stellt ab sofort die Daten zur B\u00fcrgerbeteiligung an der L\u00e4rmaktionsplanung der Stadt K\u00f6ln 2010/2011 auf dem OpenData Portal zur Verf\u00fcgung.\n Den OPenData Endpoint finden Sie unter: <a href=\"http://laermaktionsplanung.stadt-koeln.de/d2rq/snorql/\">http://laermaktionsplanung.stadt-koeln.de/d2rq/snorql/</a>\n\nzur statischen Bearbeitung k\u00f6nnen Sie aber auch das beigef\u00fcgte XML nutzen\n Jeder Datensatz enth\u00e4lt die Daten zu einem Vorschlag aus der L\u00e4rmaktionsplanung der Stadt K\u00f6ln 2010/11 mit den Eigenschaften\n \u2022 \u201cdate\u201d = Datum des Vorschlags\n \u2022 \u201cnoise_type\u201d = L\u00e4rmart\n \u2022 \u201ctitle\u201d = Titel\n \u2022 \u201cnote\u201d = Beschreibung des Vorschlags\n \u2022 \u201cvote_pro\u201d = Pro-Stimmen\n \u2022 \u201cvote_contra\u201d = Contra-Stimmen\n \u2022 \u201caddress\u201d = Adresse, in der Regel Stra\u00dfenname und Hausnummer\n \u2022 \u201clat\u201d = Breitengrad in der EPSG4326 Projektion\n \u2022 \u201clon\u201d = L\u00e4ngengrad in der EPSG4326 Projektion\n Die Daten k\u00f6nnen auf zwei Wegen genutzt werden.\n Download\n Sie k\u00f6nnen die Daten als Dateien zur weiteren Verwendung herunterladen.\n Die Daten k\u00f6nnen als Dateien in unterschiedlichen offenen Formaten hier heruntergeladen werden [LINK JSON CSV XML].\n Abfrage des OpenData Endpoints\n Wenn Sie die Daten einschr\u00e4nken m\u00f6chten (zum Beispiel \u201calle Vorschl\u00e4ge im Umkreis von 1 Km um den Dom\u201d) oder die Daten in einem anderen Projekt verwenden m\u00f6chten(mashup), ohne sie in eine eigene Datenbank zu \u00fcberf\u00fchren k\u00f6nnen Sie den OpenData Endpoint dazu benutzen.\n Qualifizierte Daten mit Georeferenzen\n Wie die semantische Abfragesprache SPARQL sinnvoll eingesetzt werden kann, wird an einigen Beispielen deutlich.\n\nUm die Daten zu explorieren nutzen wir eine browserbasierte Schnittstelle zum Endpoint mit dem sch\u00f6nen Namen SNORQL.\n <a href=\"http://laermaktionsplanung.stadt-koeln.de/d2rq/snorql/\">http://laermaktionsplanung.stadt-koeln.de/d2rq/snorql/</a>\n\nUm alle Vorschl\u00e4ge, sortiert nach Datum zu erhalten geben Sie diese SPARQL Abfrage ein:\n SELECT DISTINCT ?date ?noise_type ?author ?title ?note ?vote_pro ?vote_contra ?address ?lat ?lon\n WHERE {\n ?instance a .\n ?instance dc:date ?date.\n ?instance vocab:noice_type ?noice_type.\n ?instance foaf:name ?author.\n ?instance dc:title ?title.\n ?instance vocab:proposal_note ?note.\n ?instance vocab:vote_pro ?vote_pro.\n ?instance vocab:vote_cons ?vote_contra.\n OPTIONAL {\n\n?instance vocab:address ?address.\n ?instance geo:lat ?lat.\n ?instance geo:long ?lon.\n }\n }\n ORDER BY ?date\n Wenn Sie nur an Vorschl\u00e4gen mit hoher Zustimmung interessiert sind, sortieren Sie die Ergebnisse und limitieren die Trefferliste:\n SELECT DISTINCT ?date ?noise_type ?author ?title ?note ?vote_pro ?vote_contra ?address ?lat ?lon\n WHERE {\n ?instance a .\n ?instance dc:date ?date.\n ?instance vocab:noice_type ?noice_type.\n ?instance foaf:name ?author.\n ?instance dc:title ?title.\n ?instance vocab:proposal_note ?note.\n ?instance vocab:vote_pro ?vote_pro.\n ?instance vocab:vote_cons ?vote_contra.\n OPTIONAL {\n\n?instance vocab:address ?address.\n ?instance geo:lat ?lat.\n ?instance geo:long ?lon.\n }\n }\n ORDER BY DESC(?vote_pro)\n LIMIT 10\n\nWenn Sie sich weiter mit den M\u00f6glichkeiten der Abfrage besch\u00e4ftigen m\u00f6chten bietet das W3C einen guten Einstiegspunkt: <a href=\"http://www.w3.org/TR/rdf-sparql-query/\">http://www.w3.org/TR/rdf-sparql-query/</a>\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "8ba1b369-c512-4c2e-8819-76b2b0c0d561", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 19. Februar 2013 - 13:27", 
+            "description": null, 
+            "file_id": "8293ebc6-22d2-41fa-8790-1869136a8ba6", 
+            "file_link": null, 
+            "file_name": "lap-koeln-2010-2011-alle-vorschlaege.json", 
+            "file_size": "2.43 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/lap-koeln-2010-2011-alle-vorschlaege.json", 
+            "format": "json", 
+            "id": "37b49f41-b412-4c35-8eab-0c74c1da1ebd", 
+            "link_to_api": null, 
+            "mime_type": "application/octet-stream", 
+            "modified": "Montag, 18. November 2013 - 15:09", 
+            "title": "lap-koeln-2010-2011-alle-vorschlaege", 
+            "url": "/dataset/resource/37b49f41-b412-4c35-8eab-0c74c1da1ebd"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "eParticipation", 
+    "temporal_coverage": "", 
+    "title": "OpenData Endpoint zur L\u00e4rmaktionsplanung "
+}

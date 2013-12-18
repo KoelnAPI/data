@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:16", 
+    "created": "Donnerstag, 12. September 2013 - 13:55", 
+    "data_dictionary": "", 
+    "description": "Teilnahmebedingungen zum OpenData Wettbewerb 2013\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "15252a60-60ab-46c2-989b-1467c8dbab7c", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 12. September 2013 - 13:55", 
+            "description": null, 
+            "file_id": "dc1f704c-e066-4b19-9b38-907456e00a81", 
+            "file_link": null, 
+            "file_name": "2013-09-12-Wettbewerb-OpenData.pdf", 
+            "file_size": "165.65 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-09-12-Wettbewerb-OpenData.pdf", 
+            "format": "pdf", 
+            "id": "fd0b56db-c755-4455-8663-8f90a852c56d", 
+            "link_to_api": null, 
+            "mime_type": "application/pdf", 
+            "modified": "Dienstag, 19. November 2013 - 16:16", 
+            "title": "Wettbewerb-OpenData", 
+            "url": "/dataset/resource/fd0b56db-c755-4455-8663-8f90a852c56d"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Wettbewerb - Teilnahmebedingungen"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:58", 
+    "created": "Dienstag, 3. September 2013 - 11:57", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Kommunalwahlen in K\u00f6ln seit 1946 (prozentuale Aufteilung)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "67618428-99dc-4e6c-b7b8-f24287a0cdaa", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 14:55", 
+            "description": null, 
+            "file_id": "2c7b2994-d4df-478c-a68c-a4a3d341b488", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_prozent.csv", 
+            "file_size": "824 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_prozent.csv", 
+            "format": "csv", 
+            "id": "1d8ebfd4-5d65-4c0b-8549-c770a3c008ed", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:58", 
+            "title": "ergebnisse_der_kommunalwahlen_in_koeln_seit_1946_prozent", 
+            "url": "/dataset/resource/1d8ebfd4-5d65-4c0b-8549-c770a3c008ed"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Kommunalwahlen_in_Koeln_seit_1946_Prozent"
+}

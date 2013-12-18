@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:51", 
+    "created": "Dienstag, 3. September 2013 - 11:52", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Bundestagswahlen in K\u00f6ln seit 1949 (Aufteilung als Zahl)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "c7bc1fe5-f70b-4b2c-b50f-393b9cac1664", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 14:49", 
+            "description": null, 
+            "file_id": "31624127-4d13-4b6f-9460-cac803fc5335", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_bundestagswahlen_in_koeln_seit_1949_zahl.csv", 
+            "file_size": "1.19 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_bundestagswahlen_in_koeln_seit_1949_zahl.csv", 
+            "format": "csv", 
+            "id": "8acf2d1b-5ed3-432b-a3e3-13300bf14944", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:55", 
+            "title": "ergebnisse_der_bundestagswahlen_in_koeln_seit_1949_zahl", 
+            "url": "/dataset/resource/8acf2d1b-5ed3-432b-a3e3-13300bf14944"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Bundestagswahlen_in_Koeln_seit_1949_Zahl"
+}

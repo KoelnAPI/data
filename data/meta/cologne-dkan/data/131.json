@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 14:37", 
+    "created": "Mittwoch, 25. September 2013 - 13:44", 
+    "data_dictionary": "", 
+    "description": "Daten zu Umweltzone im .zip und .xml Format\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "b14d181c-efa1-4efa-b5b5-c429c9603cfb", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 25. September 2013 - 13:45", 
+            "description": null, 
+            "file_id": "cb94af26-9fcf-4cf1-90af-460652405403", 
+            "file_link": null, 
+            "file_name": "Umweltzonengeometrie.xml", 
+            "file_size": "8.44 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Umweltzonengeometrie.xml", 
+            "format": "xml", 
+            "id": "d180c069-c981-42c3-913f-3e50c04cf385", 
+            "link_to_api": null, 
+            "mime_type": "application/xml", 
+            "modified": "Montag, 18. November 2013 - 15:11", 
+            "title": "Umweltzonengeometrie", 
+            "url": "/dataset/resource/d180c069-c981-42c3-913f-3e50c04cf385"
+        }, 
+        {
+            "created": "Mittwoch, 25. September 2013 - 13:45", 
+            "description": null, 
+            "file_id": "bbe9de27-2b70-42b9-a570-9c5815bb4a44", 
+            "file_link": null, 
+            "file_name": "Umweltzone-2012-10-23_OSM_2013-09-23_KORRIGIERT.zip", 
+            "file_size": "34.19 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Umweltzone-2012-10-23_OSM_2013-09-23_KORRIGIERT.zip", 
+            "format": "zip", 
+            "id": "1d48e9b8-fc2f-4cbe-a5dd-8835e912f382", 
+            "link_to_api": null, 
+            "mime_type": "application/zip", 
+            "modified": "Montag, 18. November 2013 - 15:10", 
+            "title": "Umweltzone", 
+            "url": "/dataset/resource/1d48e9b8-fc2f-4cbe-a5dd-8835e912f382"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Umweltzone", 
+    "temporal_coverage": "", 
+    "title": "Umweltzone"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:02", 
+    "created": "Dienstag, 3. September 2013 - 12:05", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Landtagswahlen in K\u00f6ln seit 1947 (Aufteilung nach absoluten Zahlen)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "88e1af47-cb03-42c6-a5a5-488f82a4db24", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 15:04", 
+            "description": null, 
+            "file_id": "8bf1b8aa-5605-4ea6-8362-dcf9882aa9b9", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_landtagswahlen_in_koeln_seit_1947_zahl.csv", 
+            "file_size": "1.12 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_landtagswahlen_in_koeln_seit_1947_zahl.csv", 
+            "format": "csv", 
+            "id": "ae3007c7-6668-4b80-a854-890c638d4ee9", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 16:03", 
+            "title": "ergebnisse_der_landtagswahlen_in_koeln_seit_1947_zahl", 
+            "url": "/dataset/resource/ae3007c7-6668-4b80-a854-890c638d4ee9"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Landtagswahlen_in_Koeln_seit_1947_Zahl"
+}

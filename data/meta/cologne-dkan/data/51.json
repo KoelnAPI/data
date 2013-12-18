@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 15:02", 
+    "created": "Dienstag, 25. September 2012 - 14:02", 
+    "data_dictionary": "", 
+    "description": "Haushaltsplan 2012 \u2013 Produktgruppen auf Bezirksebene\n\nDie Daten umfassen den abschlie\u00dfend, von der Bezirksregierung genehmigten Stand des Haushaltsplans 2012 der Stadt K\u00f6ln.\n F\u00fcr das Jahr 2010 werden Ist-Werte (Spalte \u201cErgebnis\u201d) ausgewiesen. Die Werte f\u00fcr die Jahre 2011 bis 2015 sind lediglich Plan-Werte. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "4e32efe0-33b5-4eb0-9656-ed8bf60d4f10", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 25. September 2012 - 13:04", 
+            "description": null, 
+            "file_id": "c0745c01-3e9e-46d4-914a-40b1d799c64f", 
+            "file_link": null, 
+            "file_name": "bezirke_produktgruppen.csv", 
+            "file_size": "241.03 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/bezirke_produktgruppen.csv", 
+            "format": "csv", 
+            "id": "8aad6b8a-09f1-49f1-acde-3af09f6eb5c8", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 18. November 2013 - 14:52", 
+            "title": "bezirke_produktgruppen", 
+            "url": "/dataset/resource/8aad6b8a-09f1-49f1-acde-3af09f6eb5c8"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Haushalt", 
+    "temporal_coverage": "", 
+    "title": "Bezirke_Produktgruppen"
+}

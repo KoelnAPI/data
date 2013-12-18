@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 18. November 2013 - 15:01", 
+    "created": "Dienstag, 25. September 2012 - 14:04", 
+    "data_dictionary": "", 
+    "description": "Haushaltsplan 2012 der Stadt K\u00f6ln\n\nDie Daten umfassen den abschlie\u00dfend, von der Bezirksregierung genehmigten Stand des Haushaltsplans 2012 der Stadt K\u00f6ln.\n\nErgebnisplan\n Daten f\u00fcr die Jahre 2009, 2010, 2011, 2012, 2014, 2015\n Autor: Stadt K\u00f6ln, K\u00e4mmerei\n Letzte Aktualisierung: 20.09.2012\n\nDie Daten umfassen den Haushaltsplan 2012 der Stadt K\u00f6ln. F\u00fcr das Jahr 2010 werden Ist-Werte (Spalte \u201cErgebnis\u201d) ausgewiesen. Die Werte f\u00fcr die Jahre 2011 bis 2015 sind lediglich Plan-Werte. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "6cf367fa-4668-4bde-a499-2136fac310ac", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 25. September 2012 - 13:07", 
+            "description": null, 
+            "file_id": "bc402e89-0758-45b6-a481-a7dd999838db", 
+            "file_link": null, 
+            "file_name": "ergebnisplan_produktbereichssummen.csv", 
+            "file_size": "52.9 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisplan_produktbereichssummen.csv", 
+            "format": "csv", 
+            "id": "5b1fb77d-eb3b-4249-8c45-f2f964f604cb", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 18. November 2013 - 14:54", 
+            "title": "ergebnisplan_produktbereichssummen", 
+            "url": "/dataset/resource/5b1fb77d-eb3b-4249-8c45-f2f964f604cb"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Haushalt", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisplan_Produktbereichssummen"
+}

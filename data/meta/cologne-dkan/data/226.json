@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 16:13", 
+    "created": "Donnerstag, 19. September 2013 - 13:51", 
+    "data_dictionary": "", 
+    "description": "Landtagswahl 2012, Erststimmen\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "3570de39-0196-40fa-ac5a-d531602c32be", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 19. September 2013 - 13:51", 
+            "description": null, 
+            "file_id": "24ceefaa-2a82-4526-85d4-b849711251af", 
+            "file_link": null, 
+            "file_name": "Landtagswahl 2012, Erststimmen.xls", 
+            "file_size": "223 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Landtagswahl%202012%2C%20Erststimmen.xls", 
+            "format": "xls", 
+            "id": "8e37f9b2-c74f-4ced-80ba-71e87d7d72a5", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.ms-excel", 
+            "modified": "Dienstag, 19. November 2013 - 16:13", 
+            "title": "Landtagswahl 2012, Erststimmen", 
+            "url": "/dataset/resource/8e37f9b2-c74f-4ced-80ba-71e87d7d72a5"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Landtagswahl 2012, Erststimmen"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 10:46", 
+    "created": "Mittwoch, 26. Juni 2013 - 8:48", 
+    "data_dictionary": "", 
+    "description": "<strong>Strukturdaten zum Themenkomplex: 060 \u2013 Bildung und Ausbildung</strong>\n\nEs kann in diesem Datensatz nach den folgenden Kriterien recherchiert werden:\n\n<ul><li>010 \u2013 Allgemeinbildende Schulen insgesamt</li>\n  <li>020 \u2013 Schulform Grundschule</li>\n  <li>030 \u2013 Schulform Hauptschule</li>\n  <li>040 \u2013 Schulform Realschule</li>\n  <li>050 \u2013 Schulform Gymnasium</li>\n  <li>060 \u2013 Schulform Gesamtschule</li>\n  <li>070 \u2013 Schulform F\u00f6rderschule</li>\n  <li>080 \u2013 Schulform Gemeinschaftsschule</li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "e9c38ff4-f5f6-4d18-bf40-b07464107185", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 26. Juni 2013 - 8:49", 
+            "description": null, 
+            "file_id": "95fbe45b-0a29-4f33-9d8a-0b72b0cb98fc", 
+            "file_link": null, 
+            "file_name": "2013-06-24_060_Bildung_und_Ausbildung.csv", 
+            "file_size": "6.16 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-06-24_060_Bildung_und_Ausbildung.csv", 
+            "format": "csv", 
+            "id": "7b3dc238-f1ea-40b2-b1ed-ca587b1221f0", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 10:47", 
+            "title": "Bildung_und_Ausbildung", 
+            "url": "/dataset/resource/7b3dc238-f1ea-40b2-b1ed-ca587b1221f0"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Strukturdaten", 
+    "temporal_coverage": "", 
+    "title": "Bildung Und Ausbildung"
+}

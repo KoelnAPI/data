@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 24. September 2013 - 12:09", 
+    "created": "Dienstag, 24. September 2013 - 12:08", 
+    "data_dictionary": "", 
+    "description": "Daten auf Wahlbezirksebene wurden in einem periodischen Abstand von 15 Minuten abgerufen. Die einzelnen .csv Dateien werden nach folgender Namenskonvention abgelegt:\n\nYYYY-MM-DD-hhmmss-Bundestagswahl6.csv\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "16766f89-85dc-4537-8edf-7eea8bc45c6d", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 24. September 2013 - 12:08", 
+            "description": null, 
+            "file_id": "e8eef6fd-e580-4849-b121-733431f6a4f0", 
+            "file_link": null, 
+            "file_name": "2013-09-22-Wahldaten_Wahlbezirk.zip", 
+            "file_size": "5.07 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-09-22-Wahldaten_Wahlbezirk.zip", 
+            "format": "zip", 
+            "id": "30136990-2e45-4e4b-95b9-7b21bbe20874", 
+            "link_to_api": null, 
+            "mime_type": "application/zip", 
+            "modified": "Dienstag, 24. September 2013 - 12:08", 
+            "title": "2013-09-23-000000_Bundestagswahl6", 
+            "url": "/dataset/resource/30136990-2e45-4e4b-95b9-7b21bbe20874"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Wahldaten auf Wahlbezirksebene"
+}

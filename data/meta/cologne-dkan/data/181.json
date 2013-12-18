@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 15:57", 
+    "created": "Dienstag, 3. September 2013 - 11:55", 
+    "data_dictionary": "", 
+    "description": "Ergebnisse der Europawahlen in K\u00f6ln seit 1979 (Aufteilung nach absoluten Zahlen)\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "0e288fd5-13e0-43a8-9077-e51fdc8b65c2", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 3. September 2013 - 14:53", 
+            "description": null, 
+            "file_id": "a2156ddc-8e98-47eb-becd-da7401e48b6f", 
+            "file_link": null, 
+            "file_name": "ergebnisse_der_europawahlen_in_koeln_seit_1979_zahl.csv", 
+            "file_size": "576 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/ergebnisse_der_europawahlen_in_koeln_seit_1979_zahl.csv", 
+            "format": "csv", 
+            "id": "357d87a2-4b65-4700-9278-12d85623f2e9", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 15:57", 
+            "title": "ergebnisse_der_europawahlen_in_koeln_seit_1979_zahl", 
+            "url": "/dataset/resource/357d87a2-4b65-4700-9278-12d85623f2e9"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Ergebnisse_der_Europawahlen_in_Koeln_seit_1979_Zahl"
+}

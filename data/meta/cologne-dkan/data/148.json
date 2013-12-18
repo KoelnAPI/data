@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 10:50", 
+    "created": "Mittwoch, 26. Juni 2013 - 8:50", 
+    "data_dictionary": "", 
+    "description": "<strong>Strukturdaten zum Themenkomplex: 080 \u2013 Politische Verh\u00e4ltnisse</strong>\n\nEs kann in diesem Datensatz nach den folgenden Kriterien recherchiert werden:\n\n<ul><li>013 \u2013 Bundestagswahl 27.09.2009, Erststimme</li>\n  <li>014 \u2013 Bundestagswahl 27.09.2009, Zweitstimme</li>\n  <li>031 \u2013 Kommunalwahl 30.08.2009 (Ratswahl)</li>\n  <li>041 \u2013 Europawahl 07.06.2009</li>\n  <li>050 \u2013 Landtagswahl 13.05.2012, Erststimme</li>\n  <li>051 \u2013 Landtagswahl 13.05.2012, Zweitstimme</li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "1b807bab-45c7-4171-ba68-699b0f4de195", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 26. Juni 2013 - 8:50", 
+            "description": null, 
+            "file_id": "1fc6ab69-0ce8-4b7a-8bad-f4abd04cd31e", 
+            "file_link": null, 
+            "file_name": "2013-06-24_080_politische_verhaeltnisse.csv", 
+            "file_size": "982.15 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-06-24_080_politische_verhaeltnisse.csv", 
+            "format": "csv", 
+            "id": "6db909ca-c79c-416c-bce1-08eb084a8237", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 10:49", 
+            "title": "Politische_Verhaeltnisse", 
+            "url": "/dataset/resource/6db909ca-c79c-416c-bce1-08eb084a8237"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Strukturdaten", 
+    "temporal_coverage": "", 
+    "title": "Politische Verh\u00e4ltnisse"
+}

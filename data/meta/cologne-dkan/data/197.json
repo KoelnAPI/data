@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 23. September 2013 - 12:15", 
+    "created": "Montag, 23. September 2013 - 12:14", 
+    "data_dictionary": "", 
+    "description": "Wahlbeteiligung in K\u00f6ln f\u00fcr die Bundestagswahl 2013\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "0ebd3573-525c-40f1-80d9-a451cce730e9", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Sonntag, 22. September 2013 - 13:57", 
+            "description": null, 
+            "file_id": "f2b091e7-5cd1-4f42-a82a-bab8f00b4224", 
+            "file_link": null, 
+            "file_name": "wahlbeteiligung_koeln.csv", 
+            "file_size": "141 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/wahlbeteiligung_koeln.csv", 
+            "format": "csv", 
+            "id": "88f315fc-a7c3-46b9-85ef-5a4bef2e137a", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 2. Dezember 2013 - 10:34", 
+            "title": "Wahlbeteiligung 2013, 2009", 
+            "url": "/dataset/resource/88f315fc-a7c3-46b9-85ef-5a4bef2e137a"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "2013-09-22_wahlbeteiligung_koeln"
+}

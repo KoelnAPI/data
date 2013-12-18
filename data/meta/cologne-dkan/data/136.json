@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 19. November 2013 - 10:39", 
+    "created": "Mittwoch, 26. Juni 2013 - 8:41", 
+    "data_dictionary": "", 
+    "description": "Strukturdaten zum Themenkomplex: 012 \u2013 Bev\u00f6lkerungsbewegung\n\nDer Datensatz enth\u00e4lt nach Stadtteil, Jahr und verschiedenen sachlichen Merkmalen gegliederte Einwohner-Bewegungsdaten\n\nEs kann in diesem Datensatz nach den folgenden Kriterien recherchiert werden:\n\n<ul><li>010 \u2013 Aussen- und Binnenwanderung</li>\n  <li>020 \u2013 Nat\u00fcrliche Bewegung</li>\n</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "44b30c6c-a43e-4aeb-a6ca-fc767fb3992d", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 26. Juni 2013 - 9:41", 
+            "description": null, 
+            "file_id": "0e53f9c1-397b-4cce-8603-9c4787b2604c", 
+            "file_link": null, 
+            "file_name": "2013-06-24_012_Bev\u00f6lkerungsbewegung.csv", 
+            "file_size": "1.08 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-06-24_012_Bev%C3%B6lkerungsbewegung.csv", 
+            "format": "csv", 
+            "id": "f8d3dc19-9348-4a4f-ab30-3dbe284848d4", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 19. November 2013 - 10:33", 
+            "title": "Bev\u00f6lkerungsbewegung", 
+            "url": "/dataset/resource/f8d3dc19-9348-4a4f-ab30-3dbe284848d4"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Strukturdaten", 
+    "temporal_coverage": "", 
+    "title": "Bev\u00f6lkerungsbewegung"
+}
