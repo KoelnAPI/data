@@ -50,7 +50,7 @@ def save(data, start_date, end_date):
 
 if __name__ == '__main__':
     import argparse
-    parser = argparse.ArgumentParser(description='Process some integers.')
+    parser = argparse.ArgumentParser(description='Download monthly data')
     parser.add_argument('daterange',
         help='Month in the format YYYYMM, e.g. "201310"')
     args = parser.parse_args()
