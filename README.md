@@ -39,6 +39,10 @@ for additional info.
 
 [Read more](https://github.com/KoelnAPI/data/tree/master/data/employment)
 
+#### energy - electricity, ...
+
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/energy)
+
 #### environment - Weather, air, ...
 
 [Read more](https://github.com/KoelnAPI/data/tree/master/data/environment)
@@ -50,6 +54,10 @@ for additional info.
 #### landuse - Statistical data on land use
 
 [Read more](https://github.com/KoelnAPI/data/tree/master/data/landuse)
+
+#### meta - Meta data about open datasets
+
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/meta)
 
 #### structure - So-called "Strukturdaten"
 

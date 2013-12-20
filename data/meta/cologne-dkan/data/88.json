@@ -12,8 +12,24 @@
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {
+            "created": "Donnerstag, 19. Dezember 2013 - 9:00", 
+            "description": "Aktualisiert 2013-10-04", 
+            "file_id": "88082511-b16f-435b-bea7-0b8a1fc6f79c", 
+            "file_link": null, 
+            "file_name": "2013-10-04_blockabschnitt.kmz", 
+            "file_size": "15.03 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_blockabschnitt.kmz", 
+            "format": "kmz", 
+            "id": "d06e77b1-0687-4aad-9390-55d42e119680", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.google-earth.kmz", 
+            "modified": "Donnerstag, 19. Dezember 2013 - 9:00", 
+            "title": "Blockabschnitt", 
+            "url": "/dataset/d06e77b1-0687-4aad-9390-55d42e119680/resource/d06e77b1-0687-4aad-9390-55d42e119680"
+        }, 
+        {
             "created": "Mittwoch, 18. Dezember 2013 - 10:47", 
-            "description": "Shape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Blockabschnitte unterteilen eine Blockseite nach den unterschiedlichen Nutzungen. Ma\u00dfstab f\u00fcr die nutzungsspezifische Unterteilung von Blockseiten ist nicht die flurst\u00fccksbezogene Gliederung, sondern eine dem STABIS-Schl\u00fcssel entsprechende Differenzierung (STAtistisches BodenInformationsSystem des Statistischen Bundesamtes). Die Blockabschnitte k\u00f6nnen mosaikartig verschiedenen raumbezogenen Strukturen zugeordnet werden.", 
+            "description": "Aktualisiert 2013-10-04<br />\nShape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Blockabschnitte unterteilen eine Blockseite nach den unterschiedlichen Nutzungen. Ma\u00dfstab f\u00fcr die nutzungsspezifische Unterteilung von Blockseiten ist nicht die flurst\u00fccksbezogene Gliederung, sondern eine dem STABIS-Schl\u00fcssel entsprechende Differenzierung (STAtistisches BodenInformationsSystem des Statistischen Bundesamtes). Die Blockabschnitte k\u00f6nnen mosaikartig verschiedenen raumbezogenen Strukturen zugeordnet werden.", 
             "file_id": "3710a267-8ddb-480a-b5a3-b8f79ea4ccd5", 
             "file_link": null, 
             "file_name": "2913-10-04_shape_blockabschnitt.zip", 
@@ -23,8 +39,8 @@
             "id": "bf4f29ba-37f0-4d37-93f0-e482ab7e6c84", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 10:47", 
-            "title": "shape_blockabschnitt", 
+            "modified": "Donnerstag, 19. Dezember 2013 - 9:01", 
+            "title": "Shape Blockabschnitt", 
             "url": "/dataset/bf4f29ba-37f0-4d37-93f0-e482ab7e6c84/resource/bf4f29ba-37f0-4d37-93f0-e482ab7e6c84"
         }, 
         {
@@ -39,8 +55,8 @@
             "id": "dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4", 
             "link_to_api": null, 
             "mime_type": "application/xml", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 10:46", 
-            "title": "blockabschnitt", 
+            "modified": "Donnerstag, 19. Dezember 2013 - 9:00", 
+            "title": "Blockabschnitt", 
             "url": "/dataset/dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4/resource/dd0a3846-5fea-4de9-8b00-0d4cd1d3d1a4"
         }
     ], 
