@@ -13,7 +13,7 @@ import json
 URL_SCHEMA = "http://offenedaten-koeln.de/node/%d/json"
 
 # we test IDs up to this number:
-LIMIT = 1000
+LIMIT = 800
 
 
 if __name__ == '__main__':
