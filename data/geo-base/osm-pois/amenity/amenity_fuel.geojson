@@ -88,7 +88,7 @@
             "type": "Feature", 
             "id": "137482295", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Shell"
             }
         }, 
         {
@@ -1397,8 +1397,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8581953, 
-                    50.9377002
+                    6.8581624, 
+                    50.9376964
                 ]
             }, 
             "type": "Feature", 
@@ -2537,6 +2537,76 @@
             }, 
             "type": "Feature", 
             "id": "2573375911", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9358139, 
+                    50.9287775
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585718231", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.935708, 
+                    50.9288432
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585718236", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9618907, 
+                    50.9525376
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2586325824", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9619286, 
+                    50.9525628
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2586325826", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8649682, 
+                    50.9375382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2588487642", 
             "properties": {
                 "tags/name": ""
             }

@@ -286,62 +286,6 @@
             "properties": {
                 "tags/name": "Bergisch Gladbach S-Bahn"
             }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0029662, 
-                    50.9349797
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2357580202", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0092574, 
-                    50.9348791
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2357580205", 
-            "properties": {
-                "tags/name": "Christion-Sünner-Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.011037, 
-                    50.9340343
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2357580208", 
-            "properties": {
-                "tags/name": "Christion-Sünner-Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0026441, 
-                    50.9351623
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2357580211", 
-            "properties": {
-                "tags/name": ""
-            }
         }
     ]
 }

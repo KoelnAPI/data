@@ -137,48 +137,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9343321, 
-                    50.9272367
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140751449", 
-            "properties": {
-                "tags/name": "Geologie"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9345252, 
-                    50.9269392
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140752339", 
-            "properties": {
-                "tags/name": "Fachbibliothek der Geologie"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9349544, 
-                    50.9265808
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140752523", 
-            "properties": {
-                "tags/name": "Mineralogie / Kristallographie"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.936274, 
                     50.9268513
                 ]
@@ -201,48 +159,6 @@
             "id": "1140753115", 
             "properties": {
                 "tags/name": "Biochemie (Haus 1)"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9361989, 
-                    50.9274734
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140753173", 
-            "properties": {
-                "tags/name": "Geographisches Institut (Rundbau)"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9371967, 
-                    50.9270879
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140753330", 
-            "properties": {
-                "tags/name": "Geographisches Institut (Südbau) Otto-Fischer-Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9353483, 
-                    50.9261889
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1140755162", 
-            "properties": {
-                "tags/name": "Nuklearchemie / Physik"
             }
         }, 
         {
@@ -313,6 +229,48 @@
             "id": "2467724276", 
             "properties": {
                 "tags/name": "Rheinische Fachhochschule e. V. - Hohenstaufenring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9487508, 
+                    50.9487629
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583999456", 
+            "properties": {
+                "tags/name": "Europa Fachhochschule Fresenius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9365076, 
+                    50.9268801
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585718204", 
+            "properties": {
+                "tags/name": "Biochemie Praktikum"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.936016, 
+                    50.9267576
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585718225", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

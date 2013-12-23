@@ -1224,6 +1224,34 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1526781, 
+                    50.9801022
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583996624", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1699715, 
+                    50.9816765
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583996640", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

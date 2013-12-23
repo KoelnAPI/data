@@ -445,8 +445,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8805956, 
-                    50.9380133
+                    6.8805665, 
+                    50.9380036
                 ]
             }, 
             "type": "Feature", 
@@ -795,8 +795,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0722719, 
-                    50.9768152
+                    7.071987, 
+                    50.9770304
                 ]
             }, 
             "type": "Feature", 
@@ -1047,8 +1047,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8372308, 
-                    50.9380438
+                    6.8372639, 
+                    50.9380619
                 ]
             }, 
             "type": "Feature", 
@@ -2503,8 +2503,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.940575, 
-                    50.941042
+                    6.940493, 
+                    50.9410608
                 ]
             }, 
             "type": "Feature", 
@@ -4505,8 +4505,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8336998, 
-                    50.9385591
+                    6.8336215, 
+                    50.9385526
                 ]
             }, 
             "type": "Feature", 
@@ -4863,6 +4863,34 @@
             "id": "2572074903", 
             "properties": {
                 "tags/name": "VR Bank eG Hauptstelle Dormagen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9402352, 
+                    50.9441132
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583461599", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399716, 
+                    50.9440746
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583461601", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

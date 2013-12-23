@@ -720,6 +720,20 @@
             "properties": {
                 "tags/name": "Helios Figurentheater"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399671, 
+                    50.9394288
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505835", 
+            "properties": {
+                "tags/name": "Scala-Theater"
+            }
         }
     ]
 }

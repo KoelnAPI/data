@@ -1565,8 +1565,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9533214, 
-                    50.9410465
+                    6.9533384, 
+                    50.9410234
                 ]
             }, 
             "type": "Feature", 
@@ -1601,6 +1601,20 @@
             "id": "376551130", 
             "properties": {
                 "tags/name": "Die Suppenbar"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.956047, 
+                    50.9416148
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "377684620", 
+            "properties": {
+                "tags/name": "Eataliano"
             }
         }, 
         {
@@ -2853,8 +2867,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9412582, 
-                    50.941041
+                    6.9412135, 
+                    50.9410407
                 ]
             }, 
             "type": "Feature", 
@@ -3945,8 +3959,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.996751, 
-                    50.9332507
+                    6.996749, 
+                    50.9332722
                 ]
             }, 
             "type": "Feature", 
@@ -7235,8 +7249,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9398332, 
-                    50.9389252
+                    6.9398483, 
+                    50.9389231
                 ]
             }, 
             "type": "Feature", 

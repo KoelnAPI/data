@@ -2797,8 +2797,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.7986693, 
-                    51.0719534
+                    6.7985017, 
+                    51.0719323
                 ]
             }, 
             "type": "Feature", 
@@ -3973,8 +3973,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9379817, 
-                    50.9438326
+                    6.9379565, 
+                    50.9438355
                 ]
             }, 
             "type": "Feature", 
@@ -5709,8 +5709,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1513028, 
-                    50.9522998
+                    7.1512929, 
+                    50.9524752
                 ]
             }, 
             "type": "Feature", 
@@ -10581,34 +10581,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9963453, 
-                    50.9385131
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2564047736", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9974236, 
-                    50.9390438
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2564047738", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1227879, 
                     50.9850188
                 ]
@@ -10643,6 +10615,20 @@
             }, 
             "type": "Feature", 
             "id": "2577478196", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.005753, 
+                    50.8461563
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2580583567", 
             "properties": {
                 "tags/name": ""
             }

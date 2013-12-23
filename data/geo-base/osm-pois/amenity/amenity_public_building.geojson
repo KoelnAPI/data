@@ -468,6 +468,48 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8389298, 
+                    50.9384235
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2581519665", 
+            "properties": {
+                "tags/name": "Postamt Weiden"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9294543, 
+                    50.9452945
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585450445", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9394686, 
+                    50.9232743
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2585733909", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

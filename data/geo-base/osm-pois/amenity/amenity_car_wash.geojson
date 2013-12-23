@@ -426,6 +426,20 @@
             "properties": {
                 "tags/name": "Lapp Land Autowaschanlage"
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1045061, 
+                    50.9489066
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583021464", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

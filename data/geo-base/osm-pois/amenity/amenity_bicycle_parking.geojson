@@ -7552,6 +7552,48 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9127959, 
+                    50.9473488
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2586915733", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9572855, 
+                    50.9349626
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2587820918", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9575202, 
+                    50.9350479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2587820919", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

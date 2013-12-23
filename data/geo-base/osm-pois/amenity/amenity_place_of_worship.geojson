@@ -123,20 +123,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9270638, 
-                    50.9712193
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "223291279", 
-            "properties": {
-                "tags/name": "Edith-Stein-Kapelle"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9456971, 
                     50.9831157
                 ]
@@ -943,34 +929,6 @@
             "id": "292331673", 
             "properties": {
                 "tags/name": "Trauerhalle"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0042563, 
-                    50.8457096
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "292430022", 
-            "properties": {
-                "tags/name": "St. Clemens"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8338983, 
-                    50.9399108
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "292698128", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -1838,7 +1796,7 @@
             "type": "Feature", 
             "id": "469472279", 
             "properties": {
-                "tags/name": "Dietrich-Bonhoeffer-Haus"
+                "tags/name": "Immanuel-Kirche"
             }
         }, 
         {
@@ -2881,20 +2839,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8772425, 
-                    50.9432096
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1672138518", 
-            "properties": {
-                "tags/name": "Ukrainisch-Orthodoxe Kapelle im Haus Andreas"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8874272, 
                     51.0182337
                 ]
@@ -3057,34 +3001,6 @@
             "id": "2162177504", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8373456, 
-                    50.9360901
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2211287891", 
-            "properties": {
-                "tags/name": "St. Marien"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8353308, 
-                    50.9386525
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2213001841", 
-            "properties": {
-                "tags/name": "Evangelische Kirche Weiden"
             }
         }, 
         {
@@ -3301,8 +3217,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.928519, 
-                    50.9455315
+                    6.9283015, 
+                    50.9458637
                 ]
             }, 
             "type": "Feature", 

@@ -557,20 +557,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9402534, 
-                    50.9391024
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "898730500", 
-            "properties": {
-                "tags/name": "Chez Nous"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9411509, 
                     50.9347392
                 ]
@@ -1293,6 +1279,20 @@
             "id": "2578762350", 
             "properties": {
                 "tags/name": "Qhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9402625, 
+                    50.9391204
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505665", 
+            "properties": {
+                "tags/name": "Chez Nous"
             }
         }
     ]

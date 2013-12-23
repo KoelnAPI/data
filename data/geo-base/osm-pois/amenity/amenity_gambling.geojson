@@ -39,20 +39,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9398918, 
-                    50.9392536
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "904885237", 
-            "properties": {
-                "tags/name": "Spielsalon Fair Play"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0006883, 
                     50.9381866
                 ]
@@ -173,6 +159,20 @@
             "id": "2419064961", 
             "properties": {
                 "tags/name": "Spielpalast"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399277, 
+                    50.9392731
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505836", 
+            "properties": {
+                "tags/name": "Spielsalon Fair Play"
             }
         }
     ]

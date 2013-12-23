@@ -11,20 +11,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9342667, 
-                    50.9447925
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "175624331", 
-            "properties": {
-                "tags/name": "Kindertagesstätte"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.927081, 
                     50.9710571
                 ]
@@ -271,20 +257,6 @@
             "id": "290444860", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0109144, 
-                    50.8509193
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "292536885", 
-            "properties": {
-                "tags/name": "Kindertagesstätte In der Bohnenbitze 76"
             }
         }, 
         {
@@ -1545,20 +1517,6 @@
             "id": "898627039", 
             "properties": {
                 "tags/name": "Schnullerbaum"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.963275, 
-                    50.923853
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "898941103", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -3127,20 +3085,6 @@
             "id": "2374509817", 
             "properties": {
                 "tags/name": "Kita Haus Adelheid"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9385357, 
-                    50.9643909
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2374510824", 
-            "properties": {
-                "tags/name": "SKM - Familienzentrum Bilderstöckchen"
             }
         }, 
         {

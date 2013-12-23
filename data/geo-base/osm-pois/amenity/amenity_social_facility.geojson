@@ -342,6 +342,34 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0701329, 
+                    50.9650134
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2582984677", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9628192, 
+                    50.9257286
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2587541534", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }

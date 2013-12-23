@@ -95,20 +95,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9477478, 
-                    50.9484276
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "409741004", 
-            "properties": {
-                "tags/name": "MediaPark"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8091682, 
                     50.80754
                 ]
@@ -495,6 +481,20 @@
             "id": "2498744792", 
             "properties": {
                 "tags/name": "MVZ RNR Leverkusen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0567945, 
+                    50.8812971
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2581587247", 
+            "properties": {
+                "tags/name": "Mattner-Klinik"
             }
         }
     ]

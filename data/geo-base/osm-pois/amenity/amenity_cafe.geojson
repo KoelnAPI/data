@@ -1033,20 +1033,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.956047, 
-                    50.9416148
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "377684620", 
-            "properties": {
-                "tags/name": "Eataliano"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9515252, 
                     50.9397385
                 ]
@@ -4981,8 +4967,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8193801, 
-                    50.93731
+                    6.819288, 
+                    50.9373072
                 ]
             }, 
             "type": "Feature", 

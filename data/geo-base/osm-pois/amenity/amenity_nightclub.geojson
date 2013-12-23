@@ -1,7 +1,7 @@
 {
     "type": "FeatureCollection", 
     "bbox": [
-        6.8948382, 
+        6.9003367, 
         50.9269785, 
         7.1101378, 
         51.0988891
@@ -509,20 +509,6 @@
             "id": "2569080812", 
             "properties": {
                 "tags/name": "e-feld"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8948382, 
-                    50.9539426
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2575851629", 
-            "properties": {
-                "tags/name": "Tango Colon (Schule für Argentinischen Tango)"
             }
         }
     ]

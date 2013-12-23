@@ -1943,8 +1943,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.956733, 
-                    50.9265574
+                    6.9563112, 
+                    50.9265854
                 ]
             }, 
             "type": "Feature", 
@@ -2811,34 +2811,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8447882, 
-                    50.9362117
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2216463435", 
-            "properties": {
-                "tags/name": "Albert-Schweitzer-Schule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8386078, 
-                    50.9345592
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2216549000", 
-            "properties": {
-                "tags/name": "Georg-Büchner-Gymnasium"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0929112, 
                     50.9961937
                 ]
@@ -3239,6 +3211,34 @@
             "id": "2567241108", 
             "properties": {
                 "tags/name": "Gemeinschaftsgrundschule Balthasarstraße"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0259639, 
+                    51.0630797
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2588339613", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0254665, 
+                    51.0630382
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2588339619", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

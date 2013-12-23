@@ -1621,8 +1621,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8437353, 
-                    50.9386189
+                    6.8437065, 
+                    50.9385914
                 ]
             }, 
             "type": "Feature", 
@@ -1635,14 +1635,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8417434, 
-                    50.9393107
+                    6.8418607, 
+                    50.9392476
                 ]
             }, 
             "type": "Feature", 
             "id": "292680038", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Sushi Bar GAN-MI"
             }
         }, 
         {
@@ -6325,8 +6325,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9591118, 
-                    50.9222324
+                    6.959157, 
+                    50.922183
                 ]
             }, 
             "type": "Feature", 
@@ -7711,20 +7711,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.939814, 
-                    50.9390764
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "631102757", 
-            "properties": {
-                "tags/name": "Sushi am Ring"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0262023, 
                     51.0289199
                 ]
@@ -7761,20 +7747,6 @@
             "id": "635722178", 
             "properties": {
                 "tags/name": "Arkade"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9576544, 
-                    50.9363846
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "635884678", 
-            "properties": {
-                "tags/name": "La Campana"
             }
         }, 
         {
@@ -9797,34 +9769,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9399091, 
-                    50.9393146
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "904885174", 
-            "properties": {
-                "tags/name": "Il Forno"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9399566, 
-                    50.9394818
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "904885216", 
-            "properties": {
-                "tags/name": "Sausalitos"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0863947, 
                     50.9221063
                 ]
@@ -11155,8 +11099,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8816001, 
-                    50.9380339
+                    6.8816367, 
+                    50.9380043
                 ]
             }, 
             "type": "Feature", 
@@ -11169,8 +11113,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.881072, 
-                    50.938028
+                    6.8810515, 
+                    50.9380197
                 ]
             }, 
             "type": "Feature", 
@@ -14305,8 +14249,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.843595, 
-                    50.9383703
+                    6.8433957, 
+                    50.938322
                 ]
             }, 
             "type": "Feature", 
@@ -14341,20 +14285,6 @@
             "id": "1969878324", 
             "properties": {
                 "tags/name": "Natuzzi"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8389089, 
-                    50.9286527
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1974985831", 
-            "properties": {
-                "tags/name": "Terra Rossa"
             }
         }, 
         {
@@ -16461,8 +16391,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8407439, 
-                    50.9380224
+                    6.8407226, 
+                    50.9380493
                 ]
             }, 
             "type": "Feature", 
@@ -16511,6 +16441,76 @@
             "id": "2578761808", 
             "properties": {
                 "tags/name": "Limburg"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399469, 
+                    50.9393538
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505667", 
+            "properties": {
+                "tags/name": "Il Forno"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.939994, 
+                    50.939535
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505834", 
+            "properties": {
+                "tags/name": "Sausalitos"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.939903, 
+                    50.9390865
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2583505837", 
+            "properties": {
+                "tags/name": "Sushi am Ring"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9593057, 
+                    50.9225048
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2587115176", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9584534, 
+                    50.9254494
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2587148007", 
+            "properties": {
+                "tags/name": "Sushi Teria"
             }
         }
     ]
