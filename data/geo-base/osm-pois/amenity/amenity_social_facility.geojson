@@ -249,20 +249,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0588866, 
-                    50.895426
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2536690013", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9558774, 
                     50.9211097
                 ]

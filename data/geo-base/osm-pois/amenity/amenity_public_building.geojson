@@ -319,20 +319,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8970277, 
-                    50.9422733
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1450914111", 
-            "properties": {
-                "tags/name": "Bundesnetzagentur Außenstelle Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8978107, 
                     51.0222159
                 ]
@@ -507,6 +493,20 @@
             }, 
             "type": "Feature", 
             "id": "2585733909", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9040783, 
+                    50.941822
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2597609094", 
             "properties": {
                 "tags/name": ""
             }

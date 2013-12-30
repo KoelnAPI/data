@@ -235,20 +235,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8890134, 
-                    50.9468523
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1395344007", 
-            "properties": {
-                "tags/name": "Sixt"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.889238, 
                     50.8794088
                 ]

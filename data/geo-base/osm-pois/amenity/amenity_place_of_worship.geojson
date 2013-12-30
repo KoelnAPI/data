@@ -151,20 +151,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8772809, 
-                    50.9580985
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "243451987", 
-            "properties": {
-                "tags/name": "Emmauskirche"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8934096, 
                     50.9660307
                 ]
@@ -2601,20 +2587,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9110243, 
-                    50.956705
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1665899737", 
-            "properties": {
-                "tags/name": "Aliyyül-Murteza-Moschee"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9176529, 
                     51.0506287
                 ]
@@ -3281,6 +3253,20 @@
             "id": "2564052240", 
             "properties": {
                 "tags/name": "St. Joseph"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9109352, 
+                    50.9567647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2592976015", 
+            "properties": {
+                "tags/name": "Aliyyül-Murteza-Moschee"
             }
         }
     ]

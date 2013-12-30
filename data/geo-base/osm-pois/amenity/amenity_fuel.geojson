@@ -151,8 +151,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8804761, 
-                    50.9470016
+                    6.8803857, 
+                    50.9470036
                 ]
             }, 
             "type": "Feature", 
@@ -2609,6 +2609,20 @@
             "id": "2588487642", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.909742, 
+                    50.9383002
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2597609090", 
+            "properties": {
+                "tags/name": "Esso"
             }
         }
     ]

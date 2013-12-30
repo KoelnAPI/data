@@ -1523,8 +1523,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0508292, 
-                    50.8743094
+                    7.0507128, 
+                    50.8743908
                 ]
             }, 
             "type": "Feature", 
@@ -2839,8 +2839,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.922494, 
-                    50.9428676
+                    6.9225417, 
+                    50.9428996
                 ]
             }, 
             "type": "Feature", 
@@ -5989,20 +5989,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9034856, 
-                    50.8941617
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2218352939", 
-            "properties": {
-                "tags/name": "EisZeit"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9618578, 
                     50.9393085
                 ]
@@ -6459,6 +6445,34 @@
             "id": "2564828038", 
             "properties": {
                 "tags/name": "Linie 7"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1562157, 
+                    50.8136749
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2589993082", 
+            "properties": {
+                "tags/name": "La Piazza"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9034814, 
+                    50.8941482
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2598906899", 
+            "properties": {
+                "tags/name": "Cafe EISzeit"
             }
         }
     ]

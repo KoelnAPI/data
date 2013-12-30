@@ -277,20 +277,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8709658, 
-                    50.947885
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "244123537", 
-            "properties": {
-                "tags/name": "Rheinische Förderschule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9220892, 
                     50.9581955
                 ]
@@ -2629,20 +2615,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8757972, 
-                    50.9446899
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1710245115", 
-            "properties": {
-                "tags/name": "LVR Förderschule Anna-Freud-Schule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8690798, 
                     50.8702251
                 ]
@@ -3239,6 +3211,48 @@
             "id": "2588339619", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8801447, 
+                    50.9414332
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2590454604", 
+            "properties": {
+                "tags/name": "Gemeinschaftsgrundschule Müngersdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.878305, 
+                    50.9507912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2592039116", 
+            "properties": {
+                "tags/name": "Aktive Schule (GGS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.878305, 
+                    50.9507912
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2592042260", 
+            "properties": {
+                "tags/name": "Aktive Schule (GGS)"
             }
         }
     ]

@@ -207,8 +207,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9114414, 
-                    50.9569926
+                    6.9115071, 
+                    50.9569677
                 ]
             }, 
             "type": "Feature", 
@@ -459,22 +459,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8982415, 
-                    50.9458593
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "249059838", 
-            "properties": {
-                "tags/name": "Il Nido"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8960462, 
-                    50.9463149
+                    6.8959787, 
+                    50.9463176
                 ]
             }, 
             "type": "Feature", 
@@ -501,8 +487,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8863683, 
-                    50.9471878
+                    6.8862715, 
+                    50.9471888
                 ]
             }, 
             "type": "Feature", 
@@ -4079,20 +4065,6 @@
             "id": "401625158", 
             "properties": {
                 "tags/name": "Roemerkrug"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9064811, 
-                    50.8325972
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "402550324", 
-            "properties": {
-                "tags/name": "Brühler Schloßkeller"
             }
         }, 
         {
@@ -7837,8 +7809,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8872361, 
-                    50.9448813
+                    6.8872338, 
+                    50.9448684
                 ]
             }, 
             "type": "Feature", 
@@ -11099,8 +11071,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8816367, 
-                    50.9380043
+                    6.8817649, 
+                    50.9381007
                 ]
             }, 
             "type": "Feature", 
@@ -12121,8 +12093,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8898528, 
-                    50.9455297
+                    6.8899259, 
+                    50.9456067
                 ]
             }, 
             "type": "Feature", 
@@ -15019,8 +14991,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9033495, 
-                    50.8942541
+                    6.9033416, 
+                    50.8942883
                 ]
             }, 
             "type": "Feature", 
@@ -16511,6 +16483,48 @@
             "id": "2587148007", 
             "properties": {
                 "tags/name": "Sushi Teria"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1561724, 
+                    50.813636
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2589993106", 
+            "properties": {
+                "tags/name": "TroLounge"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0487818, 
+                    50.8730754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2598903227", 
+            "properties": {
+                "tags/name": "Restaurant am Yachthafen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0428179, 
+                    50.8686946
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2598903235", 
+            "properties": {
+                "tags/name": "Restaurant im Bitzhof"
             }
         }
     ]

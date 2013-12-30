@@ -571,20 +571,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.891223, 
-                    50.9468251
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "249060957", 
-            "properties": {
-                "tags/name": "Subway"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0019125, 
                     51.0559362
                 ]
@@ -5415,7 +5401,7 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8894272, 
+                    6.8894285, 
                     50.9402846
                 ]
             }, 
@@ -7109,8 +7095,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8775633, 
-                    50.9381215
+                    6.8776173, 
+                    50.9381201
                 ]
             }, 
             "type": "Feature", 
@@ -7375,20 +7361,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0486513, 
-                    50.869819
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2445377164", 
-            "properties": {
-                "tags/name": "Pizza4You"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9562027, 
                     50.931232
                 ]
@@ -7565,6 +7537,20 @@
             "id": "2578761803", 
             "properties": {
                 "tags/name": "King Wah"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8157114, 
+                    51.062419
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2598943455", 
+            "properties": {
+                "tags/name": "Jimmys Grill"
             }
         }
     ]

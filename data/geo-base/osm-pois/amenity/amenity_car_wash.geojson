@@ -249,20 +249,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9106232, 
-                    50.9402697
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1735431753", 
-            "properties": {
-                "tags/name": "mr wash"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1033566, 
                     50.8401041
                 ]

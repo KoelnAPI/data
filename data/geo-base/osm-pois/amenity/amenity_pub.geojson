@@ -1355,8 +1355,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8859264, 
-                    50.946926
+                    6.8859086, 
+                    50.9469606
                 ]
             }, 
             "type": "Feature", 
@@ -1531,20 +1531,6 @@
             "id": "256217021", 
             "properties": {
                 "tags/name": "rosenstock"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.955146, 
-                    50.967894
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "256313595", 
-            "properties": {
-                "tags/name": "Hahnheiser"
             }
         }, 
         {
@@ -4813,8 +4799,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.920057, 
-                    50.9448451
+                    6.9200141, 
+                    50.9448762
                 ]
             }, 
             "type": "Feature", 
