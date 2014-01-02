@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=9"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/264/download"
 NAME="finanzplan_produktbereiche"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
