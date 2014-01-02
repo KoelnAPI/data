@@ -12,20 +12,20 @@ CSV files in this folder contain the following columns:
 * Stations_ID
 * Mess_Datum: Date in the format "YYYYMMDD"
 * Qualitaets_Niveau: An integer (1, 3, 5, 7, 10) indicating the data quality level
-* BEDECKUNGSGRAD: Cloud coverage level as a float between 0.0 and 8.0
-* REL_FEUCHTE: Relative humidity as percentage float
-* DAMPFDRUCK: Unknown ("steam pressure"), float between 1.3 and ~23.2
-* LUFTTEMPERATUR: Air temperature in degrees Celsius, float
-* LUFTDRUCK_STATIONSHOEHE: Air pressure, float
-* WINDGESCHWINDIGKEIT: Wind speed, probably in meters/second
-* LUFTTEMP_AM_ERDB_MINIMUM: Ground temperature minimum
-* LUFTTEMPERATUR_MINIMUM: Air temperature minimum
-* LUFTTEMPERATUR_MAXIMUM: Air temperature maximum
-* WINDSPITZE_MAXIMUM: Wind speed maximum
-* NIEDERSCHLAGSHOEHE_IND: Unknown indicator, values 0, 1, 6, 7, 8
-* NIEDERSCHLAGSHOEHE: Percitipation level, probably in millimeters
-* SONNENSCHEINDAUER: Sunshine duration in hours
-* SCHNEEHOEHE: Snow level
+* BEDECKUNGSGRAD: Cloud coverage mean as a float between 0.0 and 8.0.
+* REL_FEUCHTE: Mean of relative humidity as percentage float.
+* DAMPFDRUCK: Steam pressure in hpa, float between 1.3 and ~23.2
+* LUFTTEMPERATUR: Air temperature daily mean in degrees Celsius, float
+* LUFTDRUCK_STATIONSHOEHE: Air pressure daily mean in hpa, float
+* WINDGESCHWINDIGKEIT: Wind speed daily mean, probably in meters/second
+* LUFTTEMP_AM_ERDB_MINIMUM: Ground temperature daily minimum
+* LUFTTEMPERATUR_MINIMUM: Air temperature daily minimum
+* LUFTTEMPERATUR_MAXIMUM: Air temperature daily maximum
+* WINDSPITZE_MAXIMUM: Wind speed daily maximum
+* NIEDERSCHLAGSHOEHE_IND: Percitipation type, integer values 0, 1, 6, 7, 8
+* NIEDERSCHLAGSHOEHE: Percitipation level, daily sum in millimeters
+* SONNENSCHEINDAUER: Sunshine duration, daily sum in hours
+* SCHNEEHOEHE: Snow level in cm
 
 ## Beschreibung
 
