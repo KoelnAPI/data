@@ -44,7 +44,9 @@ Unknown
 
 ## Tools
 
-The script download.sh can be used to acquire the latest source data.
+The script "download.sh" can be used to acquire the latest source data.
+
+"analysis.R" is an [R](http://www.r-project.org/) script that can be used to as a starting point to analyse and visualize the data.
 
 ## Updates
 
