@@ -27,7 +27,7 @@ cd $ROOT
 # convert and merge CSV data
 
 TXTFILE=$(find _source/historic -iname "produkt*.txt")
-in2csv -f csv -S $TXTFILE|csvcut -C eor > weather-dwd-2667.csv
+in2csv -f csv -S $TXTFILE|csvcut -C Stations_ID,eor > weather-dwd-2667.csv
 
 TXTFILE=$(find _source/latest -iname "produkt*.txt")
-in2csv -f csv -S $TXTFILE|csvcut -C eor|tail -n+2 >> weather-dwd-2667.csv
+in2csv -f csv -S $TXTFILE|csvcut -C Stations_ID,eor|tail -n+2 >> weather-dwd-2667.csv

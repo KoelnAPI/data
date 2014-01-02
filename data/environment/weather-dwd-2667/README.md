@@ -7,9 +7,12 @@ Historic weather records from Cologne/Bonn airport (EDDK), acquired from [DWD](h
 
 The records have a daily interval, starting in September 1957.
 
+
+![Example plot](temperature-plot.png "Time series plot of the daily average air temperature")
+
+
 CSV files in this folder contain the following columns:
 
-* Stations_ID
 * Mess_Datum: Date in the format "YYYYMMDD"
 * Qualitaets_Niveau: An integer (1, 3, 5, 7, 10) indicating the data quality level
 * BEDECKUNGSGRAD: Cloud coverage mean as a float between 0.0 and 8.0.
