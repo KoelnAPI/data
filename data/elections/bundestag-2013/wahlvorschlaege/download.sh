@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=86"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/269/download"
 NAME=wahlvorschlaege
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
