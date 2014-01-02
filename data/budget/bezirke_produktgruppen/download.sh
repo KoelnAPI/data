@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=7"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/262/download"
 NAME="bezirke_produktgruppen"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
