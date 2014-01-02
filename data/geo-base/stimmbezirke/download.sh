@@ -23,3 +23,27 @@ cd ..
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
+
+# Create temporary GeoJSON
+ogr2ogr -f GeoJSON stimmbezirke_temp.geojson \
+	"_source/$NAME/Shape Stimmbezirk/Stimmbezirk.shp" \
+	-t_srs "EPSG:4326"
+
+# set 7 digits float precision, sort, indent
+python ../../../tools/lessprecise/lessprecise.py \
+	--indent 4 --sort 1 -o stimmbezirke.geojson \
+	stimmbezirke_temp.geojson
+
+# remove temp GeoJSON file
+rm stimmbezirke_temp.geojson
+
+# CVS derivative
+#ogr2ogr -f CSV stimmbezirke_temp.csv \
+#	"_source/$NAME/Shape Stimmbezirk/Stimmbezirk.shp" \
+#	-t_srs "EPSG:4326"
+#
+# Sort by ID
+#csvsort -y 10000 -c 1 stimmbezirke_temp.csv > stimmbezirke.csv
+#
+# delete intermediate file
+#rm stimmbezirke_temp.csv
