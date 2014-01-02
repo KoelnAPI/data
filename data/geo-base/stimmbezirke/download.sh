@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=48"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/555/download"
 NAME="Stimmbezirk"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip

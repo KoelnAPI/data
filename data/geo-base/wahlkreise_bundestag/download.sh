@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=47"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/565/download"
 NAME="Bundestagswahlkreis"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip

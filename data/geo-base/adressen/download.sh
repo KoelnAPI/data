@@ -4,8 +4,8 @@
 #   
 #   sh ./download.sh
 
-
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=60"
+# URL of shapefile download
+SOURCE_URL="http://www.offenedaten-koeln.de/node/536/download"
 NAME="Adressen"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip

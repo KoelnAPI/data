@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=74"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/289/download"
 NAME="wahllokale"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
