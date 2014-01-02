@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=5"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/268/download"
 NAME="teilfinanzplan"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
