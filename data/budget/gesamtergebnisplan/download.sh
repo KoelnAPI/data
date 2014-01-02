@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=2"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/265/download"
 NAME="gesamtergebnisplan"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
