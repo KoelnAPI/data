@@ -1,0 +1,6 @@
+Stations_id; Stationshoehe; Geogr.Breite; Geogr.Laenge; von_datum; bis_datum; Stationsname;                                                                                                             
+  2667;   68; 50.8625;  7.1214;19490101;19570831;Köln-Bonn                                                                                                                                              
+  2667;   68; 50.8625;  7.1214;19570901;19700320;Köln-Bonn                                                                                                                                              
+  2667;   73; 50.8697;  7.1361;19700321;19891114;Köln-Bonn                                                                                                                                              
+  2667;   92; 50.8661;  7.1586;19891115;20040423;Köln-Bonn                                                                                                                                              
+  2667;   92; 50.8644;  7.1572;20040424;        ;Köln-Bonn                                                                                                                                              
