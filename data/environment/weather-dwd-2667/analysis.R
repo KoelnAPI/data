@@ -30,8 +30,15 @@ weather.df$ndschlag_hoehe[weather.df$ndschlag_hoehe == -999.0] <- NA
 weather.df$sonne[weather.df$sonne == -999.0] <- NA
 weather.df$schnee[weather.df$schnee == -999.0] <- NA
 
-# create time series using zoo package
+# create temperature time series using zoo package (for whatever reason)
 weather.ltemp.zoo <- with(weather.df, zoo(ltemp, order.by = weather.df$datum))
+
+# create temperature time series as ts object and analyse
+weather.ltemp.ts <- ts(weather.df$ltemp, frequency=365, start=c(1957, 243))
+ltemp.decomp <- decompose(weather.ltemp.ts)
+plot(ltemp.decomp$trend)
+ltemp.decomp.trend.df <- as.data.frame(ltemp.decomp$trend)
+ggplot(ltemp.decomp.trend.df$x, aes(x=x)) + geom_line()
 
 # Time series plot of air temperature
 ggplot(weather.df, aes(datum, ltemp)) + geom_line(size=0.2) + geom_smooth() + ggtitle("Air temperature Cologne/Bonn 1957 - 2013") + xlab("Date") + ylab("Temperature (°C)")
