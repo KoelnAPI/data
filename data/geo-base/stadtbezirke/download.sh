@@ -23,3 +23,16 @@ cd ..
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
+
+# Create temporary GeoJSON
+ogr2ogr -f GeoJSON stadtbezirke_temp.geojson \
+	"_source/$NAME/Stadtbezirk.shp" \
+	-t_srs "EPSG:4326"
+
+# set 7 digits float precision, sort, indent
+python ../../../tools/lessprecise/lessprecise.py \
+	--indent 4 --sort 1 -o stadtbezirke.geojson \
+	stadtbezirke_temp.geojson
+
+# remove temp GeoJSON file
+rm stadtbezirke_temp.geojson
