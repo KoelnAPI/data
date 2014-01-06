@@ -21,11 +21,6 @@ unzip -qq $FILENAME
 rm $FILENAME
 cd ..
 
-# extra move for inner folder "Shape Adresse"
-mv $NEW_FOLDER/Shape\ Adresse/* $NEW_FOLDER/
-rm -rf $NEW_FOLDER/Shape\ Adresse
-# end extra move
-
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
