@@ -95,20 +95,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8809546, 
-                    50.9547631
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "218217204", 
-            "properties": {
-                "tags/name": "St. Konrad"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8721026, 
                     50.9631483
                 ]
@@ -2055,20 +2041,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9219617, 
-                    50.9328248
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "621125282", 
-            "properties": {
-                "tags/name": "Ev. Kirchengemeinde Köln-Lindenthal"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0573157, 
                     51.0653473
                 ]
@@ -2279,20 +2251,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8561247, 
-                    50.9324921
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "824237365", 
-            "properties": {
-                "tags/name": "St. Pankratius"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9148541, 
                     50.9359589
                 ]
@@ -2371,20 +2329,6 @@
             "id": "1089124099", 
             "properties": {
                 "tags/name": "Graeco-Russisch-Orthodoxe Kapelle des Hl. Propheten Elias"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9249482, 
-                    50.9313899
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1116991651", 
-            "properties": {
-                "tags/name": "Evangelische Studierendengemeinde Uni Köln Sandkapelle"
             }
         }, 
         {
@@ -2987,20 +2931,6 @@
             "id": "2295478283", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8524006, 
-                    50.9296662
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2344507937", 
-            "properties": {
-                "tags/name": "Marienkapelle"
             }
         }, 
         {

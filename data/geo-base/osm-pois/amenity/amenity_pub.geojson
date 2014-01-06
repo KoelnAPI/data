@@ -165,6 +165,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    6.9207681, 
+                    50.9544702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "196186731", 
+            "properties": {
+                "tags/name": "Fridolin-Eck"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     6.9246184, 
                     50.9518538
                 ]
@@ -1313,20 +1327,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8873137, 
-                    50.9553104
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "248977856", 
-            "properties": {
-                "tags/name": "zum Kiebitz"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8956686, 
                     50.9463508
                 ]
@@ -2377,8 +2377,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.951996, 
-                    50.9472449
+                    6.9518826, 
+                    50.9477219
                 ]
             }, 
             "type": "Feature", 
@@ -6031,8 +6031,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9186389, 
-                    50.9313973
+                    6.9186842, 
+                    50.931414
                 ]
             }, 
             "type": "Feature", 
@@ -6829,8 +6829,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9160928, 
-                    50.9308316
+                    6.9161114, 
+                    50.930833
                 ]
             }, 
             "type": "Feature", 
@@ -7809,20 +7809,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9280251, 
-                    50.9502908
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1732898269", 
-            "properties": {
-                "tags/name": "Zum Musketier"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9367652, 
                     50.9366061
                 ]
@@ -8531,6 +8517,20 @@
             "id": "2564044508", 
             "properties": {
                 "tags/name": "em ahle Brennes"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8111591, 
+                    51.066146
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2599343272", 
+            "properties": {
+                "tags/name": "Rock Inn"
             }
         }
     ]

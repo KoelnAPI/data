@@ -186,7 +186,7 @@
             "type": "Feature", 
             "id": "230380880", 
             "properties": {
-                "tags/name": "Gesamtschule"
+                "tags/name": "Förderschule Sprache"
             }
         }, 
         {
@@ -669,20 +669,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.857256, 
-                    50.9326281
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "266339492", 
-            "properties": {
-                "tags/name": "Ildefons-Herwegen-Schule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1183292, 
                     51.0147931
                 ]
@@ -1033,8 +1019,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9180449, 
-                    50.9320134
+                    6.9180482, 
+                    50.9319983
                 ]
             }, 
             "type": "Feature", 
@@ -2105,20 +2091,6 @@
             "id": "859477036", 
             "properties": {
                 "tags/name": "Realschule Hackenbroich"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9181074, 
-                    50.9345054
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "875631645", 
-            "properties": {
-                "tags/name": "Erzb. Liebfrauenschule Köln"
             }
         }, 
         {

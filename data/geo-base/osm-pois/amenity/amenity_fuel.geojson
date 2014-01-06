@@ -2139,8 +2139,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8535956, 
-                    50.9352596
+                    6.8535576, 
+                    50.9352521
                 ]
             }, 
             "type": "Feature", 
@@ -2385,20 +2385,6 @@
             "id": "2117495477", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8524188, 
-                    50.9197194
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2130690333", 
-            "properties": {
-                "tags/name": "Shell"
             }
         }, 
         {

@@ -1033,8 +1033,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.918294, 
-                    50.9315858
+                    6.9183456, 
+                    50.9316037
                 ]
             }, 
             "type": "Feature", 
@@ -1223,6 +1223,20 @@
             "id": "340232023", 
             "properties": {
                 "tags/name": "Bereket Grill"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9452576, 
+                    50.9474521
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "340252305", 
+            "properties": {
+                "tags/name": "Vapiano"
             }
         }, 
         {
@@ -2475,8 +2489,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9232085, 
-                    50.9332476
+                    6.9232442, 
+                    50.9332457
                 ]
             }, 
             "type": "Feature", 
@@ -3183,20 +3197,6 @@
             "id": "595715291", 
             "properties": {
                 "tags/name": "Subway"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8367282, 
-                    50.9153933
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "595715534", 
-            "properties": {
-                "tags/name": "Burger King"
             }
         }, 
         {
@@ -4225,8 +4225,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9996109, 
-                    51.0708526
+                    6.9996273, 
+                    51.0707873
                 ]
             }, 
             "type": "Feature", 
@@ -4869,8 +4869,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9177547, 
-                    50.9314015
+                    6.9176267, 
+                    50.9313565
                 ]
             }, 
             "type": "Feature", 
@@ -6983,20 +6983,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.851851, 
-                    50.919622
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2130675666", 
-            "properties": {
-                "tags/name": "KFC"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8967183, 
                     51.0205126
                 ]
@@ -7053,28 +7039,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8593636, 
-                    50.9376435
+                    6.8593538, 
+                    50.9376512
                 ]
             }, 
             "type": "Feature", 
             "id": "2209797811", 
             "properties": {
                 "tags/name": "Pizza Boy"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8506952, 
-                    50.9195203
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2217252784", 
-            "properties": {
-                "tags/name": "McDonald's"
             }
         }, 
         {
@@ -7551,6 +7523,34 @@
             "id": "2598943455", 
             "properties": {
                 "tags/name": "Jimmys Grill"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0038027, 
+                    51.067702
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2599384498", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9271066, 
+                    50.9456117
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2603568228", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

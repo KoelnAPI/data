@@ -3273,8 +3273,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0505864, 
-                    50.9849502
+                    7.0502499, 
+                    50.9854395
                 ]
             }, 
             "type": "Feature", 
@@ -6437,20 +6437,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0076328, 
-                    51.0672169
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "889646822", 
-            "properties": {
-                "tags/name": "P&R Opladen Bhf"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0081156, 
                     51.0676821
                 ]
@@ -6801,8 +6787,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1139329, 
-                    50.9592036
+                    7.1135767, 
+                    50.9595161
                 ]
             }, 
             "type": "Feature", 
@@ -10581,8 +10567,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1227879, 
-                    50.9850188
+                    7.122737, 
+                    50.984832
                 ]
             }, 
             "type": "Feature", 
@@ -10657,6 +10643,48 @@
             }, 
             "type": "Feature", 
             "id": "2594895976", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1129096, 
+                    50.9594404
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2602066105", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1800442, 
+                    50.8160777
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2602393128", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1091067, 
+                    50.8143863
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2610274176", 
             "properties": {
                 "tags/name": ""
             }
