@@ -36,3 +36,6 @@ python ../../../tools/lessprecise/lessprecise.py \
 
 # remove temp GeoJSON file
 rm stadtbezirke_temp.geojson
+
+# Create KML
+ogr2ogr -f KML stadtbezirke.kml _source/$NAME/Stadtbezirk.shp
