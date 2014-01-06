@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 # URL of shapefile download
-SOURCE_URL="http://www.offenedaten-koeln.de/node/536/download"
+SOURCE_URL="http://www.offenedaten-koeln.de/node/576/download"
 NAME="Adressen"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip
