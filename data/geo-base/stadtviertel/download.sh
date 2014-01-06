@@ -23,3 +23,19 @@ cd ..
 rm -rf $FINAL_FOLDER
 mv $NEW_FOLDER $FINAL_FOLDER
 cd ..
+
+# Create temporary GeoJSON
+ogr2ogr -f GeoJSON stadtviertel_temp.geojson \
+	"_source/$NAME/Stadtviertel.shp" \
+	-t_srs "EPSG:4326"
+
+# set 7 digits float precision, sort, indent
+python ../../../tools/lessprecise/lessprecise.py \
+	--indent 4 --sort 1 -o stadtviertel.geojson \
+	stadtviertel_temp.geojson
+
+# remove temp GeoJSON file
+rm stadtviertel_temp.geojson
+
+# Create KML
+ogr2ogr -f KML stadtviertel.kml _source/$NAME/Stadtviertel.shp
