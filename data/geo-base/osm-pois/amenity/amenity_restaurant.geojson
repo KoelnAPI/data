@@ -851,20 +851,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8622871, 
-                    50.9321898
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "266311341", 
-            "properties": {
-                "tags/name": "Birkenhof"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8657039, 
                     50.9368052
                 ]
@@ -2223,8 +2209,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9210431, 
-                    50.9306421
+                    6.9210837, 
+                    50.9306406
                 ]
             }, 
             "type": "Feature", 
@@ -2335,8 +2321,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9182354, 
-                    50.9364886
+                    6.9182217, 
+                    50.9365078
                 ]
             }, 
             "type": "Feature", 
@@ -3295,20 +3281,6 @@
             "id": "368318665", 
             "properties": {
                 "tags/name": "Klostermühle"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.7871389, 
-                    51.0806917
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "368954641", 
-            "properties": {
-                "tags/name": "Waldgasthaus Tannenbusch"
             }
         }, 
         {
@@ -5695,8 +5667,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9212778, 
-                    50.9322704
+                    6.9212584, 
+                    50.9322709
                 ]
             }, 
             "type": "Feature", 
@@ -8985,20 +8957,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9196076, 
-                    50.9309796
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "763549571", 
-            "properties": {
-                "tags/name": "Loup de Mer"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9207272, 
                     50.9306922
                 ]
@@ -10280,7 +10238,7 @@
             "type": "Feature", 
             "id": "976649075", 
             "properties": {
-                "tags/name": "Sion em Keldenich"
+                "tags/name": "Café Waschsalon 2"
             }
         }, 
         {
@@ -11267,8 +11225,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9214939, 
-                    50.9326248
+                    6.9214507, 
+                    50.9326193
                 ]
             }, 
             "type": "Feature", 
@@ -11491,8 +11449,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9171054, 
-                    50.9312173
+                    6.9170305, 
+                    50.9311604
                 ]
             }, 
             "type": "Feature", 

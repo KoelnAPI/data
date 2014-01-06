@@ -2041,8 +2041,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9270962, 
-                    50.9233545
+                    6.9269891, 
+                    50.9232982
                 ]
             }, 
             "type": "Feature", 
@@ -3749,8 +3749,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9250341, 
-                    50.9313425
+                    6.9250427, 
+                    50.9313928
                 ]
             }, 
             "type": "Feature", 
@@ -4365,8 +4365,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9195286, 
-                    50.9341446
+                    6.9195527, 
+                    50.9341609
                 ]
             }, 
             "type": "Feature", 
@@ -6473,6 +6473,20 @@
             "id": "2598906899", 
             "properties": {
                 "tags/name": "Cafe EISzeit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9199491, 
+                    50.9495054
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2607946403", 
+            "properties": {
+                "tags/name": "Café Fridolin"
             }
         }
     ]

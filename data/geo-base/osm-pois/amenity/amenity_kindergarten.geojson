@@ -200,7 +200,7 @@
             "type": "Feature", 
             "id": "281179473", 
             "properties": {
-                "tags/name": "Staedtischer Kindergarten"
+                "tags/name": "Städtischer Kindergarten"
             }
         }, 
         {
@@ -977,20 +977,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.7868967, 
-                    51.0809614
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "499190385", 
-            "properties": {
-                "tags/name": "Waldkindergarten Dormagen e.V."
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0602854, 
                     51.0927399
                 ]
@@ -1433,20 +1419,6 @@
             "id": "763528449", 
             "properties": {
                 "tags/name": "AWO Robert-Koch-Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9217408, 
-                    50.933143
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "763549635", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -2259,20 +2231,6 @@
             "id": "1628786917", 
             "properties": {
                 "tags/name": "St. Mauritius"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9161768, 
-                    50.9357374
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1655855111", 
-            "properties": {
-                "tags/name": "Katholische Kindertagesstätte Christi-Auferstehung"
             }
         }, 
         {
@@ -3533,6 +3491,20 @@
             "id": "2571532002", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9198292, 
+                    50.9337158
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2600540156", 
+            "properties": {
+                "tags/name": "Erziehungswiss. Fakultät / Universität zu Köln"
             }
         }
     ]

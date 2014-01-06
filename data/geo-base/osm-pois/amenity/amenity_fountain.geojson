@@ -74,7 +74,7 @@
             "type": "Feature", 
             "id": "267355158", 
             "properties": {
-                "tags/name": "Paolozzi-Brunnen"
+                "tags/name": "Rheingartenbrunnen"
             }
         }, 
         {
@@ -1657,6 +1657,20 @@
             "id": "2544211358", 
             "properties": {
                 "tags/name": "Markrbrunnen"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.906979, 
+                    50.8324528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2604443834", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

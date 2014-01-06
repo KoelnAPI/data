@@ -235,14 +235,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0744639, 
-                    50.9754898
+                    7.074377, 
+                    50.975442
                 ]
             }, 
             "type": "Feature", 
             "id": "280833853", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Postamt Dellbrück"
             }
         }, 
         {

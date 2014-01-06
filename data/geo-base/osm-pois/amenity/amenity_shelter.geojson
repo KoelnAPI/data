@@ -5872,6 +5872,20 @@
             "properties": {
                 "tags/name": ""
             }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0519399, 
+                    50.9937531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2599951619", 
+            "properties": {
+                "tags/name": ""
+            }
         }
     ]
 }
