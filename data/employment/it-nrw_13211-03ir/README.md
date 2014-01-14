@@ -8,7 +8,7 @@ Lizenz/License: Vervielfältigung und Verbreitung, auch auszugsweise, mit Quella
 
 ## Beschreibung
 
-![Example plot](unemployment-trend.png "Time series plot of the unemployment trend for Cologne")
+![Example plot](unemployment_trend.png "Time series plot of the unemployment trend for Cologne")
 
 
 Zahl der Arbeitslosen in Köln je Monat ab Januar 2000, nach Geschlecht.
