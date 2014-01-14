@@ -17,6 +17,8 @@ In der Landesdatenbank NRW (www.landesdatenbank.nrw.de) wird die Statistik mit d
 
 Die XLS-Datei unter _source wurden manuell herunter geladen und mit dem Script `to_csv.py` in ein einfaches CSV-Format umgewandelt.
 
+Die Datei `analysis.R` ist ein GNU R Script, das als Ausgangsounkt für eine Analyse der Daten genutzt werden kann.
+
 ## Description
 
 Number of unemployed people in Cologne from January 2000, monthly, by gender.
@@ -24,3 +26,5 @@ Number of unemployed people in Cologne from January 2000, monthly, by gender.
 The Landesdatenbank NRW (www.landesdatenbank.nrw.de) uses the key 13211-03ir for this statistic.
 
 The LS file in the _source folder has been downloaded manually, then converted to simple CSV using the script `to_csv.py`.
+
+The script `analysis.R` is a GNU R script than can be used as a starting point to analyse the data.
