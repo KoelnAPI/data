@@ -23,9 +23,37 @@ All data in this folder is licensed under CC-BY license by the Cologne city admi
 
 ## Datensätze / data sets
 
+### Construction finalizations / Baufertigstellungen
+
+Data on finalized housing construction
+
+([Source](http://www.offenedaten-koeln.de/dataset/bauen-und-wohnen-baufertigstellungen))
+
+### Construction permissions / Baugenehmigungen
+
+Data on authorized housing construction
+
+([Source](http://www.offenedaten-koeln.de/dataset/bauen-und-wohnen-baugenehmigungen))
+
+### Health and social aspects / Gesundheit und Soziales
+
+([Source](http://www.offenedaten-koeln.de/dataset/gesundheit-und-soziales))
+
+### Households / Haushalte
+
+([Source](http://www.offenedaten-koeln.de/dataset/haushalte))
+
+### Political situation / politische Verhältnisse
+
+([Source](http://www.offenedaten-koeln.de/dataset/politische-verh%C3%A4ltnisse))
+
 ### Population / Bevölkerung
 
 Detailed statistics on population on city, city district and sub-district level.
 
-([Source](http://www.offenedaten-koeln.de/offene-daten/?did=22))
+([Source](http://www.offenedaten-koeln.de/dataset/bev%C3%B6lkerung))
+
+### Population change / Bevölkerungsbewegung
+
+([Source](http://www.offenedaten-koeln.de/dataset/bev%C3%B6lkerungsbewegung))
 
