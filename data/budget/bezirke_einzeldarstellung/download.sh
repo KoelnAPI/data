@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/wp-content/plugins/download-monitor/download.php?id=6"
+SOURCE_URL="http://offenedaten-koeln.de/sites/default/files/Bezirke_einzeldarstellung.csv"
 NAME="bezirke_einzeldarstellung"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.csv
