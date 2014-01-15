@@ -1,0 +1,215 @@
+Name;Gewaesser;MNW;MHW;Mittel;Informationsstufe 1;Informationsstufe 2;Informationsstufe 3;Einzugsgebiet;east;north
+Ahlen;Werse;10.00;182.00;32.00;170.00;200.00;250.00;Ems;425346;5733207
+Ahmsen;Werre;32.00;207.00;55.00;;;;Weser;479549;5771202
+Albersloh;Werse;11.00;215.00;45.00;190.00;250.00;300.00;Ems;412451;5748891
+Altena;Lenne;30.00;303.00;68.00;190.00;235.00;430.00;Ruhr;407683;5682847
+Altena_Rahmedestrasse;Rahmede;23.00;104.00;36.00;;;;Ruhr;407743;5682486
+Altenbeken2;Beke;25.00;60.00;30.00;;;;Lippe;494359;5734474
+Altenburg_1;Rur;13.00;118.00;32.00;105.00;135.00;170.00;Rur;315307;5641723
+Appelhuelsen;Stever;8.00;126.00;20.00;140.00;165.00;195.00;Lippe;393018;5749442
+Arloff;Erft;23.00;84.00;33.00;100.00;115.00;130.00;Erft;343747;5607174
+Bachum;Ruhr;72.00;292.00;102.00;210.00;400.00;440.00;Ruhr;426625;5702609
+Baltes;Beeckbach;12.00;63.00;20.00;;;;Schwalm;310529;5668410
+Balve-Garbeck;Hönne;37.00;128.00;55.00;;;;Ruhr;419268;5684936
+Balve_Helle;Hönne;7.00;112.00;23.00;;;;Ruhr;421898;5688764
+Bamenohl;Lenne;102.00;347.00;140.00;;;;Ruhr;428894;5668403
+Beddelhausen;Eder;30.00;202.00;60.00;;;;Weser;464054;5649880
+Belecke_1;Möhne;29.00;185.00;51.00;;;;Ruhr;453263;5704350
+Bentfeld;Lippe;100.00;287.00;140.00;270.00;350.00;370.00;Lippe;474494;5733168
+Bessenich;Neffelbach;38.00;107.00;45.00;110.00;125.00;145.00;Erft;334494;5621078
+Bettrather_Dyck;Niers;45.00;156.00;69.00;;;;Niers;322861;5680207
+Betzdorf (Rheinland-Pfalz);Sieg;;;;;;;Sieg;419897;5627509
+Bierde;Gehle;58.00;263.00;79.00;;;;Weser;502826;5802228
+Bilk;Vechte;18.00;196.00;45.00;200.00;224.00;243.00;Ijssel;383438;5789039
+Birgelen;Birgelener Bach;;;;;;;Rur;300815;5666314
+Bliesheim;Erft;13.00;151.00;31.00;110.00;200.00;230.00;Erft;346719;5627516
+Blomberg;Diestelbach;15.00;245.00;27.00;;;;Weser;507275;5752683
+Boekenfoerde_2;Gieseler;40.00;156.00;62.00;;;;Lippe;457651;5720667
+Brake;Aa;40.00;265.00;65.00;;;;Weser;473858;5769014
+Brakel;Brucht;110.00;320.00;130.00;;;;Weser;513177;5729211
+Bredelar;Hoppecke;28.00;124.00;47.00;;;;Weser;483678;5695421
+Broel;Bröl;;;;;;;Sieg;381573;5627378
+Broeleck;Bröl;12.00;130.00;28.00;;;;Sieg;388477;5633370
+Buchenhofen;Wupper;53.00;241.00;74.00;;;;Wupper;367679;5675964
+Bueren;Afte;16.00;78.00;28.00;;;;Lippe;469795;5711023
+Burg_Veynau;Veybach;39.00;86.00;45.00;80.00;100.00;150.00;Erft;338642;5612063
+Cappel;Glenne;;;;;;;Lippe;451415;5727373
+Daemmerwald;Issel (Ijssel);7.00;133.00;21.00;165.00;195.00;205.00;Ijssel;345695;5734302
+Darfeld;Vechte;;;;198.00;255.00;315.00;Ijssel;381182;5768742
+Dedenborn;Rur;7.00;147.00;33.00;;;;Rur;313248;5607027
+Einen;Ems;59.00;365.00;115.00;355.00;450.00;490.00;Ems;424327;5758567
+Einruhr;Erkensruhr;4.00;118.50;23.50;;;;Rur;314684;5606138
+Eitorf;Sieg;15.00;348.00;64.00;250.00;410.00;460.00;Sieg;390204;5626181
+Erkrath;Düssel;94.00;191.00;104.00;;;;Rhein;354585;5677049
+Eschweiler;Inde;17.00;179.00;37.00;190.00;230.00;260.00;Rur;309047;5632749
+Essen-Hespertal;Hesperbach;22.00;119.00;34.00;;;;Ruhr;364183;5695688
+Feudingen;Lahn;24.00;116.00;39.00;;;;Rhein;452579;5643232
+Fiestel;Große Aue (Aue);100.00;232.00;120.00;;;;Weser;469939;5800421
+Friesheim;Rotbach;18.00;118.00;28.00;110.00;150.00;180.00;Erft;342918;5624969
+Geisbach;Hanfbach;;;;;;;Sieg;380119;5625180
+Geldern;Gelderner Fleuth;66.00;166.00;90.00;;;;Niers;314732;5711446
+Gemuend;Urft;24.00;191.00;45.00;200.00;215.00;265.00;Rur;322378;5605842
+Glesch;Erft;93.00;173.00;120.00;170.00;180.00;195.00;Erft;331215;5649732
+Gloertalsperre_Zulauf;Glör;5.00;47.00;11.00;;;;Ruhr;395348;5676989
+Glueder;Wupper;45.00;222.00;66.00;;;;Wupper;368578;5666371
+Goch;Niers;33.00;169.00;71.00;;;;Niers;303033;5729732
+Greven;Ems;108.00;682.00;241.00;610.00;810.00;870.00;Ems;404285;5772452
+Gronau;Dinkel;6.00;158.00;27.00;153.00;177.00;198.00;Ijssel;365058;5787119
+Haaren;Haarbach;8.00;85.00;14.00;;;;Rur;297694;5630948
+Hagen-Ambrock;Volme;32.00;207.00;58.00;;;;Ruhr;396657;5686836
+Hagen-Eckesey;Volme;62.00;242.00;89.00;170.00;340.00;380.00;Ruhr;392131;5693803
+Hagen-Haspe;Ennepe;22.00;137.00;38.00;;;;Ruhr;389873;5689714
+Hagen-Maecking;Maeckinger-bach;6.00;65.00;22.00;;;;Ruhr;394572;5686440
+Hagen-Maecking2;Hombecke;2.00;59.00;12.00;;;;Ruhr;394199;5686636
+Hagen-Selbecke;Maeckinger-bach;3.00;53.00;15.00;;;;Ruhr;393968;5688086
+Haltern;Lippe;144.00;538.00;216.00;546.00;606.00;664.00;Lippe;374767;5732686
+Haus_Langenfeld;Nette;32.00;102.00;50.00;;;;Niers;314686;5696635
+Havert;Saeffeler Bach;;;;;;;Rur;283328;5658342
+Heek;Dinkel;11.00;152.00;25.00;147.00;183.00;193.00;Ijssel;371080;5775723
+Heilenbecke_Ablauf;Heilenbecke;8.00;73.00;20.00;;;;Ruhr;386451;5679649
+Hemer-Becke;Oese;6.00;113.00;16.00;;;;Ruhr;415719;5695082
+Hemer_Hessufer;Westiger Bach;7.00;111.00;18.00;;;;Ruhr;414047;5692793
+Hemer_Uhlenhof;Sundwiger Bach;16.00;83.00;28.00;;;;Ruhr;414377;5692886
+Herbram_W;Glasebach;30.00;75.00;53.00;;;;Lippe;494176;5724383
+Herford_2;Werre;55.00;396.00;124.00;400.00;460.00;530.00;Weser;477476;5775929
+Herrntrop;Hundem;4.00;93.00;17.00;;;;Ruhr;437350;5659931
+Herzogenrath_1;Wurm;47.00;205.00;61.00;190.00;210.00;240.00;Rur;295569;5639002
+Herzogenrath_2;Broicher Bach;40.00;104.00;49.00;;;;Rur;296768;5638996
+Hilden_1;Itterbach;30.00;148.00;43.00;;;;Rhein;354916;5669701
+Hoerstel;Hörsteler Aa;17.00;87.00;25.00;;;;Ems;403766;5797602
+Hoffnungsthal;Sülz;43.00;262.00;74.00;240.00;300.00;325.00;Sieg;373021;5641467
+Hommerich;Kürtener Sülz;20.00;108.00;32.00;;;;Sieg;379352;5652210
+Honsdorf;Beeckflies;15.00;99.00;25.00;;;;Rur;302276;5654136
+Hopsten;Hopstener Aa;11.00;120.00;23.00;;;;Ems;404646;5803509
+Iserlohn;Baarbach;8.00;129.00;15.00;;;;Ruhr;409613;5695212
+Iserlohn-Hennen;Baarbach;23.00;137.00;34.00;;;;Ruhr;407033;5700490
+Isselburg;Issel (Ijssel);6.00;126.00;28.00;141.00;189.00;199.00;Ijssel;325838;5745438
+Jubachtalsperre_Zulauf;Jubach;8.00;66.00;28.00;;;;Ruhr;403265;5669382
+Juelich-Stadion;Rur;103.00;211.00;119.00;205.00;250.00;290.00;Rur;313710;5644820
+Kall-Sportplatz;Urft;19.00;157.00;36.00;155.00;180.00;230.00;Rur;326687;5602029
+Kapellen;Issumer Fleuth;15.00;72.00;26.00;;;;Niers;317013;5716527
+Kesseler_3;Lippe;30.00;413.00;120.00;439.00;461.00;473.00;Lippe;437018;5723947
+Kickenbach;Lenne;60.00;239.00;94.00;220.00;270.00;290.00;Ruhr;437024;5662317
+Kierspe;Volme;7.00;88.00;19.00;;;;Ruhr;403104;5666294
+Kirchberg1;Inde;;;;170.00;195.00;215.00;Rur;314239;5641161
+Kirchberg2;Mühlenteich;;;;;;;Rur;314335;5641157
+Kluserbruecke;Wupper;17.00;172.00;32.00;;;;Wupper;371493;5679857
+KornelimuensterW;Inde;10.00;134.00;26.00;150.00;170.00;210.00;Rur;301217;5623379
+Kranenbruch;Kranenbach;56.00;105.00;65.00;;;;Schwalm;306902;5680068
+Kreuztal;Ferndorf;9.00;109.00;23.00;;;;Sieg;429429;5645719
+Lamersdorf;Inde;;;;160.00;200.00;235.00;Rur;313789;5636731
+Landesgrenze;Schwalm;21.00;116.00;36.00;;;;Schwalm;296679;5679245
+Langenich;Neffelbach;40.00;122.00;50.00;110.00;140.00;160.00;Erft;336225;5637319
+Legden;Dinkel;7.00;148.00;24.00;;;;Ijssel;368456;5767206
+Lehen_2;Ibbenbürener Aa;7.00;106.00;16.00;;;;Ems;413962;5790844
+Leven;Lippe;58.00;489.00;131.00;527.00;642.00;723.00;Lippe;382390;5730701
+Liemergrund;Ilse;27.00;165.00;40.00;;;;Weser;489725;5764356
+Lindemannsheide_Alt;Bega;136.00;402.00;168.00;;;;Weser;484003;5767174
+Lindemannsheide_neu;Bega;64.00;328.00;96.00;;;;Weser;484339;5766997
+Linnich;Rur;92.00;188.00;107.00;195.00;;;Rur;308690;5651280
+Lippspringe1;Lippe;23.00;60.00;35.00;;;;Lippe;487684;5736641
+Lippstadt-Nordumflut;Lippe;14.00;192.00;60.00;;;;Lippe;453992;5725309
+Lippstadt2;Lippe;;;;;;;Lippe;453845;5724800
+Lippstadt_1;Lippe;41.00;338.00;80.00;350.00;392.00;405.00;Lippe;454098;5724981
+Loehne;Werre;70.00;416.00;109.00;470.00;520.00;570.00;Weser;480190;5783087
+Lohmar;Agger;21.00;333.00;69.00;250.00;390.00;430.00;Sieg;373363;5633754
+Lutum;Berkel;30.00;200.00;50.00;181.00;229.00;260.00;Ijssel;377886;5760773
+Manfort;Dhünn;24.00;156.00;41.00;;;;Wupper;360299;5655968
+Marienfeld_W;Lutter;30.00;145.00;45.00;;;;Ems;448825;5755558
+Menden_1;Sieg;16.00;363.00;71.00;220.00;410.00;440.00;Sieg;370272;5628966
+Menden_Oberroedingh;Hönne;11.00;109.00;26.00;;;;Ruhr;419458;5694822
+Menden_Sauerland;Hönne;22.50;191.00;46.80;;;;Ruhr;415040;5700260
+Meschede;Ruhr;29.00;172.00;50.00;160.00;320.00;380.00;Ruhr;449872;5688755
+Meschede4;Henne;;;;;;;Ruhr;450130;5688107
+Moeschemer-Muehle;Eschweiler Bach;;;;;;;Erft;341410;5604577
+Molzmuehle;Schwalm;28.00;87.00;35.00;;;;Schwalm;309349;5671361
+Monschau;Rur;7.00;128.00;31.00;120.00;145.00;170.00;Rur;304914;5603891
+Morenhoven;Swistbach;14.00;154.00;27.00;160.00;195.00;250.00;Erft;355319;5614542
+Morsbach;Wisserbach;15.00;139.00;35.00;;;;Sieg;411371;5635156
+Muesse;Eder;39.00;159.00;62.00;;;;Weser;449810;5655576
+Mulartshuette;Vichtbach;16.00;109.00;26.00;100.00;115.00;160.00;Rur;302942;5619185
+Multhaeupter Hammer;Alme;45.00;135.00;65.00;;;;Lippe;471795;5704453
+Neheim3;Ruhr;;;;;;;Ruhr;427314;5700994
+Neubrueck;Erft;66.00;141.00;85.00;180.00;;;Erft;335498;5667151
+Neuhaus1;Lippe;14.00;163.00;38.00;;;;Lippe;481445;5732699
+Neuhaus2;Alme;19.00;119.00;38.00;170.00;230.00;250.00;Lippe;479929;5731508
+Neuhaus3;Thune;45.00;110.00;55.00;;;;Lippe;480528;5735030
+Neuhof;Ahr;12.00;128.00;25.00;;;;Rhein;339936;5583650
+Niederbachem;Mehlemer Bach;;;;;;;Rhein;371301;5612101
+Niederdielfen;Weiss;21.00;153.00;41.00;;;;Sieg;435262;5635013
+Niederntudorf;Alme;33.00;285.00;100.00;;;;Lippe;477944;5721161
+Niederpleis;Pleisbach;12.00;170.00;27.00;;;;Sieg;374193;5626156
+Niederschelden;Sieg;52.00;282.00;91.00;;;;Sieg;427256;5633109
+Nordborchen;Altenau;12.00;150.00;35.00;175.00;210.00;225.00;Lippe;480519;5723637
+Oberagger;Steinagger;6.00;68.00;18.00;;;;Sieg;406271;5649200
+Oberahle;Else;18.00;225.00;38.00;240.00;280.00;310.00;Weser;466795;5782136
+Oedt;Niers;49.00;149.00;79.00;;;;Niers;316882;5688908
+Oeventrop;Ruhr;28.00;249.00;69.00;200.00;330.00;370.00;Ruhr;439520;5694362
+Olfen-Fuecht.Muehle;Stever;17.00;241.00;51.00;210.00;260.00;350.00;Lippe;386019;5731362
+Olsberg;Ruhr;27.00;183.00;62.00;160.00;270.00;295.00;Ruhr;464347;5689028
+Opladen;Wupper;57.00;269.00;86.00;;;;Wupper;359470;5659547
+Orsbeck;Myhler Bach;;;;;;;Rur;301319;5667875
+Ottbergen;Nethe;95.00;297.00;123.00;310.00;330.00;350.00;Weser;522219;5728659
+Overath;Agger;32.00;276.00;73.00;250.00;315.00;355.00;Sieg;379997;5643854
+Overhagen;Gieseler;29.00;225.00;50.00;;;;Lippe;453465;5722124
+Paderborn1;Pader;60.00;120.00;80.00;;;;Lippe;482742;5730202
+Paderborn2;Rothebach;13.00;100.00;23.00;;;;Lippe;482333;5730695
+Pannenmuehle;Schwalm;18.00;78.00;25.00;;;;Schwalm;306471;5675652
+Patzlar;Stever;52.00;300.00;77.00;260.00;290.00;420.00;Lippe;393468;5735618
+Pottenhausen;Werre;60.00;185.00;80.00;;;;Weser;482844;5762914
+Randerath;Wurm;77.00;250.00;94.00;230.00;250.00;275.00;Rur;302187;5655288
+Ratheim;Floßbach;;;;;;;Rur;302893;5661805
+Ratingen;Angerbach;28.00;163.00;47.00;;;;Rhein;347511;5685884
+Raumland;Odeborn;13.00;150.00;42.00;;;;Weser;456964;5653501
+Rebbelroth;Agger;9.00;126.00;26.00;100.00;165.00;200.00;Sieg;401845;5651240
+Rheda;Ems;188.00;386.00;226.00;390.00;435.00;500.00;Ems;451520;5744867
+Rhedebruegge;Bocholter Aa;11.00;191.00;32.00;172.00;240.00;250.00;Ijssel;345105;5744264
+Rodenbeck;Bastau;22.00;117.00;42.00;;;;Weser;491694;5792436
+Roenkhausen;Lenne;42.00;292.00;75.00;190.00;390.00;440.00;Ruhr;426986;5674392
+Rosmart;Fuelbecke;18.00;51.00;27.00;;;;Ruhr;407334;5677909
+Rothenbach_Grenze;Rothenbach;;;;;;;Rur;298497;5669372
+Roxeler;Roxeler Aa;;;;;;;Lippe;401236;5756868
+RurbergVA;Weidenbach;14.00;74.00;29.00;;;;Rur;312808;5610409
+Rustenhof;Aa;78.00;246.00;97.00;;;;Weser;509298;5728402
+Sande2;Boker Kanal;;;;;;;Lippe;478272;5734573
+Schaufenberg;Schaagbach;;;;;;;Rur;300740;5667899
+Schermbeck_1;Lippe;177.00;497.00;227.00;513.00;626.00;728.00;Lippe;351417;5726952
+Schieder;Niese;12.00;119.00;30.00;;;;Weser;509966;5751492
+Schieder-Nessenberg;Emmer;65.00;275.00;87.00;230.00;300.00;370.00;Weser;508948;5751138
+Schieder-Stausee;Emmer;71.00;306.00;94.00;;;;Weser;513292;5753823
+Schledde;Schledde;;;;;;;Lippe;439969;5713677
+Schleiden;Olef;89.00;217.00;103.00;200.00;210.00;250.00;Rur;320583;5600054
+Schwaney;Ellerbach;10.00;75.00;20.00;;;;Lippe;494741;5729523
+Selhausen;Rur;51.00;148.00;77.00;;;;Rur;319387;5637364
+Selm-Ondrup;Funne;1.00;128.00;16.00;;;;Lippe;395779;5729620
+Senden-Schoelling;Stever;8.00;182.00;24.00;200.00;260.00;300.00;Lippe;394289;5744378
+Sendenhorst;Angel;35.00;230.00;63.00;;;;Ems;422917;5743113
+Siegburg_Kald.;Sieg;33.00;414.00;90.00;480.00;480.00;520.00;Sieg;377183;5628771
+Soestbach;Soestbach;;;;;;;Lippe;437710;5714253
+Stadtlohn;Berkel;58.00;326.00;103.00;334.00;364.00;380.00;Ijssel;356210;5762629
+Stah;Rur;52.00;207.00;78.00;200.00;245.00;265.00;Rur;297245;5664668
+Steinhorst;Ems;38.00;111.00;55.00;105.00;;;Ems;467862;5740934
+Stephansohl;Volme;6.00;158.00;26.00;110.00;210.00;250.00;Ruhr;399806;5675600
+Sueddinker;Salzbach;15.00;239.00;47.00;;;;Lippe;426106;5720582
+Suesterseel;Rodebach;;;;;;;Maas;284589;5653927
+Uchtdorf;Exter;33.00;161.00;48.00;;;;Weser;506785;5778824
+Upsprunge;Heder;;;;;;;Lippe;472499;5722910
+Veert;Nierskanal;28.00;130.00;61.00;;;;Niers;313371;5710941
+Verl;Ölbach;;;;;;;Ems;465562;5748629
+Versmold_W;Hessel;25.00;155.00;50.00;;;;Ems;442400;5762703
+Villigst;Ruhr;108.00;353.00;142.00;340.00;410.00;460.00;Ruhr;401373;5699266
+Vossheide;Bega;36.00;133.00;47.00;;;;Weser;497219;5762830
+Vossheide_1;Passade;9.00;158.00;34.00;;;;Weser;497178;5762170
+Weeze;Niers;66.00;196.00;102.00;;;;Niers;307067;5723171
+Weidenau;Sieg;8.00;145.00;34.00;90.00;130.00;185.00;Sieg;431531;5638491
+Weidenau2;Ferndorf;24.00;179.00;49.00;110.00;;;Sieg;431304;5638677
+Weilerswist;Swistbach;20.00;168.00;36.00;160.00;205.00;235.00;Erft;348104;5626024
+Weine;Alme;38.00;161.00;59.00;130.00;210.00;260.00;Lippe;467107;5710209
+Welda;Twiste;34.00;172.00;51.00;130.00;225.00;250.00;Weser;508022;5700280
+Wenholthausen;Wenne;29.00;173.00;48.00;;;;Ruhr;442471;5682873
+Westheim;Diemel;31.00;130.00;52.00;;;;Weser;494037;5704585
+Westtuennen;Ahse;77.00;303.00;120.00;311.00;365.00;406.00;Lippe;421637;5724536
+Wetter_Wengern_1;Elbsche;31.00;83.00;42.00;;;;Ruhr;384656;5695710
+Wettringen_B70;Steinfurter Aa;9.00;123.00;28.00;130.00;169.00;208.00;Ijssel;385495;5786282
+Wolbeck;Angel;65.00;266.00;91.00;265.00;283.00;305.00;Ems;416150;5750940
+Zerkall;Rur;39.00;121.00;62.00;130.00;145.00;220.00;Rur;320079;5618750
