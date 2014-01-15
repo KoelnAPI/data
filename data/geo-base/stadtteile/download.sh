@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/node/547/download"
+SOURCE_URL="http://offenedaten-koeln.de/sites/default/files/2013-06-25_shape_stadtteil_0.zip"
 NAME="Stadtteil"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip
