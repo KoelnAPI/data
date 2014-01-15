@@ -46,16 +46,16 @@
         {
             "created": "Mittwoch, 18. Dezember 2013 - 11:36", 
             "description": "2013_10_04 <br />\nShape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Punktobjekt Keuzung, Einm\u00fcndung", 
-            "file_id": "0f7c8ace-875c-4668-80e0-c435015be269", 
+            "file_id": "e00ca855-98cc-4327-8828-34de9d0f4c49", 
             "file_link": null, 
             "file_name": "2013_10_04_shape_strassenknoten.zip", 
-            "file_size": "198.53 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013_10_04_shape_strassenknoten.zip", 
+            "file_size": "269.27 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013_10_04_shape_strassenknoten_0.zip", 
             "format": "zip", 
             "id": "244f808c-77d1-4dce-acaa-36e000f6b816", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 11:39", 
+            "modified": "Montag, 6. Januar 2014 - 9:36", 
             "title": "Shape Strassenknoten", 
             "url": "/dataset/244f808c-77d1-4dce-acaa-36e000f6b816/resource/244f808c-77d1-4dce-acaa-36e000f6b816"
         }

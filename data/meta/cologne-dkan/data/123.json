@@ -46,16 +46,16 @@
         {
             "created": "Mittwoch, 18. Dezember 2013 - 11:02", 
             "description": "Aktualisiert 2013-10-04", 
-            "file_id": "e4f75b4a-7b5d-48e1-bb40-d377be5e0781", 
+            "file_id": "50b25da9-555e-45fa-ad46-db4784299140", 
             "file_link": null, 
             "file_name": "2013-10-04_shape_stadtbezirk.zip", 
-            "file_size": "80.31 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_stadtbezirk.zip", 
+            "file_size": "129.21 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_stadtbezirk_1.zip", 
             "format": "zip", 
             "id": "ebbe3273-1bfa-4a44-ac2d-a49a28659dc0", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 11:02", 
+            "modified": "Montag, 6. Januar 2014 - 8:59", 
             "title": "shape_stadtbezirk", 
             "url": "/dataset/ebbe3273-1bfa-4a44-ac2d-a49a28659dc0/resource/ebbe3273-1bfa-4a44-ac2d-a49a28659dc0"
         }
