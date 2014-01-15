@@ -1,0 +1,2122 @@
+PERIMETER,TYP,HECTARES,ZWECK,RECNUM,LABEL1,Langname,subtype,TYPspezial,SHAPE_Leng,SHAPE_Area
+0.0,GBFL,0.50629940428,,0.0,,Gemeinbedarfsfläche,11,,291.472295598,5062.9940428
+0.0,GBFL,0.55799965991,,0.0,,Gemeinbedarfsfläche,11,,329.857739664,5579.99659911
+0.0,GBFL,0.70372196485,,0.0,,Gemeinbedarfsfläche,11,,362.06524464,7037.21964853
+0.0,GBFL,0.72229995044,,0.0,,Gemeinbedarfsfläche,11,,352.344576336,7222.99950437
+0.0,GBFL,0.78355338642,,0.0,,Gemeinbedarfsfläche,11,,374.616500325,7835.53386421
+0.0,GBFL,0.81327070343,,0.0,,Gemeinbedarfsfläche,11,,399.438054011,8132.70703429
+0.0,GBFL,0.84046074262,,0.0,,Gemeinbedarfsfläche,11,,372.211862732,8404.60742619
+0.0,GBFL,0.85502943015,,0.0,,Gemeinbedarfsfläche,11,,419.741592354,8550.29430146
+0.0,GBFL,0.93579266101,,13.0,,Gemeinbedarfsfläche,11,,423.636635683,9357.92661005
+0.0,GBFL,1.10849663435,,0.0,,Gemeinbedarfsfläche,11,,474.487380097,11084.9663435
+0.0,GBFL,1.32610069694,,0.0,,Gemeinbedarfsfläche,11,,460.172131395,13261.0069694
+0.0,GBFL,1.40952598135,,0.0,,Gemeinbedarfsfläche,11,,566.999946529,14095.2598135
+0.0,GBFL,1.88492930164,,0.0,,Gemeinbedarfsfläche,11,,599.325394366,18627.7874913
+0.0,GBFL,2.35798399633,,0.0,,Gemeinbedarfsfläche,11,,618.305061397,23579.8399633
+0.0,GBFL,3.49642495319,,0.0,,Gemeinbedarfsfläche,11,,758.467007842,34964.2495319
+0.0,GBFL,5.40830327395,,0.0,,Gemeinbedarfsfläche,11,,1117.91166583,54083.0327395
+0.0,GBFL,20.7505393554,,0.0,,Gemeinbedarfsfläche,11,,2360.30916508,207505.393554
+0.0,GE,1.14397711921,,13.0,GE,Gewerbefläche,3,,431.149876924,11439.7711921
+0.0,GE,4.02507561158,,0.0,GE,Gewerbefläche,3,,1072.49666221,40250.7561158
+0.0,GE,4.31816704831,,0.0,GE,Gewerbefläche,3,,915.597579203,43181.6704831
+0.0,GE,23.3255969105,,0.0,GE,Gewerbefläche,3,,4228.48366209,233255.969105
+0.0,GI,16.7771816358,,0.0,GI,Industriefläche,4,,3420.09714806,167771.816358
+0.0,Grün,0.35906573524,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,281.668294238,3590.65735242
+0.0,Grün,0.36682470025,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,249.312733453,3668.24700246
+0.0,Grün,0.42201928666,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.334787384,4220.19286657
+0.0,Grün,0.46216705306,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,652.111308444,4621.67053058
+0.0,Grün,0.52299709459,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,313.619741101,5229.9709459
+0.0,Grün,0.52748450248,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,403.269363839,5274.84502481
+0.0,Grün,0.53496487379,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,294.215012537,5349.64873787
+0.0,Grün,0.54168784009,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,298.752528306,5416.87840086
+0.0,Grün,0.55013107595,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,741.136787978,5501.31075948
+0.0,Grün,0.86045218542,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,611.304675236,8604.52185416
+0.0,Grün,0.8765263524,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,491.158346487,8765.26352399
+0.0,Grün,0.98455875802,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,446.870027103,9845.58758018
+0.0,Grün,1.07807947631,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,420.62143131,10780.7947631
+0.0,Grün,1.08563446205,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,497.176263648,10856.3446205
+0.0,Grün,1.11329306677,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,454.189222401,11132.9306677
+0.0,Grün,1.18844272611,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,589.600795987,11884.4272611
+0.0,Grün,1.40397670534,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,486.297739025,14039.7670534
+0.0,Grün,2.30057127076,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1971.73381459,23005.7127076
+0.0,Grün,3.23147659156,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1676.9715027,32314.7659156
+0.0,Grün,3.2873528041,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1275.42925121,32873.528041
+0.0,Grün,3.40547710583,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,939.862453332,34054.7710583
+0.0,Grün,3.46508702647,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,780.385413763,34650.8702647
+0.0,Grün,5.11155859454,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1219.29369421,51115.5859454
+0.0,Grün,6.44013384055,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1178.38204118,64401.3384055
+0.0,Grün,11.5406164253,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3493.851306,115406.164253
+0.0,Grün,17.1536712548,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2486.86456147,171536.712548
+0.0,Grün,59.2740530588,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3658.64953047,592740.530588
+0.0,Grün,194.244898597,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,18830.8291396,1942448.98597
+0.0,Grün,247.44832989,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,15627.2034562,2474483.2989
+0.0,Grün,284.429890803,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,10773.6888579,2844298.90803
+0.0,Grün,349.943853263,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,15505.883535,3499438.53263
+0.0,Grün,384.678288102,,0.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,39965.6117506,3846782.88102
+0.0,M,2.31207265639,,0.0,M,Mischfläche,2,,682.582850897,23120.7265639
+0.0,M,5.20661594572,,0.0,M,Mischfläche,2,,1843.59641699,52066.1594572
+0.0,MI,6.17923087172,,13.0,MI,Mischgebiet,16,,1072.7877085,61792.3087172
+0.0,MK,14.7507047667,,0.0,MK,Kerngebiet,15,,1790.7643508,147507.047667
+0.0,SO,1.58351147917,,0.0,SO,Sonderbaufläche,17,,658.608980464,15835.1147917
+0.0,SO,2.29510723676,Messe/Verk.Üb.Pl.,11.0,SO,Sonderbaufläche,17,,895.529312568,22951.0723676
+0.0,SO,2.41039412887,Baumarkt,0.0,SO,Sonderbaufläche,17,,664.780627519,24103.9412887
+0.0,SO,3.12155681485,Fermeldeturm,0.0,SO,Sonderbaufläche,17,,1120.79467756,31215.5681485
+0.0,SO,3.29770089628,Camping,0.0,SO,Sonderbaufläche,17,,815.277151939,32977.0089628
+0.0,Versorg,1.78742797189,,0.0,W,Fläche für Ver- und Entsorgung,9,,777.111558537,17874.2797189
+0.0,W,0.00251351293,,0.0,W,Wohnbaufläche,0,,25.009015018,25.1351292771
+0.0,W,6.81545362389,,0.0,W,Wohnbaufläche,0,,1258.01823342,68154.5362389
+0.0,W,9.14435148418,,13.0,W,Wohnbaufläche,0,,1286.89802444,91443.5148418
+0.0,W,9.79926164989,,0.0,W,Wohnbaufläche,0,,1761.41903709,97992.6164989
+0.0,W,9.89332135462,,13.0,W,Wohnbaufläche,0,,1927.19751935,98933.2135462
+0.0,W,10.5410519739,,0.0,W,Wohnbaufläche,0,,1519.06022392,105410.520485
+0.0,W,11.5921640949,,0.0,W,Wohnbaufläche,0,,1712.96120243,115921.640949
+0.0,W,15.6565069032,,0.0,W,Wohnbaufläche,0,,2704.38438378,156565.069032
+0.0,W,18.9282824544,,0.0,W,Wohnbaufläche,0,,2051.42766529,189282.824544
+0.0,W,18.9388789751,,0.0,W,Wohnbaufläche,0,,2369.13848436,189388.789751
+0.0,W,20.4378788462,,0.0,W,Wohnbaufläche,0,,2604.80221029,204378.788462
+0.0,W,20.90680846,,0.0,W,Wohnbaufläche,0,,1896.16333285,209068.0846
+0.0,W,22.5734182148,,0.0,W,Wohnbaufläche,0,,2580.91978901,225734.182148
+0.0,W,41.454210022,,0.0,W,Wohnbaufläche,0,,3974.18847407,414542.10022
+0.0,W,50.4474169807,,0.0,W,Wohnbaufläche,0,,3984.07148035,504474.169807
+0.0,W,51.0735504651,,0.0,W,Wohnbaufläche,0,,5977.81515024,510735.504651
+0.0,W,67.8582196289,,0.0,W,Wohnbaufläche,0,,7252.60256386,678582.196289
+0.0,W,167.315556505,,0.0,W,Wohnbaufläche,0,,9684.10512858,1673155.56505
+0.0,W,188.8042639,,0.0,W,Wohnbaufläche,0,,13442.1444305,1888042.639
+9.45621973046,Wasser,0.0002398081,,17.0,,Wasserfläche,8,,9.45621973046,2.39808102185
+19.5363222551,Wasser,0.00011592317,,17.0,,Wasserfläche,8,,19.5363222551,1.15923170678
+26.717,Grün,0.00379811843,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,26.7103183895,37.9811843116
+28.108,Grün,0.00347982198,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,28.1018770143,34.7982198372
+28.512,Grün,0.00377939599,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,28.5054856267,37.7939599063
+34.1928216709,verkehr,0.00619714793,,21.0,,Fläche für Hauptverkehrszüge,13,,34.1928216709,61.9714793268
+39.207,Grün,0.00736508026,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,39.1968126848,73.6508025549
+46.145,Grün,0.01031982321,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,46.1335852839,103.198232101
+47.342,Grün,0.0105905132,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,47.3352114282,105.905132011
+50.706,Grün,0.01256423643,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,50.6963295692,125.642364337
+51.404,Grün,0.01192013354,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,51.3937005868,119.201335363
+51.674,Grün,0.01271477946,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,51.6660479337,127.147794564
+57.51,Grün,0.01464903235,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,57.495820371,146.490323536
+67.9505697675,bahn,0.02408864215,,18.0,,Fläche für Bahnanlagen,12,,67.9505697675,240.886421542
+70.119,Grün,0.02338378844,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,70.1043522132,233.837884365
+70.591,Grün,0.01667914629,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,70.5737281204,166.791462906
+74.523,Grün,0.02595453599,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,74.5119460901,259.5453599
+77.98,Grün,0.03631129685,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,77.9655942579,363.112968544
+78.032,Grün,0.0257481227,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,78.0202456555,257.481227
+81.622,Grün,0.01635602702,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,81.605979059,163.560270158
+83.02,Grün,0.03063834585,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,83.0045941894,306.383458475
+83.651,Grün,0.0260400119,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,83.6349558864,260.400118967
+87.8183737314,bahn,0.02185658565,,18.0,,Fläche für Bahnanlagen,12,,87.8183737314,218.565856459
+88.617,Grün,0.03260673754,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,88.6008990298,326.067375419
+92.417,Grün,0.03214968323,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,92.300742662,321.496832343
+97.33,Grün,0.04446535755,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,97.3054560628,444.653575484
+99.613,Grün,0.0382665741,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,99.5938400784,382.665740958
+100.782,Grün,0.04693427749,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,100.75879851,469.342774865
+101.962,Grün,0.04798599938,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,101.940839921,479.859993766
+102.814,Grün,0.04623289732,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,102.794629384,462.328973203
+103.2,Grün,0.04853623141,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,103.178504846,485.362314076
+108.263,Grün,0.04730779486,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,108.236101839,473.07794859
+109.419,Grün,0.04994540649,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,109.393043943,499.454064851
+109.521,Grün,0.0483735377,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,109.498273192,483.735376954
+111.597,Grün,0.05295647093,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,111.573315216,529.564709286
+113.156,Grün,0.05279630814,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,113.131974693,527.96308145
+114.676,Grün,0.02338844042,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,114.647848542,233.884404232
+116.888,Grün,0.05499192071,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,116.859516308,549.91920713
+120.547,Grün,0.06075797313,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,120.524026258,607.57973134
+122.542,Grün,0.06058178284,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,122.516783868,605.817828392
+123.363,Grün,0.05786823562,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,123.335932171,578.682356168
+126.135,Grün,0.05867415193,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,126.106794127,586.741519292
+126.289,Grün,0.06279748882,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,126.261304083,627.974888238
+127.46,Grün,0.11425601134,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,127.303110251,1142.56011336
+129.455,Grün,0.05910221259,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,129.430250461,591.022125949
+129.762,Grün,0.06099926572,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,129.734403898,609.992657199
+130.062,Grün,0.04746197371,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,130.036127208,474.619737067
+130.294,Grün,0.06996770914,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,130.269903065,699.677091383
+132.726,Grün,0.07100487259,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,132.701153314,710.048725894
+135.503,Grün,0.07253684865,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,135.47325065,725.368486516
+140.72,Grün,0.05120895356,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,140.689621113,512.089535649
+141.487,Grün,0.05732077872,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,141.458109261,573.207787198
+141.603483086,bahn,0.04763501623,,18.0,,Fläche für Bahnanlagen,12,,141.603483086,476.350162292
+143.266,GBFL,0.22012771972,,1.0,,Gemeinbedarfsfläche,11,,191.476252367,2201.27719724
+147.142,Grün,0.07450723333,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,147.112623032,745.072333251
+147.159,Grün,0.07369858791,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,147.126555072,736.985879066
+148.069036264,bahn,0.12039420747,,18.0,,Fläche für Bahnanlagen,12,,148.069036264,1203.94207473
+148.949,Grün,0.0795303777,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,148.918936407,795.303776973
+149.684339447,verkehr,0.12843043917,,21.0,,Fläche für Hauptverkehrszüge,13,,149.684339447,1284.30439173
+151.389,Grün,0.04469651735,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,151.351859925,446.965173498
+152.058,Grün,0.09334786441,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,152.025705567,933.478644078
+152.421,Grün,0.15766365555,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,152.387948244,1576.63655554
+153.357,Grün,0.04598356995,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,153.319178946,459.835699531
+155.522,Grün,0.08970198817,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,155.491527655,897.019881692
+156.507834418,bahn,0.11047611773,,18.0,,Fläche für Bahnanlagen,12,,156.507834418,1104.76117727
+157.005,Grün,0.0932767595,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,156.980398932,932.767594977
+157.414,Grün,0.17053935784,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,157.379647094,1705.39357836
+157.68,Grün,0.09127616242,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,157.64345197,912.761624227
+159.538,GBFL,0.1527467233,,1.0,,Gemeinbedarfsfläche,11,,159.504098477,1527.46723296
+160.796,Grün,0.11446791744,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,313.316365737,1144.67917439
+161.203,Grün,0.09098908589,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,161.171438062,909.890858869
+164.153,Grün,0.1468091879,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,163.90805253,1468.09187902
+164.641,Grün,0.04681562789,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,164.602749315,468.156278893
+164.655,Grün,0.08495116478,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,164.619657279,849.511647797
+165.67162728,verkehr,0.15324246719,,21.0,,Fläche für Hauptverkehrszüge,13,,165.67162728,1532.42467192
+167.769,Grün,0.0572143471,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,167.735147141,572.143471
+168.123,Grün,0.07861841652,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,168.088866264,786.184165163
+169.974,Grün,0.04881698298,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,169.938543517,488.169829809
+170.01354824,bahn,0.16171650969,,18.0,,Fläche für Bahnanlagen,12,,170.01354824,1617.16509691
+170.043,Grün,0.04925421189,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,170.007456448,492.542118931
+172.161,Grün,0.11130987768,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,172.120477533,1113.09877679
+172.332,Grün,0.05332364582,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,172.28999031,533.236458233
+172.576,W,0.18336578865,,13.0,W,Wohnbaufläche,0,,172.539667846,1833.65788654
+173.027,Grün,0.09779796435,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,172.986525276,977.979643508
+174.929286383,Wasser,0.13615098517,,17.0,,Wasserfläche,8,,174.929286383,1361.5098517
+176.44,Grün,0.03658051971,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,176.408030127,365.805197083
+176.574,Grün,0.19371320992,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,176.540049946,1937.13209916
+176.908,Grün,0.12847953605,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,176.877144085,1284.79536049
+176.921,Grün,0.14099172999,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,177.446119173,1409.91729992
+177.996,Grün,0.10722237211,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,177.952014378,1072.22372111
+179.213,Grün,0.1425188036,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,179.173986806,1425.18803596
+180.936,Grün,0.06180785826,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,180.902069162,618.07858264
+184.267195617,verkehr,0.18500977409,,21.0,,Fläche für Hauptverkehrszüge,13,,184.267195617,1850.09774095
+189.753104937,Wasser,0.22174569216,,17.0,,Wasserfläche,8,,189.753104937,2217.45692158
+190.975,Grün,0.12579206118,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,190.935585504,1257.92061176
+191.973,GBFL,0.20170119818,,1.0,,Gemeinbedarfsfläche,11,,191.937709702,2017.01198175
+191.986,Grün,0.11616040254,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,321.195433787,1161.60402538
+192.197,Grün,0.05170883504,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,192.155560834,517.088350397
+194.129698403,Versor,0.23254230703,,12.0,,Fläche für Ver- und Entsorgung,9,,194.129698403,2325.4230703
+194.252,GBFL,0.23523263385,,1.0,,Gemeinbedarfsfläche,11,,194.216634614,2352.32633852
+196.748,Grün,0.0911863384,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,196.699457633,911.863384031
+198.043,Grün,0.13896255161,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,197.993741657,1389.62551612
+200.492,Grün,0.14031849823,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,200.44245496,1403.18498232
+200.677,GI,0.2455018651,,3.0,GI,Industriefläche,4,,200.644583667,2455.01865105
+200.836,Grün,0.2284353482,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,199.675962649,2284.35348204
+202.195,Grün,0.1610614869,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,202.151037974,1610.61486902
+202.516,GBFL,0.20625307302,,1.0,,Gemeinbedarfsfläche,11,,202.477854541,2062.53073018
+202.687,Grün,0.25161101882,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,202.643930423,2516.1101882
+203.423,Grün,0.15081384615,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,203.377474161,1508.13846152
+203.526,Grün,0.04695903379,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,203.47864486,469.590337893
+203.695,Grün,0.08076096146,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,203.653316954,807.609614637
+205.481,Grün,0.22229679316,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,205.439385869,2222.96793157
+205.749,Grün,0.16062419943,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,205.712279214,1606.24199428
+205.852,Grün,0.06201146341,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,205.809637255,620.114634072
+207.98,Grün,0.25843921154,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,207.932030526,2584.39211538
+208.589,Grün,0.19268454547,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,208.54024336,1926.84545466
+208.708,GBFL,0.24491435292,,1.0,,Gemeinbedarfsfläche,11,,208.663236053,2449.14352922
+209.321,GBFL,0.22627663575,,1.0,,Gemeinbedarfsfläche,11,,209.278144258,2262.76635746
+210.169407693,verkehr,0.25572603286,,21.0,,Fläche für Hauptverkehrszüge,13,,210.169407693,2557.26032859
+210.18141282,verkehr,0.22938629084,,21.0,,Fläche für Hauptverkehrszüge,13,,210.18141282,2293.8629084
+210.234,Grün,0.17510338,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,210.191174197,1751.03380003
+211.629,Grün,0.19074718279,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,211.586186387,1907.47182788
+213.347944862,Wasser,0.28026981247,,17.0,,Wasserfläche,8,,213.347944862,2802.69812469
+214.649,Grün,0.09877583849,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,214.615622444,987.758384887
+215.813772875,Wasser,0.27307930902,,17.0,,Wasserfläche,8,,215.813772875,2730.79309021
+216.305,Grün,0.10601299508,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,216.260577889,1060.1299508
+216.42,Grün,0.07743072034,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,216.375760651,774.307203365
+216.522,Grün,0.24711773183,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,201.685289467,2471.17731827
+217.056,Grün,0.27249062423,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,217.014753359,2724.90624234
+218.907,Grün,0.37299290313,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,218.862906771,3729.92903133
+218.97,Grün,0.17110467453,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,218.920730903,1711.04674527
+219.124,Grün,0.19389308815,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,219.084298234,1938.93088147
+219.904,Grün,0.27319825801,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,219.860386889,2731.98258009
+220.406,GBFL,0.31289130352,,1.0,,Gemeinbedarfsfläche,11,,220.365534136,3128.91303516
+221.9,Grün,0.2911700601,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,221.855452635,2911.70060098
+222.596,Grün,0.06272714088,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,222.543746189,627.271408774
+223.792,Grün,0.0991385228,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,223.736812322,991.385227985
+224.530422375,verkehr,0.26911036132,,21.0,,Fläche für Hauptverkehrszüge,13,,224.530422375,2691.10361317
+225.291,GBFL,0.31675869864,,1.0,,Gemeinbedarfsfläche,11,,225.247787572,3167.58698639
+226.186,Grün,0.27213205908,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,226.145341141,2721.32059084
+226.249,Grün,0.16930442495,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,226.1938525,1693.04424952
+226.586,Grün,0.19267970184,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,226.536832154,1926.79701843
+227.758,Grün,0.37438285212,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,227.711129157,3743.82852118
+227.832495749,Versor,0.2658557211,,4.0,,Fläche für Ver- und Entsorgung,9,,227.832495749,2658.55721104
+228.407,Grün,0.17122664342,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,228.349993188,1712.26643419
+230.355,GBFL,0.33460745008,,1.0,,Gemeinbedarfsfläche,11,,230.310239198,3346.07450077
+230.428,GBFL,0.36584161311,,1.0,,Gemeinbedarfsfläche,11,,241.588351727,3658.41613105
+231.106,Grün,0.1664974664,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,231.052197404,1664.97466396
+231.404,Grün,0.17326462083,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,231.368630693,1732.64620828
+231.673,Grün,0.21246645536,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,231.620516895,2124.66455362
+231.693,Grün,0.16226132083,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,231.643603365,1622.61320834
+232.497,GBFL,0.32916965544,,1.0,,Gemeinbedarfsfläche,11,,232.453351753,3291.69655445
+232.5,Grün,0.2662506294,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,232.453452179,2662.50629401
+233.749,Grün,0.38438478539,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,233.700874287,3843.84785394
+234.303,Grün,0.29983078145,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,234.261270082,2998.3078145
+234.478,GBFL,0.34109792702,,1.0,,Gemeinbedarfsfläche,11,,234.440451835,3410.97927022
+239.652,Grün,0.28886892648,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,239.605192905,2888.68926477
+239.811,Grün,0.32326886217,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,239.764940349,3232.68862168
+240.135,GBFL,0.30229814613,,1.0,,Gemeinbedarfsfläche,11,,239.159149819,3022.98146134
+240.456,Grün,0.19720697557,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,240.410910827,1972.06975569
+241.312,Grün,0.21571963303,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,241.264032812,2157.19633027
+241.523,Grün,0.35546357557,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,241.478994927,3554.63575567
+241.858,GBFL,0.36067460134,,1.0,,Gemeinbedarfsfläche,11,,241.80798941,3606.74601336
+242.073,Grün,0.19176453751,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,242.022692455,1917.64537506
+243.743,Grün,0.20957541399,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,243.699569508,2095.75413993
+243.752,Grün,0.22014386637,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,243.703455709,2201.43866373
+244.423,Grün,0.37479716715,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,244.379454913,3747.97167146
+244.761,GBFL,0.33032341059,,1.0,,Gemeinbedarfsfläche,11,,248.615917523,3303.2341059
+245.568,GBFL,0.33071804837,,1.0,,Gemeinbedarfsfläche,11,,236.373652551,3307.18048373
+245.848,GBFL,0.37983828389,,1.0,,Gemeinbedarfsfläche,11,,245.796082608,3798.38283886
+247.628,Grün,0.38217300119,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,247.583128285,3821.73001187
+249.361,Grün,0.36879004828,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,249.310783345,3687.90048283
+249.49559071,Versor,0.38654808576,,12.0,,Fläche für Ver- und Entsorgung,9,,249.49559071,3865.48085756
+249.916,GBFL,0.28715488939,,1.0,,Gemeinbedarfsfläche,11,,249.86622276,2871.54889386
+250.355,Grün,0.44236770172,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,250.302980362,4423.67701723
+251.371,SO,0.48372433185,Messe,11.0,SO,Sonderbaufläche,17,,251.318732371,4837.24331852
+252.791,GBFL,0.37283002164,,1.0,,Gemeinbedarfsfläche,11,,252.745866517,3728.30021635
+254.346,Grün,0.234102597,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,254.300378675,2341.02596999
+255.029,Grün,0.32065811249,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,242.247102561,3206.58112495
+255.373,Grün,0.21467757826,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,255.32577834,2146.77578257
+255.429,GBFL,0.33503637338,,1.0,,Gemeinbedarfsfläche,11,,255.37894778,3350.36373381
+255.442,Grün,0.36660906866,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,255.384031369,3666.09068665
+256.451228883,Versor,0.40552360425,,12.0,,Fläche für Ver- und Entsorgung,9,,256.451228883,4055.23604247
+257.669,Grün,0.48002710103,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,257.612987288,4800.27101032
+257.831,GBFL,0.43615168414,,1.0,,Gemeinbedarfsfläche,11,,272.489411264,4361.51684138
+257.925,Grün,0.23240438385,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,257.865061423,2324.04383849
+259.497,GBFL,0.38142032564,,1.0,,Gemeinbedarfsfläche,11,,259.449370885,3814.2032564
+259.554,Grün,0.09695992216,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,259.509396216,969.599221625
+260.159,MI,0.34502678821,,7.0,MI,Mischgebiet,16,,259.887672649,3450.26788209
+260.370303833,Versor,0.39292723118,,12.0,,Fläche für Ver- und Entsorgung,9,,260.370303833,3929.27231182
+261.197,Grün,0.44884698021,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,746.443534566,4488.46980209
+261.649,Grün,0.35764083922,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,261.597812004,3576.40839223
+261.723,Grün,0.23655168354,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,261.67522953,2365.51683539
+262.493,Grün,0.22641797433,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,262.427487134,2264.17974332
+264.049,Grün,0.21924113909,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,263.994382526,2192.41139087
+264.952,GBFL,0.41164062822,,1.0,,Gemeinbedarfsfläche,11,,264.900570242,4116.40628221
+265.144,GBFL,0.49287188327,,1.0,,Gemeinbedarfsfläche,11,,311.383216842,4928.71883273
+266.215,Grün,0.31768876105,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.168109828,3176.88761053
+266.293,Grün,0.37993006302,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.23552701,3799.30063019
+266.37,M,0.43253589194,,16.0,M,Mischfläche,2,,266.319923163,4325.35891944
+266.433,Grün,0.2800223288,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.380885136,2800.22328802
+266.479,Grün,0.41740078685,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.421197968,4174.00786853
+266.846,Grün,0.2262749723,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,266.791408483,2262.74972298
+268.223,Grün,0.24070578549,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,268.174037525,2407.05785494
+268.55,Grün,0.43327408564,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,268.489342504,4332.74085644
+269.615,Grün,0.08885600935,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,269.567548216,888.560093507
+269.645,Grün,0.28085159801,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,269.598163116,2808.51598008
+269.907,Grün,0.21357486058,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,269.844029862,2135.74860581
+271.317,GBFL,0.35854822972,,1.0,,Gemeinbedarfsfläche,11,,271.259519689,3585.48229723
+272.033,GBFL,0.46144169253,,1.0,,Gemeinbedarfsfläche,11,,271.984887737,4614.41692531
+272.467,GBFL,0.41454472288,,1.0,,Gemeinbedarfsfläche,11,,257.06030429,4145.44722883
+272.853,GBFL,0.39587819945,,1.0,,Gemeinbedarfsfläche,11,,268.602259173,3958.78199454
+272.987,Grün,0.14603738244,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,272.929039496,1460.3738244
+273.019732272,Versor,0.45633424,,12.0,,Fläche für Ver- und Entsorgung,9,,273.019732272,4563.34240004
+273.163,Grün,0.34094710463,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,273.109205923,3409.47104631
+273.639,GBFL,0.44398911834,,1.0,,Gemeinbedarfsfläche,11,,273.579471291,4439.89118344
+274.173,Grün,0.23849500159,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,274.105246249,2384.95001586
+274.898,Grün,0.22931874957,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,274.705370316,2293.18749568
+275.172,GBFL,0.44679596298,,1.0,,Gemeinbedarfsfläche,11,,272.365787337,4467.95962976
+275.34,GBFL,0.44760922746,,1.0,,Gemeinbedarfsfläche,11,,272.123996202,4476.09227457
+275.92,Grün,0.24867178525,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,299.021452481,2486.7178525
+276.105,Grün,0.37215284271,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,276.053411085,3721.52842713
+276.59,GBFL,0.48214684497,,1.0,,Gemeinbedarfsfläche,11,,296.633060654,4821.46844973
+276.71,Grün,0.44043018494,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,276.647146702,4404.30184936
+277.058,GBFL,1.21195960263,,1.0,,Gemeinbedarfsfläche,11,,558.87081963,12119.5960263
+277.071181813,Wald,0.08433602438,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,277.071181813,843.360243806
+277.928,Grün,0.26425076197,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,277.859001341,2642.50761971
+278.273,Grün,0.14042597057,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,278.224897195,1404.25970565
+278.328,Grün,0.45439391696,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,278.276519992,4543.93916961
+278.861,Grün,0.24191284287,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,278.803693672,2419.12842865
+280.323,Grün,0.37101212511,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,280.280291447,3710.12125111
+280.716,Grün,0.28088101902,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,280.653295317,2808.81019023
+281.183,GBFL,0.4570056614,,1.0,,Gemeinbedarfsfläche,11,,278.878608777,4570.05661403
+281.372,Grün,0.27156600573,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,281.309355442,2715.66005727
+282.271,Grün,0.12146080812,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,282.211079378,1214.60808124
+283.808005578,Versor,0.47683778531,,12.0,,Fläche für Ver- und Entsorgung,9,,283.808005578,4768.37785307
+284.606,SO,0.29450995925,F.M.A.,11.0,SO,Sonderbaufläche,17,,234.530953022,2945.09959253
+285.023,GBFL,0.46700435245,,1.0,,Gemeinbedarfsfläche,11,,270.09083415,4670.04352446
+285.341,Grün,0.23700761703,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,285.28182819,2370.07617025
+287.272,Grün,0.11519659007,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,287.212976951,1151.96590067
+288.231,Grün,0.23520182871,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,288.185992448,2352.01828714
+288.294,Grün,0.13778592923,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,288.240936072,1377.85929232
+289.588,Grün,0.25781195095,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,289.534879709,2578.11950946
+289.646,Grün,0.29349227114,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,289.592930428,2934.92271141
+289.678,GBFL,0.5091771122,,1.0,,Gemeinbedarfsfläche,11,,289.621432224,5091.77112198
+289.732,Grün,0.46558444077,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,289.670325574,4655.84440775
+291.433,Grün,0.48477851024,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,291.282661021,4847.7851024
+292.772,Grün,0.29729418473,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,292.707007862,2972.94184726
+293.223,GBFL,0.43635278882,,1.0,,Gemeinbedarfsfläche,11,,293.152460683,4363.52788822
+293.841,Grün,0.25571225553,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,293.768976972,2557.12255535
+294.158,Grün,0.6120122898,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,294.098865006,6120.12289798
+295.082,Grün,0.62076927875,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,295.017283818,6207.69278746
+295.603,Grün,0.11022260612,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,295.540531261,1102.22606125
+295.661,Landwi,0.20570403272,,5.0,,Fläche für die Landwirtschaft,6,,295.595579017,2057.04032716
+295.663,GBFL,0.51222280947,,1.0,,Gemeinbedarfsfläche,11,,295.604387976,5122.22809471
+296.074,GBFL,0.55517354716,,1.0,,Gemeinbedarfsfläche,11,,296.014871954,5551.73547163
+298.4,Grün,0.30862530523,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,298.336658353,3086.25305228
+298.454,GBFL,0.49778969164,,1.0,,Gemeinbedarfsfläche,11,,298.400819209,4977.89691644
+298.477,GBFL,0.43037549696,,1.0,,Gemeinbedarfsfläche,11,,289.410475971,4303.75496963
+299.322,M,0.57814003131,,16.0,M,Mischfläche,2,,294.335181507,5781.40031312
+299.564,Grün,0.60793926979,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,299.499449213,6079.39269785
+300.27439206,Wasser,0.43895078548,,17.0,,Wasserfläche,8,,300.27439206,4389.50785476
+300.417,Grün,0.31891379893,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,300.352912323,3189.13798932
+300.564994713,bahn,0.1497760684,,18.0,,Fläche für Bahnanlagen,12,,300.564994713,1497.76068401
+301.072,Grün,0.67578521179,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,301.001434923,6757.85211788
+302.265,SO,0.55858128378,Messe,11.0,SO,Sonderbaufläche,17,,302.202723688,5585.81283783
+302.363,Grün,0.27767686034,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,302.29555822,2776.76860344
+302.825,Grün,0.55032468643,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,302.766023757,5503.24686433
+303.408,GBFL,0.57341496675,,1.0,,Gemeinbedarfsfläche,11,,303.349669252,5734.14966746
+303.409,GBFL,0.55854556952,,1.0,,Gemeinbedarfsfläche,11,,303.350317365,5585.45569521
+303.698,Grün,0.12420973117,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,303.641557525,1242.09731173
+305.605,Grün,0.25678780031,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,305.549227743,2567.87800308
+306.236,Grün,0.29330981381,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,306.172632748,2933.09813812
+306.757128171,Wasser,0.42935664784,,17.0,,Wasserfläche,8,,306.757128171,4293.56647842
+306.908,GBFL,0.59746005274,,1.0,,Gemeinbedarfsfläche,11,,306.841652877,5974.60052739
+307.213,Grün,0.28534058663,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,307.137789268,2853.40586633
+307.394,MI,0.37868781672,,7.0,MI,Mischgebiet,16,,307.328369663,3786.87816715
+307.408,Grün,0.35899138986,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,307.342282343,3589.91389855
+308.207,Grün,0.66932650949,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,308.129608833,6693.26509489
+308.22,GBFL,0.47757583992,,1.0,,Gemeinbedarfsfläche,11,,279.039167887,4775.75839916
+308.758,Grün,0.47981210982,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,308.69910998,4798.12109817
+309.479025156,Versor,0.58262074435,,4.0,,Fläche für Ver- und Entsorgung,9,,309.479025156,5826.20744349
+311.628,Grün,0.49783516178,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,311.555724977,4978.35161784
+311.829,GBFL,0.54089620872,,1.0,,Gemeinbedarfsfläche,11,,305.053481323,5408.96208718
+311.975045641,Versor,0.43390158282,,12.0,,Fläche für Ver- und Entsorgung,9,,311.975045641,4339.01582823
+311.995,GBFL,0.60435025553,,1.0,,Gemeinbedarfsfläche,11,,311.938378396,6043.50255534
+312.243,Grün,0.32681105589,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,312.188230397,3268.1105589
+312.64,Grün,0.40016848537,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,312.581191483,4001.68485368
+313.552,Grün,0.70343811025,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,313.483112795,7034.38110252
+313.626,Grün,0.53812180381,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,313.575891005,5381.21803806
+313.818,Grün,0.42889787718,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,321.365092486,4288.97877176
+313.938,Grün,0.73469424923,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,313.860391542,7346.94249229
+314.093,GBFL,0.61342842529,,1.0,,Gemeinbedarfsfläche,11,,314.018290549,6134.28425287
+314.504,Grün,0.61248900299,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,314.440500138,6124.89002991
+314.616,Grün,0.41988638954,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,314.5477314,4198.86389542
+314.626,Grün,0.43014769101,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,329.732539503,4301.47691014
+314.901,Grün,0.25321061764,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,314.842307085,2532.10617635
+315.971,Grün,0.73889328606,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,315.892903588,7388.9328606
+315.993,Grün,0.42986588733,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,315.91546026,4298.65887331
+316.368,GBFL,0.58892616582,,1.0,,Gemeinbedarfsfläche,11,,321.969603601,5889.26165821
+317.116,Grün,0.35302275697,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,317.067427861,3530.22756969
+317.116641211,Wald,0.52309083043,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,317.116641211,5230.90830425
+317.268,Grün,0.73091866053,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,317.197361361,7309.18660533
+318.002,Grün,0.50134550924,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,317.925240498,5013.45509245
+319.449,SO,0.47317047418,G.M.I.,11.0,SO,Sonderbaufläche,17,,300.705434035,4731.70474176
+319.876,Grün,0.73821518948,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,319.804472986,7382.15189476
+320.638,Grün,0.2956583768,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,320.558267186,2956.583768
+321.03,Grün,0.55175819183,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,310.544483767,5517.58191828
+321.541,Grün,0.2705721675,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,320.898735118,2705.72167501
+321.704,Grün,0.571456637,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,329.956283826,5714.56636998
+321.77,Grün,0.57004991791,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,321.710481946,5700.49917905
+322.02423086,Versor,0.59558623596,,12.0,,Fläche für Ver- und Entsorgung,9,,322.02423086,5955.86235958
+322.118,Grün,0.68495989065,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,322.056664191,6849.59890654
+323.503,Grün,0.5505551656,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,323.44389578,5505.55165605
+323.766,Grün,0.36318631745,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,323.700739821,3631.86317453
+323.826,Grün,0.7460553733,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,323.775399294,7460.553733
+324.016,Grün,0.73944448405,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,323.965637594,7394.44484053
+324.313,Grün,0.34535452133,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,324.256387742,3453.54521328
+324.895,Grün,0.75715237332,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,324.844866893,7571.52373323
+325.038,Grün,0.58294361274,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,324.974013278,5829.43612744
+326.265,Grün,0.76232437714,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,326.192257583,7623.24377143
+326.309,Grün,0.78018577411,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,326.229122517,7801.85774105
+327.443,Grün,0.41035077521,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,307.902810678,4103.50775207
+328.105,GBFL,0.56412866531,,1.0,,Gemeinbedarfsfläche,11,,328.033048414,5641.28665313
+328.537,Grün,0.34974906602,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,328.460750418,3497.49066019
+328.833,Grün,0.31046842243,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,328.756269923,3104.68422426
+329.755,GE,0.4116494206,,2.0,GE,Gewerbefläche,3,,329.685584809,4116.49420596
+330.612,Grün,0.32879799025,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,330.548418982,3287.97990247
+330.896,Grün,0.50542217669,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,330.832081781,5054.22176693
+331.604,Grün,0.73835698917,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,331.538611529,7383.5698917
+332.551,Grün,0.20702144072,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,332.493130345,2070.21440722
+332.834,GBFL,0.46968415191,,1.0,,Gemeinbedarfsfläche,11,,358.856636517,4696.84151907
+333.092,Grün,0.31668816071,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,333.010013837,3166.88160709
+333.194,GBFL,0.53286881511,,1.0,,Gemeinbedarfsfläche,11,,333.129239552,5328.6881511
+333.204,GBFL,0.69939189712,,1.0,,Gemeinbedarfsfläche,11,,333.774606065,6993.91897121
+333.240459971,Versor,0.68036793132,,12.0,,Fläche für Ver- und Entsorgung,9,,333.240459971,6803.67931319
+333.598,Grün,0.8044486134,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,333.545308085,8044.48613398
+333.612,Grün,0.6760360858,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,333.351466738,6760.36085804
+334.027,Grün,0.35477792167,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,333.974868285,3547.77921672
+334.091,Grün,0.8002234256,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,334.033802167,8002.23425599
+334.16,GBFL,0.58856941026,,1.0,,Gemeinbedarfsfläche,11,,334.096227746,5885.69410259
+334.315,Grün,0.13461041094,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,334.250489623,1346.10410941
+335.137,Grün,0.11761273867,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,335.065286098,1176.12738672
+335.247,Grün,0.7843564959,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,335.163493256,7843.56495902
+336.068,GBFL,0.67151282202,,1.0,,Gemeinbedarfsfläche,11,,336.003773446,6715.12822016
+336.379,Grün,0.6147551254,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,336.306693387,6147.55125396
+337.029,GBFL,0.41212472347,,1.0,,Gemeinbedarfsfläche,11,,338.959681948,4121.24723465
+337.35,Grün,0.38243180938,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,337.275828308,3824.31809377
+337.82,Grün,0.81734729082,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,337.736789838,8173.47290818
+338.159,GBFL,0.63997517272,,1.0,,Gemeinbedarfsfläche,11,,338.088122568,6399.75172719
+338.253,SO,1.61382935645,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,532.110329564,16138.2935645
+338.362,Grün,0.7070704469,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,338.310562354,7070.70446896
+338.502,Grün,0.32324417738,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,338.427141768,3232.44177383
+339.081,GBFL,0.72746692956,,1.0,,Gemeinbedarfsfläche,11,,341.442740321,7274.66929563
+339.802,SO,0.81229453795,Messe,11.0,SO,Sonderbaufläche,17,,339.731390917,8122.9453795
+339.939,Grün,0.41014009745,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,339.865081924,4101.40097454
+340.629,GBFL,0.69711691731,,1.0,,Gemeinbedarfsfläche,11,,340.564706686,6971.16917314
+341.15,W,0.63228353734,,13.0,W,Wohnbaufläche,0,,341.067844301,6322.8353734
+341.493,Grün,0.84395567761,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,341.413405793,8439.55677613
+342.198,GBFL,0.6063195143,,1.0,,Gemeinbedarfsfläche,11,,342.12107814,6063.19514299
+342.625,GBFL,0.58144571021,,1.0,,Gemeinbedarfsfläche,11,,342.566572805,5814.45710213
+342.684,GBFL,0.60280769472,,1.0,,Gemeinbedarfsfläche,11,,316.682680323,6028.0769472
+343.43,Grün,0.84453171556,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,343.364219721,8445.3171556
+347.689,Grün,0.37765633715,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,347.620184123,3776.56337151
+348.893,GBFL,0.79140300924,,1.0,,Gemeinbedarfsfläche,11,,348.822145658,7914.03009244
+350.065,GBFL,0.73542463539,,1.0,,Gemeinbedarfsfläche,11,,349.997748307,7354.24635393
+351.3,Grün,0.84708245003,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,351.239327626,8470.82450027
+352.732092001,Versor,0.74097470554,,12.0,,Fläche für Ver- und Entsorgung,9,,352.732092001,7409.74705543
+354.144,GBFL,0.77221019237,,1.0,,Gemeinbedarfsfläche,11,,354.057447269,7722.1019237
+354.408,GBFL,0.61883740608,,1.0,,Gemeinbedarfsfläche,11,,354.327131495,6188.37406079
+354.69,Grün,0.94372558452,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,354.619593372,9437.25584521
+354.864054303,Wasser,0.40025122713,,17.0,,Wasserfläche,8,,354.864054303,4002.51227126
+355.304,GBFL,0.59340746569,,1.0,,Gemeinbedarfsfläche,11,,355.234977161,5934.07465685
+355.991,GBFL,0.68134669033,,1.0,,Gemeinbedarfsfläche,11,,355.920324194,6813.4669033
+356.522,Grün,0.32183230478,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,356.453493784,3218.3230478
+357.511,Grün,0.79479556083,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,357.439481627,7947.9556083
+357.608,GBFL,0.61541708626,,1.0,,Gemeinbedarfsfläche,11,,360.505338714,6154.17086263
+358.03,GBFL,0.8890558221,,1.0,,Gemeinbedarfsfläche,11,,367.947862937,8890.55822102
+358.141,Grün,0.64502922065,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,358.0715695,6450.29220651
+358.222,GBFL,0.72378321606,,1.0,,Gemeinbedarfsfläche,11,,358.152919957,7237.83216064
+358.534,Grün,0.85390585129,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,358.472494989,8539.05851291
+358.7,Grün,0.35724819565,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,358.620480199,3572.48195655
+359.87,GBFL,0.58695082099,,1.0,,Gemeinbedarfsfläche,11,,359.793281453,5869.50820989
+360.918,GE,0.39994410702,,2.0,GE,Gewerbefläche,3,,360.838671215,3999.44107016
+361.043,Grün,0.1168953486,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,360.987397167,1168.953486
+361.496,Grün,0.886529611,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,361.424827244,8865.29610998
+361.533997654,Versor,0.84898731339,,12.0,,Fläche für Ver- und Entsorgung,9,,361.533997654,8489.87313393
+362.234,Grün,0.10616827908,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,362.149280397,1061.68279077
+362.529,Grün,0.57518441603,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,362.459722642,5751.84416031
+362.823,Grün,0.45472254512,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,362.751104897,4547.22545124
+363.159,Grün,0.36777220505,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,363.076293449,3677.72205047
+363.332,GBFL,0.70013075317,,1.0,,Gemeinbedarfsfläche,11,,348.731691184,7001.30753168
+363.768,Grün,0.77282626844,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,363.7048088,7728.26268436
+363.988,Grün,0.52898902163,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,308.96003213,5289.89021629
+366.243,Grün,0.64591588405,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,366.172865058,6459.15884048
+367.767,Grün,0.73095418077,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,367.688197996,7309.54180769
+368.487,Grün,0.97090042529,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,368.412600892,9709.00425291
+368.666,Grün,0.45469376316,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,368.594839,4546.93763162
+368.667,Grün,0.84685505374,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,368.582851314,8468.55053744
+368.936,Grün,0.69213780166,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,368.85529333,6921.37801658
+369.719,GBFL,0.66208464528,,1.0,,Gemeinbedarfsfläche,11,,393.530502243,6620.84645282
+370.426,GBFL,0.67698771048,,1.0,,Gemeinbedarfsfläche,11,,370.352286718,6769.87710479
+371.248,Grün,1.0548308128,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,371.156730765,10548.308128
+371.926,Grün,0.91635361407,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,371.839045739,9163.53614069
+371.967,Grün,0.64413267712,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,368.398827535,6441.3267712
+372.927,Grün,0.75281957364,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,372.848096878,7528.19573638
+373.329,GBFL,0.77438608728,,1.0,,Gemeinbedarfsfläche,11,,373.241053949,7743.86087278
+373.591,Grün,0.9143016829,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,373.526610548,9143.01682897
+374.478,GBFL,0.40435298086,,1.0,,Gemeinbedarfsfläche,11,,355.858530861,4043.52980862
+374.814,GBFL,0.88386036297,,1.0,,Gemeinbedarfsfläche,11,,374.733620526,8838.60362966
+374.851,Grün,0.7148491367,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,374.781446447,7148.49136701
+375.264,Grün,0.87493019236,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,375.191979362,8749.30192362
+375.362,GBFL,0.6748241548,,1.0,,Gemeinbedarfsfläche,11,,375.271070558,6748.24154795
+376.075,Grün,0.38637845026,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,376.003272868,3863.78450257
+376.237,Grün,0.70580894514,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,381.200872122,7058.08945137
+377.353,Grün,0.79222098183,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,377.284767781,7922.20981831
+378.561,Grün,0.41498557199,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,388.832151357,4149.85571988
+379.364,GBFL,0.64791197281,,1.0,,Gemeinbedarfsfläche,11,,379.287386488,6479.11972806
+380.065,Grün,0.72877027018,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,379.989780186,7287.70270182
+380.61,Grün,0.85822410455,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,380.541134864,8582.24104553
+381.072,Grün,1.01401539195,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,380.983215101,10140.1539195
+381.266,Grün,0.83330324062,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,381.194317257,8333.03240617
+381.467,Grün,0.75661717689,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,381.396988222,7566.17176894
+381.491,GBFL,0.88094172882,,1.0,,Gemeinbedarfsfläche,11,,384.208246097,8809.41728824
+381.643,Grün,0.86372884715,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,381.581772067,8637.28847147
+381.723,Grün,0.50118678403,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,381.646352853,5011.86784029
+382.194,Grün,0.9361051978,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,374.439111914,9361.05197804
+382.259,GBFL,0.75656038882,,1.0,,Gemeinbedarfsfläche,11,,382.16989217,7565.60388825
+383.911,Grün,1.05180395417,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,383.840958917,10518.0395417
+384.126,Grün,0.84011911516,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,384.036036116,8401.19115158
+384.715,Grün,0.92098921044,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,384.629867662,9209.8921044
+385.015,Grün,1.02901700321,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,384.945090795,10290.1700321
+385.477,Grün,0.98806311416,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,385.417827108,9880.63114155
+385.59,Grün,0.42944389345,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,385.506066537,4294.43893445
+386.257,GBFL,0.67985989889,,1.0,,Gemeinbedarfsfläche,11,,351.153228831,6798.59898891
+387.808,Grün,1.10692556671,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,387.731452257,11069.2556671
+388.969,Grün,1.09189731054,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,388.895812814,10918.9731054
+390.117,Grün,1.12132060904,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,390.025914134,11213.2060904
+390.786,Grün,0.4020834163,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,390.698949569,4020.83416303
+391.196,GBFL,0.92861057245,,1.0,,Gemeinbedarfsfläche,11,,391.119708329,9286.10572452
+391.469,Grün,0.13912162707,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,391.376933036,1391.21627068
+391.722,GBFL,0.84034216159,,1.0,,Gemeinbedarfsfläche,11,,397.941774372,8403.42161588
+391.965,GBFL,0.88426189171,,1.0,,Gemeinbedarfsfläche,11,,393.089186057,8842.61891712
+392.788395189,Wasser,0.87014741095,,17.0,,Wasserfläche,8,,392.788395189,8701.47410953
+393.066,GBFL,0.93528158437,,1.0,,Gemeinbedarfsfläche,11,,392.990134806,9352.81584373
+393.253532597,Versor,0.92287086378,,12.0,,Fläche für Ver- und Entsorgung,9,,393.253532597,9228.70863777
+393.349,Grün,0.60572647722,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,393.278881743,6057.26477218
+393.392,GBFL,0.92892266634,,1.0,,Gemeinbedarfsfläche,11,,393.31347107,9289.22666342
+393.958924422,Wasser,0.6529733152,,17.0,,Wasserfläche,8,,393.958924422,6529.73315197
+394.66,GBFL,0.74015766736,,1.0,,Gemeinbedarfsfläche,11,,386.451777349,7401.57667363
+395.584,GBFL,0.70687862536,,1.0,,Gemeinbedarfsfläche,11,,395.508472258,7068.78625362
+396.418,Grün,0.36423528039,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,422.009739212,3642.35280391
+397.177,Grün,0.90245818967,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,390.175155921,9024.58189666
+397.496,Grün,0.29367364591,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,397.609631886,2936.73645914
+400.301,Grün,0.47262852221,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,400.239463096,4726.28522207
+400.8,Grün,0.92081347241,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,400.70616678,9208.1347241
+401.203,MK,0.72457719483,,8.0,MK,Kerngebiet,15,,401.11717359,7245.77194827
+402.319,Grün,0.22438161276,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,402.224860186,2243.81612757
+404.41,Grün,0.82166950398,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,404.336208111,8216.69503981
+404.767,Grün,0.13914050981,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,404.671950299,1391.40509809
+405.034,Grün,0.3080157754,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,404.970045542,3080.15775402
+405.655,Grün,0.3699094886,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,405.574544701,3699.09488595
+406.087,MI,0.9335958632,,7.0,MI,Mischgebiet,16,,405.540863128,9335.95863202
+406.676,Grün,1.11792689058,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,406.59813121,11179.2689058
+406.957,Grün,0.99605548217,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,406.868515972,9960.55482174
+407.612,M,0.8855229188,,16.0,M,Mischfläche,2,,407.530854292,8855.22918799
+408.094,Grün,0.97308348872,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,408.005289176,9730.83488724
+409.715,Grün,0.67746928967,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,409.620859453,6774.69289669
+409.736643037,Versor,0.93173966873,,12.0,,Fläche für Ver- und Entsorgung,9,,409.736643037,9317.39668729
+410.337,Grün,0.68388891137,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,393.374922993,6838.88911375
+410.471,Grün,0.41050646532,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,410.399292424,4105.06465318
+410.748,GBFL,0.96509536525,,1.0,,Gemeinbedarfsfläche,11,,393.28539878,9650.95365249
+411.19,Grün,0.51364313242,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,411.199734125,5136.43132415
+411.488,Grün,0.42519467776,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,411.406795897,4251.94677764
+412.58,GBFL,0.72741670777,,1.0,,Gemeinbedarfsfläche,11,,412.497748349,7274.1670777
+412.941,Grün,0.34134867793,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,412.876065161,3413.48677929
+414.637,Grün,0.36566005791,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,354.172687599,3656.60057911
+416.428,Grün,0.25063563059,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,416.364196906,2506.35630586
+416.897,M,1.06366669708,,16.0,M,Mischfläche,2,,414.938989765,10636.6669708
+417.287,GBFL,1.08835493319,,1.0,,Gemeinbedarfsfläche,11,,417.188228161,10883.5493319
+417.572,GBFL,1.00731833743,,1.0,,Gemeinbedarfsfläche,11,,412.7799963,10073.1833743
+418.948,Grün,1.11420602603,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,418.883437564,11142.0602603
+419.517,GBFL,0.97283165544,,1.0,,Gemeinbedarfsfläche,11,,419.432478911,9728.31655435
+419.741,Grün,1.21112382894,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,419.661074776,12111.2382894
+420.505,GBFL,0.86096042352,,1.0,,Gemeinbedarfsfläche,11,,406.571951776,8609.60423515
+420.685,GBFL,0.85230137731,,1.0,,Gemeinbedarfsfläche,11,,420.594002946,8523.01377314
+420.746,GE,0.52781861973,,2.0,GE,Gewerbefläche,3,,420.662059649,5278.18619733
+421.122,GBFL,0.86042278383,,1.0,,Gemeinbedarfsfläche,11,,421.025381662,8604.22783831
+422.264,Grün,0.44261842477,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,422.183035015,4426.18424774
+422.711,GBFL,1.11645665483,,1.0,,Gemeinbedarfsfläche,11,,422.631700227,11164.5665483
+424.083,W,0.77435086541,,13.0,W,Wohnbaufläche,0,,423.995829411,7743.50865408
+424.996,M,1.01624164938,,16.0,M,Mischfläche,2,,424.91885429,10162.4164938
+426.87,GBFL,1.09709470982,,1.0,,Gemeinbedarfsfläche,11,,426.791090435,10970.9470982
+427.272,Grün,0.42969764145,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,427.190160592,4296.97641447
+427.936,M,0.95798378376,,16.0,M,Mischfläche,2,,429.542298482,9579.83783757
+428.367,Grün,0.48099509978,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,428.281217944,4809.95099779
+428.557,Grün,1.28389552446,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,428.463894543,12838.9552446
+428.803,Grün,0.44348979294,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,428.716742437,4434.89792935
+429.875,GBFL,1.15387823653,,1.0,,Gemeinbedarfsfläche,11,,429.808102806,11538.7823653
+430.769,M,1.06482426911,,16.0,M,Mischfläche,2,,418.369804182,10648.2426911
+431.139,SO,0.98862936518,Soz. Einricht.,11.0,SO,Sonderbaufläche,17,,431.062297556,9886.2936518
+431.194,SO,1.00207650518,Messe,11.0,SO,Sonderbaufläche,17,,431.103901544,10020.7650518
+431.588,Grün,0.45729495174,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,431.52034752,4572.9495174
+432.327,GBFL,1.09527565714,,1.0,,Gemeinbedarfsfläche,11,,432.256806578,10952.7565714
+432.546,GBFL,1.16546019941,,1.0,,Gemeinbedarfsfläche,11,,432.460203468,11654.6019941
+432.551,Grün,0.49163403639,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,432.483180408,4916.34036387
+432.729,GBFL,0.86972216095,,1.0,,Gemeinbedarfsfläche,11,,385.42013626,8697.22160952
+434.13,Grün,0.92761750786,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,427.266065296,9276.17507858
+435.787,GBFL,1.12354288495,,1.0,,Gemeinbedarfsfläche,11,,435.679414208,11235.4288495
+436.02,GBFL,1.11011130749,,1.0,,Gemeinbedarfsfläche,11,,439.902917386,11256.163342
+437.399,Grün,1.30837699552,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,437.314584675,13083.7699552
+437.423,Grün,1.22522803056,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,437.347013633,12252.2803056
+437.9198425,Versor,0.8225175487,,12.0,,Fläche für Ver- und Entsorgung,9,,437.9198425,8225.17548698
+438.205,Grün,1.14897849357,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,438.12467927,11489.7849357
+441.162,SO,0.91230239263,Soz. Einricht.,11.0,SO,Sonderbaufläche,17,,441.078027878,9123.02392626
+442.075,Grün,0.19374549131,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,390.103467619,1937.4549131
+442.228,GE,0.73960294535,,2.0,GE,Gewerbefläche,3,,442.134980943,7396.02945351
+443.268,Grün,1.00096873931,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,443.182432641,10009.6873931
+444.933601906,S,0.62559395766,,10.0,S,Sonderbaufläche,10,,437.869192357,6255.93957655
+445.045133732,S,0.92797720042,,10.0,S,Sonderbaufläche,10,,445.045133732,9279.77200421
+445.626,Grün,0.86851778565,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,445.535208688,8685.17785654
+445.772,MI,0.6392394812,,7.0,MI,Mischgebiet,16,,445.677822413,6392.39481199
+446.847,GBFL,1.34874148455,,1.0,,Gemeinbedarfsfläche,11,,458.847437907,13487.4148455
+449.346,Grün,0.69282469763,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,449.252483645,6928.2469763
+449.614,GBFL,1.30708167579,,1.0,,Gemeinbedarfsfläche,11,,458.33401898,13070.8167579
+449.73,Grün,1.23751019997,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,449.648268828,12375.1019997
+450.675,GBFL,1.32351973533,,1.0,,Gemeinbedarfsfläche,11,,461.934944875,13235.1973533
+451.063,Grün,0.29933241064,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,450.99341138,2993.32410639
+451.847,Grün,1.38070101621,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,474.475215096,13807.0101621
+452.945,GBFL,0.96634927496,,1.0,,Gemeinbedarfsfläche,11,,432.082462947,9663.49274959
+453.042,MK,0.63091053284,,8.0,MK,Kerngebiet,15,,452.945727125,6309.10532837
+453.113,Grün,0.99843479184,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,453.021749545,9984.34791836
+453.333,Grün,1.02816992036,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,438.982194052,10281.6992036
+453.393,GBFL,1.23261156422,,1.0,,Gemeinbedarfsfläche,11,,453.317111223,12326.1156422
+453.839,GBFL,1.22869399495,,1.0,,Gemeinbedarfsfläche,11,,453.762597883,12286.9399495
+453.954,Grün,1.16740387767,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,453.886813585,11674.0387767
+454.14301826,verkehr,0.59534859105,,21.0,,Fläche für Hauptverkehrszüge,13,,454.14301826,5953.4859105
+455.341,GBFL,1.19618706158,,1.0,,Gemeinbedarfsfläche,11,,450.968311696,11961.8706158
+455.404,GBFL,0.84482630612,,1.0,,Gemeinbedarfsfläche,11,,392.884554266,8448.26306122
+455.892,GBFL,1.07223368663,,1.0,,Gemeinbedarfsfläche,11,,455.803756652,10722.3368663
+456.874,GBFL,1.02872242479,,1.0,,Gemeinbedarfsfläche,11,,472.369561023,10287.2242479
+457.473,GBFL,1.29093206156,,1.0,,Gemeinbedarfsfläche,11,,457.377752867,12909.3206156
+458.279,GBFL,1.13364535054,,1.0,,Gemeinbedarfsfläche,11,,452.363763384,11336.4535054
+458.306,GBFL,0.91883235041,,1.0,,Gemeinbedarfsfläche,11,,458.195493676,9188.32350408
+458.351,GBFL,1.11956280042,,1.0,,Gemeinbedarfsfläche,11,,453.234299798,11195.6280042
+458.549,GBFL,1.19340186961,,1.0,,Gemeinbedarfsfläche,11,,458.467444283,11934.0186961
+460.876,GBFL,1.33858536478,,1.0,,Gemeinbedarfsfläche,11,,465.435459626,13385.8536478
+461.22,Grün,0.79743313559,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,395.259215821,7974.33135588
+462.059,GBFL,1.3318162833,,1.0,,Gemeinbedarfsfläche,11,,461.972897905,13318.162833
+462.301,Grün,0.61476453413,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,462.199110678,6147.64534129
+462.439,GBFL,1.31102224773,,1.0,,Gemeinbedarfsfläche,11,,462.364526768,13110.2224773
+462.775,GBFL,1.13417056704,,1.0,,Gemeinbedarfsfläche,11,,457.703476687,11341.7056704
+462.838,Grün,0.99662699322,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,462.7556457,9966.26993215
+465.826,Grün,0.57751181703,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,465.722534963,5775.11817035
+466.128,GBFL,1.13712572267,,1.0,,Gemeinbedarfsfläche,11,,444.471252767,11371.2572267
+466.546,Grün,0.43738457332,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,466.463484518,4373.84573317
+466.707,Grün,0.98759364557,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,435.412787939,9875.93645566
+467.09,GBFL,1.20102466908,,1.0,,Gemeinbedarfsfläche,11,,455.139413126,12010.2466908
+467.403,Grün,0.17489773555,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,467.291847552,1748.97735552
+467.484,GBFL,1.34300313987,,1.0,,Gemeinbedarfsfläche,11,,467.40527406,13430.0313987
+468.983,GBFL,1.24134831411,,1.0,,Gemeinbedarfsfläche,11,,468.901625811,12413.4831411
+469.594,GBFL,1.21858921066,,1.0,,Gemeinbedarfsfläche,11,,475.749525925,12185.8921066
+471.569,Grün,0.23141078357,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,471.460308895,2314.10783571
+471.604,Grün,1.55263516444,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,471.493861125,15526.3516444
+471.783,Grün,0.59377804181,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,471.709298149,5937.7804181
+472.229638364,Versor,1.38364415727,,12.0,,Fläche für Ver- und Entsorgung,9,,472.229638364,13836.4415727
+474.653,Grün,0.28369891879,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,474.541545883,2836.98918786
+474.788,SO,1.01358244041,Soz. Einricht.,11.0,SO,Sonderbaufläche,17,,468.457904629,10135.8244041
+474.794,Grün,0.80552303404,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,474.717512109,8055.23034038
+475.813,Grün,1.47627041339,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,475.718186382,14762.7041339
+476.138,GBFL,1.4091832156,,1.0,,Gemeinbedarfsfläche,11,,476.044225002,14091.832156
+476.662,Grün,1.27417451274,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,476.54239656,12741.7451274
+476.759,Grün,1.48264066702,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,476.654648387,14826.4066702
+477.990984788,Wasser,1.15135547356,,17.0,,Wasserfläche,8,,477.990984788,11513.5547356
+478.793,Grün,1.26544185655,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,478.689734433,12654.4185655
+478.899,Grün,0.99204660277,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,478.786723597,9920.46602766
+480.143,GBFL,1.24087472475,,1.0,,Gemeinbedarfsfläche,11,,480.055038523,12408.7472475
+480.808,Grün,1.16682594995,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,480.734417821,11668.2594995
+481.551,GE,1.36873704709,,2.0,GE,Gewerbefläche,3,,481.44902095,13687.3704709
+481.7,MI,1.46744822363,,7.0,MI,Mischgebiet,16,,481.587944418,14674.4822363
+482.055,GBFL,0.73237544787,,1.0,,Gemeinbedarfsfläche,11,,366.538767008,7323.75447872
+484.988,GBFL,1.62024822885,,1.0,,Gemeinbedarfsfläche,11,,484.899274706,16202.4822885
+485.477,SO,1.05305300329,Hafen,11.0,SO,Sonderbaufläche,17,,450.670029735,10530.5300329
+485.514,GBFL,1.15136622252,,1.0,,Gemeinbedarfsfläche,11,,460.649304142,11513.6622252
+485.663,Grün,0.74051161123,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,485.543603881,7405.11611231
+485.727,GBFL,1.36666293769,,1.0,,Gemeinbedarfsfläche,11,,485.614029945,13666.6293769
+485.898,SO,1.25917891276,Hafen,11.0,SO,Sonderbaufläche,17,,505.012112884,12591.7891276
+485.937,Grün,0.77289873761,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,494.039884866,7728.98737612
+486.538,GI,1.3672816698,,3.0,GI,Industriefläche,4,,486.432413503,13672.816698
+487.042,Grün,0.90592785907,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,486.944955383,9059.2785907
+489.308,GBFL,1.39409126671,,1.0,,Gemeinbedarfsfläche,11,,485.70582584,13940.9126671
+490.069,GBFL,1.43823396327,,1.0,,Gemeinbedarfsfläche,11,,484.623128583,14382.3396327
+490.132439011,bahn,0.32084464313,,18.0,,Fläche für Bahnanlagen,12,,490.132439011,3208.4464313
+490.213,GBFL,1.29286605877,,1.0,,Gemeinbedarfsfläche,11,,490.110427596,12928.6605877
+491.009,Grün,1.09585783516,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,490.894857452,10958.5783516
+491.545,Grün,0.60001261818,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,491.440426252,6000.12618185
+491.815,GBFL,1.22351192691,,1.0,,Gemeinbedarfsfläche,11,,491.718026376,12235.1192691
+492.208,GBFL,1.44378917562,,1.0,,Gemeinbedarfsfläche,11,,481.204155794,14437.8917562
+492.417,Grün,0.67566761796,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,492.318752936,6756.67617959
+493.22,Grün,0.37215857085,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,493.112887588,3721.58570853
+493.484,Grün,0.48613136937,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,493.37330136,4861.31369371
+494.08,Grün,5.643129e-05,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5.33709860464,0.56431293971
+494.08,Grün,3.17077446153,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1045.92822021,31707.7446153
+494.792,SO,0.63640081656,Hafen,11.0,SO,Sonderbaufläche,17,,489.115928705,6364.00816564
+495.553746471,Wasser,0.33030002782,,17.0,,Wasserfläche,8,,495.553746471,3303.00027819
+496.065,Grün,0.25795430908,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,495.945665859,2579.54309084
+496.127,M,1.38611902731,,16.0,M,Mischfläche,2,,496.034233293,13861.1902731
+496.336,Grün,0.52030024264,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,781.830350351,5203.00242642
+496.996,Grün,0.89415802403,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,503.031794954,8941.58024029
+497.13667964,Versor,1.48638004993,,12.0,,Fläche für Ver- und Entsorgung,9,,497.13667964,14863.8004993
+498.968,Grün,1.4536409667,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,498.872976199,14536.409667
+500.068,M,1.55074391754,,16.0,M,Mischfläche,2,,499.965483809,15507.4391754
+500.151,Grün,0.63563385317,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,500.072937966,6356.33853171
+502.924,GBFL,1.34031349744,,1.0,,Gemeinbedarfsfläche,11,,502.816502307,13403.1349744
+503.314,M,1.53315232579,,16.0,M,Mischfläche,2,,503.212224868,15331.5232579
+503.322,SO,1.58380672353,Kulturelle Einrichtungen,11.0,SO,Sonderbaufläche,17,,503.216933521,15838.0672353
+504.02,M,1.48420497897,,16.0,M,Mischfläche,2,,503.917030541,14842.0497897
+504.869,GBFL,1.34116521364,,1.0,,Gemeinbedarfsfläche,11,,478.815692639,13411.6521364
+504.969,Grün,0.54750632567,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,504.876749074,5475.06325666
+505.586,GBFL,1.65766953857,,1.0,,Gemeinbedarfsfläche,11,,538.05782068,16576.6953857
+506.344,Grün,1.45849281105,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,512.682739202,14584.9281105
+506.584,GBFL,1.2086361711,,1.0,,Gemeinbedarfsfläche,11,,506.474579824,12086.361711
+507.136,Grün,1.0301514652,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,502.216302401,10301.514652
+509.134,GBFL,1.63391018647,,1.0,,Gemeinbedarfsfläche,11,,509.040861699,16339.1018647
+509.241016798,Wasser,0.93746488402,,17.0,,Wasserfläche,8,,509.241016798,9374.64884023
+509.31,GBFL,1.50210620742,,1.0,,Gemeinbedarfsfläche,11,,509.19379143,15021.0620742
+511.29,GBFL,1.64814167437,,1.0,,Gemeinbedarfsfläche,11,,523.290326207,16481.4167437
+511.747,GBFL,1.55808571897,,1.0,,Gemeinbedarfsfläche,11,,511.637565174,15580.8571897
+512.398,SO,1.57207757325,F.H.,11.0,SO,Sonderbaufläche,17,,512.2956389,15720.7757325
+513.129,GBFL,1.39395079307,,1.0,,Gemeinbedarfsfläche,11,,513.019368751,13939.5079307
+513.196,GE,1.3855254732,,2.0,GE,Gewerbefläche,3,,519.561267759,13855.254732
+514.319,GBFL,1.013677287,,1.0,,Gemeinbedarfsfläche,11,,514.224432087,10136.77287
+514.727,GBFL,1.57699560215,,1.0,,Gemeinbedarfsfläche,11,,514.628470239,15769.9560215
+514.852,Grün,1.22858793616,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,562.755759194,12285.8793616
+515.222,GBFL,1.53877952079,,1.0,,Gemeinbedarfsfläche,11,,515.122044795,15387.7952079
+515.417,W,1.16745957452,,13.0,W,Wohnbaufläche,0,,515.308513615,11674.5957452
+517.239,MK,1.60000275431,,8.0,MK,Kerngebiet,15,,517.119317695,16000.0275431
+517.37,GBFL,1.26715557609,,1.0,,Gemeinbedarfsfläche,11,,517.258765171,12671.5557609
+518.564,GE,1.17283462104,,2.0,GE,Gewerbefläche,3,,518.478856173,11728.3462104
+519.27,GBFL,1.53436373646,,1.0,,Gemeinbedarfsfläche,11,,555.032250634,15343.6373646
+519.543,Grün,1.26318401901,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,519.442543826,12631.8401901
+519.615,Grün,0.62774364825,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,519.512524914,6277.43648251
+520.445,GBFL,1.60835026812,,1.0,,Gemeinbedarfsfläche,11,,520.334690761,16083.5026812
+521.871,M,1.60664321605,,16.0,M,Mischfläche,2,,535.585528729,16066.4321605
+524.506,Grün,0.7901185064,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,500.381910143,7901.18506403
+526.701,Grün,1.6013953289,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,526.583469597,16013.953289
+526.89,Grün,0.52026807859,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,526.767409677,5202.68078591
+527.973648186,Versor,1.58671584654,,12.0,,Fläche für Ver- und Entsorgung,9,,527.973648186,15867.1584654
+527.977,GBFL,1.66746743321,,1.0,,Gemeinbedarfsfläche,11,,510.919022197,16674.6743321
+528.517,Grün,1.59893094284,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,528.396223654,15989.3094284
+528.636,GBFL,1.34132054522,,1.0,,Gemeinbedarfsfläche,11,,528.513250619,13413.2054522
+530.918,GE,1.61618965176,,2.0,GE,Gewerbefläche,3,,530.80232085,16161.8965176
+532.865,Grün,0.99917028379,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,532.774297247,9991.70283788
+533.593,Grün,1.03268761569,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,533.486215013,10326.8761569
+534.187,Grün,1.1035599596,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,562.403622318,11035.599596
+537.039293729,Wasser,1.65374070461,,17.0,,Wasserfläche,8,,537.039293729,16537.4070461
+537.624,W,1.28182659017,,13.0,W,Wohnbaufläche,0,,545.729492697,12818.2659017
+537.696,GBFL,1.59906428878,,1.0,,Gemeinbedarfsfläche,11,,537.602473989,15990.6428878
+538.118,Grün,0.67971859578,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,538.033805756,6797.18595779
+539.873,Grün,1.55786300753,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,539.776957993,15578.6300753
+540.031,Grün,0.58617890453,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,539.94692887,5861.78904529
+540.502,GE,1.79864316014,,2.0,GE,Gewerbefläche,3,,540.402402339,17986.4316014
+540.566,Grün,1.73287667066,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,540.445708496,17328.7667066
+541.299,GBFL,1.72460355009,,1.0,,Gemeinbedarfsfläche,11,,544.874261936,17246.0355009
+541.359,Grün,0.74317879482,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,541.251457167,7431.78794816
+541.814,Grün,1.06821857126,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,541.693028327,10682.1857126
+541.886,MI,1.49913683745,,7.0,MI,Mischgebiet,16,,534.413983142,14991.3683745
+542.964,GBFL,1.6712699061,,1.0,,Gemeinbedarfsfläche,11,,542.857828705,16712.699061
+543.556,Grün,0.47820743136,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,543.430682678,4782.07431363
+545.282822989,verkehr,0.42349362725,,21.0,,Fläche für Hauptverkehrszüge,13,,545.282822989,4234.93627247
+545.981,GBFL,1.67753997814,,1.0,,Gemeinbedarfsfläche,11,,548.487080119,16775.3997814
+546.059,Grün,0.69500962579,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,545.934368455,6950.09625786
+546.351,Grün,1.20687452422,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,541.279444959,12068.7452422
+547.129,GBFL,1.79750257052,,1.0,,Gemeinbedarfsfläche,11,,546.99683145,17975.0257052
+547.318,Grün,1.3469546405,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,547.214636357,13469.546405
+549.119,Grün,3.4352487824,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1775.41530121,34352.487824
+549.192,Grün,0.78729135724,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,549.091444093,7872.91357242
+549.682,W,2.7357017682,,13.0,W,Wohnbaufläche,0,,698.677944826,27357.017682
+550.929,Grün,0.70498138962,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,550.843980025,7049.81389617
+551.406,Grün,1.20543447967,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,555.154177849,12054.3447967
+552.204,W,0.82214415389,,13.0,W,Wohnbaufläche,0,,529.544723731,8221.44153891
+552.424,Grün,1.86985606583,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,555.0653378,18698.5606583
+553.283,Landwi,1.406692794,,5.0,,Fläche für die Landwirtschaft,6,,553.162780316,14066.92794
+553.446,GBFL,1.2896842395,,1.0,,Gemeinbedarfsfläche,11,,548.636927329,12896.842395
+553.76,Grün,0.56719391741,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,553.637167124,5671.93917407
+554.485,GE,1.57379741782,,2.0,GE,Gewerbefläche,3,,554.375262146,15737.9741782
+555.428,GBFL,1.75116631861,,1.0,,Gemeinbedarfsfläche,11,,542.714029402,17511.6631861
+556.838,Grün,1.28935034699,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,566.051643979,12893.5034699
+556.844,MI,1.67198580165,,7.0,MI,Mischgebiet,16,,556.72264887,16719.8580165
+557.157,GE,1.75131589736,,2.0,GE,Gewerbefläche,3,,557.028110503,17513.1589736
+558.612250909,Versor,1.70308493196,,12.0,,Fläche für Ver- und Entsorgung,9,,558.612250909,17030.8493196
+561.034780696,Versor,2.02332097787,,12.0,,Fläche für Ver- und Entsorgung,9,,561.034780696,20233.2097787
+561.084,M,1.5056774873,,16.0,M,Mischfläche,2,,560.963182252,15056.774873
+561.914,Grün,0.37821217672,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,561.812060026,3782.12176722
+562.005,WB,1.79187160371,,14.0,WB,Besonderes Wohngebiet,1,,562.032352077,17918.7160371
+563.546,W,1.76202985262,,13.0,W,Wohnbaufläche,0,,563.425064899,17620.2985262
+563.91,Grün,1.9804356045,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,563.796980917,19804.356045
+564.01,Grün,1.73023857683,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,563.908823826,17302.3857683
+564.024,Grün,1.54556134435,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,566.895560506,15455.6134435
+564.866,SO,2.19390055913,Blumenmarkt,11.0,SO,Sonderbaufläche,17,,564.751282267,21939.0055913
+565.112703217,bahn,0.71649375386,,18.0,,Fläche für Bahnanlagen,12,,565.112703217,7164.93753855
+565.166,WB,0.88791879438,,14.0,WB,Besonderes Wohngebiet,1,,565.056380601,8879.1879438
+565.959,GBFL,1.93955320312,,1.0,,Gemeinbedarfsfläche,11,,565.856740497,19395.5320312
+566.212,M,1.96627714381,,16.0,M,Mischfläche,2,,566.081942827,19662.7714381
+566.298,GE,0.70651643825,,2.0,GE,Gewerbefläche,3,,566.165489245,7065.16438249
+566.374,W,1.96995441088,,13.0,W,Wohnbaufläche,0,,566.244777122,19699.5441088
+566.566,GI,1.934055852,,3.0,GI,Industriefläche,4,,566.466589922,19340.55852
+567.443,GBFL,1.75420253754,,1.0,,Gemeinbedarfsfläche,11,,567.315979511,17542.0253754
+569.084,Grün,1.66301159842,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,568.980082523,16630.1159842
+571.217,Grün,0.35618672,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,569.35818668,3561.86720004
+574.18,Grün,1.01676872781,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,574.071900693,10167.6872781
+575.149,GBFL,1.83425035034,,1.0,,Gemeinbedarfsfläche,11,,575.01499974,18342.5035034
+577.843,SO,2.05201514891,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,577.75284491,20520.1514891
+578.149,Grün,1.44108776297,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,582.720014399,14410.8776297
+578.313,W,1.54488283289,,13.0,W,Wohnbaufläche,0,,594.314136296,15448.8283289
+578.467,GBFL,2.08605466068,,1.0,,Gemeinbedarfsfläche,11,,578.362362681,20860.5466068
+578.819,Grün,2.07261239916,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,578.710238024,20726.1239916
+579.348,GE,1.65186213035,,2.0,GE,Gewerbefläche,3,,579.226951185,16518.6213035
+579.692,GBFL,1.82775067189,,1.0,,Gemeinbedarfsfläche,11,,588.242394572,18277.5067189
+579.699,GBFL,1.64876087157,,1.0,,Gemeinbedarfsfläche,11,,571.383047791,16487.6087157
+582.977294932,Versor,1.39432231024,,12.0,,Fläche für Ver- und Entsorgung,9,,582.977294932,13943.2231024
+584.073,GBFL,1.63107872626,,1.0,,Gemeinbedarfsfläche,11,,575.320693756,16310.7872626
+584.262,W,1.62269439032,,13.0,W,Wohnbaufläche,0,,556.427360474,16226.9439032
+588.871,SO,1.91763943383,FH,11.0,SO,Sonderbaufläche,17,,594.726283859,19176.3943383
+589.402,GBFL,1.88038644551,,1.0,,Gemeinbedarfsfläche,11,,601.273832692,18803.8644551
+590.202317328,S,2.14249372676,Sport/Kultur,2.0,S,Sonderbaufläche,10,Veranstaltungen,590.202317328,21424.9372676
+590.838000379,verkehr,0.44891060055,,21.0,,Fläche für Hauptverkehrszüge,13,,590.838000379,4489.10600554
+591.224,Grün,0.88672383719,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,591.106817599,8867.23837191
+591.98,GBFL,1.33139766166,,1.0,,Gemeinbedarfsfläche,11,,585.832124412,13313.9766166
+594.300032222,Versor,1.73825812681,,12.0,,Fläche für Ver- und Entsorgung,9,,594.300032222,17382.5812681
+595.499,Grün,2.0866163815,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,595.384956444,20866.163815
+596.357,W,2.02850530844,,13.0,W,Wohnbaufläche,0,,596.227997077,20285.0530844
+597.127,Grün,1.46121502108,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,597.031758548,14612.1502108
+598.114,Grün,1.92648771733,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,597.991986693,19264.8771733
+599.196,GBFL,1.29932003196,,1.0,,Gemeinbedarfsfläche,11,,596.338827284,12993.2003196
+599.207,M,1.14426060119,,16.0,M,Mischfläche,2,,599.083213576,11442.6060119
+599.561,GBFL,1.65590650615,,1.0,,Gemeinbedarfsfläche,11,,599.427537677,16559.0650615
+599.907,SO,1.65626952509,UNI,11.0,SO,Sonderbaufläche,17,,599.79666138,16562.6952509
+600.806,Grün,2.04706643255,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,600.699436447,20470.6643255
+602.135,GBFL,1.76791200883,,1.0,,Gemeinbedarfsfläche,11,,630.488212992,17679.1200883
+602.905,Grün,0.44262904182,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,602.778753761,4426.29041822
+602.968,GBFL,1.96387427353,,1.0,,Gemeinbedarfsfläche,11,,597.862570094,19638.7427353
+603.728295863,Versor,2.25879525444,,12.0,,Fläche für Ver- und Entsorgung,9,,603.728295863,22587.9525444
+604.479,NS,1.02215179133,,9.0,,Fläche für Hauptverkehrszüge,13,,604.348113356,10221.5179133
+605.213,Grün,1.53349421202,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,605.085998899,15334.9421202
+605.645,GBFL,2.22870671708,,1.0,,Gemeinbedarfsfläche,11,,761.704230423,22287.0671708
+606.481,Grün,1.23389613866,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,606.374527315,12338.9613866
+606.514,GBFL,1.63409762022,,1.0,,Gemeinbedarfsfläche,11,,594.395753317,16340.9762022
+607.229,GBFL,2.15990169037,,1.0,,Gemeinbedarfsfläche,11,,607.116416511,21599.0169037
+607.801,GBFL,1.77105439647,,1.0,,Gemeinbedarfsfläche,11,,620.387300121,17710.5439647
+608.601,M,1.50355657525,,16.0,M,Mischfläche,2,,622.322870752,15035.5657525
+608.874,Grün,1.27592229257,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,608.764789738,12759.2229257
+609.349,MK,1.92975535588,,8.0,MK,Kerngebiet,15,,609.208327562,19297.5535588
+610.478,Grün,81.8325399369,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,9273.31752192,1304952.63924
+610.478,Landwi,20.6531131357,,4.0,,Fläche für die Landwirtschaft,6,,2053.42795528,206531.131357
+612.764,W,1.95520245011,,13.0,W,Wohnbaufläche,0,,612.631593588,19552.0245011
+612.885,Grün,1.76938168574,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,612.77942801,17693.8168574
+613.171,GE,2.34515380585,,2.0,GE,Gewerbefläche,3,,615.38446292,23451.5380585
+613.70757205,Wasser,2.0436037129,,17.0,,Wasserfläche,8,,613.70757205,20436.037129
+613.813726508,Wasser,2.48148669971,,17.0,,Wasserfläche,8,,613.813726508,24814.8669971
+613.844,Grün,0.83267323686,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,613.736938061,8326.73236859
+614.069904266,Wasser,1.21077965635,,17.0,,Wasserfläche,8,,614.069904266,12107.7965635
+614.071704678,Versor,1.18788114369,,12.0,,Fläche für Ver- und Entsorgung,9,,614.071704678,11878.8114369
+615.507246678,Versor,2.09576086417,,12.0,,Fläche für Ver- und Entsorgung,9,,615.507246678,20957.6086417
+615.724,Grün,1.78234057342,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,615.591948303,17823.4057342
+615.791,SO,2.0760253709,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,615.135627576,20760.253709
+616.464,GBFL,2.11851819134,,1.0,,Gemeinbedarfsfläche,11,,616.349085368,21185.1819134
+618.087012898,Wasser,1.31990848701,,17.0,,Wasserfläche,8,,618.087012898,13199.0848701
+618.15,Grün,1.11923258489,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,618.013848952,11192.3258489
+618.769,Grün,1.21993276309,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,618.669619475,12199.3276309
+618.831,GBFL,2.17330679799,,1.0,,Gemeinbedarfsfläche,11,,618.716606154,21733.0679799
+619.555272903,Wasser,1.72328398055,,17.0,,Wasserfläche,8,,619.555272903,17232.8398055
+620.059,MK,0.53311358023,,8.0,MK,Kerngebiet,15,,619.931309642,5331.13580232
+620.233134789,Wasser,1.54256683906,,17.0,,Wasserfläche,8,,620.233134789,15425.6683906
+620.293,GE,2.18976345662,,2.0,GE,Gewerbefläche,3,,620.157289859,21897.6345662
+621.089,Grün,1.13340676062,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,620.953385568,11334.0676062
+621.806,GBFL,1.93189653127,,1.0,,Gemeinbedarfsfläche,11,,598.434802089,19318.9653127
+623.199,GBFL,1.87050678427,,1.0,,Gemeinbedarfsfläche,11,,634.820196094,18705.0678427
+624.55,GBFL,2.12686373806,,1.0,,Gemeinbedarfsfläche,11,,624.426088948,21268.6373806
+626.707,GBFL,1.69002223025,,1.0,,Gemeinbedarfsfläche,11,,626.559369461,16900.2223025
+626.985,M,1.9113460572,,16.0,M,Mischfläche,2,,626.857825104,19113.460572
+627.347052137,Versor,2.06654882789,,12.0,,Fläche für Ver- und Entsorgung,9,,627.347052137,20665.4882789
+627.6,GBFL,1.98777689073,,1.0,,Gemeinbedarfsfläche,11,,627.477382506,19877.7689073
+627.897,GBFL,2.44832931315,,1.0,,Gemeinbedarfsfläche,11,,630.053113997,24483.2931315
+633.204,M,1.55638579918,,16.0,M,Mischfläche,2,,619.94798453,15563.8579918
+633.324,MI,2.15486256569,,7.0,MI,Mischgebiet,16,,633.176978843,21548.6256569
+633.839,M,1.37822508685,,16.0,M,Mischfläche,2,,635.201485652,13782.2508685
+633.882,Grün,1.07201687682,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,633.763286108,10720.1687682
+634.238,W,2.27357097035,,13.0,W,Wohnbaufläche,0,,634.120131171,22735.7097035
+635.016,GBFL,1.72181735451,,1.0,,Gemeinbedarfsfläche,11,,634.902009145,17218.1735451
+635.326,GE,2.38305342598,,2.0,GE,Gewerbefläche,3,,621.901892418,23830.5342598
+636.422,GBFL,1.837144462,,1.0,,Gemeinbedarfsfläche,11,,633.982392276,18371.44462
+638.516,GI,2.35897943602,,3.0,GI,Industriefläche,4,,638.412565853,23589.7943602
+638.566,Grün,2.05989352444,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,638.431322313,20598.9352444
+638.996,Grün,1.02736206802,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,667.738948456,10273.6206802
+639.852,GE,1.90946522893,,2.0,GE,Gewerbefläche,3,,644.467211634,19094.6522893
+641.262,M,2.32026310026,,16.0,M,Mischfläche,2,,641.452544556,23202.6310026
+641.587,GBFL,1.89459214455,,1.0,,Gemeinbedarfsfläche,11,,641.455783909,18945.9214455
+641.804,W,2.40297582784,,13.0,W,Wohnbaufläche,0,,641.677622494,24029.7582784
+641.84,Grün,1.04482316158,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,641.713409517,10448.2316158
+642.617,Landwi,0.28144842096,,5.0,,Fläche für die Landwirtschaft,6,,642.502062657,2814.48420964
+642.806,GBFL,2.45959382978,,1.0,,Gemeinbedarfsfläche,11,,651.207384646,24595.9382978
+642.817,SO,2.20754919388,Golf,11.0,SO,Sonderbaufläche,17,,642.716248018,22075.4919388
+644.578,M,1.06107775009,,16.0,M,Mischfläche,2,,655.819511737,10610.7775009
+644.68,GBFL,1.24725140509,,1.0,,Gemeinbedarfsfläche,11,,644.510006037,12472.5140509
+645.378,Grün,2.46099818751,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,639.41314509,24609.9818751
+645.664,GBFL,2.06558553301,,1.0,,Gemeinbedarfsfläche,11,,645.5468137,20655.8553301
+645.765,Grün,1.36948855074,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,642.46789427,13694.8855074
+646.448,Grün,1.33678396862,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,646.319851676,13367.8396862
+647.311,Grün,2.21073071396,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,647.149455974,22107.3071396
+648.169470014,Versor,2.24755448225,,12.0,,Fläche für Ver- und Entsorgung,9,,648.169470014,22475.5448225
+649.149970096,Versor,0.86461757114,,12.0,,Fläche für Ver- und Entsorgung,9,,649.149970096,8646.17571135
+650.008,SO,2.10629840693,Baumarkt,11.0,SO,Sonderbaufläche,17,,649.890736511,21062.9840693
+651.355,GE,2.64221786197,,2.0,GE,Gewerbefläche,3,,656.16041794,26422.1786197
+652.967,Grün,2.63948415389,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,652.864832676,26394.8415389
+653.240765918,Wasser,1.21094367728,,17.0,,Wasserfläche,8,,653.240765918,12109.4367728
+653.76,Grün,1.68993668287,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,638.119624007,16899.3668287
+655.68,Grün,1.32161224874,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,608.042304128,13216.1224874
+655.994,Grün,0.913425392,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,655.84205802,9134.25391997
+656.873068852,Versor,1.98133354546,,12.0,,Fläche für Ver- und Entsorgung,9,,656.873068852,19813.3354546
+657.999,W,2.03484261363,,13.0,W,Wohnbaufläche,0,,657.847892936,20348.4261363
+658.659069045,Wasser,2.23553496442,,17.0,,Wasserfläche,8,,658.659069045,22355.3496442
+658.694,M,2.27437834431,,16.0,M,Mischfläche,2,,655.77921003,22743.7834431
+660.244,W,2.52639572185,,13.0,W,Wohnbaufläche,0,,653.78989137,25263.9572185
+660.429,Grün,1.2642060315,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,660.280218489,12642.060315
+660.848,Grün,1.74218556779,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,678.206439773,17421.8556779
+660.85,GBFL,2.93269884862,,1.0,,Gemeinbedarfsfläche,11,,660.700170344,29326.9884862
+661.104,SO,2.49886463564,Soz. Einricht.,11.0,SO,Sonderbaufläche,17,,642.60301709,24988.6463564
+662.139,Grün,0.80192952516,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,662.025080012,8019.29525155
+662.496,M,1.81418997563,,16.0,M,Mischfläche,2,,652.215964871,18141.8997563
+662.878,M,2.34272711418,,16.0,M,Mischfläche,2,,649.475915444,23427.2711418
+664.159,MK,1.86047564228,,8.0,MK,Kerngebiet,15,,664.016371305,18604.7564228
+664.869,W,2.5388049817,,13.0,W,Wohnbaufläche,0,,664.765496982,25388.049817
+664.915,W,2.8412499796,,13.0,W,Wohnbaufläche,0,,676.010725371,28412.499796
+665.033,SO,2.45346851598,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,657.12577099,24534.6851598
+665.187713889,Wasser,1.39104214772,,17.0,,Wasserfläche,8,,665.187713889,13910.4214772
+667.624277012,Wasser,2.06087891014,,17.0,,Wasserfläche,8,,667.624277012,20608.7891014
+667.77,GE,2.5929555087,,2.0,GE,Gewerbefläche,3,,670.186793423,25929.555087
+668.999,GBFL,2.18568040411,,1.0,,Gemeinbedarfsfläche,11,,660.617958861,21856.8040411
+669.173,GBFL,2.37271383528,,1.0,,Gemeinbedarfsfläche,11,,655.202466209,23727.1383528
+669.292,M,2.39653468266,,16.0,M,Mischfläche,2,,669.181313308,23965.3468266
+669.836,Grün,1.12526176308,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,669.704384149,11252.6176308
+669.976,Grün,0.36611878516,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,669.83536087,3661.18785158
+670.206,GE,2.59871298299,,2.0,GE,Gewerbefläche,3,,672.087160915,25987.1298299
+671.047,W,2.40269509605,,13.0,W,Wohnbaufläche,0,,670.930050695,24026.9509605
+671.537,SO,2.00338699414,KVB,11.0,SO,Sonderbaufläche,17,,671.372609108,20033.8699414
+673.401,Grün,0.69883426076,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,673.266274258,6988.34260761
+674.182,Grün,0.71715412352,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,674.026231195,7171.5412352
+676.353,GBFL,2.60558272563,,1.0,,Gemeinbedarfsfläche,11,,676.233553909,26055.8272563
+676.781,Grün,1.32103902575,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,676.627555209,13210.3902575
+676.956,M,6.20389475585,,16.0,M,Mischfläche,2,,1994.39754602,62038.9475585
+678.919420015,Wasser,1.3311844667,,17.0,,Wasserfläche,8,,678.919420015,13311.844667
+681.31,MI,6.52796267184,,7.0,MI,Mischgebiet,16,,1720.55627105,65279.6267184
+681.31,W,3.03127222712,,7.0,W,Wohnbaufläche,0,,886.409781803,30312.7222712
+681.397,Grün,0.89968898486,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,681.266796966,8996.88984863
+681.488,Grün,2.17579778589,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,681.906279079,21757.9778589
+682.146,Grün,1.52548486988,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,682.026811966,15254.8486988
+682.546,MI,2.04869042377,,7.0,MI,Mischgebiet,16,,675.794519701,20486.9042377
+682.853,GBFL,2.18960006918,,1.0,,Gemeinbedarfsfläche,11,,682.702461095,21896.0006918
+683.012,Grün,2.15392808471,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,682.865801758,21539.2808471
+683.291,MI,1.73470602389,,7.0,MI,Mischgebiet,16,,683.147303846,17347.0602389
+683.438,GBFL,1.61675541658,,1.0,,Gemeinbedarfsfläche,11,,683.274028329,16167.5541658
+683.545,GE,2.81695752357,,2.0,GE,Gewerbefläche,3,,683.384478357,28169.5752357
+683.73,Grün,2.01840460153,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,683.582189713,20184.0460153
+686.698731377,Wasser,3.10754152171,,17.0,,Wasserfläche,8,,686.698731377,31075.4152171
+687.522,GI,2.80934731741,,3.0,GI,Industriefläche,4,,666.138887997,28093.4731741
+687.814,GBFL,2.16617266918,,1.0,,Gemeinbedarfsfläche,11,,687.650841299,21661.7266918
+689.096510462,Wasser,1.33456328367,,17.0,,Wasserfläche,8,,689.096510462,13345.6328367
+689.85,SO,3.16592137727,EIS u. SCHWIMMST.,11.0,SO,Sonderbaufläche,17,,864.802083398,31659.2137727
+690.544,M,1.7361639167,,16.0,M,Mischfläche,2,,702.963525783,17361.639167
+692.672,SO,2.94784734166,Möbelmarkt,11.0,SO,Sonderbaufläche,17,,692.549655835,29478.4734166
+693.693,Grün,2.86410237965,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,699.678053134,28641.0237965
+694.247,Grün,2.74985633161,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,694.101336258,27498.5633161
+694.655,GBFL,3.19699229277,,1.0,,Gemeinbedarfsfläche,11,,698.535136992,31969.9229277
+695.467,M,2.55382608048,,16.0,M,Mischfläche,2,,695.323463465,25538.2608048
+696.285,SO,1.95423065525,Camping,11.0,SO,Sonderbaufläche,17,,696.141007367,19542.3065525
+697.488,W,2.17553539121,,13.0,W,Wohnbaufläche,0,,687.702221151,21755.3539121
+698.217579404,Wasser,3.31263149523,,17.0,,Wasserfläche,8,,698.217579404,33126.3149523
+700.494,GBFL,2.38252624945,,1.0,,Gemeinbedarfsfläche,11,,720.546951756,23825.2624945
+700.843,GBFL,2.84886132707,,1.0,,Gemeinbedarfsfläche,11,,700.675225779,28488.6132707
+701.241771407,Wasser,1.47370292504,,17.0,,Wasserfläche,8,,701.241771407,14737.0292504
+701.599,GE,2.72473040798,,2.0,GE,Gewerbefläche,3,,701.446266153,27247.3040798
+702.202,NS,1.03141166696,,9.0,,Fläche für Hauptverkehrszüge,13,,702.04768664,10314.1166696
+703.555,Grün,1.09035404396,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,703.408896753,10903.5404396
+703.905,MI,1.94686226539,,7.0,MI,Mischgebiet,16,,703.746360001,19468.6226539
+704.179,GBFL,1.64959194985,,1.0,,Gemeinbedarfsfläche,11,,704.039994211,16495.9194985
+704.788336484,Wasser,2.2114021257,,17.0,,Wasserfläche,8,,704.788336484,22114.021257
+706.544,W,2.57038401347,,13.0,W,Wohnbaufläche,0,,682.26996859,25703.8401347
+707.044856041,Wasser,1.51130785827,,17.0,,Wasserfläche,8,,707.044856041,15113.0785827
+707.198,Grün,0.87882610143,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,707.036005008,8788.26101427
+707.93,MI,1.25812737567,,7.0,MI,Mischgebiet,16,,707.817637057,12581.2737567
+708.47,M,1.81525770266,,16.0,M,Mischfläche,2,,708.337252059,18152.5770266
+708.59,WB,2.12099903451,,14.0,WB,Besonderes Wohngebiet,1,,708.43976586,21209.9903451
+711.261,GBFL,3.04226258751,,1.0,,Gemeinbedarfsfläche,11,,711.125035021,30422.6258751
+711.321,W,2.47431599084,,13.0,W,Wohnbaufläche,0,,711.17968603,24743.1599084
+711.733,GE,2.13874726488,,2.0,GE,Gewerbefläche,3,,711.58467372,21387.4726488
+711.926,GBFL,2.43343775545,,1.0,,Gemeinbedarfsfläche,11,,711.787914741,24334.3775545
+712.60781151,Wasser,1.53303468332,,17.0,,Wasserfläche,8,,712.60781151,15330.3468332
+713.158,GBFL,2.52637396467,,1.0,,Gemeinbedarfsfläche,11,,713.032192713,25263.7396467
+716.370969331,verkehr,0.24897658676,,21.0,,Fläche für Hauptverkehrszüge,13,,716.370969331,2489.76586759
+717.127,GBFL,2.96299133134,,1.0,,Gemeinbedarfsfläche,11,,716.993390504,29629.9133134
+717.66,Grün,3.05368498407,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,717.504528226,30536.8498407
+719.801,GBFL,2.15908110316,,1.0,,Gemeinbedarfsfläche,11,,703.656057279,21590.8110316
+721.911,WB,2.18963686465,,14.0,WB,Besonderes Wohngebiet,1,,721.77154038,21896.3686465
+726.127,M,3.0542333537,,16.0,M,Mischfläche,2,,734.133145537,30542.333537
+726.164,GBFL,1.97891682457,,1.0,,Gemeinbedarfsfläche,11,,726.011679589,19789.1682457
+726.292,Grün,1.63408382933,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,726.154217882,16340.8382933
+726.571490826,S,2.86504811631,Nahversorgung,0.0,S*,Sonderbaufläche,10,,726.571490826,28650.4811631
+726.87,MI,1.68984097536,,7.0,MI,Mischgebiet,16,,726.711580035,16898.4097536
+726.994,MI,2.89030635591,,7.0,MI,Mischgebiet,16,,726.839400606,28903.0635591
+729.345,GE,2.83590675703,,2.0,GE,Gewerbefläche,3,,729.185223102,28359.0675703
+731.018,SO,3.36366815796,P+R / Hotel,11.0,SO,Sonderbaufläche,17,,856.810285072,33636.6815796
+732.226,Grün,2.32876181099,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,732.04894489,23287.6181099
+732.449,GE,2.98746409177,,2.0,GE,Gewerbefläche,3,,732.291621932,29874.6409177
+733.144,MK,2.82132596272,,8.0,MK,Kerngebiet,15,,732.999030504,28213.2596272
+737.864,Grün,3.46286146995,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,737.715426181,34628.6146995
+738.528,GBFL,3.2144735045,,1.0,,Gemeinbedarfsfläche,11,,743.098651437,32144.735045
+738.902,GBFL,1.985712179,,1.0,,Gemeinbedarfsfläche,11,,738.743544686,19857.12179
+740.656,Grün,1.86168902383,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,740.514540974,18616.8902383
+741.702,M,1.43423739004,,16.0,M,Mischfläche,2,,705.86900666,14342.3739004
+741.704,Grün,1.8397271495,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,608.182495153,18397.271495
+741.949,Grün,1.58530446835,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,741.788946997,15853.0446835
+742.061,GE,2.32093311914,,2.0,GE,Gewerbefläche,3,,741.683003624,23209.3311914
+743.278,SO,4.17135439007,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,887.407107072,41713.5439007
+744.75,GI,2.70477957745,,3.0,GI,Industriefläche,4,,744.588646166,27047.7957745
+746.519,GBFL,3.07044395382,,1.0,,Gemeinbedarfsfläche,11,,821.960819036,30704.4395382
+748.374,Grün,3.18105282133,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,748.219646432,31810.5282133
+750.031,Grün,1.27093067555,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,749.887220443,12709.3067555
+750.934,Grün,0.59807851853,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,750.756959692,5980.78518528
+751.502,GBFL,3.26347737175,,1.0,,Gemeinbedarfsfläche,11,,769.355206069,32634.7737175
+751.628,Grün,1.16038716356,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,751.504334541,11603.8716356
+754.565,Grün,1.05783726632,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,754.393856184,10578.3726632
+759.529,GE,3.04514786982,,2.0,GE,Gewerbefläche,3,,759.351579631,30451.4786982
+760.537,Grün,0.61956708713,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,760.358622569,6195.6708713
+760.537,Grün,0.73696704693,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,760.365590677,7369.67046925
+762.547,M,3.56098207676,,16.0,M,Mischfläche,2,,762.419625269,35609.8207676
+763.033,GBFL,3.0268458539,,1.0,,Gemeinbedarfsfläche,11,,776.433077004,30268.458539
+763.222846921,S,3.752308232,Sport/Gesundheit/Bildung,2.0,S,Sonderbaufläche,10,,763.222846921,37523.08232
+766.918,GBFL,3.36326369179,,1.0,,Gemeinbedarfsfläche,11,,766.780935877,33632.6369179
+768.611,GBFL,3.64901980294,,1.0,,Gemeinbedarfsfläche,11,,774.575575247,36490.1980294
+773.032,Grün,2.93491561728,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,781.25985229,29349.1561728
+773.944,GE,3.33076477751,,2.0,GE,Gewerbefläche,3,,773.763188825,33307.6477751
+774.479,GE,3.65353545106,,2.0,GE,Gewerbefläche,3,,774.338456952,36535.3545106
+775.291,W,2.92227515232,,13.0,W,Wohnbaufläche,0,,775.130904479,29222.7515232
+776.894,GBFL,2.3131681249,,1.0,,Gemeinbedarfsfläche,11,,780.595647244,23131.681249
+777.881,M,3.00382473869,,16.0,M,Mischfläche,2,,777.732343953,30038.2473869
+779.161,GE,2.12397469836,,2.0,GE,Gewerbefläche,3,,779.005174151,21239.7469836
+780.148,Grün,3.68542090536,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,780.044911147,36854.2090536
+783.85189096,Wasser,2.43581120415,,17.0,,Wasserfläche,8,,783.85189096,24358.1120415
+785.706,Grün,3.62586470175,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,792.646098494,36258.6470175
+788.085,M,2.80301571321,,16.0,M,Mischfläche,2,,787.952984848,28030.1571321
+788.902,Grün,1.12676876559,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,785.667829241,11267.6876559
+789.176,Grün,1.31503115992,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,788.99938024,13150.3115992
+792.248,Grün,2.57879299271,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,792.105979693,25787.9299271
+792.746,Grün,3.35098041472,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,805.185376732,33509.8041472
+793.915,Grün,0.75561768066,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,793.750774093,7556.17680662
+794.172,GBFL,2.41753593227,,1.0,,Gemeinbedarfsfläche,11,,809.617223122,24175.3593227
+795.757673364,Wasser,3.86844826751,,17.0,,Wasserfläche,8,,795.757673364,38684.4826751
+800.523,SO,3.63095518489,Camping,11.0,SO,Sonderbaufläche,17,,802.940607142,36309.5518489
+801.321,Grün,2.757994554,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,801.197557006,27579.94554
+806.87,MI,2.29301095135,,7.0,MI,Mischgebiet,16,,806.698278842,22930.1095135
+806.876837216,bahn,0.65963377098,,18.0,,Fläche für Bahnanlagen,12,,806.876837216,6596.33770984
+809.356,GE,1.82634290824,,2.0,GE,Gewerbefläche,3,,809.315855839,18263.4290824
+811.81,Grün,1.1782014906,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,811.629156889,11782.014906
+811.896,MK,2.42165961868,,8.0,MK,Kerngebiet,15,,811.734848615,24216.5961868
+817.419,GBFL,3.38376653771,,1.0,,Gemeinbedarfsfläche,11,,841.421964222,33837.6653771
+817.586,W,3.6682323672,,13.0,W,Wohnbaufläche,0,,817.440269092,36682.323672
+821.059,GE,2.13362873606,,2.0,GE,Gewerbefläche,3,,820.894590382,21336.2873606
+822.776,SO,4.81546898675,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,858.15635337,48154.6898675
+822.797,SO,0.8868086995,Hafen,11.0,SO,Sonderbaufläche,17,,842.050057552,8868.08699498
+823.231,Grün,1.09515751376,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,823.073315003,10951.5751376
+826.851,SO,4.31846312771,Post,11.0,SO,Sonderbaufläche,17,,826.695424765,43184.6312771
+829.4,Grün,3.12747905507,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,840.770212275,31274.7905507
+829.623,W,3.02048485287,,13.0,W,Wohnbaufläche,0,,829.433926015,30204.8485287
+832.596,M,2.28732309775,,16.0,M,Mischfläche,2,,834.101836746,23189.7767093
+833.38,SO,2.37192803993,Hafen,11.0,SO,Sonderbaufläche,17,,838.110112028,23719.2803993
+834.060170999,Versor,3.11698883629,,12.0,,Fläche für Ver- und Entsorgung,9,,834.060170999,31169.8883629
+835.811,M,2.48064514529,,16.0,M,Mischfläche,2,,857.730345423,24806.4514529
+842.325,GE,1.09420574552,,2.0,GE,Gewerbefläche,3,,842.135696989,10942.0574552
+843.773,GBFL,2.9370591716,,1.0,,Gemeinbedarfsfläche,11,,818.168498738,29370.591716
+846.208,Grün,1.49621279447,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,846.019016507,14962.1279447
+848.429,GE,3.98075984101,,2.0,GE,Gewerbefläche,3,,848.293253815,39807.5984101
+850.605,Grün,1.8144998611,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,850.443001093,18144.998611
+852.472,GBFL,3.06379091213,,1.0,,Gemeinbedarfsfläche,11,,835.50102762,30637.9091213
+853.913124075,Versor,2.04557344017,,12.0,,Fläche für Ver- und Entsorgung,9,,853.913124075,20455.7344017
+854.896,GE,1.83079187836,,2.0,GE,Gewerbefläche,3,,696.763551172,18307.9187836
+856.584,MI,1.78184641486,,7.0,MI,Mischgebiet,16,,856.659587525,17818.4641486
+857.37,M,4.22694467173,,16.0,M,Mischfläche,2,,857.216786218,42269.4467173
+860.99,Grün,1.67346747449,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,640.39934797,16734.6747449
+865.436,GI,4.06943661302,,3.0,GI,Industriefläche,4,,865.232370657,40694.3661302
+866.864,Grün,1.12700834543,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,866.651362333,11270.0834543
+868.479,Grün,1.95749838136,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,868.315801957,19574.9838136
+868.985,SO,4.56477679738,KVB,11.0,SO,Sonderbaufläche,17,,868.810180481,45647.7679738
+872.231,GE,3.16745071837,,2.0,GE,Gewerbefläche,3,,746.913736921,31674.5071837
+879.324,M,2.69625962864,,16.0,M,Mischfläche,2,,879.149523021,26962.5962864
+879.531965196,Wasser,5.05694194879,,17.0,,Wasserfläche,8,,879.531965196,50569.4194879
+880.652,GBFL,2.42879486671,,1.0,,Gemeinbedarfsfläche,11,,880.47704812,24287.9486671
+880.687,M,3.99156141965,,16.0,M,Mischfläche,2,,880.529195865,39915.6141965
+882.869,Grün,2.38402129365,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,882.670655192,23840.2129365
+883.789,Grün,3.26461706155,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,886.222504768,32646.1706155
+885.208,GE,1.09437096245,,2.0,GE,Gewerbefläche,3,,463.318162319,10943.7096245
+885.235347398,verkehr,1.22726009946,,21.0,,Fläche für Hauptverkehrszüge,13,,885.235347398,12272.6009946
+886.959,Grün,0.96916522134,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,886.823359608,9691.6522134
+887.392,Grün,1.44698018381,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,884.363766536,14469.8018381
+887.64,MI,3.97676205255,,7.0,MI,Mischgebiet,16,,887.436034129,39767.6205255
+889.782830592,Wasser,3.24458377265,,17.0,,Wasserfläche,8,,889.782830592,32445.8377265
+892.393,SO,4.44043046814,Kloster,11.0,SO,Sonderbaufläche,17,,892.231269566,44404.3046814
+894.373,MI,2.9463425788,,7.0,MI,Mischgebiet,16,,884.862675972,29463.425788
+894.543378098,bahn,2.71574138471,,18.0,,Fläche für Bahnanlagen,12,,894.543378098,27157.4138471
+895.398,M,4.87063364756,,16.0,M,Mischfläche,2,,895.233052678,48706.3364756
+895.913,GE,3.94571379219,,2.0,GE,Gewerbefläche,3,,895.723488811,39457.1379219
+898.404869694,Versor,4.78557392101,,12.0,,Fläche für Ver- und Entsorgung,9,,898.404869694,47855.7392101
+899.299,GBFL,5.42056191353,,1.0,,Gemeinbedarfsfläche,11,,899.094480823,54205.6191353
+905.123,Grün,2.08234023931,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,904.911625308,20823.4023931
+907.486,M,4.82111365727,,16.0,M,Mischfläche,2,,890.887811353,48211.1365727
+909.212,Grün,1.89957662476,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,909.036334522,18995.7662476
+911.711,W,3.62600535913,,13.0,W,Wohnbaufläche,0,,921.939684374,36260.0535913
+914.466,GE,4.64432539116,,2.0,GE,Gewerbefläche,3,,914.321611548,46443.2539116
+914.855,Grün,1.8459773528,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,926.738653261,18459.773528
+918.539,W,3.48740400297,,13.0,W,Wohnbaufläche,0,,918.367074221,34874.0400297
+919.183581146,Versor,5.07620202752,,12.0,,Fläche für Ver- und Entsorgung,9,,919.183581146,50762.0202752
+927.473896801,bahn,0.7808572783,,18.0,,Fläche für Bahnanlagen,12,,927.473896801,7808.572783
+927.547,Grün,3.45509659266,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,927.342618101,34550.9659266
+927.684,Grün,3.53947277197,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,959.113913721,35394.7277197
+929.536,GE,5.38651632988,,2.0,GE,Gewerbefläche,3,,952.023237108,53865.1632988
+930.817,W,4.22919872857,,13.0,W,Wohnbaufläche,0,,930.416513413,42291.9872857
+932.071018563,Versor,4.23346975804,,0.0,,Fläche für Ver- und Entsorgung,9,,932.071018563,42334.6975804
+932.895,GE,2.56254510696,,2.0,GE,Gewerbefläche,3,,977.725339133,25625.4510696
+933.45,SO,1.08924344141,Hafen,11.0,SO,Sonderbaufläche,17,,920.626157363,10892.4344141
+935.397,W,1.49839016203,,13.0,W,Wohnbaufläche,0,,935.215082195,14983.9016203
+938.046586954,Versor,4.59835095883,,12.0,,Fläche für Ver- und Entsorgung,9,,938.046586954,45983.5095883
+938.177,GE,3.21919386281,,2.0,GE,Gewerbefläche,3,,918.578226396,32191.9386281
+939.757,GI,4.42355146276,,3.0,GI,Industriefläche,4,,932.60951719,44235.5146276
+940.66,Grün,2.12359784463,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1159.43670385,21235.9784463
+942.669,Grün,2.25480175245,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,912.033138557,22548.0175245
+943.45864199,Wasser,5.48465607158,,17.0,,Wasserfläche,8,,943.45864199,54846.5607158
+943.882,GBFL,5.25395268254,,1.0,,Gemeinbedarfsfläche,11,,942.497668194,52539.5268254
+947.376,M,3.50181270565,,16.0,M,Mischfläche,2,,948.745752044,35018.1270565
+947.59,GI,5.48640650757,,3.0,GI,Industriefläche,4,,947.425823311,54864.0650757
+948.254,MI,2.60963203561,,7.0,MI,Mischgebiet,16,,948.048827104,26096.3203561
+948.343,Grün,1.52438535597,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,948.130366125,15243.8535597
+950.301921775,bahn,1.68466473323,,18.0,,Fläche für Bahnanlagen,12,,950.301921775,16846.6473323
+951.704,GBFL,3.83749295695,,1.0,,Gemeinbedarfsfläche,11,,953.900341418,38374.9295695
+955.186239984,Wasser,1.13847986186,,17.0,,Wasserfläche,8,,955.186239984,11384.7986186
+957.974,Grün,3.59451508806,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,957.749989577,35945.1508806
+959.427,WB,4.91817160965,,14.0,WB,Besonderes Wohngebiet,1,,965.701853038,49181.7160965
+960.963,Grün,0.30516133906,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,415.210271349,3051.61339061
+960.963,Grün,0.75699598368,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,498.806108507,7569.95983685
+960.963,Grün,3.12181062009,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,770.070118916,31218.1062009
+960.963,Grün,5.25794084182,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,918.358030035,52579.4084182
+960.963,Grün,315.695370762,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,32500.4266225,3156129.7828
+963.240682641,Wasser,5.44364779143,,17.0,,Wasserfläche,8,,963.240682641,54436.4779143
+966.482,Grün,1.73570160903,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,984.168769866,17357.0160903
+968.649457978,Wasser,2.71666289348,,17.0,,Wasserfläche,8,,968.649457978,27166.6289348
+972.332,M,3.10993796384,,16.0,M,Mischfläche,2,,972.148458732,31099.3796384
+972.999,GBFL,5.70733783513,,1.0,,Gemeinbedarfsfläche,11,,951.306500534,57073.3783513
+974.274,Grün,4.21128321633,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,989.933197178,42112.8321633
+974.473,GE,4.29111318066,,2.0,GE,Gewerbefläche,3,,974.275833761,42911.1318066
+976.037,Grün,2.21680927525,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,975.859366872,22168.0927525
+977.721,GBFL,3.68798475385,,1.0,,Gemeinbedarfsfläche,11,,978.346798778,36879.8475385
+978.321,M,4.01365501974,,16.0,M,Mischfläche,2,,978.552337793,40136.5501974
+978.66,SO,5.68990049088,großfl. E.H.,11.0,SO,Sonderbaufläche,17,,1008.61911172,56899.0049088
+979.849622157,bahn,1.4508656315,,18.0,,Fläche für Bahnanlagen,12,,979.849622157,14508.656315
+984.422,WB,3.78216791943,,14.0,WB,Besonderes Wohngebiet,1,,1008.96019556,37821.6791943
+986.38,Grün,3.1879046613,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,983.399266259,31879.046613
+988.598,GE,3.09967960774,,2.0,GE,Gewerbefläche,3,,988.394990023,30996.7960774
+991.237,GE,4.60977815246,,2.0,GE,Gewerbefläche,3,,1018.03274856,46097.7815246
+996.338,Grün,3.61362918191,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,996.116813894,36136.2918191
+997.086,GBFL,3.08362827511,,1.0,,Gemeinbedarfsfläche,11,,807.601810568,30836.2827511
+997.742,SO,5.87122067341,großfl. E.H.,11.0,SO,Sonderbaufläche,17,,997.496818307,58712.2067341
+998.283,GBFL,4.94343544556,,1.0,,Gemeinbedarfsfläche,11,,998.072894679,49434.3544556
+998.289,GBFL,4.72020419784,,1.0,,Gemeinbedarfsfläche,11,,1000.75539459,47202.0419784
+998.318,GE,4.84255474716,,2.0,GE,Gewerbefläche,3,,996.696560456,48425.5474716
+998.465,W,5.06057840193,,13.0,W,Wohnbaufläche,0,,998.232257332,50605.7840193
+999.254,GE,2.1471583935,,2.0,GE,Gewerbefläche,3,,977.52355506,21471.583935
+1000.99651991,Versor,3.64662487024,,12.0,,Fläche für Ver- und Entsorgung,9,,1000.99651991,36466.2487024
+1002.676,SO,4.24299068876,großfl. E.H.,11.0,SO,Sonderbaufläche,17,,1202.55169578,42429.9068876
+1004.17968642,Versor,6.23056156702,,12.0,,Fläche für Ver- und Entsorgung,9,,1004.17968642,62305.6156702
+1004.958,W,3.98376543952,,13.0,W,Wohnbaufläche,0,,1012.67728862,39837.6543952
+1006.127,Grün,1.01969906475,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1005.95425637,10196.9906475
+1007.888,Grün,4.44875814305,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,960.871679506,44487.5814305
+1009.346,GE,5.13192297702,,2.0,GE,Gewerbefläche,3,,1009.13167828,51319.2297702
+1010.86890892,Wasser,4.87966397646,,17.0,,Wasserfläche,8,,1010.86890892,48796.6397646
+1013.363,Grün,3.53252086766,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1013.11591605,35325.2086766
+1018.688,GE,6.04015026265,,2.0,GE,Gewerbefläche,3,,1018.47167537,60401.5026265
+1018.937,MI,2.33322426808,,7.0,MI,Mischgebiet,16,,1018.7721117,23332.2426808
+1020.212,Grün,1.50071643915,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1019.99911224,15007.1643915
+1021.119,GBFL,3.55219742703,,1.0,,Gemeinbedarfsfläche,11,,1031.23948287,35521.9742703
+1024.95292552,Versor,5.53008459641,,12.0,,Fläche für Ver- und Entsorgung,9,,1024.95292552,55300.8459641
+1029.526,WB,1.50400333714,,14.0,WB,Besonderes Wohngebiet,1,,1029.33354642,15040.0333714
+1030.175,Grün,3.64069216143,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1027.01030321,36406.9216143
+1035.787,SO,4.09678841082,großfl. E.H.,11.0,SO,Sonderbaufläche,17,,1035.62594247,40967.8841082
+1037.08552907,bahn,1.91486615969,,18.0,,Fläche für Bahnanlagen,12,,1037.08552907,19148.6615969
+1038.728,Grün,2.74328186996,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1015.51358773,27432.8186996
+1039.556,GE,3.70922590428,,2.0,GE,Gewerbefläche,3,,1039.32232917,37092.2590428
+1040.05541796,Wasser,3.79426229643,,17.0,,Wasserfläche,8,,1040.05541796,37942.6229643
+1040.255,W,6.10848619448,,13.0,W,Wohnbaufläche,0,,1045.01025741,61084.8619448
+1042.998,GE,6.27140814438,,2.0,GE,Gewerbefläche,3,,1044.78531242,62397.535712
+1043.842,Grün,5.16132762469,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1047.05687716,51613.2762469
+1043.876,WB,6.66383539583,,14.0,WB,Besonderes Wohngebiet,1,,1043.67791596,66638.3539583
+1046.27271746,Wasser,0.90663208555,,17.0,,Wasserfläche,8,,1046.27271746,9066.32085554
+1048.96461028,bahn,2.02618405075,,18.0,,Fläche für Bahnanlagen,12,,1048.96461028,20261.8405075
+1051.178,Grün,6.20964771644,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1050.9680679,62096.4771644
+1051.398,GBFL,4.90312575842,,1.0,,Gemeinbedarfsfläche,11,,1044.4493683,49031.2575842
+1053.953,Grün,5.69796473451,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1073.05597683,56979.6473451
+1054.24892205,Versor,6.76319808129,,12.0,,Fläche für Ver- und Entsorgung,9,,1054.24892205,67631.9808129
+1056.186,Grün,0.79601773448,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,959.982862647,7960.17734484
+1057.342,MI,2.88317696034,,7.0,MI,Mischgebiet,16,,1057.13330334,28831.7696034
+1057.961,MI,3.95905065652,,7.0,MI,Mischgebiet,16,,1057.78552178,39590.5065652
+1058.465,GI,6.78237164703,,3.0,GI,Industriefläche,4,,1058.23888761,67823.7164703
+1061.366,W,5.65356188583,,13.0,W,Wohnbaufläche,0,,1061.17572354,56535.6188583
+1069.095,W,6.99106484065,,13.0,W,Wohnbaufläche,0,,1073.51776397,69910.6484065
+1071.038,Grün,3.30021144108,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1070.78173255,33002.1144108
+1072.536,GBFL,2.96813695,,1.0,,Gemeinbedarfsfläche,11,,735.991159115,29681.3695
+1072.536,MI,1.5289603723,,7.0,MI,Mischgebiet,16,,502.908307833,15289.603723
+1072.536,W,2.34999924831,,1.0,W,Wohnbaufläche,0,,616.97910129,23499.9924831
+1072.661,SO,6.66941915176,Reha-Zentr.,11.0,SO,Sonderbaufläche,17,,1023.99977472,66694.1915176
+1073.006,Grün,3.09061111978,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1078.54989641,30906.1111978
+1075.529,GBFL,5.19845948856,,1.0,,Gemeinbedarfsfläche,11,,1075.32141655,51984.5948856
+1076.944,SO,2.42754814062,Hafen,11.0,SO,Sonderbaufläche,17,,1081.86375466,24275.4814062
+1078.1,W,6.73295074547,,13.0,W,Wohnbaufläche,0,,1077.58235652,67329.5074547
+1078.13118384,Wasser,3.51470592566,,17.0,,Wasserfläche,8,,1078.13118384,35147.0592566
+1079.077,GBFL,6.62766041377,,1.0,,Gemeinbedarfsfläche,11,,1078.86974839,66276.6041377
+1081.24237545,verkehr,1.53307576148,,21.0,,Fläche für Hauptverkehrszüge,13,,1081.24237545,15330.7576148
+1083.264,Grün,3.04580743223,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1111.94998213,30458.0743223
+1085.043,GE,5.29823056161,,2.0,GE,Gewerbefläche,3,,1090.09282759,52982.3056161
+1085.478,GBFL,5.45264589,,1.0,,Gemeinbedarfsfläche,11,,1085.22658281,54526.4589
+1086.649,Grün,5.4953094339,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1086.4297843,54953.094339
+1087.126,Grün,1.53345876848,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1087.33812502,15334.5876848
+1087.487,Grün,1.33582965634,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1087.29775819,13358.2965634
+1088.374,Grün,2.60129442704,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,723.06354651,26012.9442704
+1094.143,GE,5.29397097489,,2.0,GE,Gewerbefläche,3,,1093.93174284,52939.7097489
+1094.56,Grün,2.3895172595,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1094.34996696,23895.172595
+1100.14,Grün,1.37908335913,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1099.7660368,13790.8335913
+1100.374,GBFL,5.07137421584,,1.0,,Gemeinbedarfsfläche,11,,1100.17051125,50713.7421584
+1101.452,Grün,1.86742022311,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1111.57033374,18674.2022311
+1104.17513422,Wasser,1.41779728568,,17.0,,Wasserfläche,8,,1104.17513422,14177.9728568
+1106.711,Grün,24.8247128422,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2443.8761592,248247.128422
+1109.168,GBFL,4.18061347057,,1.0,,Gemeinbedarfsfläche,11,,1030.72434818,41806.1347057
+1109.684,M,4.72317401212,,16.0,M,Mischfläche,2,,1176.22695026,47231.7401212
+1110.052,GE,5.95297084983,,2.0,GE,Gewerbefläche,3,,1109.84302141,59529.7084983
+1110.60119219,Wasser,5.73926350922,,17.0,,Wasserfläche,8,,1110.60119219,57392.6350922
+1113.265,W,5.89159485238,,13.0,W,Wohnbaufläche,0,,1113.02852552,58915.9485238
+1113.323,WB,6.40655329031,,14.0,WB,Besonderes Wohngebiet,1,,1095.19737381,64065.5329031
+1114.882,Grün,3.92115044285,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1114.61019881,39211.5044285
+1120.633,Grün,5.93966529326,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1120.38433252,59396.6529326
+1122.168,Grün,6.13005453044,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1121.92036133,61300.5453044
+1129.565,W,7.21574346285,,13.0,W,Wohnbaufläche,0,,1135.15953204,72157.4346285
+1129.582,Grün,1.67334542298,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1129.3459951,16733.4542298
+1130.714,SO,5.90318992504,Rundfunk,11.0,SO,Sonderbaufläche,17,,1130.49109686,59031.8992504
+1131.67765845,Wasser,1.17471316368,,17.0,,Wasserfläche,8,,1131.67765845,11747.1316368
+1132.038,W,7.30590007678,,13.0,W,Wohnbaufläche,0,,1131.79578806,73059.0007678
+1133.282,GE,1.63194215019,,2.0,GE,Gewerbefläche,3,,1133.04713488,16319.4215019
+1134.998,Grün,2.0448868592,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1134.75676716,20448.868592
+1137.02486407,Versor,5.8436849143,,12.0,,Fläche für Ver- und Entsorgung,9,,1137.02486407,58436.849143
+1146.522,Landwi,1.02984676032,,5.0,,Fläche für die Landwirtschaft,6,,1146.34421604,10298.4676032
+1149.525,W,7.89719100698,,13.0,W,Wohnbaufläche,0,,1152.14421721,78971.9100698
+1150.113,GBFL,4.94623446375,,1.0,,Gemeinbedarfsfläche,11,,1238.76709359,49462.3446375
+1150.339,M,3.69497970852,,16.0,M,Mischfläche,2,,1150.14584761,36949.7970852
+1150.981,GBFL,8.41018569653,,1.0,,Gemeinbedarfsfläche,11,,1153.25795024,84101.8569653
+1151.511,GBFL,5.43115150158,,1.0,,Gemeinbedarfsfläche,11,,1152.51785556,54311.5150158
+1151.856,MI,5.03046881285,,7.0,MI,Mischgebiet,16,,1151.63097771,50304.6881285
+1160.861,GBFL,5.58077739864,,1.0,,Gemeinbedarfsfläche,11,,1141.12324146,55807.7739864
+1164.202,Grün,3.7408907822,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1163.98969247,37408.907822
+1164.465,Grün,1.42181387993,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1164.21313341,14218.1387993
+1164.496,Grün,2.43565318161,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1173.67535387,24356.5318161
+1165.63,W,7.23400729539,,13.0,W,Wohnbaufläche,0,,1165.37037302,72340.0729539
+1166.126,Grün,6.04831696741,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1160.70428154,60483.1696741
+1168.67,GE,5.77949005946,,2.0,GE,Gewerbefläche,3,,1164.08785384,57794.9005946
+1169.632,Grün,1.92791417168,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1169.38556192,19279.1417168
+1171.761,Grün,5.30526737105,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1264.28451721,53052.6737105
+1173.23495749,Wasser,1.60827903256,,17.0,,Wasserfläche,8,,1173.23495749,16082.7903256
+1174.252,GBFL,5.43569907844,,1.0,,Gemeinbedarfsfläche,11,,1173.99990817,54356.9907844
+1175.632,GE,6.12798408789,,2.0,GE,Gewerbefläche,3,,1175.35100888,61279.8408789
+1180.166,GE,3.33905671509,,2.0,GE,Gewerbefläche,3,,1209.08293328,33390.5671509
+1181.606,MI,6.10654399897,,7.0,MI,Mischgebiet,16,,1139.77064227,61065.4399897
+1183.384,SO,5.69107175588,UNI,11.0,SO,Sonderbaufläche,17,,1183.16140971,56910.7175588
+1184.377,Grün,5.02583073727,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1113.15985921,50258.3073727
+1189.137,M,5.91566625517,,16.0,M,Mischfläche,2,,1188.9080188,59156.6625517
+1189.775,M,6.92046137102,,16.0,M,Mischfläche,2,,1189.55803283,69204.6137102
+1190.689,SO,5.3436464069,Baumarkt,11.0,SO,Sonderbaufläche,17,,1190.4385736,53436.464069
+1192.261,M,4.5183794944,,16.0,M,Mischfläche,2,,1192.18191715,45183.794944
+1198.497,Grün,2.60855554172,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1193.66932729,26085.5554172
+1199.256,GI,9.22139065507,,3.0,GI,Industriefläche,4,,1199.0475054,92213.9065507
+1200.096,M,5.47937825265,,16.0,M,Mischfläche,2,,1199.8756029,54793.7825265
+1203.992,WB,5.01556174107,,14.0,WB,Besonderes Wohngebiet,1,,1208.11541814,50155.6174107
+1204.067,W,5.19438495622,,13.0,W,Wohnbaufläche,0,,1209.30800943,51943.8495622
+1204.435,GI,8.37782945808,,3.0,GI,Industriefläche,4,,1187.28104422,83778.2945808
+1205.766,GE,5.48470530409,,2.0,GE,Gewerbefläche,3,,1205.49305281,54847.0530409
+1207.443,Grün,2.14175338302,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1207.23331532,21417.5338302
+1208.207,Grün,5.29953205776,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1215.83794777,52995.3205776
+1209.497,M,6.36498534415,,16.0,M,Mischfläche,2,,1209.25316754,63649.8534415
+1213.447,GE,7.20172337388,,2.0,GE,Gewerbefläche,3,,1226.77985035,72017.2337388
+1213.718,Grün,7.84910713176,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1213.50708185,78491.0713176
+1215.0,GE,6.14176522307,,2.0,GE,Gewerbefläche,3,,1214.70895305,61417.6522307
+1218.55869696,Versor,2.92870294677,,0.0,,Fläche für Ver- und Entsorgung,9,,1218.55869696,29287.0294677
+1220.572,GBFL,7.36682080381,,1.0,,Gemeinbedarfsfläche,11,,1220.30013002,73668.2080381
+1222.24,MI,1.87506542891,,7.0,MI,Mischgebiet,16,,1221.98283276,18750.6542891
+1226.191,GBFL,9.50961025933,,1.0,,Gemeinbedarfsfläche,11,,1225.91311516,95096.1025933
+1226.20236082,Versor,8.86532806908,,12.0,,Fläche für Ver- und Entsorgung,9,,1226.20236082,88653.2806908
+1227.873,Grün,3.31108638939,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1227.60837174,33110.8638939
+1229.709,W,6.1527613328,,13.0,W,Wohnbaufläche,0,,1229.40540168,61527.613328
+1229.827,MK,6.0656433803,,8.0,MK,Kerngebiet,15,,1229.63035656,60656.433803
+1234.281,GE,5.50112219123,,2.0,GE,Gewerbefläche,3,,1234.00631399,55011.2219123
+1235.267,GI,6.21835341274,,3.0,GI,Industriefläche,4,,1235.0117416,62183.5341274
+1236.678,M,5.78132445094,,16.0,M,Mischfläche,2,,1236.11843693,57813.2445094
+1237.574,GE,7.34320458927,,2.0,GE,Gewerbefläche,3,,1237.30245348,73432.0458927
+1240.305,W,5.93313232461,,13.0,W,Wohnbaufläche,0,,1230.41559089,59331.3232461
+1243.319,MI,8.0089515164,,7.0,MI,Mischgebiet,16,,1240.25256139,80089.515164
+1245.428,Landwi,9.32010638838,,5.0,,Fläche für die Landwirtschaft,6,,1245.23227268,93201.0638838
+1246.035,M,8.24524528243,,16.0,M,Mischfläche,2,,1235.36774157,82452.4528243
+1249.04434025,Versor,8.99702451156,,12.0,,Fläche für Ver- und Entsorgung,9,,1249.04434025,89970.2451156
+1249.046,Grün,2.17406174993,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1227.3474617,21740.6174993
+1252.689,GBFL,3.62671674662,,1.0,,Gemeinbedarfsfläche,11,,728.5284856,36267.1674662
+1252.689,M,8.11722409801,,16.0,M,Mischfläche,2,,1407.85826311,81172.2409801
+1252.93,SO,6.81346130223,Hafen,11.0,SO,Sonderbaufläche,17,,3331.71957797,68134.6130223
+1253.265,Grün,3.89512931653,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1238.53493949,38951.2931653
+1255.441,Grün,1.08903204231,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1255.21930513,10890.3204231
+1255.787,W,3.69519610472,,13.0,W,Wohnbaufläche,0,,1255.51821034,36951.9610472
+1257.119,GE,4.65999741046,,2.0,GE,Gewerbefläche,3,,1257.42613487,46599.9741046
+1257.763,GE,4.31147899319,,2.0,GE,Gewerbefläche,3,,1252.78161945,43114.7899319
+1261.287,Grün,1.92979287129,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1260.07334204,19297.9287129
+1264.117,W,4.59952966633,,13.0,W,Wohnbaufläche,0,,1259.84826431,46480.4619332
+1265.376,Grün,3.19539005504,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1269.78449345,31953.9005504
+1282.952,Grün,5.10591085511,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1262.66159456,51059.1085511
+1290.552,WB,5.30085415482,,14.0,WB,Besonderes Wohngebiet,1,,1356.43117866,53008.5415482
+1292.487,GE,6.63770988377,,2.0,GE,Gewerbefläche,3,,1292.2137177,66377.0988377
+1294.197,M,2.60610280194,,16.0,M,Mischfläche,2,,1293.95165917,26061.0280194
+1294.555,W,6.53549733108,,13.0,W,Wohnbaufläche,0,,1288.83243952,65354.9733108
+1299.253,GBFL,8.70973897014,,1.0,,Gemeinbedarfsfläche,11,,1298.95475828,87097.3897014
+1300.681,W,6.96522565548,,13.0,W,Wohnbaufläche,0,,1304.0044119,69652.2565548
+1304.051,SO,5.83193399026,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,1303.79015604,58319.3399026
+1304.685,M,4.96169293515,,16.0,M,Mischfläche,2,,1242.2479301,49616.9293515
+1305.08834129,Wasser,7.93842538577,,17.0,,Wasserfläche,8,,1305.08834129,79384.2538577
+1309.031,W,9.37140518721,,13.0,W,Wohnbaufläche,0,,1324.43954483,93714.0518721
+1309.247,SO,9.62185946928,KVB,11.0,SO,Sonderbaufläche,17,,1308.99796853,96218.5946928
+1310.189,Grün,0.68333987803,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1147.16061298,6833.39878028
+1311.906,Grün,6.46353075207,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1311.6533527,64635.3075207
+1313.514,WB,7.22031337157,,14.0,WB,Besonderes Wohngebiet,1,,1306.58540759,72203.1337157
+1313.63,Grün,4.20808346045,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1313.39199991,42080.8346045
+1317.995,W,7.50674139922,,13.0,W,Wohnbaufläche,0,,1321.06380474,75067.4139922
+1318.29,GBFL,8.63948709138,,1.0,,Gemeinbedarfsfläche,11,,1317.9818951,86394.8709138
+1320.94,SO,10.4700332402,KVB-Betriebshof,11.0,SO,Sonderbaufläche,17,,1320.63661503,104700.332402
+1321.432,Grün,4.37237423435,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1326.20118456,43723.7423435
+1325.83114598,S,10.3712745144,,10.0,S,Sonderbaufläche,10,,1325.83114598,103712.745144
+1326.451,SO,2.4270211271,Festplatz,11.0,SO,Sonderbaufläche,17,,1280.66077876,24270.211271
+1330.982,GI,9.62271519445,,3.0,GI,Industriefläche,4,,1330.73255727,96227.1519445
+1335.85318858,Wasser,5.61929957028,,17.0,,Wasserfläche,8,,1335.85318858,56192.9957028
+1338.296,MK,2.48622390982,,8.0,MK,Kerngebiet,15,,1331.00629071,24862.2390982
+1342.459,MI,11.0692610858,,7.0,MI,Mischgebiet,16,,1390.62589906,110692.610858
+1347.044,Grün,2.82389294511,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1347.24327497,28238.9294511
+1348.38323031,bahn,2.08596406269,,18.0,,Fläche für Bahnanlagen,12,,1344.71496087,20859.6406269
+1349.052,MI,3.46504833143,,7.0,MI,Mischgebiet,16,,1306.07978658,34650.4833143
+1353.327,W,9.04683659057,,13.0,W,Wohnbaufläche,0,,1353.08701098,90468.3659057
+1355.476,GE,4.54122152815,,2.0,GE,Gewerbefläche,3,,1355.2124223,45412.2152815
+1364.132,SO,7.90936828536,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,1363.80712792,79093.6828536
+1364.3383778,Wasser,9.13597189471,,17.0,,Wasserfläche,8,,1364.3383778,91359.7189471
+1370.564,W,5.85164646537,,13.0,W,Wohnbaufläche,0,,1370.23272954,58516.4646537
+1370.778,Grün,2.64490651967,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1354.68620341,26449.0651967
+1373.566,GE,5.70549221882,,2.0,GE,Gewerbefläche,3,,1373.35820171,57054.9221882
+1374.989,GE,9.36014286929,,2.0,GE,Gewerbefläche,3,,1379.63616694,93601.4286929
+1375.775,M,7.91730394685,,16.0,M,Mischfläche,2,,1375.51144212,79173.0394685
+1377.193,Grün,2.11023400394,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1376.95535393,21102.3400394
+1380.302,GE,6.5664077732,,2.0,GE,Gewerbefläche,3,,1379.99092138,65664.077732
+1380.753,SO,8.3223131658,UNI,11.0,SO,Sonderbaufläche,17,,1380.4950408,83223.131658
+1385.06906149,bahn,2.99730875805,,18.0,,Fläche für Bahnanlagen,12,,1385.06906149,29973.0875805
+1388.753,GI,7.5222508719,,3.0,GI,Industriefläche,4,,1379.37412122,75222.508719
+1389.224,Grün,3.62174471787,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1199.28447918,36217.4471787
+1392.512,Grün,1.42066121396,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1393.88081346,14206.6121396
+1392.658,MI,5.51028661527,,7.0,MI,Mischgebiet,16,,1391.09986868,55102.8661527
+1398.44,GE,6.27366039836,,2.0,GE,Gewerbefläche,3,,1398.14007241,62736.6039836
+1402.064,SO,11.8104883723,großfl. E.H.+z.S.,11.0,SO*,Sonderbaufläche,17,,1401.78394164,118104.883723
+1403.369,GE,9.43971566238,,2.0,GE,Gewerbefläche,3,,1403.09648254,94397.1566238
+1403.559,Grün,0.82912539071,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,691.014921659,8291.25390706
+1403.559,Grün,1.20209290823,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,994.55711331,12020.9290823
+1403.559,Grün,3.6886503073,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1038.50422271,36886.503073
+1405.696,Grün,7.69226458991,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1450.95377906,76922.6458991
+1406.501,W,9.48904633741,,13.0,W,Wohnbaufläche,0,,1445.27234435,94890.4633741
+1414.221,Grün,4.63053445649,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1413.88715825,46305.3445649
+1415.027,GE,11.457877204,,2.0,GE,Gewerbefläche,3,,1411.53686674,114578.77204
+1415.762,SO,9.59206107764,Möbelmarkt,11.0,SO,Sonderbaufläche,17,,1415.51396903,95920.6107764
+1419.84166786,bahn,1.52421614653,,18.0,,Fläche für Bahnanlagen,12,,1419.84166786,15242.1614653
+1424.683,Grün,5.74468860872,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1442.87183469,57446.8860872
+1424.848,M,6.74214764377,,16.0,M,Mischfläche,2,,1409.43284001,67421.4764377
+1425.152,W,9.94481113795,,13.0,W,Wohnbaufläche,0,,1439.48449435,99448.1113795
+1425.51,WB,11.3735192426,,14.0,WB,Besonderes Wohngebiet,1,,1429.39844836,113735.192426
+1425.77466427,Versor,9.57488361167,,12.0,,Fläche für Ver- und Entsorgung,9,,1425.77466427,95748.8361167
+1425.919,GI,4.51354882049,,3.0,GI,Industriefläche,4,,1420.94590006,45135.4882049
+1430.742,GE,6.99369805175,,2.0,GE,Gewerbefläche,3,,1443.85772354,69936.9805175
+1431.1,Grün,2.30513523689,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1429.76175271,23051.3523689
+1431.98410285,Versor,11.4230758348,,12.0,,Fläche für Ver- und Entsorgung,9,,1431.98410285,114230.758348
+1432.328,GI,10.741478163,,3.0,GI,Industriefläche,4,,1432.0036627,107414.78163
+1432.97,SO,9.79315332518,KVB,11.0,SO,Sonderbaufläche,17,,1438.26644202,97931.5332518
+1434.278,M,3.96159276943,,16.0,M,Mischfläche,2,,1447.40210273,39615.9276943
+1434.902,GE,7.63968836944,,2.0,GE,Gewerbefläche,3,,1434.65239679,76396.8836944
+1438.827,GE,12.2556164389,,2.0,GE,Gewerbefläche,3,,1438.54367752,122556.164389
+1439.421,GE,9.16453224644,,2.0,GE,Gewerbefläche,3,,1439.11649657,91645.3224644
+1439.735,SO,7.06123868179,PH,11.0,SO,Sonderbaufläche,17,,1439.4705256,70612.3868179
+1442.54,W,10.0680835855,,13.0,W,Wohnbaufläche,0,,1459.64118244,100680.835855
+1444.668,W,8.20838174069,,13.0,W,Wohnbaufläche,0,,1359.94643009,82083.8174069
+1445.417,M,7.72575775967,,16.0,M,Mischfläche,2,,1445.12921633,77257.5775967
+1451.188,WB,8.94106188918,,14.0,WB,Besonderes Wohngebiet,1,,1450.90549843,89410.6188918
+1452.599,GE,11.9340882153,,2.0,GE,Gewerbefläche,3,,1455.03221131,119340.882153
+1452.774,W,7.19050716649,,13.0,W,Wohnbaufläche,0,,1452.51099751,71905.0716649
+1453.295,GE,8.15180706782,,2.0,GE,Gewerbefläche,3,,1453.04191746,81518.0706782
+1454.304,Landwi,8.72625656521,,5.0,,Fläche für die Landwirtschaft,6,,1453.98501488,87262.5656521
+1455.938,SO,10.4492745742,MPI,11.0,SO,Sonderbaufläche,17,,1446.16827468,104492.745742
+1459.988,GBFL,11.7119172065,,1.0,,Gemeinbedarfsfläche,11,,1510.38085309,117115.927272
+1464.239,Grün,2.45583026542,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1452.03224251,24558.3026542
+1466.66,M,13.3058082857,,16.0,M,Mischfläche,2,,1466.38374416,133058.082857
+1470.40275074,Wasser,8.83563423929,,17.0,,Wasserfläche,8,,1470.40275074,88356.3423929
+1471.666,Grün,3.51695158503,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1471.30794781,35169.5158503
+1478.0914536,Versor,11.7573636979,,0.0,,Fläche für Ver- und Entsorgung,9,,1478.0914536,117573.636979
+1479.561,Grün,5.44803143951,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1481.26651395,54480.3143951
+1483.106,Grün,6.01498830298,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1460.07054738,60149.8830298
+1483.498,Grün,4.06743779177,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1515.25982352,40674.3779177
+1486.063,WB,6.23070032883,,14.0,WB,Besonderes Wohngebiet,1,,1483.27875606,62307.0032883
+1487.60890872,Wasser,3.74041761042,,17.0,,Wasserfläche,8,,1487.60890872,37404.1761042
+1490.20668935,Wasser,2.38556167941,,17.0,,Wasserfläche,8,,1490.20668935,23855.6167941
+1495.24834876,Wasser,7.24444147854,,17.0,,Wasserfläche,8,,1495.24834876,72444.4147854
+1496.606,GE,11.017003394,,2.0,GE,Gewerbefläche,3,,1494.54569034,110170.03394
+1496.628,Grün,4.96524884286,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1496.28839229,49652.4884286
+1497.2400699,Wasser,5.60593025875,,17.0,,Wasserfläche,8,,1497.2400699,56059.3025875
+1498.29025364,Versor,9.75623373959,,12.0,,Fläche für Ver- und Entsorgung,9,,1498.29025364,97562.3373959
+1499.696,GBFL,3.67963737742,,1.0,,Gemeinbedarfsfläche,11,,1506.41863895,36796.3737742
+1505.096,GE,11.6372160405,,2.0,GE,Gewerbefläche,3,,1510.54278061,116372.160405
+1507.811,GE,7.28937526228,,2.0,GE,Gewerbefläche,3,,1484.84860161,72893.7526228
+1509.623,W,3.83327310865,,13.0,W,Wohnbaufläche,0,,1391.71159009,38332.7310865
+1511.654,GE,10.4291560849,,2.0,GE,Gewerbefläche,3,,1511.35936264,104291.553527
+1518.957,SO,14.3680487835,Lager/GVZ,11.0,SO,Sonderbaufläche,17,,1518.6803859,143680.487835
+1523.342,GE,6.37796997553,,2.0,GE,Gewerbefläche,3,,1523.01421648,63779.6997553
+1523.955,GE,5.98546775109,,2.0,GE,Gewerbefläche,3,,1500.77339418,59854.6775109
+1524.049,GE,5.40757748535,,2.0,GE,Gewerbefläche,3,,1523.75235956,54075.7748535
+1524.329,SO,11.4261067455,FH,11.0,SO,Sonderbaufläche,17,,1518.33020895,114261.067455
+1529.595,Grün,13.2359764119,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1548.22046101,132359.764119
+1532.843,W,8.61849398923,,13.0,W,Wohnbaufläche,0,,1564.30819661,86184.9398923
+1535.989,GE,12.4413953243,,2.0,GE,Gewerbefläche,3,,1535.68168121,124413.953243
+1536.657,GE,4.46260576451,,2.0,GE,Gewerbefläche,3,,1521.40466542,44626.0576451
+1537.276,WB,4.96199245242,,14.0,WB,Besonderes Wohngebiet,1,,1536.94300505,49619.9245242
+1538.086,W,12.9210114711,,11.0,W,Wohnbaufläche,0,,1537.74067763,129210.114711
+1540.043,san,6.49883759942,,20.0,SAN,Sanierungsgebiet,21,,1539.71112664,64988.3759942
+1541.75,GE,8.95461631316,,2.0,GE,Gewerbefläche,3,,1541.48425547,89546.1631316
+1542.513,GE,8.0848092955,,2.0,GE,Gewerbefläche,3,,1542.21975234,80848.092955
+1544.889,GE,12.0983042455,,2.0,GE,Gewerbefläche,3,,1544.60845649,120983.042455
+1545.298,MK,4.37879873516,,8.0,MK,Kerngebiet,15,,1561.49087821,43787.9873516
+1545.74740764,Wasser,5.84955490337,,17.0,,Wasserfläche,8,,1545.74740764,58495.5490337
+1549.64798642,bahn,5.28984363054,,18.0,,Fläche für Bahnanlagen,12,,1549.64798642,52898.4363054
+1550.294,GE,6.65626993315,,2.0,GE,Gewerbefläche,3,,1550.0045451,66562.6993315
+1550.643,Grün,7.24647165609,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1550.3083287,72464.7165609
+1557.265,SO,13.5251743224,Heim d. Inn. Miss.,11.0,SO,Sonderbaufläche,17,,1544.6988559,135251.743224
+1559.728,W,12.528226691,,13.0,W,Wohnbaufläche,0,,1559.85080689,125282.26691
+1561.879,W,27.1458206087,,13.0,W,Wohnbaufläche,0,,3080.30511567,271458.206087
+1562.85591731,Versor,9.83975286671,,12.0,,Fläche für Ver- und Entsorgung,9,,1562.85591731,98397.5286671
+1563.085,GE,7.43104422656,,2.0,GE,Gewerbefläche,3,,1284.76460188,74310.4422656
+1565.432,SO,8.83407953025,Stadion,11.0,SO,Sonderbaufläche,17,,1565.17036869,88340.7953025
+1566.771,GE,6.00050336177,,2.0,GE,Gewerbefläche,3,,1551.78862916,60005.0336177
+1570.49,MK,10.335186234,,8.0,MK,Kerngebiet,15,,1568.36060833,103351.86234
+1570.94,W,11.5609492931,,13.0,W,Wohnbaufläche,0,,1585.50537184,115609.492931
+1572.675,W,10.1767632849,,13.0,W,Wohnbaufläche,0,,1572.36571335,101767.632849
+1578.966,Grün,6.20909744899,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1578.64007399,62090.9744899
+1579.457,Grün,13.5967146014,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1574.78110066,135967.146014
+1579.651,SO,6.7487427786,Hafen,11.0,SO,Sonderbaufläche,17,,1585.87029968,67487.427786
+1581.09669573,bahn,3.0303005963,,18.0,,Fläche für Bahnanlagen,12,,1581.09669573,30303.005963
+1581.54370722,Wald,16.381758761,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,1581.54370722,163817.58761
+1584.391,WB,5.18949414794,,14.0,WB,Besonderes Wohngebiet,1,,1584.08488923,51894.9414794
+1585.278,M,5.81274366403,,16.0,M,Mischfläche,2,,1584.95915554,58127.4366403
+1586.725,WB,13.179863312,,14.0,WB,Besonderes Wohngebiet,1,,1586.40753863,131798.63312
+1587.096,GE,12.0427059349,,2.0,GE,Gewerbefläche,3,,1598.92242186,120427.059349
+1600.895,Grün,25.0333168555,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3124.15397724,250333.168555
+1600.895,Landwi,7.19160580113,,5.0,,Fläche für die Landwirtschaft,6,,1091.88587302,71916.0580113
+1600.895,Landwi,24.5195635617,,5.0,,Fläche für die Landwirtschaft,6,,2845.06656429,245195.635617
+1600.895,Landwi,55.4115462654,,5.0,,Fläche für die Landwirtschaft,6,,3940.00278989,554115.462654
+1600.895,SO,0.44945276044,Clubhaus,5.0,SO,Sonderbaufläche,17,,279.781157132,4494.52760438
+1605.754,GE,13.3156785222,,2.0,GE,Gewerbefläche,3,,1605.39749317,133156.785222
+1613.161,GE,8.06118061358,,2.0,GE,Gewerbefläche,3,,1601.00530231,80611.8061358
+1623.509,GI,15.5498885291,,3.0,GI,Industriefläche,4,,1623.21288514,155498.885291
+1625.766,W,12.6882878769,,13.0,W,Wohnbaufläche,0,,1598.88616866,126882.878769
+1625.93293587,Wasser,12.4476221595,,17.0,,Wasserfläche,8,,1625.93293587,124476.221595
+1627.599,Landwi,13.2735354383,,5.0,,Fläche für die Landwirtschaft,6,,1627.33580463,132735.354383
+1628.296,W,10.4000001654,,13.0,W,Wohnbaufläche,0,,1616.76891838,104000.001654
+1630.397,GE,6.71141503715,,2.0,GE,Gewerbefläche,3,,1629.23158659,67114.1503715
+1632.189,W,12.402841514,,13.0,W,Wohnbaufläche,0,,1631.90121529,124028.41514
+1633.327,M,4.48624358092,,16.0,M,Mischfläche,2,,1633.04457631,44862.4358092
+1634.961,SO,9.52105136283,Camping,11.0,SO,Sonderbaufläche,17,,1653.40337656,95210.5136283
+1635.792,Grün,5.50428284836,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1638.12748506,55042.8284836
+1637.222,GBFL,12.258354291,,1.0,,Gemeinbedarfsfläche,11,,1636.84580079,122583.54291
+1638.658,Grün,15.8759307841,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1638.37132654,158759.307841
+1645.232,MK,7.28659574903,,8.0,MK,Kerngebiet,15,,1629.49296001,72865.9574903
+1645.95312085,GE,12.9815646496,,12.0,GE,Gewerbefläche,3,,647.629487061,17218.2001995
+1645.95312085,GI,12.9815646496,,12.0,GI,Industriefläche,4,,1775.75602656,115307.929915
+1645.95312085,Versor,12.9815646496,,12.0,,Fläche für Ver- und Entsorgung,9,,750.488063997,29730.0638367
+1648.65283815,Wasser,13.9599809631,,17.0,,Wasserfläche,8,,1648.65283815,139599.809631
+1653.833,M,15.9683009752,,16.0,M,Mischfläche,2,,1627.01776429,159683.009752
+1654.542,Grün,5.56293191178,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1654.23663981,55629.3191178
+1659.32,Grün,54.1274404416,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6630.44582545,541274.404416
+1659.32,Grün,213.363867786,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,12056.1061122,2133638.67786
+1668.032,GBFL,11.9874401083,,1.0,,Gemeinbedarfsfläche,11,,1652.72950666,119874.401083
+1668.826,Landwi,11.9583925091,,5.0,,Fläche für die Landwirtschaft,6,,1681.54520989,121276.043562
+1670.658,Grün,2.12538972616,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1670.28760893,21253.8972616
+1681.515,GE,12.6299690531,,2.0,GE,Gewerbefläche,3,,1681.12923116,126299.690531
+1688.088,Grün,9.44168149912,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1702.85648822,94416.8149912
+1691.447,Landwi,1.3366166033,,5.0,,Fläche für die Landwirtschaft,6,,1691.18503428,13366.166033
+1694.193,GE,11.7476205868,,2.0,GE,Gewerbefläche,3,,1693.78124135,117476.205868
+1702.086,M,11.2121432554,,16.0,M,Mischfläche,2,,1701.71641758,112121.432554
+1705.086,GE,8.93925035379,,2.0,GE,Gewerbefläche,3,,1704.7795764,89392.5035379
+1709.415,Grün,2.77248434196,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1755.86399782,27724.8434196
+1723.585,M,7.86240114439,,16.0,M,Mischfläche,2,,1511.60491512,78624.0114439
+1725.74990418,Wasser,14.0113199127,,17.0,,Wasserfläche,8,,1725.74990418,140113.199127
+1725.985,Landwi,12.9238187591,,5.0,,Fläche für die Landwirtschaft,6,,1704.49882346,129238.187591
+1726.59,Grün,9.95058500371,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1726.21497484,99505.8500371
+1731.473,W,10.6341034516,,13.0,W,Wohnbaufläche,0,,1721.23446771,106341.034516
+1739.656,M,9.41410010791,,16.0,M,Mischfläche,2,,1745.54915707,94141.0010791
+1740.143,W,13.6039654522,,13.0,W,Wohnbaufläche,0,,1739.75908999,136039.654522
+1740.591,GE,5.69920040549,,2.0,GE,Gewerbefläche,3,,1730.42117425,56992.0040549
+1747.71992915,Wasser,15.3843975513,,17.0,,Wasserfläche,8,,1747.71992915,153843.975513
+1755.72,W,14.806779398,,13.0,W,Wohnbaufläche,0,,1805.23100408,148067.79398
+1771.055,GE,14.9680473942,,2.0,GE,Gewerbefläche,3,,1770.73295413,149680.473942
+1772.743,GE,15.0246544065,,2.0,GE,Gewerbefläche,3,,1745.22136373,150246.544065
+1774.852,GE,3.57139691996,,2.0,GE,Gewerbefläche,3,,1088.25935551,35713.9691996
+1774.852,GI,19.9209763491,,2.0,GI,Industriefläche,4,,1944.38909664,199209.763491
+1783.573,Grün,9.43655557107,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1783.21705226,94365.5557107
+1795.347,GE,7.70270113366,,2.0,GE,Gewerbefläche,3,,1795.01037006,77027.0113366
+1795.549,GE,5.6502981636,,2.0,GE,Gewerbefläche,3,,1794.82707955,56502.981636
+1795.95,W,9.21569618614,,13.0,W,Wohnbaufläche,0,,1827.05260535,92156.9618614
+1797.19359255,Wasser,19.126185022,,17.0,,Wasserfläche,8,,1797.19359255,191261.85022
+1804.309,Grün,3.07334562936,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1803.90937187,30733.4562936
+1806.547,Grün,3.06133377736,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1806.12335757,30613.3377736
+1813.072,Grün,18.830520993,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1812.72541957,188305.20993
+1817.173,GE,7.03353046904,,2.0,GE,Gewerbefläche,3,,1847.45407606,70335.3046904
+1819.337,W,9.31220660431,,13.0,W,Wohnbaufläche,0,,1821.29568376,93122.0660431
+1821.441,GI,14.7149066132,,3.0,GI,Industriefläche,4,,1824.12974533,147149.066132
+1822.691,MI,7.79937243,,7.0,MI,Mischgebiet,16,,1822.23630347,77993.7243
+1824.124,GI,14.4259711868,,3.0,GI,Industriefläche,4,,1820.47795282,144259.711868
+1826.293,Grün,13.3027715246,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1773.93623656,133027.715246
+1826.293,SO,2.69920388281,Biogasanlage,5.0,SO,Sonderbaufläche,17,,853.669031462,26992.0388281
+1827.44322905,Wald,9.80588910201,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,1827.44322905,98058.8910201
+1828.172,M,7.0756726909,,16.0,M,Mischfläche,2,,1821.1940757,70756.726909
+1842.32,Landwi,16.8164460921,,5.0,,Fläche für die Landwirtschaft,6,,1841.92276361,168164.460921
+1842.57,GE,11.2324111923,,2.0,GE,Gewerbefläche,3,,1842.12024506,112324.111923
+1846.294,Grün,5.9608576893,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1864.72784218,59608.576893
+1852.397,SO,1.06511336817,,13.0,SO,Sonderbaufläche,17,,424.535194947,10651.1336817
+1860.19636012,Versor,17.8804827968,,12.0,,Fläche für Ver- und Entsorgung,9,,1860.19636012,178804.827968
+1861.822,GI,13.1877566616,,3.0,GI,Industriefläche,4,,1861.42924058,131877.566616
+1864.05845651,Wasser,24.781028545,,17.0,,Wasserfläche,8,,1864.05845651,247810.28545
+1868.614,W,10.361315845,,13.0,W,Wohnbaufläche,0,,1853.30002142,103613.15845
+1870.034,WB,8.78308899546,,14.0,WB,Besonderes Wohngebiet,1,,1869.64368669,87830.8899546
+1871.922,SO,14.5767705383,Schlachthof,11.0,SO,Sonderbaufläche,17,,1863.85254652,145767.705383
+1873.862,GE,7.6080996953,,2.0,GE,Gewerbefläche,3,,1897.96478233,76080.996953
+1875.09820435,S,20.261750064,,10.0,S,Sonderbaufläche,10,,1875.09820435,202617.50064
+1877.758,MI,5.83484373311,,7.0,MI,Mischgebiet,16,,1877.3734339,58348.4373311
+1882.146,NS,2.69359167763,,9.0,,Fläche für Hauptverkehrszüge,13,,1881.80965687,26935.9167763
+1891.185,MK,15.5292845198,,8.0,MK,Kerngebiet,15,,1890.74711988,155292.845198
+1894.63408803,S,15.3124500075,,10.0,S,Sonderbaufläche,10,,1894.63408803,153124.500075
+1896.075,M,8.61631494883,,16.0,M,Mischfläche,2,,1915.68867014,86163.1494883
+1899.118,GE,15.221110958,,2.0,GE,Gewerbefläche,3,,1898.67013815,152211.10958
+1904.638,Grün,13.8772408122,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1951.69399093,138772.408122
+1904.7876361,Wasser,16.5234385972,,17.0,,Wasserfläche,8,,1904.7876361,165234.385972
+1914.49,GI,13.5303716791,,3.0,GI,Industriefläche,4,,1914.32810823,135303.716791
+1918.571,M,7.87654513922,,16.0,M,Mischfläche,2,,1918.22375532,78765.4513922
+1922.915,Grün,11.6511362387,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1922.49506621,116511.362387
+1924.531,M,22.5802742166,,16.0,M,Mischfläche,2,,1924.22316232,225802.742166
+1926.704,GI,16.9087309258,,3.0,GI,Industriefläche,4,,1914.3936481,169087.309258
+1930.57,Landwi,18.5284162225,,5.0,,Fläche für die Landwirtschaft,6,,1930.26698088,185284.162225
+1932.72,MI,7.72728119507,,7.0,MI,Mischgebiet,16,,1940.06278145,77272.8119507
+1933.702,GE,21.4542258252,,2.0,GE,Gewerbefläche,3,,2025.36690636,214542.258252
+1952.834,GE,14.3694283935,,2.0,GE,Gewerbefläche,3,,2321.28357256,143694.283935
+1953.138,Grün,2.85947435189,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1952.68141692,28594.7435189
+1957.14,Landwi,19.54453019,,5.0,,Fläche für die Landwirtschaft,6,,2011.790405,195445.3019
+1966.609,GI,19.5222183051,,3.0,GI,Industriefläche,4,,1966.14509956,195222.183051
+1972.547,W,11.2809720934,,13.0,W,Wohnbaufläche,0,,1835.94541654,112809.720934
+1978.30099844,Wasser,9.79718968022,,17.0,,Wasserfläche,8,,1978.30099844,97971.8968022
+1979.224,MI,8.74587903812,,7.0,MI,Mischgebiet,16,,1978.77391677,87458.7903812
+1979.229,GI,16.2271037341,,3.0,GI,Industriefläche,4,,1978.88394957,162271.037341
+1979.708,WB,12.3948771007,,14.0,WB,Besonderes Wohngebiet,1,,1973.04651203,123948.771007
+1983.536,GE,14.110588157,,2.0,GE,Gewerbefläche,3,,1949.35381868,141105.88157
+1983.536,SO,4.66551294588,Hafen,11.0,SO,Sonderbaufläche,17,,1983.6090129,46655.1294588
+1985.01,SO,21.0659122827,Vollz.anstalt,11.0,SO,Sonderbaufläche,17,,1984.65612733,210659.122827
+1988.628,GI,18.4280816016,,3.0,GI,Industriefläche,4,,1988.13500916,184280.816016
+1994.593,Grün,6.42215299446,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2049.43367694,64221.5299446
+2002.18,GE,11.0386881586,,2.0,GE,Gewerbefläche,3,,2001.74630093,110386.881586
+2004.42901173,Wald,11.1285343591,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,2004.42901173,111285.343591
+2005.19,GE,19.1990036865,,2.0,GE,Gewerbefläche,3,,2004.79548195,191990.036865
+2006.64252729,verkehr,2.85688947255,,21.0,,Fläche für Hauptverkehrszüge,13,,2006.64252729,28568.8947255
+2009.859,W,15.4072528657,,13.0,W,Wohnbaufläche,0,,2009.49691706,154072.528657
+2011.2,WEA,20.6195564654,WEA,15.0,,Fläche für Windenergieanlagen,20,,2010.86658726,206195.564654
+2012.817,W,14.7460685259,,13.0,W,Wohnbaufläche,0,,2022.58711033,147460.685259
+2013.457,Grün,9.98687685972,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2013.10762698,99868.7685972
+2019.762,M,12.7612069783,,16.0,M,Mischfläche,2,,2019.33132405,127612.069783
+2025.5188005,Wasser,22.7983873495,,17.0,,Wasserfläche,8,,2025.5188005,227983.873495
+2026.3974805,Wasser,13.3265415118,,17.0,,Wasserfläche,8,,2026.3974805,133265.415118
+2030.743,W,15.9301153308,,13.0,W,Wohnbaufläche,0,,2008.52961116,159301.153308
+2040.36,SO,0.01381218375,Hafen,11.0,SO,Sonderbaufläche,17,,154.075502788,138.121837546
+2042.506,Grün,2.92001607938,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2042.02581201,29200.1607938
+2045.401,W,14.2265855871,,13.0,W,Wohnbaufläche,0,,2044.89604406,142265.855871
+2053.896,W,12.9958199241,,13.0,W,Wohnbaufläche,0,,2039.99396024,129958.199241
+2055.893,W,24.059903845,,13.0,W,Wohnbaufläche,0,,2037.11446665,240599.03845
+2059.847,Grün,9.25151237424,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1043.84131831,29491.1379693
+2059.847,Grün,9.25151237424,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1244.1479231,60153.3375074
+2066.099,Grün,11.0227005949,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2064.00002522,110227.005949
+2067.815,MK,7.14920046992,,8.0,MK,Kerngebiet,15,,2067.44479768,71492.0046992
+2068.586,Grün,8.15180322302,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2130.66754428,81518.0322302
+2081.957582,Wald,15.4233686714,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,2081.957582,154233.686714
+2101.933,Grün,0.63736743157,,4.0,,Fläche für Bahnanlagen,12,,667.735637298,6373.67431573
+2105.981,W,6.87367139451,,13.0,W,Wohnbaufläche,0,,2105.53405541,68736.7139451
+2107.07,GI,15.7702536209,,3.0,GI,Industriefläche,4,,2106.70689597,157702.536209
+2117.385,Grün,1.45732090407,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1104.56931502,14573.2090407
+2117.385,Grün,1.63090136143,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,903.050366288,16309.0136143
+2119.816,Grün,5.30262331296,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2051.07890774,53026.2331296
+2122.115,SO,1.57457902471,Hafen,11.0,SO,Sonderbaufläche,17,,2121.68733054,15745.7902471
+2123.013,Grün,15.7363499743,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3604.39194798,157363.499743
+2134.036,Grün,28.6220522204,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2163.60685777,286220.522204
+2138.348,Grün,8.5619923868,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2137.81950597,85619.923868
+2139.394,GE,30.3459646589,,2.0,GE,Gewerbefläche,3,,2749.37066822,303459.646589
+2139.394,SO,1.24271105356,,2.0,SO,Sonderbaufläche,17,,469.475184232,12427.1105356
+2150.805,Grün,5.70793896254,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2194.67216356,57079.3896254
+2152.809,GI,15.8371054738,,3.0,GI,Industriefläche,4,,2150.49860871,158371.054738
+2156.65988265,bahn,1.79381476982,,18.0,,Fläche für Bahnanlagen,12,,2156.65988265,17938.1476982
+2158.175,GE,22.4867412915,,2.0,GE,Gewerbefläche,3,,2182.25332924,224867.412915
+2182.786,MI,9.26178203976,,7.0,MI,Mischgebiet,16,,2182.35437958,92617.8203976
+2183.444,GE,9.2737363746,,2.0,GE,Gewerbefläche,3,,2170.62343376,92737.363746
+2186.212,GE,18.5099283564,,2.0,GE,Gewerbefläche,3,,2185.75836156,185099.283564
+2210.43563584,Wasser,8.81504503447,,17.0,,Wasserfläche,8,,2210.43563584,88150.4503447
+2216.066,Grün,12.8842922426,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2215.56887867,128842.922426
+2216.305,Grün,6.09449920732,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2215.75609118,60944.9920732
+2220.69923638,Wasser,24.2163560377,,17.0,,Wasserfläche,8,,2220.69923638,242163.560377
+2223.05233653,Wasser,8.49923808397,,17.0,,Wasserfläche,8,,2223.05233653,84992.3808397
+2224.063,GE,11.8957874825,,2.0,GE,Gewerbefläche,3,,2223.55012248,118957.874825
+2226.204,M,10.8859103701,,16.0,M,Mischfläche,2,,2225.81357308,108859.103701
+2229.999,GE,13.2536567478,,2.0,GE,Gewerbefläche,3,,2217.89096101,132536.567478
+2239.444,GI,22.8514863252,,3.0,GI,Industriefläche,4,,2239.11543302,228514.863252
+2241.808,GE,14.3644761878,,2.0,GE,Gewerbefläche,3,,2321.20287571,143644.761878
+2247.189,Landwi,14.0458860171,,5.0,,Fläche für die Landwirtschaft,6,,2246.70011346,140458.860171
+2251.066,Grün,6.54708515072,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2250.67920615,65470.8515072
+2256.051,Grün,10.663264415,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2255.56717435,106632.64415
+2257.322,W,13.2880120393,,13.0,W,Wohnbaufläche,0,,2268.45418361,132880.120393
+2264.877,GI,0.86422731495,,3.0,GI,Industriefläche,4,,383.777782403,8642.27314951
+2264.877,GI,16.3011871216,,3.0,GI,Industriefläche,4,,1657.8295766,163011.871216
+2276.64376918,verkehr,4.3577943343,,21.0,,Fläche für Hauptverkehrszüge,13,,2276.64376918,43577.943343
+2288.128,W,22.9497434586,,13.0,W,Wohnbaufläche,0,,2327.13825102,229497.434586
+2293.669,Grün,13.5192543869,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2296.09246795,135192.543869
+2310.828,Grün,0.64807749863,,2.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,363.891835505,6480.77498634
+2310.828,M,0.70766444745,,2.0,M,Gemischte Baufläche,2,,369.082010567,7076.64447449
+2341.316,Grün,5.76355981619,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2340.7895783,57635.5981619
+2345.66,GE,30.7982687799,,3.0,GE,Gewerbefläche,3,,1567.58913659,128054.556523
+2345.66,GI,30.7982687799,,3.0,GI,Industriefläche,4,,1702.95261689,147559.038802
+2362.268,W,27.3316269661,,13.0,W,Wohnbaufläche,0,,2354.29306128,273316.269661
+2363.166,M,10.5499540433,,16.0,M,Mischfläche,2,,2362.67743953,105499.540433
+2364.679,W,19.7239379633,,13.0,W,Wohnbaufläche,0,,2361.06846192,197239.379633
+2364.802,SO,21.1359369268,Sporthochschule,11.0,SO,Sonderbaufläche,17,,2369.48662644,211359.369268
+2370.988,MI,4.56526699052,,7.0,MI,Mischgebiet,16,,2370.60683605,45652.6699052
+2375.378,WB,12.1302768454,,14.0,WB,Besonderes Wohngebiet,1,,2374.92294952,121302.768454
+2375.944,GI,18.4663317886,,3.0,GI,Industriefläche,4,,2375.51512819,184663.317886
+2376.289,W,18.8765529179,,13.0,W,Wohnbaufläche,0,,2375.74411195,188765.529179
+2379.039,M,20.0608561028,,16.0,M,Mischfläche,2,,2393.46578997,200608.561028
+2383.751,Grün,26.8788040402,,4.0,,Grünfläche mit tw. landwirtschaftl. Nutzung,22,Golf,2383.38668056,268788.040402
+2386.203,GE,17.0540594064,,2.0,GE,Gewerbefläche,3,,2385.61751738,170540.594064
+2388.446,Grün,4.13603715491,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2387.87974821,41360.3715491
+2418.172,NS,4.75264469374,,9.0,,Fläche für Hauptverkehrszüge,13,,2417.78759112,47526.4469374
+2420.737,MI,8.28884506725,,7.0,MI,Mischgebiet,16,,2422.30020736,82888.4506725
+2428.164,Landwi,29.1844127286,,5.0,,Fläche für die Landwirtschaft,6,,2427.69552735,291844.127286
+2453.171,GE,23.7220360639,,2.0,GE,Gewerbefläche,3,,2435.53219905,237220.360639
+2453.44247082,bahn,4.73234700779,,18.0,,Fläche für Bahnanlagen,12,,2453.44247082,47323.4700779
+2458.545,WB,23.1566635683,,14.0,WB,Besonderes Wohngebiet,1,,5056.4864316,231566.635683
+2470.955,W,19.1118083598,,13.0,W,Wohnbaufläche,0,,2443.79523101,191118.083598
+2479.365,Grün,8.97502065145,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2481.09269436,89750.2065145
+2479.67977602,Versor,8.07048325551,,12.0,,Fläche für Ver- und Entsorgung,9,,2479.67977602,80704.8325551
+2482.555,Grün,8.62262196362,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2370.76533691,86226.2196362
+2490.121,GE,23.5674317428,,2.0,GE,Gewerbefläche,3,,2485.94654005,235674.317428
+2491.346,SO,31.0583070241,DFVLR,11.0,SO,Sonderbaufläche,17,,2490.70719384,310583.070241
+2494.063,GE,20.2275037094,,2.0,GE,Gewerbefläche,3,,2912.61306803,202275.037094
+2499.432,W,27.5144259393,,13.0,W,Wohnbaufläche,0,,2484.66302953,275144.259393
+2503.415,Grün,0.08202629557,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,341.352417297,820.26295567
+2503.415,Grün,6.86654248568,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2510.00002481,68665.4248568
+2505.733,GE,20.1267792011,,2.0,GE,Gewerbefläche,3,,2505.25704968,201267.792011
+2511.529,Landwi,12.1945460196,,5.0,,Fläche für die Landwirtschaft,6,,2510.93435404,121945.460196
+2518.101,WB,13.2827864157,,14.0,WB,Besonderes Wohngebiet,1,,2517.4683707,132827.864157
+2518.23113748,Versor,2.95065537409,,18.0,,Fläche für Ver- und Entsorgung,9,,2518.23113748,29506.5537409
+2524.871,GI,14.3546814766,,3.0,GI,Industriefläche,4,,2520.34438012,143546.814766
+2527.548,Grün,15.2381995992,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2527.01114522,152381.995992
+2531.341,W,26.2850984908,,13.0,W,Wohnbaufläche,0,,3032.4363438,262850.984908
+2537.786,Grün,32.0953871027,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2523.51571259,320953.871027
+2543.607,GE,12.4176647839,,2.0,GE,Gewerbefläche,3,,2594.32933836,124176.647839
+2579.442,W,16.7162162852,,13.0,W,Wohnbaufläche,0,,2589.19994822,167162.162852
+2586.56732547,verkehr,3.78857070709,,21.0,,Fläche für Hauptverkehrszüge,13,,2586.56732547,37885.7070709
+2597.823,Grün,3.01896536667,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2600.98933686,30189.6536667
+2600.43,Grün,44.2571050255,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2626.15557129,442571.050255
+2608.127,GI,35.1316482696,,3.0,GI,Industriefläche,4,,2621.15527131,351316.482696
+2609.621,Grün,19.7262349536,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2582.72712968,197262.349536
+2618.174,W,24.28483309,,13.0,W,Wohnbaufläche,0,,2640.89064462,242848.3309
+2622.119,GE,13.833255348,,2.0,GE,Gewerbefläche,3,,2624.32706853,138332.55348
+2623.526,GE,17.2784295998,,2.0,GE,Gewerbefläche,3,,2625.47831197,172784.295998
+2630.585,W,7.40819209141,,13.0,W,Wohnbaufläche,0,,2545.07534522,74081.9209141
+2666.39082343,Wald,41.069660752,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,2666.39082343,410696.60752
+2667.60428135,S,36.7767310871,,10.0,S,Sonderbaufläche,10,,2667.60428135,367767.310871
+2669.209,GI,38.3133024685,,3.0,GI,Industriefläche,4,,2643.57278536,383133.024685
+2671.26530245,bahn,2.2288938015,,18.0,,Fläche für Bahnanlagen,12,,2671.26530245,22288.938015
+2673.406,Grün,11.509047314,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2672.89495547,115090.47314
+2686.5,W,17.3060894244,,13.0,W,Wohnbaufläche,0,,2714.6828473,173060.894244
+2690.298,Grün,11.6148967222,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2689.66233921,116148.967222
+2698.46,WB,13.2152764405,,14.0,WB,Besonderes Wohngebiet,1,,2697.87832763,132152.764405
+2710.655,W,14.2274903615,,13.0,W,Wohnbaufläche,0,,2707.73038879,142274.903615
+2724.04193454,bahn,3.98331970958,,18.0,,Fläche für Bahnanlagen,12,,2724.04193454,39833.1970958
+2727.105,M,23.3889736897,,16.0,M,Mischfläche,2,,2726.62762608,233889.736897
+2727.484,GE,26.5269904181,,2.0,GE,Gewerbefläche,3,,2734.51259374,265269.904181
+2757.545,W,30.4710362372,,13.0,W,Wohnbaufläche,0,,2756.96653593,304710.362372
+2766.454,Grün,14.7915785263,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2668.0236888,147915.785263
+2776.096,GE,21.094397825,,2.0,GE,Gewerbefläche,3,,2912.4692991,210943.97825
+2776.096,WB,8.06171652688,,14.0,WB,Besonderes Wohngebiet,1,,1152.63212114,80617.1652688
+2776.899,Grün,13.9873443523,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2776.21070426,139873.443523
+2792.442,W,25.3691873201,,13.0,W,Wohnbaufläche,0,,2796.25521753,253691.873201
+2797.21,W,16.9212095516,,13.0,W,Wohnbaufläche,0,,2828.67192189,169212.095516
+2818.648,GI,32.705823876,,3.0,GI,Industriefläche,4,,2818.10864543,327058.23876
+2821.861,MI,13.184508274,,7.0,MI,Mischgebiet,16,,2821.29304174,131845.08274
+2826.39582122,Wasser,32.141093742,,17.0,,Wasserfläche,8,,2826.39582122,321410.93742
+2826.982,GI,27.5070319299,,3.0,GI,Industriefläche,4,,2805.11944217,275070.319299
+2829.926,SO,32.0121079885,Großmarkt,11.0,SO,Sonderbaufläche,17,,2829.37379451,320121.079885
+2830.142,M,10.3883294275,,16.0,M,Mischfläche,2,,2855.08501398,103883.294275
+2835.012,GBFL,40.7513769753,,1.0,,Gemeinbedarfsfläche,11,,2833.34573344,407513.769753
+2835.047,Landwi,33.1778379767,,5.0,,Fläche für die Landwirtschaft,6,,2833.91333588,331778.379767
+2836.155,WB,21.1505009019,,14.0,WB,Besonderes Wohngebiet,1,,2811.32967657,211505.009019
+2837.524,W,0.00123677484,,13.0,W,Wohnbaufläche,0,,32.5323524697,12.3677484177
+2837.524,W,26.3119414405,,13.0,W,Wohnbaufläche,0,,2849.87263419,263119.414405
+2838.87456069,Wasser,12.7091896399,,17.0,,Wasserfläche,8,,2838.87456069,127091.896399
+2839.942,GE,21.3501011914,,2.0,GE,Gewerbefläche,3,,2839.38907066,213501.011914
+2856.608,GE,35.1781672091,,2.0,GE,Gewerbefläche,3,,2809.36270635,351781.672091
+2860.367,W,22.5941817556,,13.0,W,Wohnbaufläche,0,,2888.94301568,225941.817556
+2866.006,W,31.5891155897,,13.0,W,Wohnbaufläche,0,,2860.9135779,315891.155897
+2872.344,Grün,10.5232299753,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2871.7377356,105232.299753
+2908.379,Grün,49.2228713367,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2908.66672141,492228.713367
+2920.688,W,24.1549465015,,13.0,W,Wohnbaufläche,0,,2901.51395163,241549.465015
+2934.99506254,verkehr,4.57657342561,,21.0,,Fläche für Hauptverkehrszüge,13,,2934.99506254,45765.7342561
+2940.746,Grün,10.8527150546,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3030.72015344,108527.150546
+2955.722,Grün,7.28856319425,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2948.01890164,72885.6319425
+2969.489,Grün,7.64336115223,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2986.7436327,76433.6115223
+2973.97,W,24.3451362176,,13.0,W,Wohnbaufläche,0,,3001.60108361,241238.344797
+2991.46,M,9.68910190293,,16.0,M,Mischfläche,2,,2990.89059388,96891.0190293
+2992.178,M,21.0305241853,,16.0,M,Mischfläche,2,,2997.19916904,210305.241853
+2994.08670375,Wasser,28.6253485974,,17.0,,Wasserfläche,8,,2994.08670375,286253.485974
+3014.071,W,44.7790782269,,13.0,W,Wohnbaufläche,0,,2971.9232596,447790.782269
+3017.93,Grün,3.09760196995,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3151.00543289,30976.0196995
+3025.076,Grün,44.3442038691,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3024.25515871,443442.038691
+3027.008,Grün,44.1182430042,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3011.11575153,441182.430042
+3030.835,M,13.3987647097,,16.0,M,Mischfläche,2,,3030.24811536,133987.647097
+3040.194,SO,38.4987121905,,11.0,S,Sonderbaufläche,17,,3041.93549752,384987.121905
+3050.231,WB,21.4153288981,,14.0,WB,Besonderes Wohngebiet,1,,3045.1646615,214153.288981
+3053.599,GE,20.8654790863,,2.0,GE,Gewerbefläche,3,,3053.06951872,208654.790863
+3093.948,GE,21.1189519473,,2.0,GE,Gewerbefläche,3,,3125.11815013,211189.519473
+3108.214,Grün,8.66881542253,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3107.59801868,86688.1542253
+3118.776,W,57.9833357504,,13.0,W,Wohnbaufläche,0,,3037.17575425,579833.357504
+3124.243,Grün,14.1416617177,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3149.2768681,141416.617177
+3136.44871674,Versor,49.0028078872,,12.0,,Fläche für Ver- und Entsorgung,9,,3136.44871674,490028.078872
+3137.076,W,41.3373848646,,13.0,W,Wohnbaufläche,0,,4470.87670837,413373.848646
+3145.14,Grün,13.4167109586,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3216.25175379,134167.109586
+3157.614,Grün,29.0241975028,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3160.35472567,290241.975028
+3168.26,GE,18.4439827364,,2.0,GE,Gewerbefläche,3,,3167.88071725,184439.827364
+3172.585,GE,20.4698953176,,2.0,GE,Gewerbefläche,3,,3172.77674261,204698.953176
+3179.722,W,18.1207613649,,13.0,W,Wohnbaufläche,0,,3183.02484129,181207.613649
+3184.39914747,bahn,27.5297228109,,18.0,,Fläche für Bahnanlagen,12,,3184.39914747,275297.228109
+3193.544,W,37.9407419596,,13.0,W,Wohnbaufläche,0,,3181.77867397,379407.419596
+3197.069,M,10.8923165562,,16.0,M,Mischfläche,2,,3196.45910908,108923.165562
+3199.687,GI,45.7509919439,,3.0,GI,Industriefläche,4,,3198.99876491,457509.919439
+3202.92560761,bahn,35.3284400394,,18.0,,Fläche für Bahnanlagen,12,,3202.92560761,353284.400394
+3209.275,Landwi,50.5299997827,,5.0,,Fläche für die Landwirtschaft,6,,3208.66392355,505299.997827
+3214.29462318,Wasser,6.10553709302,,17.0,,Wasserfläche,8,,3214.29462318,61055.3709302
+3227.759,GE,13.0293991665,,2.0,GE,Gewerbefläche,3,,2587.7365584,130293.991665
+3227.759,GE,16.6982210262,,2.0,GE,Gewerbefläche,3,,1792.19477853,166982.210262
+3228.094,W,33.6803337541,,13.0,W,Wohnbaufläche,0,,3231.68956667,336803.337541
+3229.1,WB,9.64089043087,,14.0,WB,Besonderes Wohngebiet,1,,3238.31067155,96408.9043087
+3232.01428092,Wald,40.4239698117,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,3232.01428092,404239.698117
+3239.781,GE,59.4193104591,,2.0,GE,Gewerbefläche,3,,3263.92746007,594193.104591
+3254.921,GE,41.9570208428,,2.0,GE,Gewerbefläche,3,,3244.45536175,419570.208428
+3260.84,Landwi,11.9739285652,,5.0,,Fläche für die Landwirtschaft,6,,1551.77000351,119739.285652
+3265.757,GE,42.1209082288,,2.0,GE,Gewerbefläche,3,,3326.01327464,421209.082288
+3271.416,W,40.0569989495,,13.0,W,Wohnbaufläche,0,,3256.71629445,400569.989495
+3278.705,GE,44.5818454922,,2.0,GE,Gewerbefläche,3,,3276.81472761,445818.454922
+3320.071,Grün,15.2272831306,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3319.48617738,152272.831306
+3322.249,MI,13.5491785988,,7.0,MI,Mischgebiet,16,,3321.59415473,135491.785988
+3334.827,GE,28.6108914834,,2.0,GE,Gewerbefläche,3,,3336.93358029,286108.914834
+3338.40149259,verkehr,4.91794719574,,21.0,,Fläche für Hauptverkehrszüge,13,,3338.40149259,49179.4719574
+3345.275,W,31.2114305743,,13.0,W,Wohnbaufläche,0,,3344.52910381,312114.305743
+3380.972,GE,32.5608363422,,2.0,GE,Gewerbefläche,3,,3592.74923243,325608.363422
+3393.152,W,32.1726561737,,13.0,W,Wohnbaufläche,0,,3383.86277513,321726.561737
+3394.579,Grün,16.5111595475,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3393.94400222,165111.595475
+3404.61,W,33.8862316443,,13.0,W,Wohnbaufläche,0,,3360.89350935,338862.316443
+3404.845,W,54.8471852081,,13.0,W,Wohnbaufläche,0,,3421.02347281,548471.852081
+3406.488,W,26.3353301133,,13.0,W,Wohnbaufläche,0,,3405.90507911,263353.301133
+3414.947,Grün,46.3405411727,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3403.48749046,463405.411727
+3416.223,Grün,26.635997103,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3415.39557654,266359.97103
+3425.674,Landwi,31.715338369,,5.0,,Fläche für die Landwirtschaft,6,,3424.60228892,317153.38369
+3438.829,GE,31.8221488501,,2.0,GE,Gewerbefläche,3,,3438.22087072,318221.488501
+3439.433,W,30.1998412327,,13.0,W,Wohnbaufläche,0,,3459.1118307,301998.412327
+3444.69742006,Wasser,30.4872909673,,17.0,,Wasserfläche,8,,3444.69742006,304872.909673
+3465.29,GBFL,1.68488581104,,13.0,,Gemeinbedarfsfläche,11,,522.872507285,16848.8581104
+3475.355,W,19.8162727869,,13.0,W,Wohnbaufläche,0,,3482.8162151,198162.727869
+3477.108,W,33.2317949375,,13.0,W,Wohnbaufläche,0,,3496.83367202,332028.257603
+3489.15,Grün,14.5636727317,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3492.83207928,145636.727317
+3497.506,W,40.5654906804,,13.0,W,Wohnbaufläche,0,,3559.86383434,405654.906804
+3510.134,W,1.74246618194,,8.0,W,Wohnbaufläche,0,,535.678927091,17424.6618194
+3510.134,WB,25.5437468541,,14.0,WB,Besonderes Wohngebiet,1,,3621.80280076,255437.468541
+3515.43768386,verkehr,6.37394647419,,21.0,,Fläche für Hauptverkehrszüge,13,,3515.43768386,63739.4647419
+3518.981,GE,40.8508031734,,2.0,GE,Gewerbefläche,3,,3518.43450964,408508.031734
+3523.878,Landwi,14.9682152699,,5.0,,Fläche für die Landwirtschaft,6,,3523.14075013,149682.152699
+3537.54093661,verkehr,6.83151272436,,21.0,,Fläche für Hauptverkehrszüge,13,,3537.54093661,68315.1272436
+3538.39,GE,40.4536342529,,2.0,GE,Gewerbefläche,3,,3578.00424687,404536.342529
+3540.357,Grün,31.3601360771,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3522.67908045,313601.360771
+3551.741,Grün,23.2594494455,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3543.10318319,232594.494455
+3553.402,WB,21.3366673318,,14.0,WB,Besonderes Wohngebiet,1,,3574.93009754,213366.673318
+3594.353,W,36.6352769992,,13.0,W,Wohnbaufläche,0,,3593.64827537,366352.769992
+3599.76,Grün,4.20501596498,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3570.07978482,42050.1596498
+3625.258,Grün,12.3772640379,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3623.12097244,123772.640379
+3628.109,GI,37.8124303789,,3.0,GI,Industriefläche,4,,3617.84414633,378124.303789
+3630.776,Grün,42.1894383714,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3643.30192802,421894.383714
+3631.25,GE,50.7709715708,,2.0,GE,Gewerbefläche,3,,3640.96043276,507709.715708
+3636.856,Grün,3.84578263585,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1018.0108129,38457.8263585
+3667.988,Grün,19.4205057362,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3677.46437588,194205.057362
+3675.403,GI,77.6894967685,,3.0,GI,Industriefläche,4,,3674.70712368,776894.967685
+3676.909,W,37.1382130523,,13.0,W,Wohnbaufläche,0,,3649.26664497,371382.130523
+3677.758,W,44.6514725523,,13.0,W,Wohnbaufläche,0,,3686.0089877,446514.725523
+3686.47,Grün,38.8732450674,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3686.2407546,388732.450674
+3713.302,Grün,35.4367466061,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3677.06773985,354367.466061
+3739.15021013,Wasser,3.81606716713,,17.0,,Wasserfläche,8,,3739.15021013,38160.6716713
+3766.506,Grün,23.4997763623,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3773.15496707,234997.763623
+3772.526,GE,43.3162762439,,2.0,GE,Gewerbefläche,3,,3798.02339625,433162.762439
+3780.17671538,Wasser,47.7532880512,,17.0,,Wasserfläche,8,,3780.17671538,477532.880512
+3783.173,Grün,34.8546274024,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3797.42068823,348546.274024
+3796.628,M,16.2954264507,,16.0,M,Mischfläche,2,,3814.74162991,162954.264507
+3815.372,Grün,14.5782659833,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3937.2967689,145782.659833
+3815.486,W,30.5371461463,,13.0,W,Wohnbaufläche,0,,3814.61735675,305371.461463
+3838.163,Grün,32.4174547011,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3854.25304673,327357.497584
+3845.001,Grün,19.6709381451,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2605.77358852,196709.381451
+3850.461,W,33.9824012134,,13.0,W,Wohnbaufläche,0,,3877.00112467,339824.012134
+3858.858,M,4.82615554607,,16.0,M,Mischfläche,2,,1318.36462601,48261.5554607
+3858.858,M,21.7609002348,,16.0,M,Mischfläche,2,,2260.17887562,217609.002348
+3880.351,SO,58.7517765945,GVZ,11.0,SO,Sonderbaufläche,17,,3882.04720404,587517.765945
+3899.859,Grün,41.8791391846,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3949.28509524,418791.391846
+3906.191,MI,0.50836039,,13.0,MI,Mischbaufläche,16,,317.588223278,5083.60389996
+3906.191,W,39.6974247684,,13.0,W,Wohnbaufläche,0,,3987.9693176,396974.247684
+3939.879,W,55.3548398521,,13.0,W,Wohnbaufläche,0,,4185.56386378,553548.398521
+3947.28552743,bahn,5.14040358547,,18.0,,Fläche für Bahnanlagen,12,,3947.28552743,51404.0358547
+3965.73066328,Wasser,59.6795010478,,17.0,,Wasserfläche,8,,3965.73066328,596795.010478
+3975.462,MK,12.4949835725,,8.0,MK,Kerngebiet,15,,3895.29242184,124949.835725
+3984.514,W,35.3183585261,,13.0,W,Wohnbaufläche,0,,4022.95988814,353183.585261
+4000.32,W,20.4677694208,,13.0,W,Wohnbaufläche,0,,3999.39979874,204677.694208
+4003.033,WB,15.6340047781,,14.0,WB,Besonderes Wohngebiet,1,,4018.94083647,156340.047781
+4017.623,W,40.0488270554,,13.0,W,Wohnbaufläche,0,,3980.8055734,400488.270554
+4047.305,Grün,52.0163700213,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4004.37464097,520163.700213
+4056.986,GE,29.3305285876,,2.0,GE,Gewerbefläche,3,,4116.03449618,293305.285876
+4094.27356619,Wasser,4.58385572976,,17.0,,Wasserfläche,8,,4094.27356619,45838.5572976
+4106.65576793,Wald,57.1372619062,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,4106.65576793,571372.619062
+4107.84,W,56.4634664533,,13.0,W,Wohnbaufläche,0,,4098.6419459,564634.664533
+4132.5156682,Wald,48.3372204116,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,4132.5156682,483372.204116
+4132.754,Grün,41.8031528247,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4131.95574583,418031.528247
+4149.058,Grün,36.8196264335,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4156.79899461,368196.264335
+4160.632,Grün,10.8878531319,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4159.82221771,108878.531319
+4178.036,GrünSpezial,22.802249479,,4.0,,Grünfläche mit besonderer Nutzung,22,Stellplätze,4178.16655522,228022.49479
+4180.309,GE,63.8808514063,,2.0,GE,Gewerbefläche,3,,4948.62820295,638808.514063
+4214.774,Landwi,43.7995930598,,5.0,,Fläche für die Landwirtschaft,6,,4232.78959322,437995.930598
+4216.126,Landwi,61.5561947294,,5.0,,Fläche für die Landwirtschaft,6,,4265.95403063,615561.947294
+4247.291,Grün,43.1985909145,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4246.54309177,431985.909145
+4262.67,GE,91.9808332593,,2.0,GE,Gewerbefläche,3,,4278.22105739,919808.332593
+4289.402,Landwi,35.3820652997,,11.0,,Fläche für die Landwirtschaft,6,,2818.15714075,353820.652997
+4307.115,Landwi,48.1736083098,,5.0,,Fläche für die Landwirtschaft,6,,4311.93404692,481736.083098
+4310.48,W,27.7245912835,,13.0,W,Wohnbaufläche,0,,4325.07750157,277245.912835
+4313.313,W,42.3205043504,,13.0,W,Wohnbaufläche,0,,4290.04678342,423205.043504
+4316.432,W,42.6432489799,,13.0,W,Wohnbaufläche,0,,4327.28542336,426432.489799
+4324.873,Landwi,87.5444553933,,5.0,,Fläche für die Landwirtschaft,6,,4323.8488993,875444.553933
+4342.934,WB,35.530750067,,14.0,WB,Besonderes Wohngebiet,1,,4361.11071107,355307.50067
+4351.915,Grün,113.374250838,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4350.94378458,1133742.50838
+4365.642,Grün,24.3701045203,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4373.78904885,243990.736975
+4371.68922331,Wasser,54.8299370378,,17.0,,Wasserfläche,8,,4371.68922331,548299.370378
+4378.895,Grün,0.00078225302,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,24.6885905185,7.82253023519
+4378.895,Grün,0.00149107314,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,30.5815921753,14.9107313594
+4378.895,Grün,22.2534084348,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4403.85320286,222534.084348
+4383.39001105,Versor,5.35589241902,,18.0,,Fläche für Ver- und Entsorgung,9,,4383.38406367,53558.9241902
+4383.722,Grün,60.8409217946,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4382.88911184,608409.217946
+4384.658,W,46.7129365542,,13.0,W,Wohnbaufläche(zurückgestellt),19,,4383.92700817,467129.365542
+4387.0948228,Wasser,6.47881589097,,17.0,,Wasserfläche,8,,4387.0948228,64788.1589097
+4388.151,GI,18.6710480319,,3.0,GI,Industriefläche,4,,4387.2543411,186710.480319
+4396.069,WB,36.3792611868,,14.0,WB,Besonderes Wohngebiet,1,,4363.90598354,363792.611868
+4420.218,GI,81.7236952718,,3.0,GI,Industriefläche,4,,4362.38731289,817236.952718
+4465.215,W,2.783156e-05,,13.0,W,Wohnbaufläche,0,,2.89604960017,0.27831559512
+4465.215,W,33.8851340051,,13.0,W,Wohnbaufläche,0,,4458.67317812,338851.340051
+4490.232,Landwi,74.6155807591,,5.0,,Fläche für die Landwirtschaft,6,,4508.41606782,746155.807591
+4508.6,W,47.0849967536,,13.0,W,Wohnbaufläche,0,,4512.65994904,470849.967536
+4554.193,W,80.6132091407,,13.0,W,Wohnbaufläche,0,,4650.04437982,806659.25808
+4555.653,Grün,14.7947594864,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2793.00953986,147947.594864
+4558.397,Grün,12.9684193076,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4552.17711185,129684.193076
+4575.517,NS,7.6699846972,,9.0,,Fläche für Hauptverkehrszüge,13,,4574.41840651,76699.846972
+4580.75442394,Wasser,61.0283320062,,17.0,,Wasserfläche,8,,4567.56479269,607100.369395
+4598.369,Grün,18.2810197622,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4613.49230853,182810.197622
+4620.209,WB,25.0445653555,,14.0,WB,Besonderes Wohngebiet,1,,4664.67617257,250445.653555
+4630.05284987,bahn,4.7181376799,,18.0,,Fläche für Bahnanlagen,12,,4630.05284987,47181.376799
+4692.778,Grün,72.4071745615,,4.0,,Grünfläche mit tw. landwirtschaftl. Nutzung,22,Golf,4695.70336555,724071.745615
+4707.39,Landwi,98.3724638328,,5.0,,Fläche für die Landwirtschaft,6,,4714.28600242,983724.638328
+4755.666,W,61.7367157033,,13.0,W,Wohnbaufläche,0,,4799.57071655,617367.157033
+4759.594679,bahn,6.23192348208,,18.0,,Fläche für Bahnanlagen,12,,4759.594679,62319.2348208
+4782.00760957,verkehr,7.17879044913,,21.0,,Fläche für Hauptverkehrszüge,13,,4782.00760957,71787.9044913
+4854.896,GE,35.8792795746,,2.0,GE,Gewerbefläche,3,,4883.54543817,358792.795746
+4870.572,SO,60.2357393453,Messe,11.0,SO,Sonderbaufläche,17,,4843.0207584,602357.393453
+4873.352,Grün,43.2584070896,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4869.90061444,432584.070896
+4884.368,MK,1.5156668949,,8.0,MK,Kerngebiet,15,,536.450652418,15156.668949
+4884.368,W,40.2179416621,,13.0,W,Wohnbaufläche,0,,5419.83978174,402179.416621
+4914.915,SO,40.8821637245,UNI,11.0,SO,Sonderbaufläche,17,,4902.22942824,408821.637245
+4971.947,Grün,0.11267625637,,2.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,193.282117735,1126.76256366
+4971.947,Grün,0.15471323859,,2.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,240.293124783,1547.13238592
+4971.947,Grün,0.46547155844,,2.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,407.965361858,4654.71558441
+4971.947,Grün,13.2865808648,,2.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,3277.44348251,132865.808648
+5006.644,W,60.9056773747,,13.0,W,Wohnbaufläche,0,,4993.67412533,609056.773747
+5045.551,W,88.0746206342,,13.0,W,Wohnbaufläche,0,,5029.78156114,880746.206342
+5049.175,W,128.946554789,,13.0,W,Wohnbaufläche,0,,5052.76230182,1289465.54789
+5103.979,GI,106.08120918,,3.0,GI,Industriefläche,4,,5103.20131298,1060812.0918
+5121.399,Grün,43.2827025933,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5120.26708351,432827.025933
+5138.524,WB,28.8539888075,,14.0,WB,Besonderes Wohngebiet,1,,5152.54316523,288539.888075
+5156.548,W,53.915010968,,13.0,W,Wohnbaufläche,0,,5155.88469073,539150.10968
+5178.494,W,53.4601681958,,13.0,W,Wohnbaufläche,0,,5400.74526299,534601.681958
+5181.571,GE,98.8220130764,,2.0,GE,Gewerbefläche,3,,5180.67619337,988220.130764
+5183.77143157,verkehr,5.17038685713,,21.0,,Fläche für Hauptverkehrszüge,13,,5183.77143157,51703.8685713
+5219.738,Grün,11.9514019271,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5183.68879058,119514.019271
+5243.484,W,56.347316455,,13.0,W,Wohnbaufläche,0,,5235.1057286,563473.16455
+5272.891,Grün,23.3961632199,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5263.95988407,233961.632199
+5288.413,GI,180.866179467,,3.0,GI,Industriefläche,4,,5293.48194763,1808661.79467
+5295.263,Grün,9.64767329202,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2211.71171054,96476.7329202
+5295.263,Landwi,146.63048294,,5.0,,Fläche für die Landwirtschaft,6,,7746.62122171,1466304.8294
+5316.649,Grün,47.9325476909,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5308.21740877,479325.476909
+5320.279,NS,9.35710986871,,9.0,,Fläche für Hauptverkehrszüge,13,,5319.29612533,93571.0986871
+5331.012,W,50.7979264448,,13.0,W,Wohnbaufläche,0,,5305.23849871,507979.264448
+5336.532,Grün,8.18751901762,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5344.29248189,81875.1901762
+5343.345,Grün,35.6278845759,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5325.95395187,356278.845759
+5347.025,GI,178.370864158,,3.0,GI,Industriefläche,4,,5352.44948566,1783708.64158
+5349.733,W,76.5626855587,,13.0,W,Wohnbaufläche,0,,5342.68319378,765626.855587
+5356.126,Grün,0.00510318526,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,38.1842429218,51.0318526393
+5356.126,Grün,87.3741410883,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5433.09534675,873741.410883
+5384.532,Landwi,55.8427262091,,5.0,,Fläche für die Landwirtschaft,6,,5400.39580644,558427.262091
+5395.512,Grün,94.6601552677,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5394.50131264,946601.552677
+5400.424,W,54.4322484898,,13.0,W,Wohnbaufläche,0,,5383.84720366,544322.484898
+5432.814,MI,15.3852861683,,7.0,MI,Mischgebiet,16,,5431.72430241,153852.861683
+5438.79171388,verkehr,9.05162375752,,21.0,,Fläche für Hauptverkehrszüge,13,,5438.79171388,90516.2375752
+5443.226,W,66.8822575221,,13.0,W,Wohnbaufläche,0,,5634.92399733,668822.575221
+5470.65114577,verkehr,9.65939514399,,21.0,,Fläche für Hauptverkehrszüge,13,,5470.65114577,96593.9514399
+5482.305,GI,141.295121746,,3.0,GI,Industriefläche,4,,5477.25299008,1412951.21746
+5485.539,W,76.3091404578,,13.0,W,Wohnbaufläche,0,,5484.50979903,763091.404578
+5514.68618105,Wasser,84.5455329936,,17.0,,Wasserfläche,8,,5514.68618105,845455.329936
+5519.619,Grün,110.519304642,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5518.58625785,1105193.04642
+5543.53683233,verkehr,7.90618848693,,21.0,,Fläche für Hauptverkehrszüge,13,,5543.53683233,79061.8848693
+5550.54657105,Wasser,24.7795774295,,17.0,,Wasserfläche,8,,5550.54657105,247795.774295
+5580.715,W,72.1230738413,,13.0,W,Wohnbaufläche,0,,5320.669444,721230.738413
+5588.85,W,47.4583160099,,13.0,W,Wohnbaufläche,0,,5690.49571265,474583.160099
+5661.21,GI,146.229556027,,3.0,GI,Industriefläche,4,,5660.34138811,1462295.56027
+5671.627,W,74.9609380634,,13.0,W,Wohnbaufläche,0,,5688.68808237,749609.380634
+5701.585,GI,58.4379098216,,3.0,GI,Industriefläche,4,,5700.2529434,584379.098216
+5741.923,Grün,13.8769922325,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5740.71181299,138769.922325
+5752.618,W,93.6927828226,,13.0,W,Wohnbaufläche,0,,5829.9477257,936927.828226
+5766.71,Grün,8.85830329332,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6290.00145143,88583.0329332
+5821.408,WB,60.4189269867,,14.0,WB,Besonderes Wohngebiet,1,,5839.63800131,604189.269867
+5891.01,WB,54.022796981,,14.0,WB,Besonderes Wohngebiet,1,,5903.4427091,540227.96981
+5893.62796922,verkehr,8.73623594073,,21.0,,Fläche für Hauptverkehrszüge,13,,5893.62796922,87362.3594073
+5909.215,Landwi,47.094062139,,5.0,,Fläche für die Landwirtschaft,6,,5906.51288122,470940.62139
+5946.568,W,95.0698113325,,13.0,W,Wohnbaufläche,0,,5943.96991598,950698.113325
+5963.97495933,Wald,136.824188982,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,5963.97495933,1368241.88982
+5969.394,W,65.8468922354,,13.0,W,Wohnbaufläche,0,,5898.2096768,658468.922354
+6023.321,Grün,69.0593161934,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4323.32423487,690593.161934
+6023.321,Landwi,56.8500966293,,5.0,,Fläche für die Landwirtschaft,6,,3322.36553544,568500.966293
+6027.105,Grün,55.1033756322,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6018.00554872,551033.756322
+6047.637,Grün,67.6458037074,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6042.39411393,676458.037074
+6069.238,Grün,103.604193515,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6790.11803671,1036041.93515
+6109.505,Grün,149.274708581,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6108.31437165,1492747.08581
+6161.273,W,88.7793396718,,13.0,W,Wohnbaufläche,0,,6087.20370614,887793.396718
+6186.447,W,102.935955459,,13.0,W,Wohnbaufläche,0,,6265.81343533,1029359.55459
+6203.592,W,103.301568178,,13.0,W,Wohnbaufläche,0,,6280.4561515,1033015.68178
+6214.671,Grün,30.5980076461,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6165.30031478,305980.076461
+6281.228,W,85.7154474588,,13.0,W,Wohnbaufläche,0,,6333.99889051,857154.474588
+6319.21,Grün,10.6227617176,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6316.51447356,106227.617176
+6372.309,Grün,25.5084335699,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6301.20424135,255084.335699
+6403.61852221,bahn,11.8130382815,,18.0,,Fläche für Bahnanlagen,12,,6403.61852221,118130.382815
+6410.5169695,Wald,100.221803269,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,6410.5169695,1002218.03269
+6411.93,GI,142.934629316,,3.0,GI,Industriefläche,4,,6410.67999966,1429346.29316
+6417.12601986,Wald,80.676606919,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,6417.12601986,806766.06919
+6422.205,Grün,29.0125559423,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6420.94218931,290125.559423
+6442.904,WB,49.363739638,,14.0,WB,Besonderes Wohngebiet,1,,6448.36265859,493637.39638
+6453.748,Grün,23.6539640374,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6583.81743726,236539.640374
+6454.733,Grün,0.0,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,0.00020000339,0.0
+6454.733,Grün,2.59350175807,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,765.297466976,25935.0175807
+6454.733,Grün,3.65313493471,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1835.44568214,36531.3493471
+6454.733,Landwi,27.8564589356,,4.0,,Fläche für die Landwirtschaft,6,,2447.54926299,278564.589356
+6461.024,Grün,79.5118277634,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6634.94240223,795118.277634
+6504.84423222,bahn,9.14902747637,,18.0,,Fläche für Bahnanlagen,12,,6504.84423222,91490.2747637
+6506.269,Grün,17.5987817114,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5910.10718513,175987.817114
+6523.25182392,verkehr,9.65080727394,,21.0,,Fläche für Hauptverkehrszüge,13,,6523.25182392,96508.0727394
+6526.765,W,82.1656526773,,13.0,W,Wohnbaufläche,0,,6548.68357595,821656.526773
+6594.94369555,verkehr,9.81893756504,,21.0,,Fläche für Hauptverkehrszüge,13,,6594.94369555,98189.3756504
+6657.305,GBFL,115.358300129,,13.0,,Gemeinbedarfsfläche,11,,464.460769096,13232.113167
+6657.305,W,115.358300129,,13.0,W,Wohnbaufläche,0,,7169.72323554,1140350.88812
+6737.596,Grün,35.7954521182,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6745.93302567,357954.521182
+6744.543,GI,221.024579181,,3.0,GI,Industriefläche,4,,6743.25856204,2210245.79181
+6807.331,WB,56.2862094898,,14.0,WB,Besonderes Wohngebiet,1,,6798.05759865,562862.094898
+6835.07643787,Wald,65.073418768,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,6835.07643787,650734.18768
+6841.993,Grün,3.83199153366,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1166.77201392,38319.9153366
+6841.993,Grün,12.2957553718,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1598.96954573,122957.553718
+6841.993,Grün,79.6783473216,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6002.4049564,796783.473216
+6872.035,Grün,64.5674838727,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6808.73150181,645674.838727
+6959.284,W,91.8401218423,,13.0,W,Wohnbaufläche,0,,6967.39144878,919219.271096
+7144.016,Grün,38.1696104313,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,7162.20445505,380969.593017
+7183.55,Grün,46.6839574598,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,6879.00527842,466839.574598
+7199.98674303,bahn,13.2749058054,,12.0,,Fläche für Bahnanlagen,12,,7199.98674303,132749.058054
+7285.518,Grün,118.32832195,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,7303.18539173,1183283.2195
+7290.125,W,88.3697225749,,13.0,W,Wohnbaufläche,0,,6810.03966515,883697.225749
+7337.541,W,63.4225332739,,13.0,W,Wohnbaufläche,0,,7352.88727901,634225.332739
+7376.791,Grün,50.7913436744,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,7396.07557835,507913.436744
+7382.807,Grün,100.359820412,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,7381.08580815,1003598.20412
+7397.916,W,74.7253576371,,13.0,W,Wohnbaufläche,0,,7486.10326593,747517.542936
+7436.615,Grün,47.6763775929,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,7430.65157257,476763.775929
+7470.451,GBFL,4.20420517645,,13.0,,Gemeinbedarfsfläche,11,,1030.04066098,42042.0517645
+7470.451,Grün,7.68177917231,,13.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1306.33785262,76817.7917231
+7554.823,W,98.8235250495,,13.0,W,Wohnbaufläche,0,,7868.28963351,988235.250495
+7599.303,Grün,5.86075006998,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,2291.16557836,58607.5006998
+7599.303,Grün,24.2972396384,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,4818.44462311,242972.396384
+7838.56052043,Wasser,38.6412154704,,17.0,,Wasserfläche,8,,7838.56052043,386412.154704
+7962.723,Grün,169.757384125,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,5575.61167575,1697573.84125
+8062.124,W,81.7540760756,,13.0,W,Wohnbaufläche,0,,8050.42378996,817540.760756
+8107.303,Grün,30.5195227723,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8105.89610551,305195.227723
+8259.088,W,67.6715339473,,13.0,W,Wohnbaufläche,0,,8243.50465892,676715.339473
+8333.128,W,153.294947783,,13.0,W,Wohnbaufläche,0,,7738.48357975,1532949.47783
+8435.092,Grün,33.3151619399,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8433.20597114,333151.619399
+8438.812,W,84.5245634698,,13.0,W,Wohnbaufläche,0,,8630.11459849,845245.634698
+8471.303,Grün,49.1387112913,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8521.70102392,491387.112913
+8566.639,WB,114.15095335,,14.0,WB,Besonderes Wohngebiet,1,,8551.17999935,1141509.5335
+8578.22923965,bahn,7.30918430759,,18.0,,Fläche für Bahnanlagen,12,,8578.22923965,73091.8430522
+8612.988,Grün,80.5674848154,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8474.9175893,805674.848154
+8638.501,W,120.471781625,,13.0,W,Wohnbaufläche,0,,8649.8491036,1204717.81625
+8658.78,Landwi,128.772215096,,5.0,,Fläche für die Landwirtschaft,6,,8564.56405434,1287722.15096
+8694.383,Grün,49.1939166029,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8681.2363568,491939.166029
+8835.528,W,156.559036904,,13.0,W,Wohnbaufläche,0,,8845.64055338,1565590.36904
+8886.008,WB,66.5489175862,,14.0,WB,Besonderes Wohngebiet,1,,8918.6084188,665489.175862
+8960.427,Grün,90.0821099119,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,8960.37668663,900821.099119
+9023.80574923,Wald,110.921060139,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,9023.80574923,1109210.60139
+9106.515,M,91.8202686164,,16.0,M,Mischfläche,2,,9172.23996071,918202.686164
+9153.787,Grün,132.011234081,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,9178.76680256,1320112.34081
+9174.066,SO,58.5839503359,Hafen,11.0,SO,Sonderbaufläche,17,,9179.55521101,585839.503359
+9224.608,W,70.4692144459,,13.0,W,Wohnbaufläche,0,,9222.65531405,704692.144459
+9340.79924275,bahn,10.7076608064,,18.0,,Fläche für Bahnanlagen,12,,9340.79924275,107076.608064
+9399.17146994,S,212.784389406,,10.0,S,Sonderbaufläche,10,,9399.25780444,2127843.89406
+9521.39249313,Wald,184.299787158,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,9521.39249313,1842997.87158
+9724.722,W,129.732870953,,13.0,W,Wohnbaufläche,0,,9803.98208443,1297328.70953
+9831.001,Grün,27.5504242287,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,Golf,9394.47118676,275504.242287
+9831.001,Grün,39.733892205,,4.0,,Grünfläche mit tw. landwirtschaftl. Nutzung,22,Golf,2837.57023943,397338.92205
+9862.21,Grün,1.31163115229,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,506.605632776,13116.3115229
+10010.186,W,173.136093849,,13.0,W,Wohnbaufläche,0,,10013.1872859,1731360.93849
+10230.2935597,bahn,15.1069346128,,18.0,,Fläche für Bahnanlagen,12,,10230.2935597,151069.346128
+10557.912,Grün,1.47707672494,,13.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,499.395285102,14770.7672494
+10557.912,W,147.090453985,,13.0,W,Wohnbaufläche,0,,8329.88934291,1470904.53985
+10712.486,W,131.977080419,,13.0,W,Wohnbaufläche,0,,10684.1480429,1319770.80419
+10770.61,W,139.487977084,,13.0,W,Wohnbaufläche,0,,11069.2262808,1394879.77084
+10790.0816983,verkehr,16.3296724009,,21.0,,Fläche für Hauptverkehrszüge,13,,10790.0816983,163296.724009
+10889.899,GE,2.40581943037,,4.0,GE,Gewerbefläche,3,,681.740389198,24058.1943037
+10889.899,Grün,0.00168483999,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,20.5144648898,16.8483999285
+10889.899,Grün,112.283897253,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,15471.7482326,1122838.97253
+10889.899,M,0.71910864095,,4.0,M,Mischfläche,2,,340.084118572,7191.08640947
+10889.899,MI,1.30634268151,,4.0,MI,Mischgebiet,16,,604.846209975,13063.4268151
+10890.424,W,135.230659662,,13.0,W,Wohnbaufläche,0,,10921.1680573,1352306.59662
+11405.882,Grün,68.2841766408,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,11257.3959025,682841.766408
+11441.452,Landwi,316.585123199,,5.0,,Fläche für die Landwirtschaft,6,,11448.4473565,3165851.23199
+11468.951,W,156.057592313,,13.0,W,Wohnbaufläche,0,,11451.2819994,1560575.92313
+11589.8832756,Wald,435.039694707,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,11589.8832756,4350396.94707
+11729.911,Grün,2.10991661266,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1250.27207097,21099.1661266
+11729.911,Grün,250.457907099,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,10925.2025001,2504579.07099
+11982.239,W,219.135554359,,13.0,W,Wohnbaufläche,0,,11984.2406448,2191355.54359
+12100.087,Grün,120.587545446,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,12063.5219215,1205875.45446
+12226.439,W,178.824087768,,13.0,W,Wohnbaufläche,0,,12188.8050217,1788240.87768
+12596.582,Grün,180.229931597,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,12566.4606279,1802295.74311
+12649.195,Grün,85.9556189798,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,12660.1994079,859556.189798
+12797.6414196,Wasser,81.9866517397,,17.0,,Wasserfläche,8,,12797.6414196,819866.517397
+12821.745,W,126.888188384,,13.0,W,Wohnbaufläche,0,,12807.1301549,1268881.88384
+12824.7810414,bahn,17.7003141113,,18.0,,Fläche für Bahnanlagen,12,,12824.7810414,177003.141113
+12855.589,W,142.70317516,,13.0,W,Wohnbaufläche,0,,12804.2534842,1427031.7516
+13259.5608916,bahn,16.1069850726,,18.0,,Fläche für Bahnanlagen,12,,13259.5608916,161069.850726
+13322.988,Grün,159.208354474,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,13487.8952835,1592083.54474
+13371.676,Grün,60.5449593058,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,13370.4084275,605449.593058
+13530.6433818,bahn,13.6295128131,,18.0,,Fläche für Bahnanlagen,12,,13530.6433818,136295.128131
+13681.856,Grün,44.3272084842,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,13694.7360755,443272.084842
+13917.231,Grün,0.29546193331,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,207.006320011,2954.6193331
+13917.231,Grün,200.89492629,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,13357.9397415,2008949.2629
+14091.826,W,163.507811099,,13.0,W,Wohnbaufläche,0,,14132.3005064,1635078.11099
+14673.3281011,Wald,289.357421955,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,14673.3281011,2893574.21955
+15336.5055408,verkehr,26.9015702308,,21.0,,Fläche für Hauptverkehrszüge,13,,15336.5055408,269015.702308
+15398.8552105,flug,703.675674391,,19.0,,Fläche für die Luftfahrt,14,,15398.8552105,7036756.74391
+16270.4454349,Wald,670.607887072,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,16270.4454349,6706078.87072
+18603.895,Grün,179.806278024,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,18603.2634696,1798062.78024
+18652.739,Grün,219.500153802,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,18698.5981762,2195001.53802
+19103.768,Grün,0.02636627634,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,100.974678628,263.662763396
+19103.768,Grün,206.371111508,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,19143.4867893,2063711.11508
+19256.335,Grün,1.35227026652,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,494.033962662,13522.7026652
+19256.335,Grün,2.8296306843,,5.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,747.330640085,28296.306843
+19256.335,Landwi,438.109574039,,5.0,,Fläche für die Landwirtschaft,6,,21764.2834401,4381614.24676
+20051.817,Grün,484.679176989,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,22695.5502825,4846791.76989
+20051.817,W,4.74001668174,,4.0,W,Wohnbaufläche,0,,1010.8172554,47400.1668174
+20701.400604,Wald,643.880396643,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,20701.400604,6438803.96643
+20910.594,Grün,547.04139215,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,38689.8662186,5470413.9215
+20924.3999031,verkehr,36.9194889495,,21.0,,Fläche für Hauptverkehrszüge,13,,20924.3999031,369194.889495
+21398.0477692,Wald,1183.37762342,,16.0,,Fläche für die Forstwirtschaft (Erholungswald),7,,21398.0477692,11833776.2342
+21472.5294868,Wasser,184.476954328,,17.0,,Wasserfläche,8,,21472.5294868,1844769.54328
+21852.3241792,Wasser,300.706638091,,17.0,,Wasserfläche,8,,21852.3241792,3007066.38091
+23666.98,Grün,0.00523993286,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,29.9307340909,52.3993286311
+23666.98,Grün,199.242139995,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,23794.3126585,1992421.39995
+24707.511,W,360.465740855,,13.0,W,Wohnbaufläche,0,,24759.484072,3604657.40855
+24872.537,W,305.454817948,,13.0,,Wohnbaufläche,0,,24723.9828297,3054548.17948
+25063.008,Grün,253.363238473,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,25140.0855394,2533717.028
+26802.353,Grün,176.520662203,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,26812.4804421,1765242.35567
+27424.2506672,Wasser,477.620987687,,17.0,,Wasserfläche,8,,27424.2506672,4776209.87687
+29023.7952043,verkehr,46.8193387401,,21.0,,Fläche für Hauptverkehrszüge,13,,29023.7952043,468193.387401
+30102.6117762,S,55.852024723,,10.0,S,Sonderbaufläche,10,,30102.6117762,558520.24723
+30157.696,Landwi,629.150289428,,5.0,,Fläche für die Landwirtschaft,6,,30163.3525488,6290864.73101
+30683.187,Grün,0.53348503709,,18.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1080.49459615,5334.85037091
+30722.0240912,GE,102.428381836,,18.0,GE,Gewerbefläche,3,,1217.73393794,48790.9630812
+30722.0240912,bahn,102.428381836,,18.0,,Fläche für Bahnanlagen,12,,31146.9001807,975246.263683
+31156.009,Grün,0.01913972789,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,306.588258955,191.397278935
+31156.009,Grün,377.66529754,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,31003.9080269,3776652.9754
+45499.0182809,verkehr,68.0161705146,,21.0,,Fläche für Hauptverkehrszüge,13,,45474.4943601,680161.705146
+47107.28,Grün,0.00215413255,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,49.3297799935,21.5413255217
+47107.28,Grün,503.806591375,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,47757.2973626,5038440.11046
+49249.228,Grün,448.783270924,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,49295.113703,4491058.09583
+51433.351,GBFL,1.61342526477,,4.0,,Gemeinbedarfsfläche,11,,516.744843165,16134.2526477
+51433.351,Grün,0.00040717515,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,37.2409822883,4.07175154217
+51433.351,Grün,0.21969002344,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,234.584285532,2196.90023437
+51433.351,Grün,6.47130779112,,4.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,1551.1925629,64713.0779112
+51433.351,Landwi,13.2544763281,,4.0,,Fläche für die Landwirtschaft,6,,1482.35607804,132544.763281
+51433.351,Landwi,35.199593027,,4.0,,Fläche für die Landwirtschaft,6,,4445.68808621,351995.93027
+51433.351,Landwi,91.9388318603,,4.0,,Fläche für die Landwirtschaft,6,,12530.8652603,919388.318603
+51433.351,Landwi,197.65518823,,4.0,,Fläche für die Landwirtschaft,6,,13505.2203913,1976551.8823
+67503.270012,verkehr,99.188136483,,21.0,,Fläche für Hauptverkehrszüge,13,,67503.270012,991881.36483
+78688.8682621,verkehr,134.416655106,,21.0,,Fläche für Hauptverkehrszüge,13,,950.035124609,13681.7071032
+78688.8682621,verkehr,134.416655106,,21.0,,Fläche für Hauptverkehrszüge,13,,78221.7284123,1333349.01489
+80813.0986863,verkehr,137.827329039,,21.0,,Fläche für Hauptverkehrszüge,13,,80813.0986863,1378273.29039
+118733.409804,verkehr,202.115268085,,21.0,,Fläche für Hauptverkehrszüge,13,,118692.497676,2021152.68126
+160448.717929,GE,631.34800221,,18.0,GE,Gewerbefläche,3,,1231.71884815,57270.9736193
+160448.717929,bahn,631.34800221,,18.0,,Fläche für Bahnanlagen,12,,160372.349544,6256137.59806
+197194.091541,verkehr,337.893044477,,21.0,,Fläche für Hauptverkehrszüge,13,,197194.807646,3378930.44477
+200859.73,Grün,0.17899729415,,21.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,213.910808025,1789.97294148
+200859.73,Grün,0.26837237598,,21.0,,Grünfläche mit tw. landwirtschftl. Nutzung,5,,191.175268128,2683.72375977

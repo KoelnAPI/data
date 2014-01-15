@@ -1,0 +1,83 @@
+<?xml version="1.0" encoding="utf-8" ?>
+<kml xmlns="http://www.opengis.net/kml/2.2">
+<Document><Folder><name>VerkehrNachricht</name>
+<Schema name="VerkehrNachricht" id="VerkehrNachricht">
+	<SimpleField name="Name" type="string"></SimpleField>
+	<SimpleField name="Description" type="string"></SimpleField>
+	<SimpleField name="NAME2" type="string"></SimpleField>
+	<SimpleField name="ID" type="float"></SimpleField>
+	<SimpleField name="Shape_Leng" type="float"></SimpleField>
+</Schema>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">873.02872426000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.916655092144356,50.858287662529122 6.917014777546542,50.859209083491088 6.917733847258904,50.860467280809104 6.918537434700905,50.861613765710381 6.919600370322724,50.862739711759829 6.921925572751281,50.864982543158284 6.92226139738515,50.865212897886295</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">2621.67280830000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.923134494096487,50.865706768743998 6.924533458588304,50.866236584572796 6.926848776350297,50.866919296843641 6.929321396387723,50.867642491999469 6.930161028344653,50.867984453413278 6.930583542474135,50.868319012040516 6.930913249091001,50.868953827563551 6.932417458725292,50.871798269421532 6.936545023780227,50.879620212768678 6.937079004036875,50.880585683081108 6.937464602262584,50.881309521341407 6.937802260599243,50.881768344893807 6.940758798593988,50.885225751074628</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">1692.30621403000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.985295048098623,50.841724549963757 6.988179247194536,50.840605052214578 6.990958182253513,50.83962982924875 6.993328166211982,50.838960705978948 6.995825415369073,50.838398120378457 6.997419549622554,50.83813317964588 6.998913030522833,50.837908250881931 7.000830391609543,50.837794967158892 7.003043404669564,50.837707592824827 7.004987470442636,50.837740857061569 7.006797958627638,50.837813566769753 7.007934768753942,50.837837969128827</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">251.44693890500</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>7.01310258476132,50.838443222496018 7.016577930337174,50.838960844561363</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">216.25458840500</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>7.020619155392983,50.839365902380074 7.022024395917885,50.839555210104685 7.023656007835219,50.839609676563185</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">2249.49725918000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>7.062426747524237,50.833569615741474 7.065005493767086,50.833048203757293 7.067652671434438,50.832418713692185 7.070375846705567,50.831743441986717 7.071821310741769,50.831469807929182 7.073911804601908,50.831144168501737 7.075774085444547,50.830955666271322 7.078201470325152,50.830854744812669 7.079560530728955,50.8308771274517 7.081136206804392,50.831043995629912 7.083202256417263,50.831312860206381 7.084502942430726,50.831553462636329 7.085752299102772,50.831840188028217 7.087071965937981,50.832222010869806 7.088534805791782,50.832731442564238 7.090676829810593,50.833565170511143 7.092454894033424,50.834286631880602</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">1454.98826084000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.839829898566508,51.04146456661713 6.841750558471195,51.040677749936975 6.843155308761181,51.040299062817141 6.844836760002121,51.040002776207899 6.845721775151052,51.039928155209005 6.846652958449573,51.039894798320255 6.848027868585374,51.039970659187418 6.849432472985807,51.040097575628934 6.850643976869481,51.040241133229735 6.852000086099679,51.040377230898642 6.852766926233409,51.040431749045347 6.853599227010958,51.040457148754186 6.857047536866819,51.040409300572641 6.859945182219003,51.040455900140614</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">2293.32131096000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.860378018859068,51.040431493301227 6.862590067352672,51.040480525535138 6.863759153821907,51.040501909793484 6.865405440809178,51.040602737729962 6.867049880382209,51.040743929228249 6.868308114456066,51.040918470541691 6.870039864999121,51.041253208470231 6.872022335585204,51.041713747553153 6.873400415936278,51.042072306718524 6.874806389613085,51.042522302341162 6.876319422871767,51.043085382278974 6.877498461086678,51.04359184977416 6.87895797805519,51.044275182301789 6.880398755171782,51.04501878737728 6.881567292175913,51.045757437158812 6.882730799482514,51.046607138843846 6.883721840298254,51.047372863712027 6.884927040171971,51.048364768118375 6.886034803787804,51.04938521078536 6.887044789916065,51.050412221217236</coordinates></LineString>
+  </Placemark>
+  <Placemark>
+	<Style><LineStyle><color>ff0000ff</color></LineStyle><PolyStyle><fill>0</fill></PolyStyle></Style>
+	<ExtendedData><SchemaData schemaUrl="#VerkehrNachricht">
+		<SimpleData name="ID">0.00000000000</SimpleData>
+		<SimpleData name="Shape_Leng">1545.33206741000</SimpleData>
+	</SchemaData></ExtendedData>
+      <LineString><coordinates>6.888450349167006,51.051830792759866 6.889483733286217,51.052863047930686 6.890233803245184,51.053644572708585 6.896147377618793,51.059713135058409 6.900077183871907,51.063633500960819</coordinates></LineString>
+  </Placemark>
+</Folder></Document></kml>
