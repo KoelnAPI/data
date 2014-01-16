@@ -46,16 +46,16 @@
         {
             "created": "Mittwoch, 18. Dezember 2013 - 11:23", 
             "description": "2013-10-04 <br />\nShape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Die Stadt K\u00f6ln vergibt auf Beschlu\u00df der Bezirksvertretungen allen Strassen, Wegen und Pl\u00e4tzen einen amtlichen Strassennamen. F\u00fcr diesen wird dann beim Amt f\u00fcr Stadtentwicklung und Statistik ein eindeutiger Strassenschl\u00fcssel vergeben. Mit dem amtlichen Strassenverzeichnis wird die Grundlage \u00fcber alle geltenden Strassennamen und -schl\u00fcssel gef\u00fchrt. Im Rahmen der Kommunalen Gebietsreform 1975 erweiterte sich der Strassenbestand K\u00f6lns um viele Strassen, deren Namen auf dem alten Stadtgebiet bereits vorhanden waren. Deren Umbenennung kam im Hinblick auf die Kosten f\u00fcr die betroffenen B\u00fcrger nicht in Frage. Im amtlichen Strassenverzeichnis wurde an den Namen der eingemeindeten, und damit doppelt vorhandenen Strassen, ein zwei Buchstaben langer Zusatz angeh\u00e4ngt, der den Stadtteil identifiziert und damit die Eindeutigkeit des Strassennamens sicherstellt.", 
-            "file_id": "8111834c-c0ae-4694-a95a-0c2568a47579", 
+            "file_id": "b2245cc9-c79d-4ac8-bc8b-d055aa09ef65", 
             "file_link": null, 
             "file_name": "2013-10-04_shape_strasse.zip", 
-            "file_size": "682.65 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_strasse.zip", 
+            "file_size": "969.88 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_strasse_0.zip", 
             "format": "zip", 
             "id": "c773d926-580e-457a-80dc-bb6ae69a0fd2", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 11:26", 
+            "modified": "Montag, 6. Januar 2014 - 9:32", 
             "title": "Shape Strasse", 
             "url": "/dataset/c773d926-580e-457a-80dc-bb6ae69a0fd2/resource/c773d926-580e-457a-80dc-bb6ae69a0fd2"
         }

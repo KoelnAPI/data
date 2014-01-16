@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 9. Januar 2014 - 10:58", 
+    "created": "Dienstag, 25. September 2012 - 16:43", 
+    "data_dictionary": "", 
+    "description": "Haushaltsplan 2012 \u2013 Einzeldarstellung f\u00fcr die Stadtbezirke\n\nDie hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "19dab534-e940-4886-b094-4a72a01e3ce7", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 9. Januar 2014 - 10:58", 
+            "description": "Der Rat hat die Haushaltssatzung und den Haushaltsplan der Stadt K\u00f6ln f\u00fcr die Jahre 2013/2014 am 30. April 2013 beschlossen. Der Haushalt wurde am 9. September 2013 durch die Bezirksregierung genehmigt. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.\n", 
+            "file_id": "a6c1f433-4af1-4654-ae29-c0d3c996bea5", 
+            "file_link": null, 
+            "file_name": "Bezirke_einzeldarstellung.csv", 
+            "file_size": "24.26 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Bezirke_einzeldarstellung.csv", 
+            "format": "csv", 
+            "id": "e4ec9009-77d8-4c05-969b-aa4a525a41f6", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 9. Januar 2014 - 10:58", 
+            "title": "2013_2014_bezirke_einzeldarstellung", 
+            "url": "/dataset/e4ec9009-77d8-4c05-969b-aa4a525a41f6/resource/e4ec9009-77d8-4c05-969b-aa4a525a41f6"
+        }, 
+        {
+            "created": "Dienstag, 25. September 2012 - 12:59", 
+            "description": "Die Daten umfassen den abschlie\u00dfend, von der Bezirksregierung genehmigten Stand des Haushaltsplans 2012 der Stadt K\u00f6ln. F\u00fcr das Jahr 2010 werden Ist-Werte (Spalte \u201cErgebnis\u201d) ausgewiesen. Die Werte f\u00fcr die Jahre 2011 bis 2015 sind lediglich Plan-Werte. Die hier abgebildeteten Werte k\u00f6nnen aufgrund von Rundungen geringf\u00fcgige Abweichungen zu den von der Stadt K\u00f6ln herausgebebenen Druckexemplaren des Haushaltsplans aufweisen. Eine rechtlich bindende Wirkung haben nur die Angaben in den Druckexemplaren.", 
+            "file_id": "cb3a8a72-06f0-4017-8441-fea38d7a43dd", 
+            "file_link": null, 
+            "file_name": "bezirke_einzeldarstellung.csv", 
+            "file_size": "22.41 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/bezirke_einzeldarstellung.csv", 
+            "format": "csv", 
+            "id": "12be21cc-aa5b-4279-ae9c-ccf68034f351", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 9. Januar 2014 - 10:57", 
+            "title": "bezirke_einzeldarstellung", 
+            "url": "/dataset/resource/12be21cc-aa5b-4279-ae9c-ccf68034f351"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Haushalt", 
+    "temporal_coverage": "", 
+    "title": "Bezirke_Einzeldarstellung"
+}

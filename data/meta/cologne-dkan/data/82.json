@@ -13,19 +13,19 @@
     "resources": [
         {
             "created": "Mittwoch, 18. Dezember 2013 - 10:37", 
-            "description": "2013-10-04<br />\nBeschreibung Shape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Geb\u00e4ude werden \u00fcber Adressen verschl\u00fcsselt und lokalisiert. Der Aufbau der Geb\u00e4udeadressen basiert auf einer Empfehlung des Deutschen St\u00e4dtetages. Adressen sind die einzigen Ortsangaben, anhand derer sich jedermann leicht orientieren kann, die amtlich vergeben werden, die in der \u00d6rtlichkeit angebracht und in Kartenwerken nachgewiesen werden. Von der Bev\u00f6lkerung, der Wirtschaft und der Verwaltung werden allein sie zur Identifizierung von Geb\u00e4uden verwendet. Adressen werden in fast allen Vollzugsverfahren benutzt und bilden damit das Bindeglied zwischen den Datensch\u00e4tzen des Verwaltungsvollzuges und der Nutzung im statistischen Raumbezugssystem \u00fcber das Data Warehouse.Die Schl\u00fcsselsystematik der Adressen setzt sich zusammen aus \u2013 dem amtlichen Stra\u00dfenschl\u00fcssel,- der Hausnummer und- dem Hausnummernzusatz.Jede Adresse verf\u00fcgt \u00fcber eine Punktkoordinate, wobei jede Hausnummer mindestens eine Adresse bildet. Bei \u201cSammelhausnummern\u201d (z. B. Venloer Str. 227-231) wird jede Hausnummer einzeln erfa\u00dft. Geb\u00e4ude, die offiziell keine Hausnummer haben, werden unter der Hausnummer `0` gef\u00fchrt. Adressen liegen immer innerhalb eines Blockseitenabschnittes. G\u00fcltige Adressen.", 
-            "file_id": "a230ebca-0c58-4752-b824-f723e896d7ad", 
+            "description": "2013-10-04\n Beschreibung Shape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Geb\u00e4ude werden \u00fcber Adressen verschl\u00fcsselt und lokalisiert. Der Aufbau der Geb\u00e4udeadressen basiert auf einer Empfehlung des Deutschen St\u00e4dtetages. Adressen sind die einzigen Ortsangaben, anhand derer sich jedermann leicht orientieren kann, die amtlich vergeben werden, die in der \u00d6rtlichkeit angebracht und in Kartenwerken nachgewiesen werden. Von der Bev\u00f6lkerung, der Wirtschaft und der Verwaltung werden allein sie zur Identifizierung von Geb\u00e4uden verwendet. Adressen werden in fast allen Vollzugsverfahren benutzt und bilden damit das Bindeglied zwischen den Datensch\u00e4tzen des Verwaltungsvollzuges und der Nutzung im statistischen Raumbezugssystem \u00fcber das Data Warehouse.Die Schl\u00fcsselsystematik der Adressen setzt sich zusammen aus \u2013 dem amtlichen Stra\u00dfenschl\u00fcssel,- der Hausnummer und- dem Hausnummernzusatz.Jede Adresse verf\u00fcgt \u00fcber eine Punktkoordinate, wobei jede Hausnummer mindestens eine Adresse bildet. Bei \u201cSammelhausnummern\u201d (z. B. Venloer Str. 227-231) wird jede Hausnummer einzeln erfa\u00dft. Geb\u00e4ude, die offiziell keine Hausnummer haben, werden unter der Hausnummer `0` gef\u00fchrt. Adressen liegen immer innerhalb eines Blockseitenabschnittes. G\u00fcltige Adressen.", 
+            "file_id": "97e86d69-4aaa-41f6-ad88-f343059bc999", 
             "file_link": null, 
             "file_name": "2013-10-04_shape_adresse.zip", 
-            "file_size": "4.97 MB", 
+            "file_size": "8.05 MB", 
             "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_adresse.zip", 
             "format": "zip", 
-            "id": "ddfb51fe-8e9d-4ceb-bc29-bd43bf38fea7", 
+            "id": "bd973aac-6c19-4832-ab65-6a518e94c3e1", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 11:49", 
+            "modified": "Montag, 6. Januar 2014 - 8:47", 
             "title": "Shape Adresse", 
-            "url": "/dataset/ddfb51fe-8e9d-4ceb-bc29-bd43bf38fea7/resource/ddfb51fe-8e9d-4ceb-bc29-bd43bf38fea7"
+            "url": "/dataset/bd973aac-6c19-4832-ab65-6a518e94c3e1/resource/bd973aac-6c19-4832-ab65-6a518e94c3e1"
         }, 
         {
             "created": "Mittwoch, 18. Dezember 2013 - 10:35", 

@@ -5,7 +5,7 @@
 #   sh ./download.sh
 
 
-SOURCE_URL="http://www.offenedaten-koeln.de/node/559/download"
+SOURCE_URL="http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_strassenabschnitt_0.zip"
 NAME="Strassenabschnitt"
 FINAL_FOLDER=$NAME
 FILENAME=${NAME}.zip

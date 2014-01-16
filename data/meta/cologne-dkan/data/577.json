@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 6. Januar 2014 - 11:18", 
+    "created": "Montag, 6. Januar 2014 - 11:16", 
+    "data_dictionary": "", 
+    "description": "Aktuelle Pressemeldungen der Stadt K\u00f6ln", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "c6da8fa9-bace-4976-818b-abc362bfcf95", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 6. Januar 2014 - 11:17", 
+            "description": "Aktuelle Pressemeldungen der Stadt K\u00f6ln", 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "xml", 
+            "id": "2d7675c1-0134-42ed-8f64-3e98cede2138", 
+            "link_to_api": "http://www.stadt-koeln.de/externe-dienste/rss/pressemeldungen.xml", 
+            "mime_type": "", 
+            "modified": "Montag, 6. Januar 2014 - 11:19", 
+            "title": "Pressemeldungen", 
+            "url": "/dataset/2d7675c1-0134-42ed-8f64-3e98cede2138/resource/2d7675c1-0134-42ed-8f64-3e98cede2138"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Pressemeldungen"
+}

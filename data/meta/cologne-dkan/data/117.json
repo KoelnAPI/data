@@ -46,16 +46,16 @@
         {
             "created": "Mittwoch, 18. Dezember 2013 - 11:28", 
             "description": "2013-10-04<br />\nShape-Dateien in ETRS 1989 / UTM Zone 32N bzw. KMZ Ein Strassenabschnitt definiert ein Teilst\u00fcck einer Strasse von einer Kreuzung oder Einm\u00fcndung zur n\u00e4chsten. Strassenabschnitte beginnen und enden an Strassenknoten und werden in der Regel fortlaufend in Zehnerschritten numeriert. Die Numerierung startet an dem Teil der Strasse, an der die Hausnummerierung beginnt. Bei Strassen die keine Hausnummern haben, verl\u00e4uft die Numerierung in der Regel vom Stadtzentrum in Richtung Stadtgrenze.", 
-            "file_id": "b278d581-a5ee-4b47-8e1f-a012b19ca772", 
+            "file_id": "fa23e3b8-573a-431e-a1f9-00593b1bcb2c", 
             "file_link": null, 
             "file_name": "2013-10-04_shape_strassenabschnitt.zip", 
-            "file_size": "969.05 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_strassenabschnitt.zip", 
+            "file_size": "1.33 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2013-10-04_shape_strassenabschnitt_0.zip", 
             "format": "zip", 
             "id": "1b5f3e07-df36-4b95-bb0b-a5689e0e2d2c", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 11:34", 
+            "modified": "Montag, 6. Januar 2014 - 9:34", 
             "title": "Shape Strassenabschnitt", 
             "url": "/dataset/1b5f3e07-df36-4b95-bb0b-a5689e0e2d2c/resource/1b5f3e07-df36-4b95-bb0b-a5689e0e2d2c"
         }

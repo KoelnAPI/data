@@ -1,253 +1,253 @@
-﻿Bezirk;Bezeichnung;Teilplanzeile;Ergebnis 2010;Plan 2011;Plan 2012;Plan 2013;Plan 2014;Plan 2015
-1;Innenstadt;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-1;Innenstadt;02 - Zuwendungen und allg. Umlagen;7.515.056;3.929.526;5.699.552;5.977.127;6.115.031;6.128.325
-1;Innenstadt;03 - sonstige Transfererträge;0;49;193;193;193;193
-1;Innenstadt;04 - öffentl.rechtl. Leistungsentgelte;6.040.698;6.266.367;6.295.395;6.388.374;6.393.157;6.400.030
-1;Innenstadt;05 - privatrechtl. Leistungsentgelte;606.813;448.221;633.116;633.116;633.116;633.116
-1;Innenstadt;06 - Kostenerstattungen und Umlagen;292.645;118.103;133.197;141.791;141.950;141.950
-1;Innenstadt;07 - sonstige ordentliche Erträge;110.122;42.324;42.555;42.572;42.588;42.605
-1;Innenstadt;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-1;Innenstadt;09 - Bestandsveränderungen;0;0;0;0;0;0
-1;Innenstadt;10 = ordentliche Erträge;14.565.334;10.804.590;12.804.008;13.183.172;13.326.035;13.346.219
-1;Innenstadt;11 - Personalaufwendungen;18.923.434;20.281.996;19.583.372;22.088.153;23.008.088;23.801.087
-1;Innenstadt;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-1;Innenstadt;13 - Aufwendungen für Sach- und Dienstleistungen;5.957.464;4.976.835;5.703.343;5.492.590;5.492.795;5.492.795
-1;Innenstadt;14 - Bilanzielle Abschreibungen;6.213.697;6.330.302;6.549.270;6.565.881;6.569.518;6.573.508
-1;Innenstadt;15 - Transferaufwendungen;6.625.115;6.449.268;7.965.849;8.301.173;8.715.737;9.151.029
-1;Innenstadt;16 - sonstige ordentl. Aufwendungen;6.645.467;5.988.715;5.089.555;5.096.672;5.097.183;5.097.093
-1;Innenstadt;17 = ordentliche Aufwendungen;44.365.178;44.027.116;44.891.391;47.544.469;48.883.321;50.115.512
-1;Innenstadt;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-29.799.844;-33.222.526;-32.087.383;-34.361.296;-35.557.286;-36.769.293
-1;Innenstadt;19 - Finanzerträge;0;0;0;0;0;0
-1;Innenstadt;20 - Zinsen und sonst. Finanzaufwendungen;30.878;0;0;0;0;0
-1;Innenstadt;21 = Finanzergebnis (19 und 20);-30.878;0;0;0;0;0
-1;Innenstadt;22 = ordentliches Jahresergebnis (18 und 21);-29.830.722;-33.222.526;-32.087.383;-34.361.296;-35.557.286;-36.769.293
-1;Innenstadt;23 - außerordentliche Erträge;0;0;0;0;0;0
-1;Innenstadt;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-1;Innenstadt;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-1;Innenstadt;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-29.830.722;-33.222.526;-32.087.383;-34.361.296;-35.557.286;-36.769.293
-1;Innenstadt;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);817.281;751.088;911.174;934.858;953.056;965.961
-1;Innenstadt;28 = Jahresergebnis;-30.648.003;-33.973.614;-32.998.557;-35.296.154;-36.510.341;-37.735.254
-2;Rodenkirchen;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-2;Rodenkirchen;02 - Zuwendungen und allg. Umlagen;4.664.590;3.973.538;5.793.791;6.107.190;6.262.859;6.277.807
-2;Rodenkirchen;03 - sonstige Transfererträge;0;220;217;217;217;217
-2;Rodenkirchen;04 - öffentl.rechtl. Leistungsentgelte;4.924.578;5.137.194;5.334.850;5.427.440;5.433.382;5.441.297
-2;Rodenkirchen;05 - privatrechtl. Leistungsentgelte;33.776;26.100;42.017;42.017;42.017;42.017
-2;Rodenkirchen;06 - Kostenerstattungen und Umlagen;949.870;683.006;732.685;782.364;783.286;783.286
-2;Rodenkirchen;07 - sonstige ordentliche Erträge;71.587;35.749;33.170;33.189;33.206;33.226
-2;Rodenkirchen;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-2;Rodenkirchen;09 - Bestandsveränderungen;0;0;0;0;0;0
-2;Rodenkirchen;10 = ordentliche Erträge;10.644.400;9.855.805;11.936.730;12.392.416;12.554.967;12.577.850
-2;Rodenkirchen;11 - Personalaufwendungen;14.287.262;16.091.087;15.389.184;17.665.260;18.399.078;19.045.273
-2;Rodenkirchen;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-2;Rodenkirchen;13 - Aufwendungen für Sach- und Dienstleistungen;2.365.065;2.225.150;2.459.981;2.319.051;2.320.350;2.319.776
-2;Rodenkirchen;14 - Bilanzielle Abschreibungen;5.820.878;6.121.629;6.328.304;6.351.153;6.354.804;6.358.530
-2;Rodenkirchen;15 - Transferaufwendungen;9.552.591;8.864.922;11.444.362;11.962.090;12.559.883;13.187.567
-2;Rodenkirchen;16 - sonstige ordentl. Aufwendungen;3.700.329;3.993.735;4.275.545;4.280.118;4.279.453;4.279.482
-2;Rodenkirchen;17 = ordentliche Aufwendungen;35.726.125;37.296.523;39.897.377;42.577.672;43.913.568;45.190.628
-2;Rodenkirchen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-25.081.724;-27.440.718;-27.960.647;-30.185.256;-31.358.601;-32.612.777
-2;Rodenkirchen;19 - Finanzerträge;0;0;0;0;0;0
-2;Rodenkirchen;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
-2;Rodenkirchen;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
-2;Rodenkirchen;22 = ordentliches Jahresergebnis (18 und 21);-25.081.724;-27.440.718;-27.960.647;-30.185.256;-31.358.601;-32.612.777
-2;Rodenkirchen;23 - außerordentliche Erträge;0;0;0;0;0;0
-2;Rodenkirchen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-2;Rodenkirchen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-2;Rodenkirchen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-25.081.724;-27.440.718;-27.960.647;-30.185.256;-31.358.601;-32.612.777
-2;Rodenkirchen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);541.251;508.127;598.418;623.785;642.781;656.253
-2;Rodenkirchen;28 = Jahresergebnis;-25.622.975;-27.948.844;-28.559.064;-30.809.041;-32.001.382;-33.269.030
-3;Lindenthal;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-3;Lindenthal;02 - Zuwendungen und allg. Umlagen;6.774.292;5.984.825;8.091.756;8.839.013;8.694.177;8.713.204
-3;Lindenthal;03 - sonstige Transfererträge;2.120;220;278;278;278;278
-3;Lindenthal;04 - öffentl.rechtl. Leistungsentgelte;6.072.033;6.232.262;6.324.908;6.447.151;6.454.653;6.462.241
-3;Lindenthal;05 - privatrechtl. Leistungsentgelte;73.559;26.100;58.022;58.022;58.022;58.022
-3;Lindenthal;06 - Kostenerstattungen und Umlagen;962.444;697.412;829.011;2.404.411;797.531;797.531
-3;Lindenthal;07 - sonstige ordentliche Erträge;159.643;53.461;54.170;54.194;54.216;54.242
-3;Lindenthal;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-3;Lindenthal;09 - Bestandsveränderungen;0;0;0;0;0;0
-3;Lindenthal;10 = ordentliche Erträge;14.044.090;12.994.279;15.358.145;17.803.069;16.058.879;16.085.519
-3;Lindenthal;11 - Personalaufwendungen;17.828.044;20.362.540;19.480.508;22.220.889;23.142.216;23.958.380
-3;Lindenthal;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-3;Lindenthal;13 - Aufwendungen für Sach- und Dienstleistungen;2.879.058;2.194.177;2.841.618;2.740.263;2.741.182;2.741.182
-3;Lindenthal;14 - Bilanzielle Abschreibungen;6.954.007;6.958.300;7.257.759;7.272.317;7.278.080;7.283.959
-3;Lindenthal;15 - Transferaufwendungen;7.638.247;13.152.751;9.157.198;9.547.071;10.023.952;10.524.677
-3;Lindenthal;16 - sonstige ordentl. Aufwendungen;4.531.782;4.728.406;4.928.108;7.422.244;4.932.989;4.933.049
-3;Lindenthal;17 = ordentliche Aufwendungen;39.831.137;47.396.174;43.665.190;49.202.784;48.118.418;49.441.245
-3;Lindenthal;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-25.787.046;-34.401.895;-28.307.045;-31.399.716;-32.059.540;-33.355.727
-3;Lindenthal;19 - Finanzerträge;0;0;0;0;0;0
-3;Lindenthal;20 - Zinsen und sonst. Finanzaufwendungen;908;0;0;0;0;0
-3;Lindenthal;21 = Finanzergebnis (19 und 20);-908;0;0;0;0;0
-3;Lindenthal;22 = ordentliches Jahresergebnis (18 und 21);-25.787.955;-34.401.895;-28.307.045;-31.399.716;-32.059.540;-33.355.727
-3;Lindenthal;23 - außerordentliche Erträge;0;0;0;0;0;0
-3;Lindenthal;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-3;Lindenthal;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-3;Lindenthal;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-25.787.955;-34.401.895;-28.307.045;-31.399.716;-32.059.540;-33.355.727
-3;Lindenthal;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);659.228;618.383;713.152;742.668;764.860;780.597
-3;Lindenthal;28 = Jahresergebnis;-26.447.183;-35.020.278;-29.020.197;-32.142.384;-32.824.399;-34.136.324
-4;Ehrenfeld;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-4;Ehrenfeld;02 - Zuwendungen und allg. Umlagen;4.286.773;4.129.500;6.032.638;6.351.122;6.509.296;6.524.446
-4;Ehrenfeld;03 - sonstige Transfererträge;0;176;222;222;222;222
-4;Ehrenfeld;04 - öffentl.rechtl. Leistungsentgelte;5.105.370;4.510.082;4.837.475;4.940.690;4.945.916;4.950.372
-4;Ehrenfeld;05 - privatrechtl. Leistungsentgelte;21.673;36.100;25.018;25.018;25.018;25.018
-4;Ehrenfeld;06 - Kostenerstattungen und Umlagen;563.914;423.269;453.108;482.948;483.502;483.502
-4;Ehrenfeld;07 - sonstige ordentliche Erträge;60.074;45.846;46.169;46.189;46.207;46.227
-4;Ehrenfeld;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-4;Ehrenfeld;09 - Bestandsveränderungen;0;0;0;0;0;0
-4;Ehrenfeld;10 = ordentliche Erträge;10.037.804;9.144.971;11.394.630;11.846.189;12.010.160;12.029.786
-4;Ehrenfeld;11 - Personalaufwendungen;16.478.323;18.225.382;17.619.161;20.008.313;20.852.972;21.598.482
-4;Ehrenfeld;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-4;Ehrenfeld;13 - Aufwendungen für Sach- und Dienstleistungen;2.589.119;2.374.867;2.962.621;2.859.753;2.860.570;2.860.570
-4;Ehrenfeld;14 - Bilanzielle Abschreibungen;4.626.610;4.517.771;4.912.981;4.929.840;4.933.353;4.936.938
-4;Ehrenfeld;15 - Transferaufwendungen;15.012.370;12.966.637;17.125.482;17.926.263;18.822.104;19.762.737
-4;Ehrenfeld;16 - sonstige ordentl. Aufwendungen;4.531.097;3.744.894;4.468.723;4.471.412;4.472.005;4.472.005
-4;Ehrenfeld;17 = ordentliche Aufwendungen;43.237.518;41.829.551;47.088.968;50.195.582;51.941.004;53.630.731
-4;Ehrenfeld;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-33.199.714;-32.684.580;-35.694.338;-38.349.393;-39.930.844;-41.600.945
-4;Ehrenfeld;19 - Finanzerträge;0;0;0;0;0;0
-4;Ehrenfeld;20 - Zinsen und sonst. Finanzaufwendungen;88.988;0;0;0;0;0
-4;Ehrenfeld;21 = Finanzergebnis (19 und 20);-88.988;0;0;0;0;0
-4;Ehrenfeld;22 = ordentliches Jahresergebnis (18 und 21);-33.288.703;-32.684.580;-35.694.338;-38.349.393;-39.930.844;-41.600.945
-4;Ehrenfeld;23 - außerordentliche Erträge;0;0;0;0;0;0
-4;Ehrenfeld;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-4;Ehrenfeld;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-4;Ehrenfeld;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-33.288.703;-32.684.580;-35.694.338;-38.349.393;-39.930.844;-41.600.945
-4;Ehrenfeld;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);588.321;548.776;671.441;696.113;714.742;727.954
-4;Ehrenfeld;28 = Jahresergebnis;-33.877.024;-33.233.356;-36.365.779;-39.045.506;-40.645.586;-42.328.899
-5;Nippes;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-5;Nippes;02 - Zuwendungen und allg. Umlagen;5.116.691;4.972.146;6.942.473;7.293.842;7.468.316;7.484.969
-5;Nippes;03 - sonstige Transfererträge;0;192;243;243;243;243
-5;Nippes;04 - öffentl.rechtl. Leistungsentgelte;5.119.425;5.770.464;5.776.446;5.880.684;5.887.489;5.896.197
-5;Nippes;05 - privatrechtl. Leistungsentgelte;16.858;36.200;25.120;25.120;25.120;25.120
-5;Nippes;06 - Kostenerstattungen und Umlagen;582.145;413.626;443.725;473.823;474.382;474.382
-5;Nippes;07 - sonstige ordentliche Erträge;205.450;27.888;28.319;28.339;28.358;28.382
-5;Nippes;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-5;Nippes;09 - Bestandsveränderungen;0;0;0;0;0;0
-5;Nippes;10 = ordentliche Erträge;11.040.568;11.220.516;13.216.325;13.702.050;13.883.908;13.909.292
-5;Nippes;11 - Personalaufwendungen;18.111.254;20.061.664;20.153.480;22.945.624;23.898.864;24.737.222
-5;Nippes;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-5;Nippes;13 - Aufwendungen für Sach- und Dienstleistungen;2.469.514;2.405.129;2.836.776;2.730.704;2.734.419;2.734.419
-5;Nippes;14 - Bilanzielle Abschreibungen;6.293.950;7.076.883;7.366.472;7.382.889;7.388.424;7.394.068
-5;Nippes;15 - Transferaufwendungen;12.776.225;13.909.815;15.368.355;16.078.021;16.881.445;17.725.041
-5;Nippes;16 - sonstige ordentl. Aufwendungen;3.824.482;4.231.757;4.224.291;4.228.115;4.228.765;4.228.765
-5;Nippes;17 = ordentliche Aufwendungen;43.475.425;47.685.248;49.949.374;53.365.353;55.131.917;56.819.514
-5;Nippes;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-32.434.857;-36.464.731;-36.733.049;-39.663.303;-41.248.009;-42.910.222
-5;Nippes;19 - Finanzerträge;0;0;0;0;0;0
-5;Nippes;20 - Zinsen und sonst. Finanzaufwendungen;9.718;0;0;0;0;0
-5;Nippes;21 = Finanzergebnis (19 und 20);-9.718;0;0;0;0;0
-5;Nippes;22 = ordentliches Jahresergebnis (18 und 21);-32.444.574;-36.464.731;-36.733.049;-39.663.303;-41.248.009;-42.910.222
-5;Nippes;23 - außerordentliche Erträge;0;0;0;0;0;0
-5;Nippes;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-5;Nippes;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-5;Nippes;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-32.444.574;-36.464.731;-36.733.049;-39.663.303;-41.248.009;-42.910.222
-5;Nippes;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);656.283;602.664;707.851;735.155;755.707;770.280
-5;Nippes;28 = Jahresergebnis;-33.100.857;-37.067.395;-37.440.900;-40.398.459;-42.003.716;-43.680.502
-6;Chorweiler;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-6;Chorweiler;02 - Zuwendungen und allg. Umlagen;6.368.847;6.696.251;8.594.737;9.006.588;9.211.165;9.230.607
-6;Chorweiler;03 - sonstige Transfererträge;0;8.374;285;285;285;285
-6;Chorweiler;04 - öffentl.rechtl. Leistungsentgelte;4.721.269;5.027.302;4.953.452;5.079.609;5.086.746;5.092.527
-6;Chorweiler;05 - privatrechtl. Leistungsentgelte;324.578;359.203;326.644;326.644;326.644;326.644
-6;Chorweiler;06 - Kostenerstattungen und Umlagen;1.244.127;906.402;970.453;1.034.504;1.035.693;1.035.693
-6;Chorweiler;07 - sonstige ordentliche Erträge;68.421;17.338;18.042;18.066;18.089;18.115
-6;Chorweiler;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-6;Chorweiler;09 - Bestandsveränderungen;0;0;0;0;0;0
-6;Chorweiler;10 = ordentliche Erträge;12.727.242;13.014.870;14.863.614;15.465.696;15.678.623;15.703.872
-6;Chorweiler;11 - Personalaufwendungen;19.788.931;21.566.421;22.119.507;25.209.781;26.248.898;27.171.615
-6;Chorweiler;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-6;Chorweiler;13 - Aufwendungen für Sach- und Dienstleistungen;2.608.615;2.741.453;3.770.493;3.129.896;3.131.631;3.131.631
-6;Chorweiler;14 - Bilanzielle Abschreibungen;6.216.505;6.493.844;6.811.672;6.837.654;6.842.385;6.848.140
-6;Chorweiler;15 - Transferaufwendungen;9.444.250;9.342.411;12.753.945;13.350.535;14.017.589;14.717.996
-6;Chorweiler;16 - sonstige ordentl. Aufwendungen;3.735.662;3.969.405;4.204.688;4.212.870;4.213.638;4.213.638
-6;Chorweiler;17 = ordentliche Aufwendungen;41.793.963;44.113.534;49.660.305;52.740.736;54.454.141;56.083.020
-6;Chorweiler;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-29.066.721;-31.098.664;-34.796.691;-37.275.040;-38.775.518;-40.379.148
-6;Chorweiler;19 - Finanzerträge;0;0;0;0;0;0
-6;Chorweiler;20 - Zinsen und sonst. Finanzaufwendungen;2.780;0;0;0;0;0
-6;Chorweiler;21 = Finanzergebnis (19 und 20);-2.780;0;0;0;0;0
-6;Chorweiler;22 = ordentliches Jahresergebnis (18 und 21);-29.069.502;-31.098.664;-34.796.691;-37.275.040;-38.775.518;-40.379.148
-6;Chorweiler;23 - außerordentliche Erträge;0;0;0;0;0;0
-6;Chorweiler;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-6;Chorweiler;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-6;Chorweiler;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-29.069.502;-31.098.664;-34.796.691;-37.275.040;-38.775.518;-40.379.148
-6;Chorweiler;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);734.955;700.038;802.523;835.847;860.650;878.240
-6;Chorweiler;28 = Jahresergebnis;-29.804.457;-31.798.703;-35.599.214;-38.110.887;-39.636.168;-41.257.388
-7;Porz;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-7;Porz;02 - Zuwendungen und allg. Umlagen;6.111.915;5.998.245;8.483.569;8.942.350;9.170.058;9.191.610
-7;Porz;03 - sonstige Transfererträge;24.344;1.147;1.217;1.217;1.217;1.217
-7;Porz;04 - öffentl.rechtl. Leistungsentgelte;5.777.512;6.394.193;6.400.899;6.540.821;6.549.090;6.556.308
-7;Porz;05 - privatrechtl. Leistungsentgelte;142.031;138.640;182.265;182.265;182.265;182.265
-7;Porz;06 - Kostenerstattungen und Umlagen;633.685;415.124;442.260;469.397;469.901;469.901
-7;Porz;07 - sonstige ordentliche Erträge;168.081;80.004;62.057;62.085;62.112;62.139
-7;Porz;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-7;Porz;09 - Bestandsveränderungen;0;0;0;0;0;0
-7;Porz;10 = ordentliche Erträge;12.857.568;13.027.352;15.572.268;16.198.136;16.434.644;16.463.441
-7;Porz;11 - Personalaufwendungen;19.744.018;22.912.415;22.835.708;25.962.189;27.038.022;27.991.612
-7;Porz;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-7;Porz;13 - Aufwendungen für Sach- und Dienstleistungen;2.672.754;2.586.628;3.434.150;3.296.894;3.298.017;3.298.017
-7;Porz;14 - Bilanzielle Abschreibungen;5.792.227;6.701.701;7.027.330;7.059.978;7.061.265;7.066.661
-7;Porz;15 - Transferaufwendungen;14.560.133;12.376.256;17.225.647;18.029.836;18.930.829;19.876.872
-7;Porz;16 - sonstige ordentl. Aufwendungen;10.517.677;4.815.694;5.108.108;5.112.643;5.113.388;5.113.388
-7;Porz;17 = ordentliche Aufwendungen;53.286.808;49.392.694;55.630.943;59.461.540;61.441.521;63.346.550
-7;Porz;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-40.429.240;-36.365.342;-40.058.675;-43.263.404;-45.006.876;-46.883.109
-7;Porz;19 - Finanzerträge;0;0;0;0;0;0
-7;Porz;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
-7;Porz;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
-7;Porz;22 = ordentliches Jahresergebnis (18 und 21);-40.429.240;-36.365.342;-40.058.675;-43.263.404;-45.006.876;-46.883.109
-7;Porz;23 - außerordentliche Erträge;0;0;0;0;0;0
-7;Porz;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-7;Porz;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-7;Porz;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-40.429.240;-36.365.342;-40.058.675;-43.263.404;-45.006.876;-46.883.109
-7;Porz;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);728.120;687.864;821.761;856.240;882.080;900.405
-7;Porz;28 = Jahresergebnis;-41.157.361;-37.053.206;-40.880.437;-44.119.644;-45.888.956;-47.783.514
-8;Kalk;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-8;Kalk;02 - Zuwendungen und allg. Umlagen;7.107.136;6.670.362;9.933.007;10.450.242;10.706.920;10.731.135
-8;Kalk;03 - sonstige Transfererträge;-368;319;358;358;358;358
-8;Kalk;04 - öffentl.rechtl. Leistungsentgelte;5.043.660;5.509.591;5.695.107;5.852.209;5.861.837;5.875.491
-8;Kalk;05 - privatrechtl. Leistungsentgelte;159.389;218.816;158.597;158.597;158.597;158.597
-8;Kalk;06 - Kostenerstattungen und Umlagen;1.135.808;774.336;831.733;888.080;889.126;889.126
-8;Kalk;07 - sonstige ordentliche Erträge;88.357;42.508;42.434;42.464;42.495;42.527
-8;Kalk;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-8;Kalk;09 - Bestandsveränderungen;0;0;0;0;0;0
-8;Kalk;10 = ordentliche Erträge;13.533.983;13.215.932;16.661.235;17.391.949;17.659.333;17.697.233
-8;Kalk;11 - Personalaufwendungen;23.302.813;26.303.125;26.540.011;30.268.860;31.509.531;32.611.341
-8;Kalk;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-8;Kalk;13 - Aufwendungen für Sach- und Dienstleistungen;3.338.061;3.185.478;4.071.822;3.567.771;3.568.996;3.568.486
-8;Kalk;14 - Bilanzielle Abschreibungen;5.275.523;5.705.257;6.150.896;6.176.023;6.181.824;6.185.474
-8;Kalk;15 - Transferaufwendungen;22.820.243;21.986.026;25.631.077;26.851.002;28.189.989;29.595.925
-8;Kalk;16 - sonstige ordentl. Aufwendungen;5.302.668;4.902.222;5.591.023;5.600.930;5.376.886;5.377.140
-8;Kalk;17 = ordentliche Aufwendungen;60.039.309;62.082.107;67.984.828;72.464.585;74.827.225;77.338.366
-8;Kalk;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-46.505.326;-48.866.175;-51.323.593;-55.072.636;-57.167.892;-59.641.133
-8;Kalk;19 - Finanzerträge;0;0;0;0;0;0
-8;Kalk;20 - Zinsen und sonst. Finanzaufwendungen;1.059;0;0;0;0;0
-8;Kalk;21 = Finanzergebnis (19 und 20);-1.059;0;0;0;0;0
-8;Kalk;22 = ordentliches Jahresergebnis (18 und 21);-46.506.386;-48.866.175;-51.323.593;-55.072.636;-57.167.892;-59.641.133
-8;Kalk;23 - außerordentliche Erträge;0;0;0;0;0;0
-8;Kalk;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-8;Kalk;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-8;Kalk;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-46.506.386;-48.866.175;-51.323.593;-55.072.636;-57.167.892;-59.641.133
-8;Kalk;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);917.817;837.198;978.595;1.019.843;1.050.561;1.072.346
-8;Kalk;28 = Jahresergebnis;-47.424.203;-49.703.372;-52.302.188;-56.092.479;-58.218.454;-60.713.478
-9;Mühlheim;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0
-9;Mühlheim;02 - Zuwendungen und allg. Umlagen;8.198.727;8.205.094;11.229.344;11.786.789;12.063.406;12.089.477
-9;Mühlheim;03 - sonstige Transfererträge;189;703;388;388;388;388
-9;Mühlheim;04 - öffentl.rechtl. Leistungsentgelte;6.753.275;6.903.486;6.951.457;7.115.581;7.125.972;7.138.670
-9;Mühlheim;05 - privatrechtl. Leistungsentgelte;49.138;26.400;60.231;60.231;60.231;60.231
-9;Mühlheim;06 - Kostenerstattungen und Umlagen;1.844.718;1.313.619;1.407.674;1.501.728;1.503.474;1.503.474
-9;Mühlheim;07 - sonstige ordentliche Erträge;80.977;67.989;70.150;70.180;70.220;70.247
-9;Mühlheim;08 - aktivierte Eigenleistungen;0;0;0;0;0;0
-9;Mühlheim;09 - Bestandsveränderungen;0;0;0;0;0;0
-9;Mühlheim;10 = ordentliche Erträge;16.927.025;16.517.292;19.719.243;20.534.897;20.823.691;20.862.486
-9;Mühlheim;11 - Personalaufwendungen;27.366.696;30.690.606;29.943.636;34.105.482;35.517.500;36.765.702
-9;Mühlheim;12 - Versorgungsaufwendungen;0;0;0;0;0;0
-9;Mühlheim;13 - Aufwendungen für Sach- und Dienstleistungen;3.668.783;3.561.873;5.651.951;4.282.749;4.285.198;4.285.198
-9;Mühlheim;14 - Bilanzielle Abschreibungen;7.616.170;8.216.095;8.593.149;8.620.525;8.627.549;8.634.714
-9;Mühlheim;15 - Transferaufwendungen;28.031.609;30.290.919;31.075.772;32.553.233;34.174.707;35.877.255
-9;Mühlheim;16 - sonstige ordentl. Aufwendungen;6.019.249;5.716.728;6.397.804;6.405.005;6.406.194;6.406.194
-9;Mühlheim;17 = ordentliche Aufwendungen;72.702.508;78.476.221;81.662.311;85.966.994;89.011.148;91.969.063
-9;Mühlheim;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-55.775.483;-61.958.929;-61.943.067;-65.432.097;-68.187.457;-71.106.577
-9;Mühlheim;19 - Finanzerträge;0;0;0;0;0;0
-9;Mühlheim;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0
-9;Mühlheim;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0
-9;Mühlheim;22 = ordentliches Jahresergebnis (18 und 21);-55.775.483;-61.958.929;-61.943.067;-65.432.097;-68.187.457;-71.106.577
-9;Mühlheim;23 - außerordentliche Erträge;0;0;0;0;0;0
-9;Mühlheim;24 - außerordentliche Aufwendungen;0;0;0;0;0;0
-9;Mühlheim;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0
-9;Mühlheim;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-55.775.483;-61.958.929;-61.943.067;-65.432.097;-68.187.457;-71.106.577
-9;Mühlheim;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);973.518;922.208;1.053.682;1.098.913;1.132.740;1.156.727
-9;Mühlheim;28 = Jahresergebnis;-56.749.001;-62.881.138;-62.996.750;-66.531.010;-69.320.198;-72.263.304
+﻿Bezirk;Bezeichnung;Teilplanzeile;Ergebnis 2011;Plan 2012;Plan 2013;Plan 2014;Plan 2015;Plan 2016;Plan 2017
+1;Innenstadt;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+1;Innenstadt;02 - Zuwendungen und allg. Umlagen;9.577.207;5.699.552;16.271.952;17.661.525;18.107.958;18.338.476;18.572.505
+1;Innenstadt;03 - sonstige Transfererträge;-35;193;193;193;193;193;193
+1;Innenstadt;04 - öffentl.rechtl. Leistungsentgelte;6.099.999;6.295.395;8.990.805;9.194.187;9.261.217;9.262.086;9.262.956
+1;Innenstadt;05 - privatrechtl. Leistungsentgelte;510.285;633.116;652.702;691.502;239.584;239.584;239.584
+1;Innenstadt;06 - Kostenerstattungen und Umlagen;251.260;133.197;124.948;125.107;122.048;122.048;122.048
+1;Innenstadt;07 - sonstige ordentliche Erträge;100.216;42.555;453.628;518.571;465.163;369.299;240.490
+1;Innenstadt;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+1;Innenstadt;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+1;Innenstadt;10 = Ordentliche Erträge;16.538.933;12.804.008;26.494.228;28.191.086;28.196.162;28.331.685;28.437.775
+1;Innenstadt;11 - Personalaufwendungen;18.506.322;19.583.372;20.127.816;20.645.171;20.434.649;20.908.749;21.402.980
+1;Innenstadt;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+1;Innenstadt;13 - Aufwendungen für Sach- und Dienstleistungen;7.088.756;5.703.343;6.027.216;4.877.503;3.551.077;3.407.919;3.545.236
+1;Innenstadt;14 - Bilanzielle Abschreibungen;6.294.192;6.549.270;6.572.987;6.534.928;6.346.463;6.349.463;6.359.883
+1;Innenstadt;15 - Transferaufwendungen;7.349.740;7.965.849;31.272.424;33.545.734;34.972.228;35.653.852;36.354.424
+1;Innenstadt;16 - sonstige ordentl. Aufwendungen;7.590.301;5.089.555;5.518.848;5.672.813;5.533.614;5.347.455;5.202.757
+1;Innenstadt;17 = Ordentliche Aufwendungen;46.829.312;44.891.391;69.519.291;71.276.149;70.838.031;71.667.437;72.865.280
+1;Innenstadt;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-30.290.379;-32.087.383;-43.025.063;-43.085.063;-42.641.869;-43.335.752;-44.427.505
+1;Innenstadt;19 - Finanzerträge;0;0;0;0;0;0;0
+1;Innenstadt;20 - Zinsen und sonst. Finanzaufwendungen;1.059;0;0;0;0;0;0
+1;Innenstadt;21 = Finanzergebnis (19 und 20);-1.059;0;0;0;0;0;0
+1;Innenstadt;22 = ordentliches Jahresergebnis (18 und 21);-30.291.438;-32.087.383;-43.025.063;-43.085.063;-42.641.869;-43.335.752;-44.427.505
+1;Innenstadt;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+1;Innenstadt;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+1;Innenstadt;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+1;Innenstadt;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-30.291.438;-32.087.383;-43.025.063;-43.085.063;-42.641.869;-43.335.752;-44.427.505
+1;Innenstadt;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);768.182;911.174;999.931;1.014.130;939.211;932.221;932.221
+1;Innenstadt;28 = Jahresergebnis;-31.059.620;-32.998.557;-44.024.994;-44.099.193;-43.581.080;-44.267.973;-45.359.726
+2;Rodenkirchen;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+2;Rodenkirchen;02 - Zuwendungen und allg. Umlagen;4.652.598;5.793.791;13.373.067;14.345.345;14.864.124;15.056.748;15.252.252
+2;Rodenkirchen;03 - sonstige Transfererträge;109;217;217;217;217;217;217
+2;Rodenkirchen;04 - öffentl.rechtl. Leistungsentgelte;5.108.527;5.334.850;6.820.668;6.951.932;7.062.316;7.063.144;7.063.969
+2;Rodenkirchen;05 - privatrechtl. Leistungsentgelte;24.633;42.017;75.318;75.318;75.318;75.318;75.318
+2;Rodenkirchen;06 - Kostenerstattungen und Umlagen;964.153;732.685;525.110;526.032;526.032;526.032;526.032
+2;Rodenkirchen;07 - sonstige ordentliche Erträge;35.179;33.170;261.715;297.320;268.038;215.481;144.856
+2;Rodenkirchen;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+2;Rodenkirchen;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+2;Rodenkirchen;10 = Ordentliche Erträge;10.785.200;11.936.730;21.056.094;22.196.164;22.796.046;22.936.939;23.062.644
+2;Rodenkirchen;11 - Personalaufwendungen;14.549.647;15.389.184;15.937.938;16.350.953;16.758.539;17.150.367;17.558.165
+2;Rodenkirchen;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+2;Rodenkirchen;13 - Aufwendungen für Sach- und Dienstleistungen;2.620.290;2.459.981;2.885.485;2.281.549;2.093.298;1.949.989;2.087.169
+2;Rodenkirchen;14 - Bilanzielle Abschreibungen;5.035.001;6.328.304;5.131.539;5.119.276;5.124.244;5.128.729;5.133.060
+2;Rodenkirchen;15 - Transferaufwendungen;12.980.890;11.444.362;28.738.113;30.396.939;31.845.053;32.606.106;33.391.091
+2;Rodenkirchen;16 - sonstige ordentl. Aufwendungen;4.064.929;4.275.545;4.334.407;4.393.494;4.363.671;4.304.362;4.225.030
+2;Rodenkirchen;17 = Ordentliche Aufwendungen;39.250.757;39.897.377;57.027.481;58.542.211;60.184.804;61.139.553;62.394.515
+2;Rodenkirchen;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-28.465.557;-27.960.647;-35.971.387;-36.346.047;-37.388.758;-38.202.613;-39.331.871
+2;Rodenkirchen;19 - Finanzerträge;0;0;0;0;0;0;0
+2;Rodenkirchen;20 - Zinsen und sonst. Finanzaufwendungen;10.699;0;0;0;0;0;0
+2;Rodenkirchen;21 = Finanzergebnis (19 und 20);-10.699;0;0;0;0;0;0
+2;Rodenkirchen;22 = ordentliches Jahresergebnis (18 und 21);-28.476.256;-27.960.647;-35.971.387;-36.346.047;-37.388.758;-38.202.613;-39.331.871
+2;Rodenkirchen;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+2;Rodenkirchen;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+2;Rodenkirchen;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+2;Rodenkirchen;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-28.476.256;-27.960.647;-35.971.387;-36.346.047;-37.388.758;-38.202.613;-39.331.871
+2;Rodenkirchen;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);556.042;598.418;691.559;708.285;721.836;721.670;721.670
+2;Rodenkirchen;28 = Jahresergebnis;-29.032.298;-28.559.064;-36.662.946;-37.054.331;-38.110.594;-38.924.283;-40.053.541
+3;Lindenthal;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+3;Lindenthal;02 - Zuwendungen und allg. Umlagen;9.429.498;8.091.756;18.989.093;19.972.913;20.684.980;20.945.385;21.209.727
+3;Lindenthal;03 - sonstige Transfererträge;-65;278;278;278;278;278;278
+3;Lindenthal;04 - öffentl.rechtl. Leistungsentgelte;6.331.062;6.324.908;9.175.204;9.361.480;9.498.762;9.499.854;9.500.950
+3;Lindenthal;05 - privatrechtl. Leistungsentgelte;59.927;58.022;91.324;91.324;91.324;91.324;91.324
+3;Lindenthal;06 - Kostenerstattungen und Umlagen;996.493;829.011;2.147.569;540.690;540.690;540.690;540.690
+3;Lindenthal;07 - sonstige ordentliche Erträge;77.556;54.170;375.758;426.163;384.710;310.307;210.328
+3;Lindenthal;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+3;Lindenthal;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+3;Lindenthal;10 = Ordentliche Erträge;16.894.471;15.358.145;30.779.225;30.392.847;31.200.743;31.387.838;31.553.296
+3;Lindenthal;11 - Personalaufwendungen;19.350.675;19.480.508;20.187.340;20.638.620;21.144.041;21.642.749;22.161.737
+3;Lindenthal;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+3;Lindenthal;13 - Aufwendungen für Sach- und Dienstleistungen;3.539.591;2.841.618;3.255.139;2.688.461;2.497.836;2.354.527;2.491.707
+3;Lindenthal;14 - Bilanzielle Abschreibungen;6.964.876;7.257.759;7.170.821;7.163.638;7.168.994;7.175.700;7.183.901
+3;Lindenthal;15 - Transferaufwendungen;9.863.309;9.157.198;33.008.048;35.084.467;36.779.275;37.534.226;38.310.509
+3;Lindenthal;16 - sonstige ordentl. Aufwendungen;5.877.692;4.928.108;7.833.613;5.428.280;5.385.630;5.301.190;5.188.884
+3;Lindenthal;17 = Ordentliche Aufwendungen;45.596.142;43.665.190;71.454.961;71.003.466;72.975.775;74.008.391;75.336.739
+3;Lindenthal;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-28.701.671;-28.307.045;-40.675.735;-40.610.619;-41.775.032;-42.620.554;-43.783.443
+3;Lindenthal;19 - Finanzerträge;0;0;0;0;0;0;0
+3;Lindenthal;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0;0
+3;Lindenthal;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0;0
+3;Lindenthal;22 = ordentliches Jahresergebnis (18 und 21);-28.701.671;-28.307.045;-40.675.735;-40.610.619;-41.775.032;-42.620.554;-43.783.443
+3;Lindenthal;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+3;Lindenthal;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+3;Lindenthal;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+3;Lindenthal;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-28.701.671;-28.307.045;-40.675.735;-40.610.619;-41.775.032;-42.620.554;-43.783.443
+3;Lindenthal;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);659.274;713.152;824.759;844.864;861.389;861.113;861.113
+3;Lindenthal;28 = Jahresergebnis;-29.360.946;-29.020.197;-41.500.494;-41.455.483;-42.636.421;-43.481.667;-44.644.556
+4;Ehrenfeld;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+4;Ehrenfeld;02 - Zuwendungen und allg. Umlagen;4.810.477;6.032.638;17.171.948;18.573.074;19.229.657;19.477.516;19.729.113
+4;Ehrenfeld;03 - sonstige Transfererträge;8.348;222;222;222;222;222;222
+4;Ehrenfeld;04 - öffentl.rechtl. Leistungsentgelte;4.717.078;4.837.475;7.720.934;7.915.061;8.039.930;8.040.886;8.041.845
+4;Ehrenfeld;05 - privatrechtl. Leistungsentgelte;58.421;25.018;58.320;58.320;58.320;58.320;58.320
+4;Ehrenfeld;06 - Kostenerstattungen und Umlagen;650.404;453.108;328.428;328.982;328.982;328.982;328.982
+4;Ehrenfeld;07 - sonstige ordentliche Erträge;21.550;46.169;417.744;475.461;427.995;342.797;228.317
+4;Ehrenfeld;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+4;Ehrenfeld;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+4;Ehrenfeld;10 = Ordentliche Erträge;10.266.279;11.394.630;25.697.595;27.351.120;28.085.106;28.248.723;28.386.799
+4;Ehrenfeld;11 - Personalaufwendungen;17.142.224;17.619.161;18.949.870;19.450.571;19.934.974;20.400.084;20.884.087
+4;Ehrenfeld;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+4;Ehrenfeld;13 - Aufwendungen für Sach- und Dienstleistungen;3.501.946;2.962.621;3.584.753;3.084.598;2.696.921;2.553.612;2.690.792
+4;Ehrenfeld;14 - Bilanzielle Abschreibungen;4.722.797;4.912.981;5.038.032;5.021.799;5.026.541;5.030.263;5.033.967
+4;Ehrenfeld;15 - Transferaufwendungen;15.207.854;17.125.482;41.918.559;44.334.162;46.327.134;47.441.610;48.591.529
+4;Ehrenfeld;16 - sonstige ordentl. Aufwendungen;3.685.753;4.468.723;4.465.010;4.554.221;4.505.249;4.409.689;4.281.090
+4;Ehrenfeld;17 = Ordentliche Aufwendungen;44.260.574;47.088.968;73.956.226;76.445.351;78.490.818;79.835.257;81.481.465
+4;Ehrenfeld;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-33.994.295;-35.694.338;-48.258.631;-49.094.232;-50.405.712;-51.586.534;-53.094.666
+4;Ehrenfeld;19 - Finanzerträge;0;0;0;0;0;0;0
+4;Ehrenfeld;20 - Zinsen und sonst. Finanzaufwendungen;7.032;0;0;0;0;0;0
+4;Ehrenfeld;21 = Finanzergebnis (19 und 20);-7.032;0;0;0;0;0;0
+4;Ehrenfeld;22 = ordentliches Jahresergebnis (18 und 21);-34.001.327;-35.694.338;-48.258.631;-49.094.232;-50.405.712;-51.586.534;-53.094.666
+4;Ehrenfeld;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+4;Ehrenfeld;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+4;Ehrenfeld;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+4;Ehrenfeld;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-34.001.327;-35.694.338;-48.258.631;-49.094.232;-50.405.712;-51.586.534;-53.094.666
+4;Ehrenfeld;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);607.465;671.441;775.999;792.060;805.571;805.353;805.353
+4;Ehrenfeld;28 = Jahresergebnis;-34.608.792;-36.365.779;-49.034.630;-49.886.291;-51.211.284;-52.391.888;-53.900.020
+5;Nippes;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+5;Nippes;02 - Zuwendungen und allg. Umlagen;5.612.992;6.942.473;16.487.733;17.768.322;18.350.359;18.582.837;18.818.802
+5;Nippes;03 - sonstige Transfererträge;-93;243;243;243;243;243;243
+5;Nippes;04 - öffentl.rechtl. Leistungsentgelte;5.234.797;5.776.446;7.831.992;8.011.161;8.126.828;8.127.760;8.128.691
+5;Nippes;05 - privatrechtl. Leistungsentgelte;30.268;25.120;58.420;58.420;58.420;58.420;58.420
+5;Nippes;06 - Kostenerstattungen und Umlagen;651.361;443.725;331.763;332.322;332.322;332.322;332.322
+5;Nippes;07 - sonstige ordentliche Erträge;71.324;28.319;508.078;562.139;517.679;437.879;330.650
+5;Nippes;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+5;Nippes;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+5;Nippes;10 = Ordentliche Erträge;11.600.648;13.216.325;25.218.229;26.732.607;27.385.852;27.539.461;27.669.128
+5;Nippes;11 - Personalaufwendungen;18.977.173;20.153.480;20.779.744;21.315.822;21.840.838;22.352.784;22.886.000
+5;Nippes;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+5;Nippes;13 - Aufwendungen für Sach- und Dienstleistungen;4.078.261;2.836.776;3.291.142;2.737.260;2.539.583;2.396.274;2.533.454
+5;Nippes;14 - Bilanzielle Abschreibungen;6.253.733;7.366.472;6.464.481;6.449.333;6.454.584;6.460.279;6.466.204
+5;Nippes;15 - Transferaufwendungen;15.806.708;15.368.355;36.731.427;38.863.030;40.591.382;41.581.481;42.603.181
+5;Nippes;16 - sonstige ordentl. Aufwendungen;3.931.295;4.224.291;4.680.636;4.766.165;4.720.480;4.630.808;4.510.355
+5;Nippes;17 = Ordentliche Aufwendungen;49.047.171;49.949.374;71.947.429;74.131.610;76.146.867;77.421.626;78.999.194
+5;Nippes;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-37.446.522;-36.733.049;-46.729.200;-47.399.003;-48.761.016;-49.882.165;-51.330.066
+5;Nippes;19 - Finanzerträge;0;0;0;0;0;0;0
+5;Nippes;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0;0
+5;Nippes;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0;0
+5;Nippes;22 = ordentliches Jahresergebnis (18 und 21);-37.446.522;-36.733.049;-46.729.200;-47.399.003;-48.761.016;-49.882.165;-51.330.066
+5;Nippes;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+5;Nippes;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+5;Nippes;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+5;Nippes;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-37.446.522;-36.733.049;-46.729.200;-47.399.003;-48.761.016;-49.882.165;-51.330.066
+5;Nippes;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);681.524;707.851;816.537;834.286;848.996;848.778;848.778
+5;Nippes;28 = Jahresergebnis;-38.128.047;-37.440.900;-47.545.737;-48.233.289;-49.610.012;-50.730.943;-52.178.844
+6;Chorweiler;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+6;Chorweiler;02 - Zuwendungen und allg. Umlagen;6.808.937;8.594.737;13.144.832;13.881.698;14.267.356;14.437.358;14.610.021
+6;Chorweiler;03 - sonstige Transfererträge;1.659;285;285;285;285;285;285
+6;Chorweiler;04 - öffentl.rechtl. Leistungsentgelte;4.735.316;4.953.452;6.379.840;6.465.600;6.555.167;6.556.321;6.557.475
+6;Chorweiler;05 - privatrechtl. Leistungsentgelte;338.715;326.644;345.895;362.395;345.895;345.895;345.895
+6;Chorweiler;06 - Kostenerstattungen und Umlagen;1.240.223;970.453;708.469;709.658;711.830;711.830;711.830
+6;Chorweiler;07 - sonstige ordentliche Erträge;48.198;18.042;170.226;193.035;174.277;140.609;95.364
+6;Chorweiler;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+6;Chorweiler;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+6;Chorweiler;10 = Ordentliche Erträge;13.173.047;14.863.614;20.749.547;21.612.671;22.054.811;22.192.299;22.320.871
+6;Chorweiler;11 - Personalaufwendungen;20.574.594;22.119.507;22.501.262;22.936.136;23.753.122;24.319.398;24.912.586
+6;Chorweiler;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+6;Chorweiler;13 - Aufwendungen für Sach- und Dienstleistungen;3.685.831;3.770.493;3.656.901;3.077.799;2.853.122;2.709.813;2.846.993
+6;Chorweiler;14 - Bilanzielle Abschreibungen;6.220.815;6.811.672;6.245.203;6.232.610;6.234.841;6.239.232;6.244.905
+6;Chorweiler;15 - Transferaufwendungen;9.735.807;12.753.945;24.502.390;25.741.160;26.929.163;27.662.866;28.421.414
+6;Chorweiler;16 - sonstige ordentl. Aufwendungen;3.860.848;4.204.688;4.219.468;4.262.610;4.250.512;4.207.350;4.156.531
+6;Chorweiler;17 = Ordentliche Aufwendungen;44.077.895;49.660.305;61.125.223;62.250.315;64.020.760;65.138.660;66.582.428
+6;Chorweiler;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-30.904.848;-34.796.691;-40.375.676;-40.637.644;-41.965.950;-42.946.361;-44.261.558
+6;Chorweiler;19 - Finanzerträge;0;0;0;0;0;0;0
+6;Chorweiler;20 - Zinsen und sonst. Finanzaufwendungen;2.522;0;0;0;0;0;0
+6;Chorweiler;21 = Finanzergebnis (19 und 20);-2.522;0;0;0;0;0;0
+6;Chorweiler;22 = ordentliches Jahresergebnis (18 und 21);-30.907.370;-34.796.691;-40.375.676;-40.637.644;-41.965.950;-42.946.361;-44.261.558
+6;Chorweiler;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+6;Chorweiler;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+6;Chorweiler;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+6;Chorweiler;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-30.907.370;-34.796.691;-40.375.676;-40.637.644;-41.965.950;-42.946.361;-44.261.558
+6;Chorweiler;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);741.762;802.523;889.297;912.068;989.708;989.159;989.159
+6;Chorweiler;28 = Jahresergebnis;-31.649.132;-35.599.214;-41.264.973;-41.549.712;-42.955.658;-43.935.520;-45.250.717
+7;Porz;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+7;Porz;02 - Zuwendungen und allg. Umlagen;6.626.555;8.483.569;14.743.106;15.714.536;16.188.553;16.395.443;16.605.468
+7;Porz;03 - sonstige Transfererträge;-121;1.217;1.217;1.217;1.217;1.217;1.217
+7;Porz;04 - öffentl.rechtl. Leistungsentgelte;5.913.222;6.400.899;7.993.364;8.111.461;8.212.077;8.213.339;8.214.601
+7;Porz;05 - privatrechtl. Leistungsentgelte;169.160;182.265;250.693;250.693;250.693;250.693;250.693
+7;Porz;06 - Kostenerstattungen und Umlagen;659.862;442.260;328.874;329.378;329.378;329.378;329.378
+7;Porz;07 - sonstige ordentliche Erträge;34.111;62.057;272.451;305.619;278.342;229.383;163.590
+7;Porz;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+7;Porz;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+7;Porz;10 = Ordentliche Erträge;13.402.789;15.572.268;23.589.706;24.712.904;25.260.261;25.419.453;25.564.948
+7;Porz;11 - Personalaufwendungen;21.507.310;22.835.708;23.619.362;24.215.324;24.807.756;25.392.126;26.000.235
+7;Porz;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+7;Porz;13 - Aufwendungen für Sach- und Dienstleistungen;3.392.390;3.434.150;3.777.479;3.343.401;2.970.724;2.827.415;2.964.595
+7;Porz;14 - Bilanzielle Abschreibungen;5.789.019;7.027.330;6.075.252;6.069.058;6.074.999;6.081.069;6.087.337
+7;Porz;15 - Transferaufwendungen;16.265.113;17.225.647;32.752.190;34.513.117;36.094.172;37.084.641;38.108.978
+7;Porz;16 - sonstige ordentl. Aufwendungen;6.243.471;5.108.108;5.255.338;5.313.119;5.285.942;5.230.062;5.156.161
+7;Porz;17 = Ordentliche Aufwendungen;53.197.302;55.630.943;71.479.621;73.454.019;75.233.592;76.615.313;78.317.307
+7;Porz;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-39.794.513;-40.058.675;-47.889.915;-48.741.115;-49.973.331;-51.195.860;-52.752.359
+7;Porz;19 - Finanzerträge;0;0;0;0;0;0;0
+7;Porz;20 - Zinsen und sonst. Finanzaufwendungen;0;0;0;0;0;0;0
+7;Porz;21 = Finanzergebnis (19 und 20);0;0;0;0;0;0;0
+7;Porz;22 = ordentliches Jahresergebnis (18 und 21);-39.794.513;-40.058.675;-47.889.915;-48.741.115;-49.973.331;-51.195.860;-52.752.359
+7;Porz;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+7;Porz;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+7;Porz;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+7;Porz;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-39.794.513;-40.058.675;-47.889.915;-48.741.115;-49.973.331;-51.195.860;-52.752.359
+7;Porz;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);767.001;821.761;940.493;963.401;981.906;981.697;981.697
+7;Porz;28 = Jahresergebnis;-40.561.514;-40.880.437;-48.830.408;-49.704.516;-50.955.237;-52.177.557;-53.734.056
+8;Kalk;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+8;Kalk;02 - Zuwendungen und allg. Umlagen;7.951.062;9.933.007;17.602.137;18.704.988;19.301.494;19.544.096;19.790.388
+8;Kalk;03 - sonstige Transfererträge;3.105;358;358;358;358;358;358
+8;Kalk;04 - öffentl.rechtl. Leistungsentgelte;5.549.709;5.695.107;7.782.886;7.919.881;8.036.407;8.037.834;8.039.257
+8;Kalk;05 - privatrechtl. Leistungsentgelte;167.095;158.597;210.863;230.863;210.863;210.863;210.863
+8;Kalk;06 - Kostenerstattungen und Umlagen;1.161.444;831.733;599.299;600.345;601.544;601.544;601.544
+8;Kalk;07 - sonstige ordentliche Erträge;65.932;42.434;274.907;311.035;281.324;227.995;156.330
+8;Kalk;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+8;Kalk;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+8;Kalk;10 = Ordentliche Erträge;14.898.348;16.661.235;26.470.449;27.767.469;28.431.989;28.622.689;28.798.741
+8;Kalk;11 - Personalaufwendungen;24.808.968;26.540.011;27.537.446;28.235.664;28.958.238;29.641.364;30.353.674
+8;Kalk;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+8;Kalk;13 - Aufwendungen für Sach- und Dienstleistungen;2.975.999;4.071.822;4.291.837;3.444.285;2.980.098;2.836.789;2.973.969
+8;Kalk;14 - Bilanzielle Abschreibungen;5.295.962;6.150.896;5.424.587;5.415.841;5.422.574;5.431.069;5.436.602
+8;Kalk;15 - Transferaufwendungen;24.263.816;25.631.077;44.722.122;47.012.985;49.215.948;50.628.481;52.090.280
+8;Kalk;16 - sonstige ordentl. Aufwendungen;5.733.862;5.591.023;5.812.218;5.786.949;5.758.129;5.697.576;5.617.081
+8;Kalk;17 = Ordentliche Aufwendungen;63.078.607;67.984.828;87.788.211;89.895.724;92.334.988;94.235.279;96.471.606
+8;Kalk;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-48.180.259;-51.323.593;-61.317.762;-62.128.255;-63.902.999;-65.612.589;-67.672.865
+8;Kalk;19 - Finanzerträge;0;0;0;0;0;0;0
+8;Kalk;20 - Zinsen und sonst. Finanzaufwendungen;47.832;0;0;0;0;0;0
+8;Kalk;21 = Finanzergebnis (19 und 20);-47.832;0;0;0;0;0;0
+8;Kalk;22 = ordentliches Jahresergebnis (18 und 21);-48.228.091;-51.323.593;-61.317.762;-62.128.255;-63.902.999;-65.612.589;-67.672.865
+8;Kalk;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+8;Kalk;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+8;Kalk;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+8;Kalk;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-48.228.091;-51.323.593;-61.317.762;-62.128.255;-63.902.999;-65.612.589;-67.672.865
+8;Kalk;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);894.816;978.595;1.125.044;1.152.863;1.207.046;1.206.845;1.206.845
+8;Kalk;28 = Jahresergebnis;-49.122.907;-52.302.188;-62.442.805;-63.281.118;-65.110.045;-66.819.435;-68.879.711
+9;Mühlheim;01 - Steuern und ähnliche Abgaben;0;0;0;0;0;0;0
+9;Mühlheim;02 - Zuwendungen und allg. Umlagen;8.894.639;11.229.344;21.645.273;23.090.448;23.866.377;24.164.224;24.466.552
+9;Mühlheim;03 - sonstige Transfererträge;-186;388;388;388;388;388;388
+9;Mühlheim;04 - öffentl.rechtl. Leistungsentgelte;6.893.627;6.951.457;9.855.254;10.044.531;10.186.186;10.187.667;10.189.149
+9;Mühlheim;05 - privatrechtl. Leistungsentgelte;73.721;60.231;93.530;93.530;93.530;93.530;93.530
+9;Mühlheim;06 - Kostenerstattungen und Umlagen;1.916.707;1.407.674;1.014.687;1.016.433;1.016.433;1.016.433;1.016.433
+9;Mühlheim;07 - sonstige ordentliche Erträge;55.180;70.150;392.773;443.265;401.740;327.209;227.053
+9;Mühlheim;08 - aktivierte Eigenleistungen;0;0;0;0;0;0;0
+9;Mühlheim;09 - Bestandsveränderungen;0;0;0;0;0;0;0
+9;Mühlheim;10 = Ordentliche Erträge;17.833.689;19.719.243;33.001.904;34.688.595;35.564.654;35.789.451;35.993.104
+9;Mühlheim;11 - Personalaufwendungen;28.539.981;29.943.636;31.407.430;32.202.703;32.988.038;33.765.267;34.574.090
+9;Mühlheim;12 - Versorgungsaufwendungen;0;0;0;0;0;0;0
+9;Mühlheim;13 - Aufwendungen für Sach- und Dienstleistungen;4.639.228;5.651.951;5.494.554;4.879.192;4.000.155;3.856.846;3.994.026
+9;Mühlheim;14 - Bilanzielle Abschreibungen;7.549.193;8.593.149;7.761.748;7.767.030;7.775.333;7.783.261;7.791.476
+9;Mühlheim;15 - Transferaufwendungen;32.719.666;31.075.772;56.654.763;59.685.666;62.511.145;64.258.143;66.065.493
+9;Mühlheim;16 - sonstige ordentl. Aufwendungen;6.028.387;6.397.804;6.483.098;6.610.584;6.522.891;6.447.139;6.334.639
+9;Mühlheim;17 = Ordentliche Aufwendungen;79.476.456;81.662.311;107.801.592;111.145.175;113.797.561;116.110.656;118.759.724
+9;Mühlheim;18 = Ergebnis der lfd. Verwaltungstätigkeit (10 und 17);-61.642.767;-61.943.067;-74.799.688;-76.456.580;-78.232.907;-80.321.205;-82.766.620
+9;Mühlheim;19 - Finanzerträge;0;0;0;0;0;0;0
+9;Mühlheim;20 - Zinsen und sonst. Finanzaufwendungen;1.245;0;0;0;0;0;0
+9;Mühlheim;21 = Finanzergebnis (19 und 20);-1.245;0;0;0;0;0;0
+9;Mühlheim;22 = ordentliches Jahresergebnis (18 und 21);-61.644.012;-61.943.067;-74.799.688;-76.456.580;-78.232.907;-80.321.205;-82.766.620
+9;Mühlheim;23 - außerordentliche Erträge;0;0;0;0;0;0;0
+9;Mühlheim;24 - außerordentliche Aufwendungen;0;0;0;0;0;0;0
+9;Mühlheim;25 = außerordentliches Ergebnis (23 und 24);0;0;0;0;0;0;0
+9;Mühlheim;26 = Jahresergebnis vor interner Leistungsver. (22 und 25);-61.644.012;-61.943.067;-74.799.688;-76.456.580;-78.232.907;-80.321.205;-82.766.620
+9;Mühlheim;27 - Interne Leistungsbeziehung (Aufwand / (-) Ertrag);989.902;1.053.682;1.210.270;1.240.234;1.263.551;1.264.033;1.264.033
+9;Mühlheim;28 = Jahresergebnis;-62.633.915;-62.996.750;-76.009.958;-77.696.814;-79.496.458;-81.585.238;-84.030.654
