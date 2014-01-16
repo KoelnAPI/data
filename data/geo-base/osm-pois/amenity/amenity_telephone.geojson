@@ -8061,8 +8061,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1026288, 
-                    50.8056848
+                    7.1026336, 
+                    50.8056985
                 ]
             }, 
             "type": "Feature", 
@@ -9355,6 +9355,34 @@
             }, 
             "type": "Feature", 
             "id": "2465059236", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.917445, 
+                    50.9465836
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2618803250", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9398947, 
+                    50.9398049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623226428", 
             "properties": {
                 "tags/name": ""
             }

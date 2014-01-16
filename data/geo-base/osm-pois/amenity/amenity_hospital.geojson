@@ -333,54 +333,12 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9162255, 
-                    50.9255607
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2371253954", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9167326, 
-                    50.9251481
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2371254533", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9165717, 
                     50.9234422
                 ]
             }, 
             "type": "Feature", 
             "id": "2371281052", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9155792, 
-                    50.924105
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2371281068", 
             "properties": {
                 "tags/name": ""
             }

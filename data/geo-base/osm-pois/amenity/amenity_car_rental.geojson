@@ -4,7 +4,7 @@
         6.7013067, 
         50.8297596, 
         7.1835568, 
-        51.0393247
+        51.0535475
     ], 
     "features": [
         {
@@ -383,6 +383,20 @@
             "id": "2556770162", 
             "properties": {
                 "tags/name": "Hertz"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9986035, 
+                    51.0535475
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2616538491", 
+            "properties": {
+                "tags/name": "Enterprise Autovermietung"
             }
         }
     ]

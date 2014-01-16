@@ -774,7 +774,7 @@
             "type": "Feature", 
             "id": "257815969", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Nera´s Restaurant"
             }
         }, 
         {
@@ -1579,20 +1579,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0046144, 
-                    50.8461658
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "292426796", 
-            "properties": {
-                "tags/name": "Zur Eule"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8437065, 
                     50.9385914
                 ]
@@ -1635,20 +1621,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1509094, 
-                    50.8996991
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "293261048", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0159585, 
                     51.0311731
                 ]
@@ -1657,20 +1629,6 @@
             "id": "293596752", 
             "properties": {
                 "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9930316, 
-                    50.8453914
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "293713970", 
-            "properties": {
-                "tags/name": "Strandbad"
             }
         }, 
         {
@@ -2139,20 +2097,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1519014, 
-                    50.8982137
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "307732394", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1016368, 
                     51.0561487
                 ]
@@ -2216,7 +2160,7 @@
             "type": "Feature", 
             "id": "309776339", 
             "properties": {
-                "tags/name": "Picus"
+                "tags/name": "Tapeo Picus"
             }
         }, 
         {
@@ -2342,7 +2286,7 @@
             "type": "Feature", 
             "id": "314445640", 
             "properties": {
-                "tags/name": "Gaststätte Esser"
+                "tags/name": "Faro"
             }
         }, 
         {
@@ -2917,20 +2861,6 @@
             "id": "357140690", 
             "properties": {
                 "tags/name": "Gertrudenhof"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9572172, 
-                    50.928857
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "357900643", 
-            "properties": {
-                "tags/name": "Jenseits von Afrika"
             }
         }, 
         {
@@ -5989,14 +5919,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.7877663, 
-                    50.8419312
+                    6.7877142, 
+                    50.8419178
                 ]
             }, 
             "type": "Feature", 
             "id": "519834184", 
             "properties": {
-                "tags/name": "Pizza Eck"
+                "tags/name": "BambooBox"
             }
         }, 
         {
@@ -6403,20 +6333,6 @@
             "id": "551337095", 
             "properties": {
                 "tags/name": "Atlantik"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9031999, 
-                    51.0366957
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "559622949", 
-            "properties": {
-                "tags/name": "Gasthaus Fühlingen"
             }
         }, 
         {
@@ -7803,6 +7719,20 @@
             "id": "643718654", 
             "properties": {
                 "tags/name": "Konfuzius"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9208514, 
+                    50.9306531
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "647463233", 
+            "properties": {
+                "tags/name": "Sushi Bar GAN-MI"
             }
         }, 
         {
@@ -16209,8 +16139,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8693581, 
-                    50.9306327
+                    6.8694409, 
+                    50.9306407
                 ]
             }, 
             "type": "Feature", 
@@ -16391,7 +16321,7 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.939994, 
+                    6.9399937, 
                     50.939535
                 ]
             }, 
@@ -16483,6 +16413,76 @@
             "id": "2598903235", 
             "properties": {
                 "tags/name": "Restaurant im Bitzhof"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.940763, 
+                    50.942313
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2611218341", 
+            "properties": {
+                "tags/name": "Nagoya"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9406485, 
+                    50.9331111
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2611772633", 
+            "properties": {
+                "tags/name": "Rut un Wiess"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9049067, 
+                    50.907465
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2619634851", 
+            "properties": {
+                "tags/name": "Geißbockheim, Clubrestaurant 1. FC Köln"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9401973, 
+                    50.9391338
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2622352223", 
+            "properties": {
+                "tags/name": "Beef Farm Inn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9409347, 
+                    50.9426308
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623381118", 
+            "properties": {
+                "tags/name": "Elit"
             }
         }
     ]

@@ -347,6 +347,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    7.1509094, 
+                    50.8996991
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "293261048", 
+            "properties": {
+                "tags/name": "Segafredo"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     7.1825141, 
                     50.8965804
                 ]
@@ -467,6 +481,20 @@
             "id": "306098540", 
             "properties": {
                 "tags/name": "Dom Café"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1521232, 
+                    50.8979706
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "307732394", 
+            "properties": {
+                "tags/name": "Segafredo"
             }
         }, 
         {
@@ -859,6 +887,20 @@
             "id": "359862708", 
             "properties": {
                 "tags/name": "Starbucks"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566837, 
+                    50.9322118
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "362514830", 
+            "properties": {
+                "tags/name": "Waidmeister"
             }
         }, 
         {
@@ -1481,8 +1523,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9406511, 
-                    50.9376314
+                    6.940613, 
+                    50.9376473
                 ]
             }, 
             "type": "Feature", 
@@ -2147,20 +2189,6 @@
             "id": "570779447", 
             "properties": {
                 "tags/name": "Eiscafé Forum"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9246292, 
-                    50.9576584
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "574748686", 
-            "properties": {
-                "tags/name": "de lounge"
             }
         }, 
         {
@@ -6487,6 +6515,20 @@
             "id": "2607946403", 
             "properties": {
                 "tags/name": "Café Fridolin"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9400094, 
+                    50.9394635
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623226438", 
+            "properties": {
+                "tags/name": "Venezia"
             }
         }
     ]

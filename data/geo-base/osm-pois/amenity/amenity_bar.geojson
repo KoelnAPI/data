@@ -2,7 +2,7 @@
     "type": "FeatureCollection", 
     "bbox": [
         6.7945104, 
-        50.8809126, 
+        50.8140507, 
         7.1830067, 
         51.0672131
     ], 
@@ -1285,14 +1285,42 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9402625, 
-                    50.9391204
+                    7.1563159, 
+                    50.8140507
                 ]
             }, 
             "type": "Feature", 
-            "id": "2583505665", 
+            "id": "2614697430", 
             "properties": {
-                "tags/name": "Chez Nous"
+                "tags/name": "Juice Teria"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9403452, 
+                    50.9391528
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2622352225", 
+            "properties": {
+                "tags/name": "Chez-Moi"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407821, 
+                    50.9392288
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2622352239", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

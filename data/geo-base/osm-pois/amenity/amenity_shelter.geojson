@@ -1831,20 +1831,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8553232, 
-                    50.8125961
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1645770923", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7585846, 
                     50.8069705
                 ]

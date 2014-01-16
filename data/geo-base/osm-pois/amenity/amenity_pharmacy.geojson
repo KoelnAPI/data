@@ -1341,14 +1341,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8352665, 
-                    50.890334
+                    6.835501, 
+                    50.8904002
                 ]
             }, 
             "type": "Feature", 
             "id": "339711922", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Fortuna Apotheke"
             }
         }, 
         {
@@ -5101,6 +5101,20 @@
             "id": "2558265611", 
             "properties": {
                 "tags/name": "Alte Apotheke"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9410849, 
+                    50.9427795
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623383531", 
+            "properties": {
+                "tags/name": "Behring-Apotheke"
             }
         }
     ]

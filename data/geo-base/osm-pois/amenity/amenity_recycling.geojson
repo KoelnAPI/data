@@ -137,8 +137,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9172441, 
-                    50.9464352
+                    6.917261, 
+                    50.9464274
                 ]
             }, 
             "type": "Feature", 
@@ -319,8 +319,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9236003, 
-                    50.9630307
+                    6.9236066, 
+                    50.9630251
                 ]
             }, 
             "type": "Feature", 
@@ -2209,8 +2209,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0092881, 
-                    50.847515
+                    7.0093724, 
+                    50.8474159
                 ]
             }, 
             "type": "Feature", 
@@ -3175,8 +3175,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1770025, 
-                    51.0049462
+                    7.177044, 
+                    51.0049501
                 ]
             }, 
             "type": "Feature", 
@@ -10483,8 +10483,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9171172, 
-                    50.9270643
+                    6.9170919, 
+                    50.9270749
                 ]
             }, 
             "type": "Feature", 
@@ -14579,6 +14579,48 @@
             "id": "2521484181", 
             "properties": {
                 "tags/name": "Altkleider"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0564661, 
+                    50.8733508
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2614067360", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0574711, 
+                    50.8786049
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2614067420", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9408227, 
+                    50.9403672
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2622854769", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

@@ -207,20 +207,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9612195, 
-                    50.9927026
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "247385588", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0389901, 
                     50.812168
                 ]
@@ -319,28 +305,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8028555, 
-                    51.0027897
+                    6.8028567, 
+                    51.0029388
                 ]
             }, 
             "type": "Feature", 
             "id": "257418984", 
             "properties": {
                 "tags/name": "ev. Gnadenkirche"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9066421, 
-                    50.9200208
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "258998922", 
-            "properties": {
-                "tags/name": "Sankt Albertus Magnus"
             }
         }, 
         {
@@ -453,20 +425,6 @@
             "id": "267685009", 
             "properties": {
                 "tags/name": "St. Engelberg"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8577143, 
-                    51.0162394
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "268252060", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -1817,20 +1775,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9615328, 
-                    50.9928422
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "506748995", 
-            "properties": {
-                "tags/name": "Alt-St. Katharina"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7731674, 
                     50.8472791
                 ]
@@ -2251,20 +2195,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9148541, 
-                    50.9359589
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "875629542", 
-            "properties": {
-                "tags/name": "Freie evangelische Gemeinde Köln-Lindenthal"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0446395, 
                     50.9276894
                 ]
@@ -2301,20 +2231,6 @@
             "id": "890618886", 
             "properties": {
                 "tags/name": "Zu den heiligen Engeln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0087752, 
-                    50.9430815
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1023190082", 
-            "properties": {
-                "tags/name": "Evangelische Kirchengemeinde Köln-Kalk"
             }
         }, 
         {
@@ -2853,20 +2769,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9238059, 
-                    50.9295309
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1698774742", 
-            "properties": {
-                "tags/name": "Die Christengemeinschaft"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9443794, 
                     50.9270784
                 ]
@@ -2993,20 +2895,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8944174, 
-                    50.9551361
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2423767081", 
-            "properties": {
-                "tags/name": "Zeugen Jehovers"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9213061, 
                     50.9148165
                 ]
@@ -3015,20 +2903,6 @@
             "id": "2445550068", 
             "properties": {
                 "tags/name": "Evangelische freie Gemeinde"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9323822, 
-                    50.9388268
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2463527392", 
-            "properties": {
-                "tags/name": "St. Michael"
             }
         }, 
         {
@@ -3063,62 +2937,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0674943, 
-                    50.9686514
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2494069668", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9389876, 
-                    50.9430792
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2514199124", 
-            "properties": {
-                "tags/name": "Christuskirche"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9391643, 
-                    50.9432203
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2514199130", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9393298, 
-                    50.9294713
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2514935475", 
-            "properties": {
-                "tags/name": "Herz Jesu"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9283015, 
                     50.9458637
                 ]
@@ -3127,48 +2945,6 @@
             "id": "2518407127", 
             "properties": {
                 "tags/name": "Ehrenfelder Moschee"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9524751, 
-                    50.9216736
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2559948372", 
-            "properties": {
-                "tags/name": "St. Paul"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9474928, 
-                    50.9269145
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2560228939", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9395515, 
-                    50.9251959
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "2560451366", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -3197,6 +2973,20 @@
             "id": "2592976015", 
             "properties": {
                 "tags/name": "Aliyyül-Murteza-Moschee"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8561152, 
+                    50.9308633
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2621266815", 
+            "properties": {
+                "tags/name": "Alte Dorfkirche Junkersdorf"
             }
         }
     ]

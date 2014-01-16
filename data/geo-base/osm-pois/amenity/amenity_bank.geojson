@@ -837,8 +837,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9147977, 
-                    50.9303197
+                    6.9147148, 
+                    50.9302634
                 ]
             }, 
             "type": "Feature", 
@@ -1027,20 +1027,6 @@
             "id": "290456789", 
             "properties": {
                 "tags/name": "Deutsche Bank"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0055197, 
-                    50.8460005
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "292538274", 
-            "properties": {
-                "tags/name": "Sparkasse KölnBonn"
             }
         }, 
         {
@@ -2391,20 +2377,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.7896181, 
-                    50.8405354
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "519834231", 
-            "properties": {
-                "tags/name": "Kreissparkasse Köln"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9600172, 
                     50.9213683
                 ]
@@ -3581,8 +3553,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1162994, 
-                    50.9574246
+                    7.1159573, 
+                    50.9576482
                 ]
             }, 
             "type": "Feature", 

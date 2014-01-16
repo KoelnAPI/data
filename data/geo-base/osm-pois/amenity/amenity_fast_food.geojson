@@ -1327,6 +1327,20 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
+                    6.9572172, 
+                    50.928857
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "357900643", 
+            "properties": {
+                "tags/name": "Yay Trong Kham Korat"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
                     6.9409018, 
                     50.9291349
                 ]
@@ -1390,7 +1404,7 @@
             "type": "Feature", 
             "id": "365388892", 
             "properties": {
-                "tags/name": "Mc Döner"
+                "tags/name": "Rösrather Kebaphaus"
             }
         }, 
         {
@@ -2468,7 +2482,7 @@
             "type": "Feature", 
             "id": "477280419", 
             "properties": {
-                "tags/name": "bear salad"
+                "tags/name": ""
             }
         }, 
         {
@@ -3021,8 +3035,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8007164, 
-                    50.9264258
+                    6.8005869, 
+                    50.9263823
                 ]
             }, 
             "type": "Feature", 
@@ -5149,8 +5163,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1522709, 
-                    50.8979545
+                    7.1522633, 
+                    50.8978938
                 ]
             }, 
             "type": "Feature", 
@@ -5660,7 +5674,7 @@
             "type": "Feature", 
             "id": "1491561771", 
             "properties": {
-                "tags/name": "Yay Trong Kham Korat"
+                "tags/name": "mir baba"
             }
         }, 
         {
@@ -7459,8 +7473,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1557711, 
-                    50.8144218
+                    7.1557503, 
+                    50.8144262
                 ]
             }, 
             "type": "Feature", 
