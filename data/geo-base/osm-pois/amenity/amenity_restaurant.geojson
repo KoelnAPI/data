@@ -529,20 +529,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9553249, 
-                    50.9645021
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "252043797", 
-            "properties": {
-                "tags/name": "Hayal"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9561853, 
                     50.9642732
                 ]
@@ -1727,20 +1713,6 @@
             "id": "298094322", 
             "properties": {
                 "tags/name": "KAP am Südkai"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0081469, 
-                    50.8519603
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "300666520", 
-            "properties": {
-                "tags/name": "Zur Tant"
             }
         }, 
         {
@@ -11589,20 +11561,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0075811, 
-                    50.8483019
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1332280936", 
-            "properties": {
-                "tags/name": "Zur Alten Schmiede"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7550455, 
                     50.8588957
                 ]
@@ -16483,6 +16441,20 @@
             "id": "2623381118", 
             "properties": {
                 "tags/name": "Elit"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.932373, 
+                    50.9340039
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2626016359", 
+            "properties": {
+                "tags/name": "Shokudo"
             }
         }
     ]

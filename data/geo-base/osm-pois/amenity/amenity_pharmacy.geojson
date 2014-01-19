@@ -249,20 +249,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9140576, 
-                    50.9661938
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "245988496", 
-            "properties": {
-                "tags/name": "Ossendorfer Apotheke"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9254246, 
                     50.9952106
                 ]
@@ -4085,8 +4071,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0646205, 
-                    50.8951521
+                    7.0643425, 
+                    50.8953217
                 ]
             }, 
             "type": "Feature", 
