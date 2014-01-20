@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9234185, 
+        50.9114974, 
+        6.9542728, 
+        50.9429199
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9234185, 
+                    50.9114974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265728727", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9328268, 
+                    50.9276933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1609157079", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9542728, 
+                    50.9429199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2103595703", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

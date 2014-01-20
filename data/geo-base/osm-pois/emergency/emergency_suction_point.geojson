@@ -1,0 +1,81 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8519118, 
+        50.804753, 
+        6.9091138, 
+        50.8314866
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9091138, 
+                    50.8280226
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "850868504", 
+            "properties": {
+                "tags/name": "Saugstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8519118, 
+                    50.804753
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1792203006", 
+            "properties": {
+                "tags/name": "Saugstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8539176, 
+                    50.8181149
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1792203016", 
+            "properties": {
+                "tags/name": "Saugstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8759981, 
+                    50.8314866
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1792203025", 
+            "properties": {
+                "tags/name": "Saugstelle"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.877748, 
+                    50.8299823
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1792203039", 
+            "properties": {
+                "tags/name": "Saugstelle"
+            }
+        }
+    ]
+}

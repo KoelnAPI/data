@@ -1,0 +1,53 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.7830596, 
+        50.9066389, 
+        7.1902085, 
+        50.9886353
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1902085, 
+                    50.9066389
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "370948579", 
+            "properties": {
+                "tags/name": "Rettungswache"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.7830596, 
+                    50.9368971
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1565081833", 
+            "properties": {
+                "tags/name": "Rettungswache Königsdorf"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0010447, 
+                    50.9886353
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2449679625", 
+            "properties": {
+                "tags/name": "Rettungswache 19"
+            }
+        }
+    ]
+}

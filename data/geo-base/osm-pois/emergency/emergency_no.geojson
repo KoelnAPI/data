@@ -1,0 +1,67 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.9348687, 
+        50.9151791, 
+        7.1214438, 
+        50.9991305
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1214438, 
+                    50.9991305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "276278879", 
+            "properties": {
+                "tags/name": "Reha-Zentrum Reuterstraße (Geriatrische Klinik)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9348687, 
+                    50.9649055
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1534378150", 
+            "properties": {
+                "tags/name": "Tagesklinik u. Ambulanz Rheinische Kliniken"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9418821, 
+                    50.9151791
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1785351207", 
+            "properties": {
+                "tags/name": "Institut für Psychotherapeutische Forschung, Methodenentwicklung und Weiterbildung"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.952134, 
+                    50.97014
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2075027207", 
+            "properties": {
+                "tags/name": "Frauenarztpraxis Dr. Mallmann"
+            }
+        }
+    ]
+}

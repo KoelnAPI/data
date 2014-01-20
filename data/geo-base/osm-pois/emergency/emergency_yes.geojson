@@ -1,0 +1,137 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.8091682, 
+        50.80754, 
+        7.1825787, 
+        50.9984181
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9056553, 
+                    50.8279231
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255732391", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9036433, 
+                    50.8266821
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "317074079", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1821409, 
+                    50.8973326
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366032247", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Heibach"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1825787, 
+                    50.8973489
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "366064149", 
+            "properties": {
+                "tags/name": "Ärztehaus Rösrath"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8091682, 
+                    50.80754
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "434644874", 
+            "properties": {
+                "tags/name": "Marien-Hospital"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9054025, 
+                    50.8300703
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "478901821", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1635386, 
+                    50.9623163
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1636256396", 
+            "properties": {
+                "tags/name": "Zahnarzt Stefan Gottschalk 02204-58000"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9276072, 
+                    50.9984181
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1692409139", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1573339, 
+                    50.9665238
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2459775235", 
+            "properties": {
+                "tags/name": "Zahnarztpraxis Hardt"
+            }
+        }
+    ]
+}
