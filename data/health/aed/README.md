@@ -23,7 +23,7 @@ Dies ist der letzte Stand der Datensammlung. Zur Bedeutung der Spalten:
 * `source`: Quelle, aus der der Eintrag stammt
 * `last_edited`: Datum und ggf. Uhrzeit der letzten Bearbeitung
 * `last_edited_by`: Name des letzten Bearbeiters
-
+* `comment`: Bearbeitungskommentar (nur angeben falls nötig)
 
 ## Haftungsausschluss
 
