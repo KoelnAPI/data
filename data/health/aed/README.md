@@ -25,6 +25,10 @@ Dies ist der letzte Stand der Datensammlung. Zur Bedeutung der Spalten:
 * `last_edited_by`: Name des letzten Bearbeiters
 
 
+## Haftungsausschluss
+
+Die Daten werden ohne jegliche Garantie der Richtigkeit oder Vollständigkeit veröffentlicht.
+
 ## Description
 
 Here we collect location data on AEDs. Additional information in German:
@@ -34,3 +38,7 @@ http://wiki.koelnapi.de/w/Defibrillatoren
 ## License
 
 Public Domain, no rights reserved.
+
+## Disclaimer
+
+The data is provided without warranty of any kind, express or implied, including but not limited to the warranties of completeness or correctness.
