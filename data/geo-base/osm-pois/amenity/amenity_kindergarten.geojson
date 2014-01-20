@@ -1635,20 +1635,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9169823, 
-                    50.9464514
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1076995833", 
-            "properties": {
-                "tags/name": "Evangelische Kindertagesstätte Fröbelstraße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9184848, 
                     50.9461974
                 ]
@@ -1852,7 +1838,7 @@
             "type": "Feature", 
             "id": "1314916928", 
             "properties": {
-                "tags/name": "Kath. Kindertagesstätte"
+                "tags/name": "Fröbel Kindergarten Eifelstraße"
             }
         }, 
         {
@@ -2139,34 +2125,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8706638, 
-                    50.9242043
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1571774449", 
-            "properties": {
-                "tags/name": "Städtischer Kindergarten Else-Lang-Straße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.8708196, 
-                    50.9267817
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1571800843", 
-            "properties": {
-                "tags/name": "Städtische Kita Eichenstraße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.7148536, 
                     50.9090516
                 ]
@@ -2363,8 +2321,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.004538, 
-                    50.8454747
+                    7.0046525, 
+                    50.8454981
                 ]
             }, 
             "type": "Feature", 
@@ -2525,20 +2483,6 @@
             "id": "1782838190", 
             "properties": {
                 "tags/name": "KiTa \"Die Rheinpiraten e.V.\""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9111218, 
-                    50.914735
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1789847905", 
-            "properties": {
-                "tags/name": "Kindergarten Castellauner Straße"
             }
         }, 
         {
@@ -2888,7 +2832,7 @@
             "type": "Feature", 
             "id": "2228680360", 
             "properties": {
-                "tags/name": "Kinderkrippe  Hummelhaus"
+                "tags/name": "Kinderkrippe Hummelhaus"
             }
         }, 
         {

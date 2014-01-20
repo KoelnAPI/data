@@ -2,7 +2,7 @@
     "type": "FeatureCollection", 
     "bbox": [
         6.8201934, 
-        50.8265866, 
+        50.8251409, 
         7.1191695, 
         51.0935714
     ], 
@@ -87,6 +87,20 @@
             }, 
             "type": "Feature", 
             "id": "2214668966", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9814, 
+                    50.8251409
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2617002241", 
             "properties": {
                 "tags/name": ""
             }

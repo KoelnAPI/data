@@ -3,7 +3,7 @@
     "bbox": [
         6.800427, 
         50.8139152, 
-        7.1336684, 
+        7.1559201, 
         51.0016108
     ], 
     "features": [
@@ -271,6 +271,20 @@
             "id": "2464893430", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1559201, 
+                    50.814305
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2617212106", 
+            "properties": {
+                "tags/name": "Gelateria d'oro"
             }
         }
     ]

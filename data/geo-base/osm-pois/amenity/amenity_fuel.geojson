@@ -200,7 +200,7 @@
             "type": "Feature", 
             "id": "234589992", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "SB Tank"
             }
         }, 
         {
@@ -215,20 +215,6 @@
             "id": "241860413", 
             "properties": {
                 "tags/name": "bft"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9136771, 
-                    50.9641427
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "245798665", 
-            "properties": {
-                "tags/name": "Tankhof Braun"
             }
         }, 
         {
@@ -305,8 +291,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.810095, 
-                    50.9952675
+                    6.8100929, 
+                    50.9952128
                 ]
             }, 
             "type": "Feature", 
@@ -417,8 +403,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8694193, 
-                    50.9231229
+                    6.8695119, 
+                    50.9230698
                 ]
             }, 
             "type": "Feature", 
@@ -2609,6 +2595,20 @@
             "id": "2597609090", 
             "properties": {
                 "tags/name": "Esso"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0258118, 
+                    51.0602529
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2622579291", 
+            "properties": {
+                "tags/name": ""
             }
         }
     ]

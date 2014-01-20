@@ -403,14 +403,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9421902, 
-                    50.9106122
+                    6.9423173, 
+                    50.9106793
                 ]
             }, 
             "type": "Feature", 
             "id": "354528007", 
             "properties": {
-                "tags/name": ""
+                "tags/name": "Deutsche Post Filiale"
             }
         }, 
         {
@@ -1187,8 +1187,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0053523, 
-                    50.8459287
+                    7.0053127, 
+                    50.8459537
                 ]
             }, 
             "type": "Feature", 

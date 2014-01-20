@@ -865,20 +865,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.1146088, 
-                    50.9581781
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "734314383", 
-            "properties": {
-                "tags/name": "Taxi Berg"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8943314, 
                     50.9370457
                 ]
@@ -1769,6 +1755,20 @@
             "id": "2427897005", 
             "properties": {
                 "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1146252, 
+                    50.9579841
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2614992737", 
+            "properties": {
+                "tags/name": "Taxi Berg"
             }
         }
     ]

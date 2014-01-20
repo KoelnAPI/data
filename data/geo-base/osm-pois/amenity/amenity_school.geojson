@@ -1509,34 +1509,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9028014, 
-                    50.9224013
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "517274960", 
-            "properties": {
-                "tags/name": "Hans-Christian-Andersen-Schule, KGS Freiligrathstraße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.902216, 
-                    50.9226814
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "517274961", 
-            "properties": {
-                "tags/name": "Gemeinschaftsgrundschule GGS Freiligrathstraße"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.0084958, 
                     50.964768
                 ]
@@ -2545,20 +2517,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    7.0050932, 
-                    50.8452934
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1704837731", 
-            "properties": {
-                "tags/name": "Grundschule Langel"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     7.1282241, 
                     51.0835133
                 ]
@@ -3225,6 +3183,20 @@
             "id": "2592042260", 
             "properties": {
                 "tags/name": "Aktive Schule (GGS)"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.0046382, 
+                    50.8454725
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2616283649", 
+            "properties": {
+                "tags/name": "Hinter der Kirche (KGS)"
             }
         }
     ]

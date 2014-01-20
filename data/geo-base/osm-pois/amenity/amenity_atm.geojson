@@ -767,20 +767,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9520453, 
-                    50.9365313
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "655191475", 
-            "properties": {
-                "tags/name": ""
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.9601807, 
                     50.9376848
                 ]
@@ -1167,20 +1153,6 @@
             "id": "1316143604", 
             "properties": {
                 "tags/name": "Degussa Bank Public ATM"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    7.0053984, 
-                    50.8459225
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "1332283940", 
-            "properties": {
-                "tags/name": ""
             }
         }, 
         {
@@ -1873,8 +1845,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9559057, 
-                    50.9325256
+                    6.9559036, 
+                    50.9325074
                 ]
             }, 
             "type": "Feature", 
@@ -1935,6 +1907,34 @@
             }, 
             "type": "Feature", 
             "id": "2545339705", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9399128, 
+                    50.9392138
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623226414", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9566595, 
+                    50.9469396
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2623843602", 
             "properties": {
                 "tags/name": ""
             }

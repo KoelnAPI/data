@@ -74,7 +74,7 @@
             "type": "Feature", 
             "id": "293716491", 
             "properties": {
-                "tags/name": "TuS Langel 1927 e.V."
+                "tags/name": ""
             }
         }, 
         {
@@ -7591,6 +7591,20 @@
             }, 
             "type": "Feature", 
             "id": "2587820919", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9573545, 
+                    50.9287008
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2617467702", 
             "properties": {
                 "tags/name": ""
             }

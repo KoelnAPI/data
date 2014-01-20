@@ -389,20 +389,6 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9135647, 
-                    50.9847257
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "747847660", 
-            "properties": {
-                "tags/name": "Katastrophenschutzzentrum"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
                     6.8567975, 
                     51.0737588
                 ]

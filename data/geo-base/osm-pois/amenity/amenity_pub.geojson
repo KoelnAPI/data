@@ -963,56 +963,14 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9158773, 
-                    50.9638672
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "245798671", 
-            "properties": {
-                "tags/name": "Apenrader Hof"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9124504, 
-                    50.9659468
+                    6.912378, 
+                    50.9659823
                 ]
             }, 
             "type": "Feature", 
             "id": "245798859", 
             "properties": {
                 "tags/name": "im Hochhaus"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9232309, 
-                    50.9578979
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "245981544", 
-            "properties": {
-                "tags/name": "Effi"
-            }
-        }, 
-        {
-            "geometry": {
-                "type": "Point", 
-                "coordinates": [
-                    6.9157107, 
-                    50.9617
-                ]
-            }, 
-            "type": "Feature", 
-            "id": "245981678", 
-            "properties": {
-                "tags/name": "Haus Reissdorf"
             }
         }, 
         {
@@ -6815,8 +6773,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.911517, 
-                    50.929016
+                    6.9115296, 
+                    50.9290011
                 ]
             }, 
             "type": "Feature", 
@@ -6843,8 +6801,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.9118174, 
-                    50.9247777
+                    6.9118226, 
+                    50.9247819
                 ]
             }, 
             "type": "Feature", 

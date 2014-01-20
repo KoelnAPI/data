@@ -53,8 +53,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.92605, 
-                    50.9113541
+                    6.9261248, 
+                    50.9114799
                 ]
             }, 
             "type": "Feature", 
@@ -1453,8 +1453,8 @@
             "geometry": {
                 "type": "Point", 
                 "coordinates": [
-                    6.8728111, 
-                    50.9247898
+                    6.8728211, 
+                    50.9248182
                 ]
             }, 
             "type": "Feature", 
@@ -1503,6 +1503,20 @@
             "id": "2579097552", 
             "properties": {
                 "tags/name": "Dr. H. Deyng"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1593065, 
+                    50.8131761
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2616611806", 
+            "properties": {
+                "tags/name": "Dr. med. Rauh"
             }
         }
     ]
