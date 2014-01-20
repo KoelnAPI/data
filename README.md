@@ -51,7 +51,11 @@ for additional info.
 
 [Read more](https://github.com/KoelnAPI/data/tree/master/data/geo-base)
 
-#### landuse - Statistical data on land use
+#### health - Data related to health
+
+[Read more](https://github.com/KoelnAPI/data/tree/master/data/health)
+
+#### landuse - Statistical and geographic data on land use
 
 [Read more](https://github.com/KoelnAPI/data/tree/master/data/landuse)
 
