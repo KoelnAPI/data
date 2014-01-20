@@ -27,7 +27,7 @@ Dies ist der letzte Stand der Datensammlung. Zur Bedeutung der Spalten:
 
 ## Description
 
-Here we collect locatation data on AEDs. Additional information in German:
+Here we collect location data on AEDs. Additional information in German:
 
 http://wiki.koelnapi.de/w/Defibrillatoren
 
