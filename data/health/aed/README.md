@@ -1,7 +1,7 @@
 Defibrillatoren / AED
 =====================
 
-In diesem Bereich werden Standort-Daten zu Defibrillatoren, auch AED (für "Automatisierter Externer Defibrillator) genannt, gesammelt und aufbereitet zur Verfügung gestellt.
+In diesem Bereich werden Standort-Daten zu Defibrillatoren, auch AED genannt (für "Automatisierter Externer Defibrillator), aus verschiedenen Quellen gesammelt und gemeinsam zur Verfügung gestellt.
 
 Weitere Informationen: http://wiki.koelnapi.de/w/Defibrillatoren
 
@@ -11,8 +11,9 @@ Public Domain: Die Daten sind frei von Urheberrechten und können ohne Einschrä
 
 ## Die Datei `aed.csv`
 
-Dies ist der letzte Stand der Datensammlung. Zur Bedeutung der Spalten:
+Dies ist der letzte Stand der konsolidierten Datensammlung. Zur Bedeutung der Spalten:
 
+* `id`: Eindeutige ID zur Kennzeichnung des Defi(-standorts), vergeben von Köln API
 * `city_district`: Name des Stadtbezirks
 * `city_subdistrict`: Name des Stadtteils
 * `name`: Name des Standorts/Gebäudes. Dieser soll möglichst knapp und so beschrieben sein, dass jemand im direkten Umfeld das Gebäude identifizieren kann.
