@@ -32,4 +32,4 @@ wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
 cd ..
 
 # Konvertiere Crowdsav JSON zu CSV-Datei
-in2csv -f json -k pois _source/$FILENAME > aed_crowdsav.csv
+in2csv -f json -k pois _source/$FILENAME > _source/aed_crowdsav.csv
