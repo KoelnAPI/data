@@ -1,0 +1,319 @@
+{
+    "type": "FeatureCollection", 
+    "bbox": [
+        6.861026, 
+        50.878861, 
+        7.1223733, 
+        51.0630931
+    ], 
+    "features": [
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9198855, 
+                    50.953704
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "196170706", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9009467, 
+                    50.9575192
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "224445220", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8997524, 
+                    50.9678877
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "230226555", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8678883, 
+                    50.9801707
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "244296667", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9392709, 
+                    50.9686268
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "246829498", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9587787, 
+                    51.0252249
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "247388977", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.949425, 
+                    50.9358387
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "255239657", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9234185, 
+                    50.9114974
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "265728727", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9202781, 
+                    50.9481728
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "419010439", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9061345, 
+                    51.0117479
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "475012301", 
+            "properties": {
+                "tags/name": "Stadtsparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.861026, 
+                    51.0630931
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1341151971", 
+            "properties": {
+                "tags/name": "Sparkasse Köln Bonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9328268, 
+                    50.9276933
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1609157079", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.897402, 
+                    51.0216619
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "1668102576", 
+            "properties": {
+                "tags/name": "Sparkasse"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9542728, 
+                    50.9429199
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2103595703", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581998, 
+                    50.9416647
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2629536675", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1195509, 
+                    50.8804496
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2629647241", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    7.1223733, 
+                    50.878861
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2629647242", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8902456, 
+                    50.9869509
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2630064524", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9581128, 
+                    50.9431837
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2634947257", 
+            "properties": {
+                "tags/name": "Sparkasse KölnBonn"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9184582, 
+                    50.9587984
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2638236794", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9407866, 
+                    50.9354693
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2655934640", 
+            "properties": {
+                "tags/name": ""
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.9517167, 
+                    50.9399669
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2656318761", 
+            "properties": {
+                "tags/name": ""
+            }
+        }
+    ]
+}

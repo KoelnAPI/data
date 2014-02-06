@@ -1,10 +1,10 @@
 {
     "type": "FeatureCollection", 
     "bbox": [
-        6.9348687, 
+        6.8866562, 
         50.9151791, 
         7.1214438, 
-        50.9991305
+        51.0920413
     ], 
     "features": [
         {
@@ -61,6 +61,20 @@
             "id": "2075027207", 
             "properties": {
                 "tags/name": "Frauenarztpraxis Dr. Mallmann"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8866562, 
+                    51.0920413
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2131011094", 
+            "properties": {
+                "tags/name": "St. Josef Krankenhaus Monheim (alt / ehemals / ohne Funktion)"
             }
         }
     ]

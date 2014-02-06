@@ -4,7 +4,7 @@
         6.8091682, 
         50.80754, 
         7.1825787, 
-        50.9984181
+        51.0979449
     ], 
     "features": [
         {
@@ -131,6 +131,62 @@
             "id": "2459775235", 
             "properties": {
                 "tags/name": "Zahnarztpraxis Hardt"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8513524, 
+                    51.0861498
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2641897432", 
+            "properties": {
+                "tags/name": "Anfahrtspunkt AAO Rhein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8599814, 
+                    51.0925174
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2641919097", 
+            "properties": {
+                "tags/name": "Anfahrtspunkt AAO Rhein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.8655205, 
+                    51.0944197
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2641919098", 
+            "properties": {
+                "tags/name": "Anfahrtspunkt AAO Rhein"
+            }
+        }, 
+        {
+            "geometry": {
+                "type": "Point", 
+                "coordinates": [
+                    6.874888, 
+                    51.0979449
+                ]
+            }, 
+            "type": "Feature", 
+            "id": "2641919099", 
+            "properties": {
+                "tags/name": "Anfahrtspunkt AAO Rhein"
             }
         }
     ]
