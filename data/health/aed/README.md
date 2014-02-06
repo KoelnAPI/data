@@ -21,10 +21,15 @@ Dies ist der letzte Stand der konsolidierten Datensammlung. Zur Bedeutung der Sp
 * `address`: Straße und Hausnummer des Gebäudes
 * `opening_hours`: Öffnunszeiten
 * `osm_node_id`: Falls dieser Standort bereits in der OpenStreetMap eingetragen ist, wird hier die ID des Knotens erfasst
+* `aed4eu_id`: ID dieses Standorts bei AED4.EU
+* `crowdsav_id`: ID dieses Standorts bei CrowdSav
 * `source`: Quelle, aus der der Eintrag stammt
 * `last_edited`: Datum und ggf. Uhrzeit der letzten Bearbeitung
 * `last_edited_by`: Name des letzten Bearbeiters
 * `comment`: Bearbeitungskommentar (nur angeben falls nötig)
+
+Zu AED4EU: http://aed4.eu/
+Zu CrowdSav: https://www.crowdsav.com/aeds
 
 ## Haftungsausschluss
 
