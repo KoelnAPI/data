@@ -33,3 +33,13 @@ cd ..
 
 # Konvertiere Crowdsav JSON zu CSV-Datei
 in2csv -f json -k pois _source/$FILENAME > _source/aed_crowdsav.csv
+
+### Download HTML-Tabelle von defikoeln.de
+
+SOURCE_URL="http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/"
+FILENAME=aed_defikoeln.html
+echo "Downloading $NAME to _source/$FILENAME"
+cd _source
+rm $FILENAME
+wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
+cd ..
