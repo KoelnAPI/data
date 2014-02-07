@@ -1,5 +1,5 @@
 {
-    "last_modified": "2014-02-07T15:57:09", 
+    "last_modified": "2014-02-07T18:15:41", 
     "messages": [
         {
             "station_info": [
@@ -372,7 +372,7 @@
                     "station": "Z\u00fcndorf Gl. 2"
                 }
             ], 
-            "text": "Linie 7* Feuerwehreinsatz im Bereich Poll Salmstr. ist beendet  * Dadurch fahren die Bahnen zurzeit noch in unregelm\u00e4\u00dfigen Zeitabst\u00e4nden * Es kommt in beiden Richtungen noch zu Versp\u00e4tungen *", 
+            "text": "Linie 7* Nach einem Verkehrsunfall und einem Feuerwehreinsatz an der (H) Brahmstr. fahren die Bahnen zurzeit noch in beiden Richtungen in unregelm\u00e4\u00dfigen Zeitabst\u00e4nden *", 
             "type": "St\u00f6rungsmeldung"
         }, 
         {
@@ -660,50 +660,16 @@
         {
             "station_info": [
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Appellhofplatz"
-                }, 
-                {
-                    "direction": "Dom/Hbf", 
-                    "station": "Breslauer Platz/Hbf"
-                }, 
-                {
-                    "direction": "Ebertplatz", 
-                    "station": "Breslauer Platz/Hbf"
-                }, 
-                {
-                    "direction": "Dom", 
-                    "station": "Ebertplatz Gleis 3"
-                }, 
-                {
-                    "direction": "Deutz/Barbarossaplatz", 
-                    "station": "Neumarkt/U-Bahn"
-                }, 
-                {
-                    "direction": "Deutz/Barbarossaplatz", 
-                    "station": "Poststra\u00dfe"
-                }, 
-                {
-                    "direction": "Ebertplatz", 
-                    "station": "Reichenspergerplatz"
-                }, 
-                {
-                    "direction": "M\u00fclheim/ Niehl", 
-                    "station": "Reichenspergerplatz"
-                }
-            ], 
-            "text": "Linien 16 und 18* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen der Linie 16 und 18 fahren zurzeit in beiden Richtungen ab der (H) Barbarossaplatz \u00fcber die Ringstrecke * Die Bahnen k\u00f6nnen nicht mehr \u00fcber den Appellhofplatz fahren *", 
-            "type": "St\u00f6rungsmeldung"
-        }, 
-        {
-            "station_info": [
-                {
                     "direction": "Ebertplatz", 
                     "station": "Amsterdamer Str./G\u00fcrtel"
                 }, 
                 {
                     "direction": "Sebastianstr.", 
                     "station": "Amsterdamer Str./G\u00fcrtel"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Appellhofplatz"
                 }, 
                 {
                     "direction": "Barbarossaplatz", 
@@ -726,14 +692,6 @@
                     "station": "Bayenthalg\u00fcrtel"
                 }, 
                 {
-                    "direction": "Buchheim", 
-                    "station": "Bf. M\u00fclheim"
-                }, 
-                {
-                    "direction": "Ebertplatz/S\u00fclz", 
-                    "station": "Bf. M\u00fclheim"
-                }, 
-                {
                     "direction": "Ebertplatz", 
                     "station": "Boltensternstra\u00dfe"
                 }, 
@@ -742,12 +700,24 @@
                     "station": "Boltensternstra\u00dfe"
                 }, 
                 {
+                    "direction": "Dom/Hbf", 
+                    "station": "Breslauer Platz/Hbf"
+                }, 
+                {
+                    "direction": "Ebertplatz", 
+                    "station": "Breslauer Platz/Hbf"
+                }, 
+                {
                     "direction": "Thielenbruch", 
                     "station": "Buchheim Herler Str."
                 }, 
                 {
                     "direction": "M\u00fclheim/Niehl", 
                     "station": "Ebertplatz Gleis 1"
+                }, 
+                {
+                    "direction": "Dom", 
+                    "station": "Ebertplatz Gleis 3"
                 }, 
                 {
                     "direction": "Klettenberg", 
@@ -788,6 +758,22 @@
                 {
                     "direction": "Niehl", 
                     "station": "Nesselrodestr."
+                }, 
+                {
+                    "direction": "Deutz/Barbarossaplatz", 
+                    "station": "Neumarkt/U-Bahn"
+                }, 
+                {
+                    "direction": "Deutz/Barbarossaplatz", 
+                    "station": "Poststra\u00dfe"
+                }, 
+                {
+                    "direction": "Ebertplatz", 
+                    "station": "Reichenspergerplatz"
+                }, 
+                {
+                    "direction": "M\u00fclheim/ Niehl", 
+                    "station": "Reichenspergerplatz"
                 }, 
                 {
                     "direction": null, 
@@ -838,10 +824,6 @@
                     "station": "Slabystra\u00dfe"
                 }, 
                 {
-                    "direction": "Dellbr\u00fcck", 
-                    "station": "Thielenbruch"
-                }, 
-                {
                     "direction": "S\u00fcrth", 
                     "station": "Ubierring"
                 }, 
@@ -862,20 +844,38 @@
                     "station": "Wei\u00dfhausstra\u00dfe"
                 }, 
                 {
-                    "direction": "Buchheim", 
-                    "station": "Wiener Platz/U-Bahn"
-                }, 
-                {
-                    "direction": "Ebertplatz/S\u00fclz", 
-                    "station": "Wiener Platz/U-Bahn"
-                }, 
-                {
                     "direction": "Ebertplatz", 
                     "station": "Zoo"
                 }, 
                 {
                     "direction": "M\u00fclheim", 
                     "station": "Zoo"
+                }
+            ], 
+            "text": "Linien 16 und 18* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen der Linie 16 und 18 fahren zurzeit in beiden Richtungen ab der (H) Barbarossaplatz \u00fcber die Ringstrecke im Zuge der Linien 12 und 15 und ab (H) Ebertplatz weiter den Linienweg  *", 
+            "type": "St\u00f6rungsmeldung"
+        }, 
+        {
+            "station_info": [
+                {
+                    "direction": "Buchheim", 
+                    "station": "Bf. M\u00fclheim"
+                }, 
+                {
+                    "direction": "Ebertplatz/S\u00fclz", 
+                    "station": "Bf. M\u00fclheim"
+                }, 
+                {
+                    "direction": "Dellbr\u00fcck", 
+                    "station": "Thielenbruch"
+                }, 
+                {
+                    "direction": "Buchheim", 
+                    "station": "Wiener Platz/U-Bahn"
+                }, 
+                {
+                    "direction": "Ebertplatz/S\u00fclz", 
+                    "station": "Wiener Platz/U-Bahn"
                 }
             ], 
             "text": "Linien 16 und 18* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen der Linie 16 und 18 fahren zurzeit in beiden Richtungen ab der (H) Barbarossaplatz \u00fcber die Ringstrecke im Zuge der Linien 12 und 15 und ab (H) Ebertplatz weiter den Linienweg  * Die Bahnen k\u00f6nnen nicht mehr \u00fcber den Appellhofplatz fahren *", 
@@ -900,24 +900,8 @@
                     "station": "Berliner Stra\u00dfe"
                 }, 
                 {
-                    "direction": "Schlebusch/Holweide", 
-                    "station": "Bf. Deutz/LANXESS arena"
-                }, 
-                {
-                    "direction": "Schlebusch/Holweide", 
-                    "station": "Bf. Deutz/LANXESS arena"
-                }, 
-                {
                     "direction": "Neumarkt", 
                     "station": "Bocklem\u00fcnd"
-                }, 
-                {
-                    "direction": "Schlebusch/Holweide", 
-                    "station": "Deutz Messe/Osthalle"
-                }, 
-                {
-                    "direction": "Schlebusch/Holweide", 
-                    "station": "Deutz Messe/Osthalle"
                 }, 
                 {
                     "direction": "Schlebusch", 
@@ -926,10 +910,6 @@
                 {
                     "direction": "Schlebusch", 
                     "station": "Im Weidenbruch"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "K\u00f6rnerstra\u00dfe"
                 }, 
                 {
                     "direction": "Schlebusch", 
@@ -948,22 +928,6 @@
                     "station": "Odenthaler Stra\u00dfe"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Piusstra\u00dfe"
-                }, 
-                {
-                    "direction": "Holweide/Schlebusch", 
-                    "station": "Severinstr."
-                }, 
-                {
-                    "direction": "Schlebusch/Holweide", 
-                    "station": "Stegerwaldsiedlung"
-                }, 
-                {
-                    "direction": "Deutz", 
-                    "station": "Suevenstra\u00dfe "
-                }, 
-                {
                     "direction": "Schlebusch", 
                     "station": "Von-Sparr-Stra\u00dfe"
                 }, 
@@ -978,6 +942,48 @@
                 {
                     "direction": "Neumarkt", 
                     "station": "Wolffsohnstr."
+                }
+            ], 
+            "text": "Linien 3 und 4 * Betriebsst\u00f6rung im Bereich Appellhofplatz *  Die Bahnen von Thielenbruch  kommend fahren ab der (H) Severinstr. \u00fcber den Barbarossaplatz weiter zum Eifelwall  * Die Bahnen kommend von Schlebusch fahren ab der (H) Severinstr. \u00fcber den Barbarossaplatz weiter zur (H) Eifelplatz *  Die Bahnen kommend von Ollenhauerring bzw. Bocklem\u00fcnd  fahren zurzeit nur noch bis zur (H) Friesenplatz * Bahnersatzverkehr ist leider nicht m\u00f6glich *", 
+            "type": "St\u00f6rungsmeldung"
+        }, 
+        {
+            "station_info": [
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Bf. Deutz/LANXESS arena"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Bf. Deutz/LANXESS arena"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Deutz Messe/Osthalle"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Deutz Messe/Osthalle"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "K\u00f6rnerstra\u00dfe"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Piusstra\u00dfe"
+                }, 
+                {
+                    "direction": "Holweide/Schlebusch", 
+                    "station": "Severinstr."
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Stegerwaldsiedlung"
+                }, 
+                {
+                    "direction": "Deutz", 
+                    "station": "Suevenstra\u00dfe "
                 }
             ], 
             "text": "Linien 3 und 4 * Betriebsst\u00f6rung im Bereich Appellhofplatz *  Die Bahnen von Thielenbruch  kommend fahren ab der (H) Severinstr. \u00fcber den Barbarossaplatz weiter zum Eifelwall  * Die Bahnen kommend von Schlebusch fahren ab der (H) Severinstr. \u00fcber den Barbarossaplatz weiter zur (H) Eifelplatz * Die (H) Poststr. wird zurzeit nicht angefahren * Die Bahnen kommend von Ollenhauerring bzw. Bocklem\u00fcnd  fahren zurzeit nur noch bis zur (H) Friesenplatz *", 
@@ -1036,6 +1042,48 @@
         {
             "station_info": [
                 {
+                    "direction": "Dom/Friesenplatz", 
+                    "station": "Appellhofplatz"
+                }, 
+                {
+                    "direction": null, 
+                    "station": "Friesenplatz"
+                }, 
+                {
+                    "direction": "Bocklem\u00fcnd/Ossendorf", 
+                    "station": "Hans-B\u00f6ckler-Platz"
+                }, 
+                {
+                    "direction": "Bocklem\u00fcnd", 
+                    "station": "K\u00f6rnerstra\u00dfe"
+                }, 
+                {
+                    "direction": "Appellhofplatz", 
+                    "station": "Neumarkt/U-Bahn"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Poststra\u00dfe"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Severinstr."
+                }, 
+                {
+                    "direction": "M\u00fclheim/Deutz", 
+                    "station": "Vischeringstra\u00dfe"
+                }, 
+                {
+                    "direction": "M\u00fclheim/Deutz", 
+                    "station": "Wichheimer Strasse"
+                }
+            ], 
+            "text": "Linien 3 und 4* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen fahren zurzeit nicht mehr die \u00fcblichen Linienwege * Die Bahnen kommend von Thielenbruch fahren zurzeit ab der (H) Severinstr. \u00fcber den Barbarossaplatz bis zur (H) Eifelwall und Linie 4 f\u00e4hrt ab der (H) Severinstr. zur (H) Eifelplatz  *  Bahnersatzverkehr ist zurzeit nicht m\u00f6glich *", 
+            "type": "St\u00f6rungsmeldung"
+        }, 
+        {
+            "station_info": [
+                {
                     "direction": "Mengenich", 
                     "station": "\u00c4u\u00dfere Kanalstr."
                 }, 
@@ -1048,10 +1096,6 @@
                     "station": "Am Emberg"
                 }, 
                 {
-                    "direction": "Dom/Friesenplatz", 
-                    "station": "Appellhofplatz"
-                }, 
-                {
                     "direction": "Neumarkt", 
                     "station": "Berliner Stra\u00dfe"
                 }, 
@@ -1060,24 +1104,12 @@
                     "station": "Bocklem\u00fcnd"
                 }, 
                 {
-                    "direction": null, 
-                    "station": "Friesenplatz"
-                }, 
-                {
                     "direction": "Deutz", 
                     "station": "Gr\u00fcnstra\u00dfe"
                 }, 
                 {
-                    "direction": "Bocklem\u00fcnd/Ossendorf", 
-                    "station": "Hans-B\u00f6ckler-Platz"
-                }, 
-                {
                     "direction": "M\u00fclheim", 
                     "station": "Im Weidenbruch"
-                }, 
-                {
-                    "direction": "Bocklem\u00fcnd", 
-                    "station": "K\u00f6rnerstra\u00dfe"
                 }, 
                 {
                     "direction": "Neumarkt", 
@@ -1096,10 +1128,6 @@
                     "station": "Maria-Himmelfahrt-Str."
                 }, 
                 {
-                    "direction": "Appellhofplatz", 
-                    "station": "Neumarkt/U-Bahn"
-                }, 
-                {
                     "direction": "M\u00fclheim", 
                     "station": "Odenthaler Stra\u00dfe"
                 }, 
@@ -1108,24 +1136,12 @@
                     "station": "Piusstra\u00dfe"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Poststra\u00dfe"
-                }, 
-                {
                     "direction": "M\u00fclheim", 
                     "station": "Schlebusch"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Severinstr."
-                }, 
-                {
                     "direction": null, 
                     "station": "Venloer Stra\u00dfe/G\u00fcrtel"
-                }, 
-                {
-                    "direction": "M\u00fclheim/Deutz", 
-                    "station": "Vischeringstra\u00dfe"
                 }, 
                 {
                     "direction": "M\u00fclheim", 
@@ -1134,10 +1150,6 @@
                 {
                     "direction": "Bocklem\u00fcnd", 
                     "station": "Westfriedhof"
-                }, 
-                {
-                    "direction": "M\u00fclheim/Deutz", 
-                    "station": "Wichheimer Strasse"
                 }, 
                 {
                     "direction": null, 
@@ -1152,7 +1164,7 @@
                     "station": "Wolffsohnstr."
                 }
             ], 
-            "text": "Linien 3 und 4* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen fahren zurzeit nicht mehr die \u00fcblichen Linienwege * Die Bahnen kommend von Thielenbruch fahren zurzeit ab der (H) Severinstr. \u00fcber den Barbarossaplatz bis zur (H) Eifelwall und Linie 4 f\u00e4hrt ab der (H) Severinstr. zur (H) Eifelplatz  * Die (H) Poststr. wird zurzeit nicht angefahren * Bahnersatzverkehr ist zurzeit nicht m\u00f6glich *", 
+            "text": "Linien 3 und 4* Betriebsst\u00f6rung im Bereich Appellhofplatz * Die Bahnen fahren zurzeit nicht mehr die \u00fcblichen Linienwege * Die Bahnen kommend von Thielenbruch fahren zurzeit ab der (H) Severinstr. \u00fcber den Barbarossaplatz bis zur (H) Eifelwall und Linie 4 f\u00e4hrt ab der (H) Severinstr. zur (H) Eifelplatz  *  Bahnersatzverkehr ist  nicht m\u00f6glich * Die (H) Poststr.-(H) Neumarkt -(H) Appellhofplatz werden nicht angefahren *", 
             "type": "St\u00f6rungsmeldung"
         }, 
         {
