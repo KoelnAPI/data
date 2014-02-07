@@ -21,6 +21,11 @@ Die eigentlichen Daten befinden sich in den Dateien
 
 Die Daten werden hier nicht regelmäßig aktualisiert. Sie sind daher als Beispiel zu verstehen.
 
+Zur Aktualisierung der Daten:
+
+    sh download.sh
+    python extract_messages.py
+
 ## Source / Quelle
 
 Kölner Verkehrsbetriebe
