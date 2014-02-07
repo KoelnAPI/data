@@ -8,7 +8,7 @@ Open Transport data for Cologne
 
 ## Beschreibung
 
-Daten zum öffenltichen Nahverkehr für Köln
+Daten zum öffentlichen Nahverkehr für Köln
 
 
 ## Source / Attribution
