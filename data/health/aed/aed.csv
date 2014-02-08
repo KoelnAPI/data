@@ -27,7 +27,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 26,Innenstadt,,Sparkasse KölnBonn,,Kaiser-Wilhelm-Ring 20,,6.9417141,50.9433635,286416915,,,defiköln,2014-02-08,marian,
 27,Innenstadt,,Sparkasse KölnBonn,,Hahnenstr. 57,,6.9407866,50.9354693,2655934640,,,defiköln,2014-02-05,marian,
 28,Innenstadt,Altstadt-Nord,Sparkasse KölnBonn,,Neumarkt 1d,,6.9494250,50.9358387,255239657,,7114,defiköln,2014-02-06,marian,
-29,Innenstadt,Deutz,Sparkasse KölnBonn,,Gotenring 1,,,,,,,defiköln,,,
+29,Innenstadt,Deutz,Sparkasse KölnBonn,,Gotenring 1,,6.9782272,50.9368437,2661022368,,7179,defiköln,2014-02-08,marian,
 30,Innenstadt,Severin,Sparkasse KölnBonn,,Severinstr.149/Im Dau,,,,,,,defiköln,,,
 31,Innenstadt,,St. Marien-Hospital,,Kunibertskloster 11-13,,,,,,,defiköln,,,
 32,Kalk,Kalk,Ev. Krankenhaus Kalk,,Buchforststr. 2,,,,,,,defiköln,,,
