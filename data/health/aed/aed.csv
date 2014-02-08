@@ -16,7 +16,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,os
 15,Ehrenfeld,Vogelsang,Sparkasse KölnBonn,,Vogelsanger Str. 452 a,,,,,defiköln,,,
 16,Ehrenfeld,Ehrenfeld,St. Franziskus-Hospital,,Schönsteinstr. 63,,,,,defiköln,,,
 17,Innenstadt,Deutz,Eduardus-Krankenhaus,,Custodisstr. 3-17,,,,,defiköln,,,
-18,Innenstadt,Altstadt-Nord,Kölner Dom,Nordeingang (Richtung Bahnhof),,6.00-19.30 Uhr,2629536675,,,defiköln,2014-02-08,marian,
+18,Innenstadt,Altstadt-Nord,Kölner Dom,Nordeingang (Richtung Bahnhof),,6.00-19.30 Uhr,2629536675,,7110,defiköln,2014-02-08,marian,
 19,Innenstadt,,Krankenhaus der Augustinerinnen,,Jakobstr. 27-31,,,,,defiköln,,,
 20,Innenstadt,Altstadt-Nord,Sparkasse KölnBonn,im Hauptbahnhof,,,2634947257,,,defiköln,2014-01-24,marian,
 21,Innenstadt,,Sparkasse KölnBonn,,Ebertplatz 1,,,,,defiköln,,,
