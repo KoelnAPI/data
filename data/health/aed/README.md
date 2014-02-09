@@ -1,7 +1,9 @@
 Defibrillatoren / AED
 =====================
 
-In diesem Bereich werden Standort-Daten zu Defibrillatoren, auch AED genannt (für "Automatisierter Externer Defibrillator), aus verschiedenen Quellen gesammelt und gemeinsam zur Verfügung gestellt.
+*(Information in English below)*
+
+In diesem Bereich werden Standort-Daten zu Defibrillatoren, auch AED ("Automatisierter Externer Defibrillator) genannt, aus verschiedenen Quellen gesammelt und gemeinsam zur Verfügung gestellt.
 
 Weitere Informationen: http://wiki.koelnapi.de/w/Defibrillatoren
 
@@ -11,7 +13,9 @@ Public Domain: Die Daten sind frei von Urheberrechten und können ohne Einschrä
 
 ## Die Datei `aed.csv`
 
-Dies ist der letzte Stand der konsolidierten Datensammlung. Zur Bedeutung der Spalten:
+Die Datei aed.csv ist das Herzstück unserer konsolidierten Datensammlung. Hier sollen alle neue Standorte eingetragen werden und nach und nach mit weiteren Details versehen werden.
+
+Zur Bedeutung der Spalten:
 
 * `id`: Eindeutige ID zur Kennzeichnung des Defi(-standorts), vergeben von Köln API
 * `city_district`: Name des Stadtbezirks
@@ -20,6 +24,8 @@ Dies ist der letzte Stand der konsolidierten Datensammlung. Zur Bedeutung der Sp
 * `location_details`: Beschreibung des Standorts innerhalb des Gebäudes
 * `address`: Straße und Hausnummer des Gebäudes
 * `opening_hours`: Öffnunszeiten
+* `longitude`: Geografischer Längengrad (WGS84-Koordinatensystem)
+* `latitude`: Geografischer Breitengrad (WGS84-Koordinatensystem)
 * `osm_node_id`: Falls dieser Standort bereits in der OpenStreetMap eingetragen ist, wird hier die ID des Knotens erfasst
 * `aed4eu_id`: ID dieses Standorts bei AED4.EU
 * `crowdsav_id`: ID dieses Standorts bei CrowdSav
@@ -31,9 +37,76 @@ Dies ist der letzte Stand der konsolidierten Datensammlung. Zur Bedeutung der Sp
 Zu AED4EU: http://aed4.eu/
 Zu CrowdSav: https://www.crowdsav.com/aeds
 
+## Der Ordner `_source`
+
+In diesem Ordner werden unveränderte Kopien von Dateien abglegt, die wir aus verschiedenen Quellen zusammen tragen.
+
+* `_source/aed_crowdsav.json`: Standortdaten von [CrowdSav](https://www.crowdsav.com/aeds) im Original
+* `_source/aed_crowdsav.csv`: Standortdaten von [CrowdSav](https://www.crowdsav.com/aeds) in CSV konvertiert
+* `_source/aed_defikoeln.html`: Standortdaten von [defiköln](http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/)
+* `_source/aed_stadt_koeln.csv`: Standortdaten der [Stadt Köln](http://www.offenedaten-koeln.de/dataset/defibrillatoren-stadt-k%C3%B6ln). Lizenz: Creative Commons Namensnennung ([CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/de/))
+
+
 ## Haftungsausschluss
 
 Die Daten werden ohne jegliche Garantie der Richtigkeit oder Vollständigkeit veröffentlicht.
+
+
+## FAQ
+
+### Ich kenne einen Defibrillator-Standort. Was soll ich tun?
+
+1. Bitte sieh in der Datei `aed.csv` nach, ob der Standort in der Datei schon erfasst ist. Wenn ja, brauchst Du nichts weiter zu tun.
+2. Ist der Standrt noch nicht erfasst, dann teile uns bitte den Standort mit. Siehe dazu die nächste Frage "Wie kann ich einen Defibrillator-Standort melden?"
+
+### Wie kann ich einen Defibrillator-Standort melden?
+
+Dazu gibt es mehrere Möglichkeiten. Der für uns einfachste:
+
+1. Forke dieses Repository hier auf GitHub.
+2. Füge am Ende von `aed.csv` einen neuen Eintrag hinzu. Fülle dabei alle Felder aus, die Du ausfüllen kannst.
+3. Speichere die Datei und "committe" die Änderung ins Repository.
+4. Sende die Änderung als Pull Request an uns.
+
+Falls Dir das zu kompliziert vorkommt, kannst Du uns auch eine E-Mail schreiben.
+
+1. Bitte nenne mindestens die Adresse des Standorts.
+2. Maile das ganze an `marian AT sendung PUNKT de`.
+
+### Wie kann ich Änderungen an einem Defibrillator-Standort melden?
+
+Dies ist die bevorzugte Methode:
+
+1. Forke dieses Repository hier auf Github.
+2. Bearbeite den entsprechenden Eintrag in der Dtaei `aed.csv`.
+3. Speichere die Datei und "committe" die Änderung ins Repository.
+4. Sende die Änderung als Pull Request an uns.
+
+Oder Du schreibst eine E-Mail.
+
+1. Bitte nenne unbedingt die ID des Eintrags (erste Spalte in `aed.csv`).
+2. Sag uns genau, was sich ändern muss.
+3. Maile das ganze an `marian AT sendung PUNKT de`.
+
+### Ich möchte einen Defibrillator-Standort in die OpenStreetMap eintragen. Was muss ich tun?
+
+1. Du benötigst ein Benutzerkonteo auf http://www.openstreetmap.org/.
+2. Sobald Du eingeloggt bist, kannst Du auf http://www.openstreetmap.org/ an der richtigen Position auf den Button "Bearbeiten" klicken. Damit aktivierst Du die Bearbeitungsfunktionen von OSM.
+3. Sieh nach, ob es schon einen geigneten Punkt (node) für den Defibrillator-Standort gibt. Bei einer kleinen Sparkassen-Filiale beispielsweise könnte es reichen, diesen mit einem zusätzlichen Tag zu versehen.
+4. Sollte es keinen geeigneten Punkt geben, lege einen neuen Punkt mit der richtigen Position an.
+5. Versieh den entsprechenden Punkt mit dem Tag `emergency=defibrillator`.
+6. Merke Dir die ID des Punkts, den Du bearbeitest. Diese kannst Du herausfinden, wenn Du im Web-Editor den Punkt markierst und dann unten links auf den Link "Auf openstreetmap.org ansehen" klickts.
+7. Sende die Änderung an OSM. Im Änderungskommentar kannst Du als Quelle diese Seite angeben.
+8. Forke dieses Repository hier auf Github.
+9. Bearbeite den Eintrag des Defibrillators in der Dtaei `aed.csv` und trage in der Spalte `osm_node_id` die ID des Punkts ein, die Du in Schritt 6 herausgefunden hast.
+10. Speichere die Datei und "committe" die Änderung ins Repository.
+11. Sende die Änderung als Pull Request an uns.
+
+Die Schritte 8 bis 11 dienen als Rückmeldung an uns. Wenn Dir die Schritte 8 bis 11 zu kompliziert vorkommen, kannst Du uns auch eine Nachricht schicken. Siehe dazu weiter oben "Wie kann ich Änderungen an einem Defibrillator-Standort melden?".
+
+
+# Information in English
+
 
 ## Description
 
@@ -41,9 +114,47 @@ Here we collect location data on AEDs. Additional information in German:
 
 http://wiki.koelnapi.de/w/Defibrillatoren
 
+
 ## License
 
 Public Domain, no rights reserved.
+
+
+## The file `aed.csv`
+
+This is the centerpiece of this data collection. It contains consolidated AED location information. Every location we know about shall have an entry in this file. More details an be acquired per entry over time.
+
+The column schema:
+
+* `id`: Unique identifier we (Köln API) assign to each entry
+* `city_district`: Name of the city district
+* `city_subdistrict`: Name des city sub district
+* `name`: Descriptive name of the AED location, e.g. building name
+* `location_details`: Optional description of the AED location, e.g. inside the building
+* `address`: street and house number of the position
+* `opening_hours`: Opening hours (if applicable)
+* `longitude`: geographic longitude (WGS84 coordinate referene system)
+* `latitude`: geographic latitude (WGS84 coordinate referene system)
+* `osm_node_id`: ID of the OSM node of this location, in case the AED is already mapped in OSM
+* `aed4eu_id`: ID of this AED location in the AED4EU database
+* `crowdsav_id`: ID of this AED location at CrowdSav
+* `source`: Origin of this entry
+* `last_edited`: Date if last edit
+* `last_edited_by`: Name of the last editor
+* `comment`: Optional editors comment
+
+More about AED4EU: http://aed4.eu/
+More about CrowdSav: https://www.crowdsav.com/aeds
+
+## The folder `_source`
+
+In this folder we hold and track copies of the data we download from different sources.
+
+* `_source/aed_crowdsav.json`: Location data from [CrowdSav](https://www.crowdsav.com/aeds)
+* `_source/aed_crowdsav.csv`: Location data from CrowdSav converted to CSV
+* `_source/aed_defikoeln.html`: Location data from [defiköln](http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/)
+* `_source/aed_stadt_koeln.csv`: Location data from the [City of Cologne](http://www.offenedaten-koeln.de/dataset/defibrillatoren-stadt-k%C3%B6ln). License: Creative Commons Attribution ([CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/de/))
+
 
 ## Disclaimer
 
