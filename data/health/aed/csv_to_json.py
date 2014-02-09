@@ -56,10 +56,10 @@ def convert(input_path):
             if key not in ["id", "latitude", "longitude"]:
                 feature["properties"][key] = record[key]
         geojson["features"].append(feature)
-    fp = open("aed.json", "wb")
+    fp = open("aed.geojson", "wb")
     fp.write(json.dumps(geojson, indent=4, sort_keys=True))
     fp.close()
-    fp = open("aed.min.json", "wb")
+    fp = open("aed.min.geojson", "wb")
     fp.write(json.dumps(geojson))
     fp.close()
 
