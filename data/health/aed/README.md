@@ -57,7 +57,7 @@ Die Daten werden ohne jegliche Garantie der Richtigkeit oder Vollständigkeit ve
 ### Ich kenne einen Defibrillator-Standort. Was soll ich tun?
 
 1. Bitte sieh in der Datei `aed.csv` nach, ob der Standort in der Datei schon erfasst ist. Wenn ja, brauchst Du nichts weiter zu tun.
-2. Ist der Standrt noch nicht erfasst, dann teile uns bitte den Standort mit. Siehe dazu die nächste Frage "Wie kann ich einen Defibrillator-Standort melden?"
+2. Ist der Standort noch nicht erfasst, dann teile uns bitte den Standort mit. Siehe dazu die nächste Frage "Wie kann ich einen Defibrillator-Standort melden?"
 
 ### Wie kann ich einen Defibrillator-Standort melden?
 
