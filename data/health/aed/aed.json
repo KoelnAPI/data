@@ -1,0 +1,967 @@
+{
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    6.897402, 
+                    51.0216619
+                ], 
+                "type": "Point"
+            }, 
+            "id": 1, 
+            "properties": {
+                "address": "Mail\u00e4nder Passage 51", 
+                "aed4eu_id": null, 
+                "city_district": "Chorweiler", 
+                "city_subdistrict": "Chorweiler", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1668102576, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9061345, 
+                    51.0117479
+                ], 
+                "type": "Point"
+            }, 
+            "id": 2, 
+            "properties": {
+                "address": "Haselnu\u00dfhof 1", 
+                "aed4eu_id": null, 
+                "city_district": "Chorweiler", 
+                "city_subdistrict": "Heimersdorf", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 475012301, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9587787, 
+                    51.0252249
+                ], 
+                "type": "Point"
+            }, 
+            "id": 3, 
+            "properties": {
+                "address": "Merkenicher Hauptstr. 123", 
+                "aed4eu_id": null, 
+                "city_district": "Chorweiler", 
+                "city_subdistrict": "Merkenich", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 247388977, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.861026, 
+                    51.0630931
+                ], 
+                "type": "Point"
+            }, 
+            "id": 5, 
+            "properties": {
+                "address": "Hackhauser Weg 19", 
+                "aed4eu_id": null, 
+                "city_district": "Chorweiler", 
+                "city_subdistrict": "Worringen", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1341151971, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8902456, 
+                    50.9869509
+                ], 
+                "type": "Point"
+            }, 
+            "id": 6, 
+            "properties": {
+                "address": "Am Coloneum 9", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Butzweilerhof", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "NetCologne", 
+                "opening_hours": null, 
+                "osm_node_id": 2630064524, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9009467, 
+                    50.9575192
+                ], 
+                "type": "Point"
+            }, 
+            "id": 7, 
+            "properties": {
+                "address": "Venloer Str. 628", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Bickendorf", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 224445220, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8678883, 
+                    50.9801707
+                ], 
+                "type": "Point"
+            }, 
+            "id": 8, 
+            "properties": {
+                "address": "G\u00f6rlinger Zentrum 25", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Bocklem\u00fcnd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-23", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 244296667, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9202781, 
+                    50.9481728
+                ], 
+                "type": "Point"
+            }, 
+            "id": 10, 
+            "properties": {
+                "address": "Venloer Str. 295", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Ehrenfeld", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-26", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 419010439, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9184582, 
+                    50.9587984
+                ], 
+                "type": "Point"
+            }, 
+            "id": 11, 
+            "properties": {
+                "address": "Iltisstr. 20", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Ehrenfeld", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-26", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2638236794, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8997524, 
+                    50.9678877
+                ], 
+                "type": "Point"
+            }, 
+            "id": 12, 
+            "properties": {
+                "address": "Frohnhofstr. 130", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Ossendorf", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-26", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 230226555, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9198855, 
+                    50.953704
+                ], 
+                "type": "Point"
+            }, 
+            "id": 13, 
+            "properties": {
+                "address": "Subbelrather Str. 243", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Subbelrath", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-26", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 196170706, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8803851, 
+                    50.9558199
+                ], 
+                "type": "Point"
+            }, 
+            "id": 15, 
+            "properties": {
+                "address": "Vogelsanger Str. 452 a", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Vogelsang", 
+                "comment": null, 
+                "crowdsav_id": 7222, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 224392074, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.917627, 
+                    50.9540844
+                ], 
+                "type": "Point"
+            }, 
+            "id": 16, 
+            "properties": {
+                "address": "Sch\u00f6nsteinstr. 63", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Ehrenfeld", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "St. Franziskus-Hospital", 
+                "opening_hours": null, 
+                "osm_node_id": 2660981735, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9803208, 
+                    50.9327494
+                ], 
+                "type": "Point"
+            }, 
+            "id": 17, 
+            "properties": {
+                "address": "Custodisstr. 3-17", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": 7178, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Eduardus-Krankenhaus", 
+                "opening_hours": null, 
+                "osm_node_id": 2660988163, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9581998, 
+                    50.9416647
+                ], 
+                "type": "Point"
+            }, 
+            "id": 18, 
+            "properties": {
+                "address": null, 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": 7110, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": "Nordeingang (Richtung Bahnhof)", 
+                "name": "K\u00f6lner Dom", 
+                "opening_hours": "6.00-19.30 Uhr", 
+                "osm_node_id": 2629536675, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9581128, 
+                    50.9431837
+                ], 
+                "type": "Point"
+            }, 
+            "id": 20, 
+            "properties": {
+                "address": null, 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-24", 
+                "last_edited_by": "marian", 
+                "location_details": "im Hauptbahnhof", 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2634947257, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9562411, 
+                    50.9505568
+                ], 
+                "type": "Point"
+            }, 
+            "id": 21, 
+            "properties": {
+                "address": "Ebertplatz 1", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2660994495, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9415515, 
+                    50.9287722
+                ], 
+                "type": "Point"
+            }, 
+            "id": 22, 
+            "properties": {
+                "address": "Barbarossaplatz 2", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": 7116, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 283622259, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9572986, 
+                    50.9363873
+                ], 
+                "type": "Point"
+            }, 
+            "id": 24, 
+            "properties": {
+                "address": "G\u00fcrzenichstr. 19", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": 7113, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 259198814, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9542728, 
+                    50.9429199
+                ], 
+                "type": "Point"
+            }, 
+            "id": 25, 
+            "properties": {
+                "address": "An den Dominikanern 6", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": 7112, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2103595703, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9417141, 
+                    50.9433635
+                ], 
+                "type": "Point"
+            }, 
+            "id": 26, 
+            "properties": {
+                "address": "Kaiser-Wilhelm-Ring 20", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 286416915, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9407866, 
+                    50.9354693
+                ], 
+                "type": "Point"
+            }, 
+            "id": 27, 
+            "properties": {
+                "address": "Hahnenstr. 57", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": null, 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-05", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2655934640, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.949425, 
+                    50.9358387
+                ], 
+                "type": "Point"
+            }, 
+            "id": 28, 
+            "properties": {
+                "address": "Neumarkt 1d", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": 7114, 
+                "last_edited": "2014-02-06", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 255239657, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9782272, 
+                    50.9368437
+                ], 
+                "type": "Point"
+            }, 
+            "id": 29, 
+            "properties": {
+                "address": "Gotenring 1", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": 7179, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2661022368, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9575933, 
+                    50.9275528
+                ], 
+                "type": "Point"
+            }, 
+            "id": 30, 
+            "properties": {
+                "address": "Severinstr.149/Im Dau", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Severin", 
+                "comment": null, 
+                "crowdsav_id": 7117, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2661030909, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.074945, 
+                    50.9454596
+                ], 
+                "type": "Point"
+            }, 
+            "id": 33, 
+            "properties": {
+                "address": "Olpener Str. 795-799", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Br\u00fcck", 
+                "comment": null, 
+                "crowdsav_id": 7163, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2661041117, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0242056, 
+                    50.9400832
+                ], 
+                "type": "Point"
+            }, 
+            "id": 34, 
+            "properties": {
+                "address": "Olpener Str. 156 - 158", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "H\u00f6henberg", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 637570861, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9956233, 
+                    50.9303164
+                ], 
+                "type": "Point"
+            }, 
+            "id": 35, 
+            "properties": {
+                "address": "Gremberger Str. 32", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Humbold", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1427508090, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0014664, 
+                    50.9378688
+                ], 
+                "type": "Point"
+            }, 
+            "id": 36, 
+            "properties": {
+                "address": "Kalker Hauptstr. 129-133", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Kalk", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2661133855, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0455762, 
+                    50.9429305
+                ], 
+                "type": "Point"
+            }, 
+            "id": 37, 
+            "properties": {
+                "address": "Olpener Str. 397", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Merheim", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2127984949, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9234185, 
+                    50.9114974
+                ], 
+                "type": "Point"
+            }, 
+            "id": 49, 
+            "properties": {
+                "address": "Luxemburger Str. 331", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Klettenberg", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": null, 
+                "last_edited_by": null, 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 265728727, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9328268, 
+                    50.9276933
+                ], 
+                "type": "Point"
+            }, 
+            "id": 60, 
+            "properties": {
+                "address": "Z\u00fclpicher Str. 70", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "S\u00fclz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": "Foyer im MG neben den Toiletten", 
+                "name": "Unimensa", 
+                "opening_hours": null, 
+                "osm_node_id": 1609157079, 
+                "source": "OSM"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9392709, 
+                    50.9686268
+                ], 
+                "type": "Point"
+            }, 
+            "id": 75, 
+            "properties": {
+                "address": "Longericher Str. 1", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Bilderst\u00f6ckchen", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 246829498, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1223733, 
+                    50.878861
+                ], 
+                "type": "Point"
+            }, 
+            "id": 107, 
+            "properties": {
+                "address": "Heinrich-Steinmann-Stra\u00dfe", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Grengel", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": "Am Info-Schalter", 
+                "name": "Flughafen K\u00f6ln/Bonn Terminal 1", 
+                "opening_hours": null, 
+                "osm_node_id": 2629647242, 
+                "source": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1195509, 
+                    50.8804496
+                ], 
+                "type": "Point"
+            }, 
+            "id": 108, 
+            "properties": {
+                "address": "Heinrich-Steinmann-Stra\u00dfe", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Grengel", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-01-20", 
+                "last_edited_by": "marian", 
+                "location_details": "Am Info-Schalter", 
+                "name": "Flughafen K\u00f6ln/Bonn Terminal 2", 
+                "opening_hours": null, 
+                "osm_node_id": 2629647241, 
+                "source": null
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9588287, 
+                    50.9385724
+                ], 
+                "type": "Point"
+            }, 
+            "id": 133, 
+            "properties": {
+                "address": "Rathaus Spanischer Bau, 50667 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-S\u00fcd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-08", 
+                "last_edited_by": "marian", 
+                "location_details": "Bereich Infotheke", 
+                "name": "Rathaus Spanischer Bau", 
+                "opening_hours": "Mo - Fr 08:00 - 16:00 Uhr und zu Veranstaltungen", 
+                "osm_node_id": 2660970270, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9517167, 
+                    50.9399669
+                ], 
+                "type": "Point"
+            }, 
+            "id": 136, 
+            "properties": {
+                "address": "Apellhofplatz/Kupfergasse, 50667 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-04", 
+                "last_edited_by": "marian", 
+                "location_details": "Haupteingang Empfang", 
+                "name": "WDR Vierscheibenhaus", 
+                "opening_hours": null, 
+                "osm_node_id": 2656318761, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
