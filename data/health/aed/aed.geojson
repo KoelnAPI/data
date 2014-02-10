@@ -783,6 +783,84 @@
         {
             "geometry": {
                 "coordinates": [
+                    7.061611, 
+                    50.9347566
+                ], 
+                "type": "Point"
+            }, 
+            "id": 38, 
+            "properties": {
+                "address": "An St. Adelheid 14", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Neubr\u00fcck", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2665197233, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0411877, 
+                    50.9299493
+                ], 
+                "type": "Point"
+            }, 
+            "id": 39, 
+            "properties": {
+                "address": "Frankfurter Str. 705", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Ostheim", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2181249590, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0851912, 
+                    50.9222671
+                ], 
+                "type": "Point"
+            }, 
+            "id": 40, 
+            "properties": {
+                "address": "R\u00f6srather Str. 605-607", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Rath/Heumar", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 698868715, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9234185, 
                     50.9114974
                 ], 
