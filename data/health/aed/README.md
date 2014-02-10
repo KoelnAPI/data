@@ -37,6 +37,12 @@ Zur Bedeutung der Spalten:
 Zu AED4EU: http://aed4.eu/
 Zu CrowdSav: https://www.crowdsav.com/aeds
 
+## Derivate `aed.geojson` und `aed.min.geojson`
+
+Diese beiden Dateien werden mit dem Script `csv_to_geojson.py` aus aed.csv abgeleitet. Sie enthalten alle Standorte, die bereits mit Geoinformationen (Spalten longitude und latitude) versehen sind, im GeoJSON-Format.
+
+Die Datei `aed.min.geojson` ist inhaltlich identisch mit `aed.geojson`, jedoch kompakter weil ohne Einrückung.
+
 ## Der Ordner `_source`
 
 In diesem Ordner werden unveränderte Kopien von Dateien abglegt, die wir aus verschiedenen Quellen zusammen tragen.
