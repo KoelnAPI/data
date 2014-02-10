@@ -35,7 +35,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 34,Kalk,Höhenberg,Sparkasse KölnBonn,,Olpener Str. 156 - 158,,7.0242056,50.9400832,637570861,,,defiköln,2014-02-08,marian,
 35,Kalk,Humbold,Sparkasse KölnBonn,,Gremberger Str. 32,,6.9956233,50.9303164,1427508090,,,defiköln,2014-02-08,marian,
 36,Kalk,Kalk,Sparkasse KölnBonn,,Kalker Hauptstr. 129-133,,7.0014664,50.9378688,2661133855,,,defiköln,2014-02-08,marian,
-37,Kalk,Merheim,Sparkasse KölnBonn,,Olpener Str. 397,,7.0455762,50.9429305,2127984949,,,defiköln,2014-02-08,marian,
+37,Kalk,Merheim,Sparkasse KölnBonn,,Olpener Str. 397,,7.0455762,50.9429305,2127984949,,7164,defiköln,2014-02-10,marian,
 38,Kalk,Neubrück,Sparkasse KölnBonn,,An St. Adelheid 14,,7.061611,50.9347566,2665197233,,,defiköln,2014-02-10,marian,
 39,Kalk,Ostheim,Sparkasse KölnBonn,,Frankfurter Str. 705,,7.0411877,50.9299493,2181249590,,,defiköln,2014-02-10,marian,
 40,Kalk,Rath/Heumar,Sparkasse KölnBonn,,Rösrather Str. 605-607,,7.0851912,50.9222671,698868715,,,defiköln,2014-02-10,marian,
