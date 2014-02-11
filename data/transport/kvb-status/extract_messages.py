@@ -1,8 +1,9 @@
 # encoding: utf-8
 
 """
-Extracts messages from _source/mofis_bahn.html,
-which is a copy of http://www.kvb-koeln.de/german/home/mofis_bahn.html
+Extracts messages from
+_source/mofis_bahn.html and _source/mofis_bus.html
+which are downloaded by download.sh
 """
 
 import os
@@ -75,10 +76,20 @@ def extract(path):
 
 
 if __name__ == "__main__":
-    data = extract("_source/mofis_bahn.html")
-    out = open("messages.json", "wb")
-    out_min = open("messages.min.json", "wb")
-    out.write(json.dumps(data, indent=4, sort_keys=True))
-    out_min.write(json.dumps(data))
+    # bahn
+    bahn = extract("_source/mofis_bahn.html")
+    out = open("messages_bahn.json", "wb")
+    out_min = open("messages_bahn.min.json", "wb")
+    out.write(json.dumps(bahn, indent=4, sort_keys=True))
+    out_min.write(json.dumps(bahn))
+    out.close()
+    out_min.close()
+
+    # bus
+    bus = extract("_source/mofis_bus.html")
+    out = open("messages_bus.json", "wb")
+    out_min = open("messages_bus.min.json", "wb")
+    out.write(json.dumps(bus, indent=4, sort_keys=True))
+    out_min.write(json.dumps(bus))
     out.close()
     out_min.close()
