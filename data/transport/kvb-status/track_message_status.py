@@ -73,7 +73,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     conn = MySQLdb.connect(host=args.dbhost,
         user=args.dbuser, passwd=args.dbpass, db=args.dbname)
-    conn.autocommit()
+    #conn.autocommit()
     cursor = conn.cursor(MySQLdb.cursors.DictCursor)
     init_db()
     track("messages_bahn.json", "messages_bus.json")
