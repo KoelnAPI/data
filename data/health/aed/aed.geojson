@@ -769,8 +769,8 @@
                 "city_district": "Kalk", 
                 "city_subdistrict": "Merheim", 
                 "comment": null, 
-                "crowdsav_id": null, 
-                "last_edited": "2014-02-08", 
+                "crowdsav_id": 7164, 
+                "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
@@ -847,13 +847,117 @@
                 "city_district": "Kalk", 
                 "city_subdistrict": "Rath/Heumar", 
                 "comment": null, 
-                "crowdsav_id": null, 
+                "crowdsav_id": 7162, 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 698868715, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0207985, 
+                    50.933177
+                ], 
+                "type": "Point"
+            }, 
+            "id": 41, 
+            "properties": {
+                "address": "Ostheimer Str. 48-50", 
+                "aed4eu_id": null, 
+                "city_district": "Kalk", 
+                "city_subdistrict": "Vingst", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 903911992, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.89886, 
+                    50.9370049
+                ], 
+                "type": "Point"
+            }, 
+            "id": 46, 
+            "properties": {
+                "address": "Aachener Str. 523", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Braunsfeld", 
+                "comment": null, 
+                "crowdsav_id": 7227, 
+                "last_edited": "2014-02-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2665512062, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8580512, 
+                    50.9327136
+                ], 
+                "type": "Point"
+            }, 
+            "id": 47, 
+            "properties": {
+                "address": "Kirchweg 128-130", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Junkersdorf", 
+                "comment": null, 
+                "crowdsav_id": 7225, 
+                "last_edited": "2014-02-11", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1613007921, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9257415, 
+                    50.9166093
+                ], 
+                "type": "Point"
+            }, 
+            "id": 48, 
+            "properties": {
+                "address": "S\u00fclzburgstr. 56", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Klettenberg", 
+                "comment": null, 
+                "crowdsav_id": 7135, 
+                "last_edited": "2014-02-11", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 313929830, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -873,13 +977,39 @@
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Klettenberg", 
                 "comment": null, 
-                "crowdsav_id": null, 
-                "last_edited": null, 
-                "last_edited_by": null, 
+                "crowdsav_id": 7136, 
+                "last_edited": "2014-02-11", 
+                "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 265728727, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9065857, 
+                    50.9171164
+                ], 
+                "type": "Point"
+            }, 
+            "id": 50, 
+            "properties": {
+                "address": "Hermeskeiler Str. 16", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Kriel", 
+                "comment": null, 
+                "crowdsav_id": 7134, 
+                "last_edited": "2014-02-11", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2666893705, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
