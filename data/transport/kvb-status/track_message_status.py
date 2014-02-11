@@ -12,13 +12,14 @@ from datetime import datetime
 
 
 def init_db():
-    #warnings.filterwarnings('ignore')
+    warnings.filterwarnings('ignore')
     sql = """
     CREATE TABLE IF NOT EXISTS kvbstatus_bahn (
         datetime_local DATETIME UNIQUE,
         num_messages SMALLINT,
         num_stations MEDIUMINT
     )
+    ENGINE = MyISAM
     """
     cursor.execute(sql)
     sql = """
@@ -27,6 +28,7 @@ def init_db():
         num_messages SMALLINT,
         num_stations MEDIUMINT
     )
+    ENGINE = MyISAM
     """
     cursor.execute(sql)
 
@@ -45,13 +47,13 @@ def track(path_bahn, path_bus):
         num_messages_bahn += 1
         for station in msg["station_info"]:
             num_stations_bahn += 1
-    cursor.execute("INSERT INTO kvbstatus_bahn VALUES (%s, %s, %s)",
+    cursor.execute("INSERT IGNORE INTO kvbstatus_bahn VALUES (%s, %s, %s)",
         (lastmod_bahn.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bahn, num_stations_bahn))
     for msg in bus["messages"]:
         num_messages_bus += 1
         for station in msg["station_info"]:
             num_stations_bus += 1
-    cursor.execute("INSERT INTO kvbstatus_bus VALUES (%s, %s, %s)",
+    cursor.execute("INSERT IGNORE INTO kvbstatus_bus VALUES (%s, %s, %s)",
         (lastmod_bus.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bus, num_stations_bus))
 
     print("Bahn: %d Meldungen, %d Stationen - %s" % (num_messages_bahn, num_stations_bahn, lastmod_bahn))
@@ -71,6 +73,7 @@ if __name__ == "__main__":
     args = parser.parse_args()
     conn = MySQLdb.connect(host=args.dbhost,
         user=args.dbuser, passwd=args.dbpass, db=args.dbname)
+    conn.autocommit()
     cursor = conn.cursor(MySQLdb.cursors.DictCursor)
     init_db()
     track("messages_bahn.json", "messages_bus.json")
