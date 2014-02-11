@@ -46,13 +46,13 @@ def track(path_bahn, path_bus):
         for station in msg["station_info"]:
             num_stations_bahn += 1
     cursor.execute("INSERT INTO kvbstatus_bahn VALUES (%s, %s, %s)",
-        (lastmod_bahn, num_messages_bahn, num_stations_bahn))
+        (lastmod_bahn.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bahn, num_stations_bahn))
     for msg in bus["messages"]:
         num_messages_bus += 1
         for station in msg["station_info"]:
             num_stations_bus += 1
     cursor.execute("INSERT INTO kvbstatus_bus VALUES (%s, %s, %s)",
-        (lastmod_bus, num_messages_bus, num_stations_bus))
+        (lastmod_bus.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bus, num_stations_bus))
 
     print("Bahn: %d Meldungen, %d Stationen - %s" % (num_messages_bahn, num_stations_bahn, lastmod_bahn))
     print("Bus: %d Meldungen, %d Stationen - %s" % (num_messages_bus, num_stations_bus, lastmod_bus))
