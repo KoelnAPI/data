@@ -1,170 +1,140 @@
 {
-    "last_modified": "2014-02-11T10:35:43", 
+    "last_modified": "2014-02-11T11:20:01", 
     "messages": [
         {
             "station_info": [
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Aachener Str./G\u00fcrtel"
+                    "direction": "Z\u00fclpicher Platz", 
+                    "station": "Christophstra\u00dfe"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Alter Milit\u00e4ring"
+                    "direction": "Z\u00fclpicher Platz", 
+                    "station": "Ebertplatz Gleis 4"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Bahnstra\u00dfe"
+                    "direction": "Zollstock", 
+                    "station": "Eifelplatz"
                 }, 
                 {
-                    "direction": "Kalk", 
-                    "station": "Bf Deutz/Messe"
+                    "direction": "S\u00fcrth/Zollstock", 
+                    "station": "Eifelstra\u00dfe"
                 }, 
                 {
-                    "direction": "Kalk", 
-                    "station": "Bf. Deutz/LANXESS arena"
+                    "direction": "Ebertplatz", 
+                    "station": "Florastra\u00dfe"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "Br\u00fcck Mauspfad"
+                    "direction": "Z\u00fclpicher Platz", 
+                    "station": "Friesenplatz"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Clarenbachstift"
+                    "direction": "Zollstock", 
+                    "station": "Gottesweg"
                 }, 
                 {
-                    "direction": "Kalk", 
-                    "station": "Deutz-Kalker Bad"
+                    "direction": "Z\u00fclpicher Platz", 
+                    "station": "Hansaring"
                 }, 
                 {
-                    "direction": "Kalk", 
-                    "station": "Deutzer Freiheit"
+                    "direction": "Zollstock", 
+                    "station": "Herthastr."
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Eupener Stra\u00dfe"
+                    "direction": "Ebertplatz", 
+                    "station": "Lohsestra\u00dfe"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "Flehbachstra\u00dfe"
+                    "direction": "Ebertplatz", 
+                    "station": "Mollwitzstra\u00dfe"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "Frankenforst"
+                    "direction": "Ebertplatz", 
+                    "station": "Niehl"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "Fuldaer Stra\u00dfe"
+                    "direction": null, 
+                    "station": "Niehl Schleife"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "H\u00f6henberg, Frankfurter Str."
+                    "direction": "Zollstock", 
+                    "station": "Pohligstr."
                 }, 
                 {
-                    "direction": "Bensberg/Z\u00fcndorf", 
-                    "station": "Heumarkt"
+                    "direction": "Z\u00fclpicher Platz", 
+                    "station": "Rudolfplatz"
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "Im Hoppekamp"
+                    "direction": "Ebertplatz", 
+                    "station": "Scheibenstra\u00dfe"
                 }, 
                 {
-                    "direction": "Neumarkt", 
-                    "station": "Junkersdorf"
+                    "direction": "Ebertplatz", 
+                    "station": "Wilhelm-Sollmann-Str."
                 }, 
                 {
-                    "direction": "Bensberg", 
-                    "station": "K\u00f6lner Stra\u00dfe"
-                }, 
-                {
-                    "direction": "Bensberg/K\u00f6nigsforst", 
-                    "station": "Kalk Kapelle"
-                }, 
-                {
-                    "direction": "Bensberg/K\u00f6nigsforst", 
-                    "station": "Kalk Post"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Kalker Friedhof"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Kippekausen"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Lustheide"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Maarweg"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Melaten"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Merheim"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Mohnweg"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Moltkestra\u00dfe"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Neuenweg"
-                }, 
-                {
-                    "direction": "Deutz", 
-                    "station": "Neumarkt"
-                }, 
-                {
-                    "direction": "Deutz", 
-                    "station": "Neumarkt"
-                }, 
-                {
-                    "direction": "Bensberg", 
-                    "station": "Refrath"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Rheinenergie-Stadion"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Schulstra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Universit\u00e4tsstra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Weiden West"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Weiden West"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Weiden West"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Weiden West"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Weiden/Zentrum"
+                    "direction": "Zollstock", 
+                    "station": "Zollstockg\u00fcrtel"
                 }
             ], 
-            "text": "Linie 1 * Folgende Fahrt entf\u00e4llt * Weiden West 09:58h - Junkersdorf 10:06h - Aachener Str. 10:13h - Neumarkt 10:24h - Bf Deutz/Messe 10:29h - Merheim 10:39h - Br\u00fcck Mauspfad 10:43h - Refrath 10:46h - Bensberg 10:54h *", 
+            "text": "Linie 12 * Folgende Fahrt entf\u00e4llt * Niehl 11:26h - Wilhelm-Sollmann-Str. 11:29h - Neusser Str. 11:34h - Ebertplatz 11:40h - Rudolfplatz 11:46h - Barbarossaplatz 11:49h - Eifelstr. 11:51h - Zollstock S\u00fcdfriedhof 12:00h *", 
+            "type": "St\u00f6rungsmeldung"
+        }, 
+        {
+            "station_info": [
+                {
+                    "direction": "Neumarkt", 
+                    "station": "\u00c4u\u00dfere Kanalstr."
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Akazienweg"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Appellhofplatz"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Bocklem\u00fcnd"
+                }, 
+                {
+                    "direction": "Neumarkt/Dom", 
+                    "station": "Hans- B\u00f6ckler- Platz"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "K\u00f6rnerstra\u00dfe"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Leyendeckerstr."
+                }, 
+                {
+                    "direction": "Deutz/Barbarossaplatz", 
+                    "station": "Neumarkt/U-Bahn"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Ollenhauerring"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Piusstra\u00dfe"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Schaffrathsgasse"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Westfriedhof"
+                }, 
+                {
+                    "direction": "Neumarkt", 
+                    "station": "Wolffsohnstr."
+                }
+            ], 
+            "text": "Linie 3 * Folgende Fahrt entf\u00e4llt * Ollenhauerring 11:18h - Bocklem\u00fcnd 11:21h - \u00c4u\u00dfere Kanalstr. 11:26h - Venloer Str. 11:28h - Friesenplatz 11:34h - Neumarkt 11:38h - Bf Deutz/LANXESS arena 11:45h - Stegerwaldsiedlung 11:49h - Herler Str. 11:55h - Vischeringstr. 11:58h *", 
             "type": "St\u00f6rungsmeldung"
         }, 
         {
@@ -195,19 +165,15 @@
                 }, 
                 {
                     "direction": "Neumarkt", 
-                    "station": "Buchheim Frankfurter Str."
-                }, 
-                {
-                    "direction": "M\u00fclheim", 
-                    "station": "Buchheim Herler Str."
-                }, 
-                {
-                    "direction": "Neumarkt", 
                     "station": "Deutz Messe/Osthalle"
                 }, 
                 {
                     "direction": "Neumarkt", 
                     "station": "Deutz Messe/Osthalle"
+                }, 
+                {
+                    "direction": "Deutz", 
+                    "station": "Gr\u00fcnstra\u00dfe"
                 }, 
                 {
                     "direction": "Bocklem\u00fcnd/Ossendorf", 
@@ -226,20 +192,12 @@
                     "station": "Neumarkt/U-Bahn"
                 }, 
                 {
-                    "direction": "Mengenich", 
-                    "station": "Ollenhauerring"
-                }, 
-                {
                     "direction": "Bocklem\u00fcnd", 
                     "station": "Piusstra\u00dfe"
                 }, 
                 {
                     "direction": "Neumarkt", 
                     "station": "Poststra\u00dfe"
-                }, 
-                {
-                    "direction": "Mengenich", 
-                    "station": "Schaffrathsgasse"
                 }, 
                 {
                     "direction": "Neumarkt", 
@@ -254,27 +212,93 @@
                     "station": "Suevenstra\u00dfe"
                 }, 
                 {
-                    "direction": "M\u00fclheim/Deutz", 
-                    "station": "Vischeringstra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Waldecker Stra\u00dfe"
-                }, 
-                {
                     "direction": "Bocklem\u00fcnd", 
                     "station": "Westfriedhof"
                 }, 
                 {
-                    "direction": "M\u00fclheim/Deutz", 
-                    "station": "Wichheimer Strasse"
+                    "direction": "Deutz", 
+                    "station": "Wiener Platz"
                 }, 
                 {
                     "direction": "Bocklem\u00fcnd", 
                     "station": "Wolffsohnstr."
                 }
             ], 
-            "text": "Linie 3 * Folgende Fahrt entf\u00e4llt * Vischeringstr. 10:19h - Herler Str. 10:22h - Stegerwaldsiedlung 10:28h - Bf Deutz/LANXESS arena 10:32h - Neumarkt 10:40h - Friesenplatz 10:44h - Venloer Str. 10:48h - \u00c4u\u00dfere Kanalstr. 10:50h - Bocklem\u00fcnd 10:55h - Ollenhauerring 10:58h *", 
+            "text": "Linie 4 * Folgende Fahrt ca. 10 Min. sp\u00e4ter * Wiener Platz 10:58h - Stegerwaldsiedlung 11:02h - Bf Deutz/LANXESS arena 11:06h - Neumarkt 11:14h - Friesenplatz 11:19h - Venloer Str. 11:23h - \u00c4u\u00dfere Kanalstr. 11:25h - Bocklem\u00fcnd 11:30h *", 
+            "type": "St\u00f6rungsmeldung"
+        }, 
+        {
+            "station_info": [
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Am Emberg"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Berliner Stra\u00dfe"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Bf. Deutz/LANXESS arena"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Bf. Deutz/LANXESS arena"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Deutz Messe/Osthalle"
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Deutz Messe/Osthalle"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Gr\u00fcnstra\u00dfe"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Im Weidenbruch"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Keupstr."
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Leuchterstra\u00dfe"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Odenthaler Stra\u00dfe"
+                }, 
+                {
+                    "direction": "Deutz/Barbarossaplatz", 
+                    "station": "Poststra\u00dfe"
+                }, 
+                {
+                    "direction": "Holweide/Schlebusch", 
+                    "station": "Severinstr."
+                }, 
+                {
+                    "direction": "Schlebusch/Holweide", 
+                    "station": "Stegerwaldsiedlung"
+                }, 
+                {
+                    "direction": "Deutz", 
+                    "station": "Suevenstra\u00dfe "
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Von-Sparr-Stra\u00dfe"
+                }, 
+                {
+                    "direction": "Schlebusch", 
+                    "station": "Wiener Platz"
+                }
+            ], 
+            "text": "Linie 4 * Folgende Fahrt entf\u00e4llt * Bocklem\u00fcnd 11:06h - \u00c4u\u00dfere Kanalstr. 11:11h - Venloer Str. 11:13h - Friesenplatz 11:18h - Neumarkt 11:22h - BF Deutz/LANXESS arena 11:29h - Stegerwaldsiedlung 11:33h - Wiener Platz 11:37h - Berliner Str. 11:41h - Leuchterstr. 11:48h - Schlebusch 11:52h *", 
             "type": "St\u00f6rungsmeldung"
         }, 
         {
@@ -317,150 +341,6 @@
                 }
             ], 
             "text": "Linie 5 * Umbau der (H) Gutenbergstr. * Die Bahnen mit dem Ziel (H) Heumarkt k\u00f6nnen bis voraussichtlich 05.05. an der (H) Gutenbergstr. keinen Fahrgastwechsel durchf\u00fchren * Stattdessen steigen Sie bitte an der (H) Liebigstr. aus *", 
-            "type": "St\u00f6rungsmeldung"
-        }, 
-        {
-            "station_info": [
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Aachener Str./G\u00fcrtel"
-                }, 
-                {
-                    "direction": "S\u00fclz", 
-                    "station": "Aachener Str./G\u00fcrtel"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Baumschulenweg"
-                }, 
-                {
-                    "direction": "Frechen", 
-                    "station": "Benzelrath"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Benzelrath"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Berliner Stra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Brahmsstr."
-                }, 
-                {
-                    "direction": "M\u00fclheim/Neumarkt", 
-                    "station": "D\u00fcrener Stra\u00dfe"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Deutzer Freiheit"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Drehbr\u00fccke"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Ensen Gilgaustra\u00dfe"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Ensen, Kloster"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Frechen Bf."
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Frechen, Kirche"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Haus Vorst"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "K\u00f6lner Stra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "M\u00fchlengasse"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Marsdorf"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Poller Kirchweg"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Porz Markt"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Raiffeisenstra\u00dfe"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Rosenh\u00fcgel"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Salmstrasse"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Severinsbr\u00fccke"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "St\u00fcttgenhof"
-                }, 
-                {
-                    "direction": "Z\u00fcndorf", 
-                    "station": "Steinstra\u00dfe"
-                }, 
-                {
-                    "direction": "M\u00fclheim/Neumarkt", 
-                    "station": "W\u00fcllnerstra\u00dfe"
-                }
-            ], 
-            "text": "Linie 7 * Folgende Fahrt entf\u00e4llt * Frechen-Benzelrath 10:04h - Haus Vorst 10:15h - D\u00fcrener Str. 10:24h - Aachener Str. 10:27h - Moltkestr. 10:32h - Neumarkt 10:38h - Deutzer Freiheit 10:42h - Salmstr. 10:50h - Gilgaustr. 10:56h - Porz Markt 11:01h - Z\u00fcndorf 11:05h *", 
-            "type": "St\u00f6rungsmeldung"
-        }, 
-        {
-            "station_info": [
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Autobahn"
-                }, 
-                {
-                    "direction": null, 
-                    "station": "K\u00f6nigsforst"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Porzer Stra\u00dfe"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "R\u00f6ttgensweg"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Rath-Heumar"
-                }, 
-                {
-                    "direction": "Neumarkt", 
-                    "station": "Steinweg"
-                }
-            ], 
-            "text": "Linie 9 * Folgende Fahrt entf\u00e4llt * K\u00f6nigsforst 10:33h - Ostheim 10:41h - Bf Deutz/Messe 10:49h - Neumarkt 10:55h - Z\u00fclpicher Platz 11:00h - Universit\u00e4t 11:04h - Z\u00fclpicher Str. 11:09h - S\u00fclz Hermeskeiler Platz 11:11h *", 
             "type": "St\u00f6rungsmeldung"
         }
     ]

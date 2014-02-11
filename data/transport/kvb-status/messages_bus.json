@@ -1,5 +1,5 @@
 {
-    "last_modified": "2014-02-11T10:35:43", 
+    "last_modified": "2014-02-11T11:20:01", 
     "messages": [
         {
             "station_info": [
@@ -63,44 +63,6 @@
                 }
             ], 
             "text": "Linie 151 und 152 * Fahrbahnsanierung im Bereich Berliner Str. * Hier zurzeit kein Busverkehr * Stattdessen nutzen Sie bitte die Buslinie 153 *", 
-            "type": "St\u00f6rungsmeldung"
-        }, 
-        {
-            "station_info": [
-                {
-                    "direction": "Olpener Str.", 
-                    "station": "Br\u00fcck Mauspfad"
-                }, 
-                {
-                    "direction": "Thurner Kamp", 
-                    "station": "Dellbr\u00fcck S-Bahn"
-                }, 
-                {
-                    "direction": "Baldurstr.", 
-                    "station": "K\u00f6nigsforst"
-                }, 
-                {
-                    "direction": "Imbacher Weg", 
-                    "station": "Leuchterstr."
-                }, 
-                {
-                    "direction": "Innere Kanalstr.", 
-                    "station": "Poll Wendeanlage"
-                }, 
-                {
-                    "direction": "Theodor-Heuss-Str.", 
-                    "station": "Rudolf-Diesel-Str."
-                }, 
-                {
-                    "direction": "Am Hochkreuz", 
-                    "station": "Stresemannstr."
-                }, 
-                {
-                    "direction": "Stresemannstr.", 
-                    "station": "Theodor-Heuss-Str."
-                }
-            ], 
-            "text": "Linie 154 * Folgende Fahrt entf\u00e4llt * D\u00fcnnwald Waldbad 09:58h - Leuchterstr. 10:02h - Dellbr\u00fcck Hauptstr. 10:14h - Br\u00fcck Mauspfad 10:27h - K\u00f6nigsforst 10:35h - Porz Steinstr. 10:52h - Porz Markt 10:56h *", 
             "type": "St\u00f6rungsmeldung"
         }, 
         {
