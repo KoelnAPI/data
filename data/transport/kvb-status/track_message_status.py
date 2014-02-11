@@ -12,7 +12,7 @@ from datetime import datetime
 
 
 def init_db():
-    warnings.filterwarnings('ignore')
+    #warnings.filterwarnings('ignore')
     sql = """
     CREATE TABLE IF NOT EXISTS kvbstatus_bahn (
         datetime_local DATETIME UNIQUE,
