@@ -1017,6 +1017,136 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.9092392, 
+                    50.9270029
+                ], 
+                "type": "Point"
+            }, 
+            "id": 51, 
+            "properties": {
+                "address": "Lindenthalg\u00fcrtel 97", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Lindenthal", 
+                "comment": null, 
+                "crowdsav_id": 7129, 
+                "last_edited": "2014-02-14", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 315646189, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9147148, 
+                    50.9302634
+                ], 
+                "type": "Point"
+            }, 
+            "id": 52, 
+            "properties": {
+                "address": "D\u00fcrener Str. 187", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Lindenthal", 
+                "comment": null, 
+                "crowdsav_id": 7127, 
+                "last_edited": "2014-02-14", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 280961557, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.880576, 
+                    50.9379525
+                ], 
+                "type": "Point"
+            }, 
+            "id": 53, 
+            "properties": {
+                "address": "Aachener Str. 744-750", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "M\u00fcngersdorf", 
+                "comment": null, 
+                "crowdsav_id": 7226, 
+                "last_edited": "2014-02-14", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 262073154, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9213791, 
+                    50.922279
+                ], 
+                "type": "Point"
+            }, 
+            "id": 54, 
+            "properties": {
+                "address": "Z\u00fclpicher Str. 292-294", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "S\u00fclz", 
+                "comment": null, 
+                "crowdsav_id": 7131, 
+                "last_edited": "2014-02-14", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 425897167, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.834015, 
+                    50.9421126
+                ], 
+                "type": "Point"
+            }, 
+            "id": 55, 
+            "properties": {
+                "address": "Goethestr. 8", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Weiden", 
+                "comment": null, 
+                "crowdsav_id": 7223, 
+                "last_edited": "2014-02-14", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 739048812, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9328268, 
                     50.9276933
                 ], 
@@ -1037,6 +1167,58 @@
                 "opening_hours": null, 
                 "osm_node_id": 1609157079, 
                 "source": "OSM"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0055251, 
+                    50.9509115
+                ], 
+                "type": "Point"
+            }, 
+            "id": 62, 
+            "properties": {
+                "address": "Waldecker Str. 42", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Buchforst", 
+                "comment": null, 
+                "crowdsav_id": 7181, 
+                "last_edited": null, 
+                "last_edited_by": null, 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 304060421, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.989256, 
+                    50.950389
+                ], 
+                "type": "Point"
+            }, 
+            "id": 63, 
+            "properties": {
+                "address": "Adam-Stegerwald-Stra\u00dfe 5", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Buchforst", 
+                "comment": null, 
+                "crowdsav_id": 7180, 
+                "last_edited": null, 
+                "last_edited_by": null, 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 673347141, 
+                "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
         }, 
