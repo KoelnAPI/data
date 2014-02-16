@@ -1225,6 +1225,110 @@
         {
             "geometry": {
                 "coordinates": [
+                    7.0158849, 
+                    50.9555341
+                ], 
+                "type": "Point"
+            }, 
+            "id": 64, 
+            "properties": {
+                "address": "Alte Wipperf\u00fcrther Str. 32", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Buchheim", 
+                "comment": null, 
+                "crowdsav_id": 7182, 
+                "last_edited": "2014-02-16", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2675150633, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.071987, 
+                    50.9770304
+                ], 
+                "type": "Point"
+            }, 
+            "id": 65, 
+            "properties": {
+                "address": "Dellbr\u00fccker Hauptstr. 121", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Dellbr\u00fcck", 
+                "comment": null, 
+                "crowdsav_id": 7188, 
+                "last_edited": "2014-02-16", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 280572117, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.04035, 
+                    51.001118
+                ], 
+                "type": "Point"
+            }, 
+            "id": 66, 
+            "properties": {
+                "address": "Berliner Str. 964", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "D\u00fcnnwald", 
+                "comment": null, 
+                "crowdsav_id": 7192, 
+                "last_edited": "2014-02-16", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1115991480, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9793012, 
+                    51.0022505
+                ], 
+                "type": "Point"
+            }, 
+            "id": 67, 
+            "properties": {
+                "address": "Paulinenhofstra\u00dfe 17-21", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Flittard", 
+                "comment": null, 
+                "crowdsav_id": 7191, 
+                "last_edited": "2014-02-16", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 621969295, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9392709, 
                     50.9686268
                 ], 
