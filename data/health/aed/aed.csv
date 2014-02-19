@@ -79,7 +79,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 78,Nippes,Niehl,Sparkasse KölnBonn,,Sebastianstr. 162,,6.9614624,50.9892251,366725735,,7215,defiköln,2014-02-19,marian,
 79,Nippes,Nippes,Sparkasse KölnBonn,,Neusser Str. 236-238,,6.9542985,50.9629217,2681118466,,7218,defiköln,2014-02-19,marian,
 80,Nippes,Nippes,Sparkasse KölnBonn,,Siebachstr. 28-30,,6.9500711,50.9599991,232284761,,,defiköln,2014-02-19,marian,
-81,Nippes,Riehl,Sparkasse KölnBonn,,Stammheimer Str. 94,,,,,,,defiköln,,,
+81,Nippes,Riehl,Sparkasse KölnBonn,,Stammheimer Str. 94,,6.975986,50.9638034,2681141625,,,defiköln,2014-02-19,marian,
 82,Nippes,Weidenpesch,Sparkasse KölnBonn,,Neusser Str. 570,,,,,,,defiköln,,,
 83,Nippes,Niehl,St. Agatha-Krankenhaus,,Feldgärtenstr. 97,,,,,,,defiköln,,,
 84,Nippes,Nippes,St. Vinzenz-Hospital,,Merheimer Str. 221-223,,,,,,,defiköln,,,
