@@ -69,7 +69,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 68,Mülheim,Höhenhaus,Sparkasse KölnBonn,,Thymianweg 2,,7.0301121,50.9805508,318720315,,7189,defiköln,2014-02-18,marian,
 69,Mülheim,Holweide,Sparkasse KölnBonn,,Bergisch Gladbacher Str. 591,,7.0470771,50.9703595,274119034,,7187,defiköln,2014-02-18,marian,
 70,Mülheim,Mühlheim,Sparkasse KölnBonn,,Wiener Platz 1,,7.0051497,50.9619987,1309260588,,,defiköln,2014-02-18,marian,
-71,Mülheim,Mühlheim,Sparkasse KölnBonn,,Berliner Str. 32,,,,,,,defiköln,,,
+71,Mülheim,Mühlheim,Sparkasse KölnBonn,,Berliner Str. 32,,7.0088359,50.9703777,340350854,,7184,defiköln,2014-02-18,marian,
 72,Mülheim,Stammheim,Sparkasse KölnBonn,,Gisbertstr. 97,,,,,,,defiköln,,,
 73,Mülheim,Holweide,Städt. Krankenhaus Holweide,,Neufelder Str. 32,,,,,,,defiköln,,,
 74,Nippes,Longerich,Heilig-Geist-Krankenhaus,,Graseggerstr. 105,,,,,,,defiköln,,,
