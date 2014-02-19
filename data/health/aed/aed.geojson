@@ -1329,6 +1329,136 @@
         {
             "geometry": {
                 "coordinates": [
+                    7.0301121, 
+                    50.9805508
+                ], 
+                "type": "Point"
+            }, 
+            "id": 68, 
+            "properties": {
+                "address": "Thymianweg 2", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "H\u00f6henhaus", 
+                "comment": null, 
+                "crowdsav_id": 7189, 
+                "last_edited": "2014-02-18", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 318720315, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0470771, 
+                    50.9703595
+                ], 
+                "type": "Point"
+            }, 
+            "id": 69, 
+            "properties": {
+                "address": "Bergisch Gladbacher Str. 591", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Holweide", 
+                "comment": null, 
+                "crowdsav_id": 7187, 
+                "last_edited": "2014-02-18", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 274119034, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0051497, 
+                    50.9619987
+                ], 
+                "type": "Point"
+            }, 
+            "id": 70, 
+            "properties": {
+                "address": "Wiener Platz 1", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "M\u00fchlheim", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-18", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1309260588, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0088359, 
+                    50.9703777
+                ], 
+                "type": "Point"
+            }, 
+            "id": 71, 
+            "properties": {
+                "address": "Berliner Str. 32", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "M\u00fchlheim", 
+                "comment": null, 
+                "crowdsav_id": 7184, 
+                "last_edited": "2014-02-18", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 340350854, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9912278, 
+                    50.987149
+                ], 
+                "type": "Point"
+            }, 
+            "id": 72, 
+            "properties": {
+                "address": "Gisbertstr. 97", 
+                "aed4eu_id": null, 
+                "city_district": "M\u00fclheim", 
+                "city_subdistrict": "Stammheim", 
+                "comment": null, 
+                "crowdsav_id": 7190, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1602470675, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9392709, 
                     50.9686268
                 ], 
@@ -1341,13 +1471,143 @@
                 "city_district": "Nippes", 
                 "city_subdistrict": "Bilderst\u00f6ckchen", 
                 "comment": null, 
-                "crowdsav_id": null, 
-                "last_edited": "2014-01-20", 
+                "crowdsav_id": 7220, 
+                "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 246829498, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9263657, 
+                    50.9943144
+                ], 
+                "type": "Point"
+            }, 
+            "id": 76, 
+            "properties": {
+                "address": "Rambouxstr. 134", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Gartenstadt", 
+                "comment": null, 
+                "crowdsav_id": 7213, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 766067626, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9600476, 
+                    50.974093
+                ], 
+                "type": "Point"
+            }, 
+            "id": 77, 
+            "properties": {
+                "address": "Niehler Str. 286", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Mauenheim", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 471841250, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9614624, 
+                    50.9892251
+                ], 
+                "type": "Point"
+            }, 
+            "id": 78, 
+            "properties": {
+                "address": "Sebastianstr. 162", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Niehl", 
+                "comment": null, 
+                "crowdsav_id": 7215, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 366725735, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9542985, 
+                    50.9629217
+                ], 
+                "type": "Point"
+            }, 
+            "id": 79, 
+            "properties": {
+                "address": "Neusser Str. 236-238", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Nippes", 
+                "comment": null, 
+                "crowdsav_id": 7218, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2681118466, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9500711, 
+                    50.9599991
+                ], 
+                "type": "Point"
+            }, 
+            "id": 80, 
+            "properties": {
+                "address": "Siebachstr. 28-30", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Nippes", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 232284761, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
