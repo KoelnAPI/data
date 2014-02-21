@@ -32,8 +32,20 @@ def init_db():
     """
     cursor.execute(sql)
 
+    sql2 = """
+    CREATE TABLE IF NOT EXISTS kvbstatus_stations (
+        id MEDIUMINT AUTO_INCREMENT PRIMARY KEY,
+        station_name VARCHAR(255) UNIQUE NOT NULL
+    )
+    ENGINE = MyISAM
+    """
+    cursor.execute(sql2)
+
 
 def track(path_bahn, path_bus):
+    """
+    Sammle dauerhaft Daten zu Störungen
+    """
     bahn = json.load(open(path_bahn, "rb"))
     bus = json.load(open(path_bus, "rb"))
     lastmod_bahn = datetime.strptime(bahn["last_modified"], "%Y-%m-%dT%H:%M:%S")
@@ -43,18 +55,31 @@ def track(path_bahn, path_bus):
     num_stations_bahn = 0
     num_stations_bus = 0
 
+    # Stationen eindeutig sammeln
+    stations = set()
+
+    # Anzahl der Störungen
     for msg in bahn["messages"]:
         num_messages_bahn += 1
         for station in msg["station_info"]:
             num_stations_bahn += 1
+            stations.add(station["station"])
+
     cursor.execute("INSERT IGNORE INTO kvbstatus_bahn VALUES (%s, %s, %s)",
         (lastmod_bahn.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bahn, num_stations_bahn))
     for msg in bus["messages"]:
         num_messages_bus += 1
         for station in msg["station_info"]:
             num_stations_bus += 1
+            stations.add(station["station"])
+
     cursor.execute("INSERT IGNORE INTO kvbstatus_bus VALUES (%s, %s, %s)",
         (lastmod_bus.strftime("%Y-%m-%d %H:%M:%S"), num_messages_bus, num_stations_bus))
+
+    # gefundene Stationsnamen in Tabelle eintragen
+    for station_name in list(stations):
+        cursor.execute("INSERT IGNORE INTO kvbstatus_stations (station_name) VALUES (%s)",
+            (station_name, ))
 
     print("Bahn: %d Meldungen, %d Stationen - %s" % (num_messages_bahn, num_stations_bahn, lastmod_bahn))
     print("Bus: %d Meldungen, %d Stationen - %s" % (num_messages_bus, num_stations_bus, lastmod_bus))
