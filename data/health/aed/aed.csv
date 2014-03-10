@@ -82,7 +82,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 81,Nippes,Riehl,Sparkasse KölnBonn,,Stammheimer Str. 94,,6.975986,50.9638034,2681141625,,,defiköln,2014-02-19,marian,
 82,Nippes,Weidenpesch,Sparkasse KölnBonn,,Neusser Str. 570,,6.9483054,50.9803003,287571416,,7214,defiköln,2014-02-19,marian,
 83,Nippes,Niehl,St. Agatha-Krankenhaus,,Feldgärtenstr. 97,,,,,,,defiköln,,,
-84,Nippes,Nippes,St. Vinzenz-Hospital,,Merheimer Str. 221-223,,,,,,,defiköln,,,
+84,Nippes,Nippes,St. Vinzenz-Hospital,,Merheimer Str. 221-223,,6.945381760597229,50.96684633299065,,,,defiköln,2014-03-10,marcel,
 85,Porz,Porz,Krankenhaus Porz am Rhein,,Urbacher Weg 19,,,,,,,defiköln,,,
 86,Porz,Eil,Sparkasse KölnBonn,,Frankfurter Str. 565,,7.0777923,50.8917008,277805255,,7160,defiköln,2014-02-19,marian,
 87,Porz,Ensen/Westhoven,Sparkasse KölnBonn,,Gilgaustr. 20,,7.02966,50.8979597,423830101,,7175,defiköln,2014-02-19,marian,
@@ -136,3 +136,4 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 135,Innenstadt,Deutz,"FH Köln, IWZ Deutz",Halle West,"Betzdorfer Straße 2, 50679 Köln",,,,,,,eigene Beobachtung,2014-02-02,AJoNee,
 135,Innenstadt,Deutz,"FH Köln, IWZ Deutz",Altbau,"Betzdorfer Straße 2, 50679 Köln",,,,,,,eigene Beobachtung,2014-02-02,AJoNee,
 136,Innenstadt,Altstadt-Nord,WDR Vierscheibenhaus,Haupteingang Empfang,"Apellhofplatz/Kupfergasse, 50667 Köln",,6.9517167,50.9399669,2656318761,,,eigene Beobachtung,2014-02-04,marian,
+137,Nippes,Nippes,St. Vinzenz-Hospital,,Merheimer Str. 221-223,,6.94710373878479,50.96695106170407,,,,defiköln,2014-03-10,marcel,
