@@ -113,7 +113,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 112,Innenstadt,Altstadt-Nord,Kölnisches Stadtmuseum,Kassenbereich,"Zeughausstraße 1-3, 50667 Köln","Di 10:00 - 20:00, Feiertags 10:00 - 17:00, Mi-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00",,,,,,Stadt Köln,2014-01-24,marian,
 113,Lindenthal,Lindenthal,Bürgeramt Lindenthal,Bereich Infotheke,"Aachener Straße 220, 50931Köln","Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00",,,,,,Stadt Köln,2014-01-24,marian,
 114,Ehrenfeld,Ehrenfeld,Bürgeramt Ehrenfeld,Bereich Infotheke,"Venloer Straße 419-421, 50825 Köln","Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00",,,,,,Stadt Köln,2014-01-24,marian,
-115,Nippes,Weidenpesch,Bürgeramt Nippes,Bereich Infotheke,"Neusser Straße 450, 50733 Köln","Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00",6.951883435249329,50.972683753937,,,,Stadt Köln,2014-03-11,marian,
+115,Nippes,Weidenpesch,Bürgeramt Nippes,Bereich Infotheke,"Neusser Straße 450, 50733 Köln","Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00",6.951883435249329,50.972683753937,2712532672,,,Stadt Köln,2014-03-11,marian,
 116,Innenstadt,Deutz,Stadthaus Deutz Westgebäude,Bereich Infotheke,"Willy-Brandt-Platz 2, 50679 Köln","Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00",,,,,,Stadt Köln,2014-01-24,marian,
 117,Innenstadt,Deutz,Stadthaus Deutz Ostgebäude,Bereich Infotheke,"Willy-Brandt-Platz 3, 50679 Köln","Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00",,,,,,Stadt Köln,2014-01-24,marian,
 118,Kalk,Kalk,Kalk-Karree,Bereich Infotheke,"Ottmar-Pohl-Platz 1, 51103 Köln ","Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00",,,,,,Stadt Köln,2014-01-24,marian,
