@@ -1615,6 +1615,214 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.975986, 
+                    50.9638034
+                ], 
+                "type": "Point"
+            }, 
+            "id": 81, 
+            "properties": {
+                "address": "Stammheimer Str. 94", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Riehl", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2681141625, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9483054, 
+                    50.9803003
+                ], 
+                "type": "Point"
+            }, 
+            "id": 82, 
+            "properties": {
+                "address": "Neusser Str. 570", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Weidenpesch", 
+                "comment": null, 
+                "crowdsav_id": 7214, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 287571416, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.945381760597229, 
+                    50.96684633299065
+                ], 
+                "type": "Point"
+            }, 
+            "id": 84, 
+            "properties": {
+                "address": "Merheimer Str. 221-223", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Nippes", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-03-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "St. Vinzenz-Hospital", 
+                "opening_hours": null, 
+                "osm_node_id": 2710679883, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0777923, 
+                    50.8917008
+                ], 
+                "type": "Point"
+            }, 
+            "id": 86, 
+            "properties": {
+                "address": "Frankfurter Str. 565", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Eil", 
+                "comment": null, 
+                "crowdsav_id": 7160, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 277805255, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.02966, 
+                    50.8979597
+                ], 
+                "type": "Point"
+            }, 
+            "id": 87, 
+            "properties": {
+                "address": "Gilgaustr. 20", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Ensen/Westhoven", 
+                "comment": null, 
+                "crowdsav_id": 7175, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 423830101, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0643456, 
+                    50.8967365
+                ], 
+                "type": "Point"
+            }, 
+            "id": 88, 
+            "properties": {
+                "address": "Konrad-Adenauer-Str. 72", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Finkenberg", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1562448841, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0731015, 
+                    50.9023711
+                ], 
+                "type": "Point"
+            }, 
+            "id": 89, 
+            "properties": {
+                "address": "Rudolf-Diesel-Str. 32-36", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Gremberghoven", 
+                "comment": null, 
+                "crowdsav_id": 7161, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": "Im Real-Einkaufszentrum", 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 1344434779, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0982254, 
+                    50.8759464
+                ], 
+                "type": "Point"
+            }, 
+            "id": 90, 
+            "properties": {
+                "address": "Akazienweg 33", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Grengel", 
+                "comment": null, 
+                "crowdsav_id": 7154, 
+                "last_edited": "2014-02-19", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2681191896, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     7.1223733, 
                     50.878861
                 ], 
@@ -1667,6 +1875,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.951883435249329, 
+                    50.972683753937
+                ], 
+                "type": "Point"
+            }, 
+            "id": 115, 
+            "properties": {
+                "address": "Neusser Stra\u00dfe 450, 50733 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Weidenpesch", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-03-11", 
+                "last_edited_by": "marian", 
+                "location_details": "Bereich Infotheke", 
+                "name": "B\u00fcrgeramt Nippes", 
+                "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
+                "osm_node_id": 2712532672, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9588287, 
                     50.9385724
                 ], 
@@ -1712,6 +1946,32 @@
                 "name": "WDR Vierscheibenhaus", 
                 "opening_hours": null, 
                 "osm_node_id": 2656318761, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.94710373878479, 
+                    50.96695106170407
+                ], 
+                "type": "Point"
+            }, 
+            "id": 137, 
+            "properties": {
+                "address": "Merheimer Str. 221-223", 
+                "aed4eu_id": null, 
+                "city_district": "Nippes", 
+                "city_subdistrict": "Nippes", 
+                "comment": null, 
+                "crowdsav_id": 7219, 
+                "last_edited": "2014-03-10", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "St. Vinzenz-Hospital", 
+                "opening_hours": null, 
+                "osm_node_id": 2710679523, 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
