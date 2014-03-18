@@ -11,46 +11,6 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9406, 
-                    51.5354, 
-                    6.08
-                ], 
-                "type": "Point"
-            }, 
-            "id": "usc000lxqi", 
-            "properties": {
-                "alert": null, 
-                "cdi": 1, 
-                "code": "c000lxqi", 
-                "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=usc000lxqi&format=geojson", 
-                "dmin": 1.784, 
-                "felt": 0, 
-                "gap": 155, 
-                "ids": ",usc000lxqi,", 
-                "mag": 4, 
-                "magType": "ml", 
-                "mmi": null, 
-                "net": "us", 
-                "nst": null, 
-                "place": "2km NE of Bottrop, Germany", 
-                "rms": 0.68, 
-                "sig": 246, 
-                "sources": ",us,", 
-                "status": "reviewed", 
-                "time": 1387519418370, 
-                "title": "M 4.0 - 2km NE of Bottrop, Germany", 
-                "tsunami": null, 
-                "type": "earthquake", 
-                "types": ",dyfi,general-link,geoserve,nearby-cities,origin,phase-data,", 
-                "tz": 60, 
-                "updated": 1389168257000, 
-                "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/usc000lxqi"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
                     5.96, 
                     51.14, 
                     14
@@ -13589,7 +13549,7 @@
                 "ids": ",atlas20020722054503,pde20020722054503020_17,", 
                 "mag": 4.8, 
                 "magType": "mb", 
-                "mmi": 6.76, 
+                "mmi": null, 
                 "net": "pde", 
                 "nst": 328, 
                 "place": "Germany", 
@@ -13603,7 +13563,7 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1383442375630, 
+                "updated": 1395130542496, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde20020722054503020_17"
             }, 
             "type": "Feature"
@@ -15189,7 +15149,7 @@
                 "ids": ",atlas20010623013959,pde20010623013959770_10,", 
                 "mag": 4.8, 
                 "magType": "mb", 
-                "mmi": 5.84, 
+                "mmi": null, 
                 "net": "pde", 
                 "nst": 147, 
                 "place": "Belgium", 
@@ -15203,7 +15163,7 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1383431625655, 
+                "updated": 1395129053145, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde20010623013959770_10"
             }, 
             "type": "Feature"
@@ -26746,7 +26706,7 @@
                 "dmin": null, 
                 "felt": null, 
                 "gap": null, 
-                "ids": ",atlas199204130120,pde19920413012000820_21,atlas199204130120,", 
+                "ids": ",atlas19920413012000,pde19920413012000820_21,", 
                 "mag": 5.4, 
                 "magType": "mw", 
                 "mmi": null, 
@@ -26755,7 +26715,7 @@
                 "place": "Belgium", 
                 "rms": 1.2, 
                 "sig": 449, 
-                "sources": ",atlas,pde,at,", 
+                "sources": ",atlas,pde,", 
                 "status": "reviewed", 
                 "time": 703128000820, 
                 "title": "M 5.4 - Belgium", 
@@ -26763,48 +26723,8 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1386792262178, 
+                "updated": 1395113571050, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde19920413012000820_21"
-            }, 
-            "type": "Feature"
-        }, 
-        {
-            "geometry": {
-                "coordinates": [
-                    5.93, 
-                    51.15, 
-                    15
-                ], 
-                "type": "Point"
-            }, 
-            "id": "atlas19920413012000", 
-            "properties": {
-                "alert": null, 
-                "cdi": null, 
-                "code": "19920413012000", 
-                "detail": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?eventid=atlas19920413012000&format=geojson", 
-                "dmin": null, 
-                "felt": null, 
-                "gap": null, 
-                "ids": ",atlas19920413012000,", 
-                "mag": 5.3, 
-                "magType": null, 
-                "mmi": 6.74, 
-                "net": "atlas", 
-                "nst": null, 
-                "place": "The Netherlands", 
-                "rms": null, 
-                "sig": 432, 
-                "sources": ",atlas,", 
-                "status": "automatic", 
-                "time": 703128000000, 
-                "title": "M 5.3 - The Netherlands", 
-                "tsunami": null, 
-                "type": "earthquake", 
-                "types": ",origin,shakemap,trump,", 
-                "tz": null, 
-                "updated": 1383321318108, 
-                "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/atlas19920413012000"
             }, 
             "type": "Feature"
         }, 
@@ -32549,7 +32469,7 @@
                 "ids": ",atlas19831108004932,pde19831108004932130_10,", 
                 "mag": 5, 
                 "magType": "mb", 
-                "mmi": 6.45, 
+                "mmi": 6.09, 
                 "net": "pde", 
                 "nst": null, 
                 "place": "Belgium", 
@@ -32563,7 +32483,7 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1383212408952, 
+                "updated": 1395101322856, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde19831108004932130_10"
             }, 
             "type": "Feature"
@@ -32749,7 +32669,7 @@
                 "ids": ",atlas19830623093149,pde19830623093149650_10,", 
                 "mag": 4.6, 
                 "magType": "ml", 
-                "mmi": 5.84, 
+                "mmi": 5.53, 
                 "net": "pde", 
                 "nst": null, 
                 "place": "Germany", 
@@ -32763,7 +32683,7 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1383206332532, 
+                "updated": 1395100511731, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde19830623093149650_10"
             }, 
             "type": "Feature"
@@ -33189,7 +33109,7 @@
                 "ids": ",atlas19820628095730,pde19820628095730340_10,", 
                 "mag": 5.2, 
                 "magType": "mb", 
-                "mmi": 5.93, 
+                "mmi": 5.11, 
                 "net": "pde", 
                 "nst": null, 
                 "place": "Germany", 
@@ -33203,7 +33123,7 @@
                 "type": "earthquake", 
                 "types": ",origin,phase-data,shakemap,trump,", 
                 "tz": null, 
-                "updated": 1383194856545, 
+                "updated": 1395099372823, 
                 "url": "http://comcat.cr.usgs.gov/earthquakes/eventpage/pde19820628095730340_10"
             }, 
             "type": "Feature"
@@ -33611,8 +33531,8 @@
     ], 
     "metadata": {
         "api": "1.0.13", 
-        "count": 840, 
-        "generated": 1392215504000, 
+        "count": 838, 
+        "generated": 1395148503000, 
         "status": 200, 
         "title": "USGS Earthquakes", 
         "url": "http://comcat.cr.usgs.gov/fdsnws/event/1/query?starttime=1980-00-00%2000:00:00&maxlatitude=52&minlatitude=50&maxlongitude=8&minlongitude=5&minmagnitude=1&format=geojson&endtime=2020-12-31%2023:59:59&orderby=time"
