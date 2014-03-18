@@ -13,7 +13,15 @@ Umweltdaten für Köln
 
 ### airbase
 
-Air quality measures collected by the European Environment Agency (EEA)
+Air quality measures collected by the European Environment Agency (EEA). Holds mainly aggregated statistical measures.
+
+### lanuv-airquality
+
+Air quality data from the North-Rhine Westphalian environmental agency (LANUV).
+
+### uba-airquality
+
+Air quality data from the Umweltbundesamt (UBA)
 
 ### weather-eddk
 

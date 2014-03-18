@@ -5,7 +5,7 @@ This folder contains air quality measures taken from the European Union database
 
 The measurement data has been collected at ~20 different locations which are described in the file "stations.csv".
 
-For each station, one CSV file of measurements is contained, named using the station ID.
+For each station, one CSV file of measurements is contained, named using the station ID. Unfortunately, the data for most stations is several years old or very spotty.
 
 ## Source
 
