@@ -1,7 +1,7 @@
 LANUV Air Quality Data
 ======================
 
-This folder shall contain air quality data from the environment agency of Northrine-Westphalia (LANUV).
+This folder shall contain air quality data from the environment agency of Northrhine-Westphalia (LANUV).
 
 Currently it only holds metadata on measurement stations.
 
