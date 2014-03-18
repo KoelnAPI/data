@@ -7,7 +7,7 @@ Currently it only holds metadata on measurement stations.
 
 ## Contents:
 
-* `stations_complete.csv` - A complete list of all stations, including historic stations, incloding geo position
+* `stations_complete.csv` - A complete list of all stations, including historic stations, including geo position
 * `stations_active.csv` - Same schema as above, only containing active stations
 
 ## License
