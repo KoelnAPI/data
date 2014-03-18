@@ -10,6 +10,7 @@ Only data from stations in the Cologne region is mirrored here.
 * Measurement values are contained in directory structure `<YYYYMM>/<station_id>/<pollutant>/<type>.json`. See below for details.
 * `stations_complete.csv` - A complete list of all stations, including historic stations, including geo position
 * `stations_active.csv` - Same schema as above, only containing active stations
+* `stations_active.geojson` - Same as above in GeoJSON format
 
 Example JSON file (201402/DENW053/NO2/1SMW):
 
@@ -64,6 +65,10 @@ The type codes are:
 * 1TMAX - one day max
 
 The unit of all measures is: µg/m³
+
+## Note on data completeness
+
+Not all stations in the Cologne area seem to provide data. Reasons for this are unclear.
 
 ## License
 
