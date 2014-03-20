@@ -2369,6 +2369,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.9435459, 
+                    50.9485749
+                ], 
+                "type": "Point"
+            }, 
+            "id": 131, 
+            "properties": {
+                "address": "Im Mediapark 7, 50670 K\u00f6ln ", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Neustadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-03-20", 
+                "last_edited_by": "marian", 
+                "location_details": "Bereich Seiteneingang neben der Brandmeldezentrale", 
+                "name": "KOMED im Mediapark", 
+                "opening_hours": "Mo - Fr 09:00 - 18:00 Uhr und zu Veranstaltungen", 
+                "osm_node_id": 2729284149, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9588287, 
                     50.9385724
                 ], 
