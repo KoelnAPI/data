@@ -54,7 +54,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 53,Lindenthal,Müngersdorf,Sparkasse KölnBonn,,Aachener Str. 744-750,,6.880576,50.9379525,262073154,,7226,defiköln,2014-02-14,marian,
 54,Lindenthal,Sülz,Sparkasse KölnBonn,,Zülpicher Str. 292-294,,6.9213791,50.922279,425897167,,7131,defiköln,2014-02-14,marian,
 55,Lindenthal,Weiden,Sparkasse KölnBonn,,Goethestr. 8,,6.834015,50.9421126,739048812,,7223,defiköln,2014-02-14,marian,
-56,Lindenthal,Weiden,Sparkasse KölnBonn,Im Rhein-Center,Aachener Str. 1253,,,,,,7224,defiköln,2014-02-14,marian,Position sollte vor Ort festgestellt werden. Vermutlich im Erdgeschoss am Eingang Ostlandstraße.
+56,Lindenthal,Weiden,Sparkasse KölnBonn,"In Sparkassen-Filiale, linke Wand",Aachener Str. 1253,,6.836623,50.9365379,2758239367,,7224,defiköln,2014-04-01,marian,
 57,Lindenthal,Widdersdorf,Sparkasse KölnBonn,,Hauptstr. 54,,,,,,,defiköln,2014-02-14,marian,Existiert vermutlich nicht mehr. Sollte durch Rücksprache mit Sparkasse überprüft werden.
 58,Lindenthal,Lindenthal,St. Elisabeth-Krankenhaus,,Werthmannstr. 1,,,,,,,defiköln,,,
 59,Lindenthal,Lindenthal,Uniklinik,,Kerpener Str. 62,,,,,,,defiköln,,,
@@ -107,7 +107,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 106,Rodenkirchen,Bayenthal,St. Antonius-Krankenhaus,,Schillerstr. 23,,,,,,,defiköln,,,
 107,Porz,Grengel,Flughafen Köln/Bonn Terminal 1,"Ankunft B.C an Säule, Nähe Info-Schalter",Heinrich-Steinmann-Straße,,7.1223733,50.8788610,2629647242,,,eigene Beobachtung,2014-04-01,marian,
 108,Porz,Grengel,Flughafen Köln/Bonn Terminal 2,"Check-In-Bereich (oberste Ebene), am Info-Schalter vor Sicherheitsschleuse",Heinrich-Steinmann-Straße,,7.1195509,50.8804496,2629647241,,,eigene Beobachtung,2014-04-01,marian,
-109,Innenstadt,Altstadt-Süd,Römisch Germanisches Museum,Kassenbereich,"Roncalliplatz 4, 50667 Köln","Di-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00 ",6.9588973,50.940653,2758103873,,,Stadt Köln,2014-04-01,marian,
+109,Innenstadt,Altstadt-Süd,Römisch Germanisches Museum,Hinter der Kasse am Eingang,"Roncalliplatz 4, 50667 Köln","Di-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00 ",6.9588973,50.940653,2758103873,,,Stadt Köln,2014-04-01,marian,
 110,Innenstadt,Altstadt-Süd,Museum Ludwig,Kassenbereich,"Heinrich-Böll-Platz, 50667 Köln","Di-So 10:00 - 18:00, 1.Do im Monat 10:00 - 22:00 ",6.9599744,50.940922,2729268381,,,Stadt Köln,2014-03-20,marian,
 111,Innenstadt,Altstadt-Nord,Wallraf-Richartz-Museum,Sanitäter-Raum,"Obenmarspforten, 50667 Köln","Di-So 10:00 - 18:00, Do 10:00 - 21:00, Feiertags 10:00 - 18:00, 1.Do im Monat 10:00 - 22:00 ",,,,,,Stadt Köln,2014-01-24,marian,
 112,Innenstadt,Altstadt-Nord,Kölnisches Stadtmuseum,Kassenbereich,"Zeughausstraße 1-3, 50667 Köln","Di 10:00 - 20:00, Feiertags 10:00 - 17:00, Mi-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00",,,,,,Stadt Köln,2014-01-24,marian,
