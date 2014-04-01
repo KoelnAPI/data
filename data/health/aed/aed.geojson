@@ -1147,6 +1147,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.836623, 
+                    50.9365379
+                ], 
+                "type": "Point"
+            }, 
+            "id": 56, 
+            "properties": {
+                "address": "Aachener Str. 1253", 
+                "aed4eu_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Weiden", 
+                "comment": null, 
+                "crowdsav_id": 7224, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "In Sparkassen-Filiale, linke Wand", 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2758239367, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9328268, 
                     50.9276933
                 ], 
@@ -1693,6 +1719,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    7.0489139, 
+                    50.8926186
+                ], 
+                "type": "Point"
+            }, 
+            "id": 85, 
+            "properties": {
+                "address": "Urbacher Weg 25", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Porz", 
+                "comment": null, 
+                "crowdsav_id": 7158, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Gesundheitszentrum, Eingangsbereich hinter 2. Glast\u00fcr an Wand links", 
+                "name": "Krankenhaus Porz am Rhein", 
+                "opening_hours": null, 
+                "osm_node_id": 2758954758, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     7.0777923, 
                     50.8917008
                 ], 
@@ -2226,13 +2278,13 @@
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
                 "crowdsav_id": null, 
-                "last_edited": "2014-01-20", 
+                "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
-                "location_details": "Am Info-Schalter", 
+                "location_details": "Ankunft B.C an S\u00e4ule, N\u00e4he Info-Schalter", 
                 "name": "Flughafen K\u00f6ln/Bonn Terminal 1", 
                 "opening_hours": null, 
                 "osm_node_id": 2629647242, 
-                "source": null
+                "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
         }, 
@@ -2252,13 +2304,39 @@
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
                 "crowdsav_id": null, 
-                "last_edited": "2014-01-20", 
+                "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
-                "location_details": "Am Info-Schalter", 
+                "location_details": "Check-In-Bereich (oberste Ebene), am Info-Schalter vor Sicherheitsschleuse", 
                 "name": "Flughafen K\u00f6ln/Bonn Terminal 2", 
                 "opening_hours": null, 
                 "osm_node_id": 2629647241, 
-                "source": null
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9588973, 
+                    50.940653
+                ], 
+                "type": "Point"
+            }, 
+            "id": 109, 
+            "properties": {
+                "address": "Roncalliplatz 4, 50667 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-S\u00fcd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Hinter der Kasse am Eingang", 
+                "name": "R\u00f6misch Germanisches Museum", 
+                "opening_hours": "Di-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00 ", 
+                "osm_node_id": 2758103873, 
+                "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
         }, 
@@ -2369,6 +2447,84 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.9795351, 
+                    50.9392044
+                ], 
+                "type": "Point"
+            }, 
+            "id": 116, 
+            "properties": {
+                "address": "Willy-Brandt-Platz 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Bereich Infotheke am Haupteingang, N\u00e4he Stra\u00dfenbahn", 
+                "name": "Stadthaus Deutz Westgeb\u00e4ude", 
+                "opening_hours": "Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00", 
+                "osm_node_id": 2758070253, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9843964, 
+                    50.9386328
+                ], 
+                "type": "Point"
+            }, 
+            "id": 117, 
+            "properties": {
+                "address": "Willy-Brandt-Platz 3, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "S\u00e4ule direkt am Eingang von Seite Arena", 
+                "name": "Stadthaus Deutz Ostgeb\u00e4ude", 
+                "opening_hours": "Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00", 
+                "osm_node_id": 2758084998, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0546223, 
+                    50.8850854
+                ], 
+                "type": "Point"
+            }, 
+            "id": 125, 
+            "properties": {
+                "address": "Friedrich-Ebert-Ufer 64 -70, 51143 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Porz", 
+                "city_subdistrict": "Porz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Eingangsbereich an der Pforte", 
+                "name": "Bezirksamt Porz", 
+                "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
+                "osm_node_id": 2758938635, 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9435459, 
                     50.9485749
                 ], 
@@ -2421,6 +2577,58 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.9884743, 
+                    50.9338658
+                ], 
+                "type": "Point"
+            }, 
+            "id": 134, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Hauptgeb\u00e4ude, Zentrales Treppenhaus, Ebene 5, S\u00fcdseite, neben Herren-WC", 
+                "name": "FH K\u00f6ln, IWZ Deutz", 
+                "opening_hours": null, 
+                "osm_node_id": 2759043337, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9881351, 
+                    50.9332554
+                ], 
+                "type": "Point"
+            }, 
+            "id": 135, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Ebene 1, Bereich Et (Elektrische Energietechnik), Flur, neben Raum HW-1-57", 
+                "name": "FH K\u00f6ln, IWZ Deutz, Halle West", 
+                "opening_hours": null, 
+                "osm_node_id": 2758029034, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9517167, 
                     50.9399669
                 ], 
@@ -2467,6 +2675,136 @@
                 "opening_hours": null, 
                 "osm_node_id": 2710679523, 
                 "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9881743, 
+                    50.9342372
+                ], 
+                "type": "Point"
+            }, 
+            "id": 138, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Hauptgeb\u00e4ude, links neben Pf\u00f6rtnerloge (Ebene 2)", 
+                "name": "FH K\u00f6ln, IWZ Deutz Haupteingang", 
+                "opening_hours": null, 
+                "osm_node_id": 2758971784, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.99002, 
+                    50.9341212
+                ], 
+                "type": "Point"
+            }, 
+            "id": 139, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "An der Ausleihe", 
+                "name": "FH K\u00f6ln, IWZ Deutz Bibliothek", 
+                "opening_hours": null, 
+                "osm_node_id": 2759066131, 
+                "source": "FH K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9886781, 
+                    50.9347297
+                ], 
+                "type": "Point"
+            }, 
+            "id": 140, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Ebene 2, Bereich N, Flur rechts von Raum 20", 
+                "name": "FH K\u00f6ln, IWZ Deutz, Halle Nord", 
+                "opening_hours": null, 
+                "osm_node_id": 2759116263, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9891964, 
+                    50.9331956
+                ], 
+                "type": "Point"
+            }, 
+            "id": 141, 
+            "properties": {
+                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Deutz", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "Ebene 1, zwischen Lt (Landmaschinentechnik) und Ft (Fahrzeugtechnik), Flur vor Herren-WC", 
+                "name": "FH K\u00f6ln, IWZ Deutz, Halle Ost", 
+                "opening_hours": null, 
+                "osm_node_id": 2758000293, 
+                "source": "eigene Beobachtung"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9554054, 
+                    50.9427599
+                ], 
+                "type": "Point"
+            }, 
+            "id": 142, 
+            "properties": {
+                "address": "An den Dominikanern 2", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-01", 
+                "last_edited_by": "marian", 
+                "location_details": "3. Stock, Poststelle (Raum 308)", 
+                "name": "FH K\u00f6ln im Sozialgericht", 
+                "opening_hours": null, 
+                "osm_node_id": 2759147315, 
+                "source": "FH K\u00f6ln"
             }, 
             "type": "Feature"
         }
