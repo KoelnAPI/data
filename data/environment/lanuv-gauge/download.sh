@@ -26,7 +26,7 @@ URL2="http://luadb.lds.nrw.de/LUA/hygon/messwerte/pegeldaten.tar.gz"
 
 # Load source files
 echo "Downloading source data..."
-rm -r _source
+test -d "_source" && rm -r _source
 mkdir -p _source/gauge
 curl -s $URL2 > _source/gauge/historic.tar.gz
 
@@ -40,7 +40,7 @@ cd $ROOT
 
 # convert stations file
 echo "Creating station files..."
-rm -f gauge_stations_tmp.geojson
+test -f "gauge_stations_tmp.geojson" && rm -f gauge_stations_tmp.geojson
 in2csv -f csv -e latin1 _source/gauge/pegel_stationen.txt > stations_EPSG-32632.csv
 ogr2ogr -f GeoJSON gauge_stations_tmp.geojson gauge_stations_EPSG-32632.vrt -t_srs "EPSG:4326"
 python ../../../tools/lessprecise/lessprecise.py \
