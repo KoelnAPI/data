@@ -5,6 +5,4929 @@
         }, 
         "type": "name"
     }, 
-    "features": [], 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9186738, 
+                    51.7447912
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Werse", 
+                "Informationsstufe 1": "170.0", 
+                "Informationsstufe 2": "200.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "182.0", 
+                "MNW": "10.0", 
+                "Mittel": "32.0", 
+                "Name": "Ahlen", 
+                "east": "425346", 
+                "north": "5733207"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.701494, 
+                    52.0910036
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Werre", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "207.0", 
+                "MNW": "32.0", 
+                "Mittel": "55.0", 
+                "Name": "Ahmsen", 
+                "east": "479549", 
+                "north": "5771202"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7279781, 
+                    51.8839087
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Werse", 
+                "Informationsstufe 1": "190.0", 
+                "Informationsstufe 2": "250.0", 
+                "Informationsstufe 3": "300.0", 
+                "MHW": "215.0", 
+                "MNW": "11.0", 
+                "Mittel": "45.0", 
+                "Name": "Albersloh", 
+                "east": "412451", 
+                "north": "5748891"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6760934, 
+                    51.2894595
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Lenne", 
+                "Informationsstufe 1": "190.0", 
+                "Informationsstufe 2": "235.0", 
+                "Informationsstufe 3": "430.0", 
+                "MHW": "303.0", 
+                "MNW": "30.0", 
+                "Mittel": "68.0", 
+                "Name": "Altena", 
+                "east": "407683", 
+                "north": "5682847"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6770468, 
+                    51.2862239
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Rahmede", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "104.0", 
+                "MNW": "23.0", 
+                "Mittel": "36.0", 
+                "Name": "Altena_Rahmedestrasse", 
+                "east": "407743", 
+                "north": "5682486"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9182645, 
+                    51.761129
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Beke", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "60.0", 
+                "MNW": "25.0", 
+                "Mittel": "30.0", 
+                "Name": "Altenbeken2", 
+                "east": "494359", 
+                "north": "5734474"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3734955, 
+                    50.8975923
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "105.0", 
+                "Informationsstufe 2": "135.0", 
+                "Informationsstufe 3": "170.0", 
+                "MHW": "118.0", 
+                "MNW": "13.0", 
+                "Mittel": "32.0", 
+                "Name": "Altenburg_1", 
+                "east": "315307", 
+                "north": "5641723"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4455622, 
+                    51.885471
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Stever", 
+                "Informationsstufe 1": "140.0", 
+                "Informationsstufe 2": "165.0", 
+                "Informationsstufe 3": "195.0", 
+                "MHW": "126.0", 
+                "MNW": "8.0", 
+                "Mittel": "20.0", 
+                "Name": "Appelhuelsen", 
+                "east": "393018", 
+                "north": "5749442"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7922425, 
+                    50.5955256
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Erft", 
+                "Informationsstufe 1": "100.0", 
+                "Informationsstufe 2": "115.0", 
+                "Informationsstufe 3": "130.0", 
+                "MHW": "84.0", 
+                "MNW": "23.0", 
+                "Mittel": "33.0", 
+                "Name": "Arloff", 
+                "east": "343747", 
+                "north": "5607174"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9436002, 
+                    51.4698835
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "210.0", 
+                "Informationsstufe 2": "400.0", 
+                "Informationsstufe 3": "440.0", 
+                "MHW": "292.0", 
+                "MNW": "72.0", 
+                "Mittel": "102.0", 
+                "Name": "Bachum", 
+                "east": "426625", 
+                "north": "5702609"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2916893, 
+                    51.1357598
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Gewaesser": "Beeckbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "63.0", 
+                "MNW": "12.0", 
+                "Mittel": "20.0", 
+                "Name": "Baltes", 
+                "east": "310529", 
+                "north": "5668410"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8417208, 
+                    51.3100003
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "H\u00f6nne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "128.0", 
+                "MNW": "37.0", 
+                "Mittel": "55.0", 
+                "Name": "Balve-Garbeck", 
+                "east": "419268", 
+                "north": "5684936"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8786069, 
+                    51.3447822
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "H\u00f6nne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "112.0", 
+                "MNW": "7.0", 
+                "Mittel": "23.0", 
+                "Name": "Balve_Helle", 
+                "east": "421898", 
+                "north": "5688764"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9830845, 
+                    51.1626412
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Lenne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "347.0", 
+                "MNW": "102.0", 
+                "Mittel": "140.0", 
+                "Name": "Bamenohl", 
+                "east": "428894", 
+                "north": "5668403"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4877324, 
+                    50.9993726
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Eder", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "202.0", 
+                "MNW": "30.0", 
+                "Mittel": "60.0", 
+                "Name": "Beddelhausen", 
+                "east": "464054", 
+                "north": "5649880"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3268477, 
+                    51.4883647
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "M\u00f6hne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "185.0", 
+                "MNW": "29.0", 
+                "Mittel": "51.0", 
+                "Name": "Belecke_1", 
+                "east": "453263", 
+                "north": "5704350"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6305297, 
+                    51.748834
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "270.0", 
+                "Informationsstufe 2": "350.0", 
+                "Informationsstufe 3": "370.0", 
+                "MHW": "287.0", 
+                "MNW": "100.0", 
+                "Mittel": "140.0", 
+                "Name": "Bentfeld", 
+                "east": "474494", 
+                "north": "5733168"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6554014, 
+                    50.7179101
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Neffelbach", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "125.0", 
+                "Informationsstufe 3": "145.0", 
+                "MHW": "107.0", 
+                "MNW": "38.0", 
+                "Mittel": "45.0", 
+                "Name": "Bessenich", 
+                "east": "334494", 
+                "north": "5621078"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4619539, 
+                    51.2456844
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Niers", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "156.0", 
+                "MNW": "45.0", 
+                "Mittel": "69.0", 
+                "Name": "Bettrather_Dyck", 
+                "east": "322861", 
+                "north": "5680207"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8634529, 
+                    50.7937844
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Betzdorf (Rheinland-Pfalz)", 
+                "east": "419897", 
+                "north": "5627509"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0415084, 
+                    52.3703167
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Gehle", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "263.0", 
+                "MNW": "58.0", 
+                "Mittel": "79.0", 
+                "Name": "Bierde", 
+                "east": "502826", 
+                "north": "5802228"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2929124, 
+                    52.2394047
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Vechte", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "224.0", 
+                "Informationsstufe 3": "243.0", 
+                "MHW": "196.0", 
+                "MNW": "18.0", 
+                "Mittel": "45.0", 
+                "Name": "Bilk", 
+                "east": "383438", 
+                "north": "5789039"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1541738, 
+                    51.1136393
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Birgelener Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Birgelen", 
+                "east": "300815", 
+                "north": "5666314"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8257663, 
+                    50.7791176
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Erft", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "200.0", 
+                "Informationsstufe 3": "230.0", 
+                "MHW": "151.0", 
+                "MNW": "13.0", 
+                "Mittel": "31.0", 
+                "Name": "Bliesheim", 
+                "east": "346719", 
+                "north": "5627516"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1057944, 
+                    51.9248306
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Diestelbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "245.0", 
+                "MNW": "15.0", 
+                "Mittel": "27.0", 
+                "Name": "Blomberg", 
+                "east": "507275", 
+                "north": "5752683"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.388078, 
+                    51.6354185
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Gieseler", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "156.0", 
+                "MNW": "40.0", 
+                "Mittel": "62.0", 
+                "Name": "Boekenfoerde_2", 
+                "east": "457651", 
+                "north": "5720667"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6185967, 
+                    52.0710925
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "265.0", 
+                "MNW": "40.0", 
+                "Mittel": "65.0", 
+                "Name": "Brake", 
+                "east": "473858", 
+                "north": "5769014"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1907288, 
+                    51.7136811
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Brucht", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "320.0", 
+                "MNW": "110.0", 
+                "Mittel": "130.0", 
+                "Name": "Brakel", 
+                "east": "513177", 
+                "north": "5729211"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7653188, 
+                    51.4097737
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Hoppecke", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "124.0", 
+                "MNW": "28.0", 
+                "Mittel": "47.0", 
+                "Name": "Bredelar", 
+                "east": "483678", 
+                "north": "5695421"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3199415, 
+                    50.7860436
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Br\u00f6l", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Broel", 
+                "east": "381573", 
+                "north": "5627378"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4160223, 
+                    50.841277
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Br\u00f6l", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "130.0", 
+                "MNW": "12.0", 
+                "Mittel": "28.0", 
+                "Name": "Broeleck", 
+                "east": "388477", 
+                "north": "5633370"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1052323, 
+                    51.2197117
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Gewaesser": "Wupper", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "241.0", 
+                "MNW": "53.0", 
+                "Mittel": "74.0", 
+                "Name": "Buchenhofen", 
+                "east": "367679", 
+                "north": "5675964"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5643764, 
+                    51.5494894
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Afte", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "78.0", 
+                "MNW": "16.0", 
+                "Mittel": "28.0", 
+                "Name": "Bueren", 
+                "east": "469795", 
+                "north": "5711023"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7180461, 
+                    50.6380691
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Veybach", 
+                "Informationsstufe 1": "80.0", 
+                "Informationsstufe 2": "100.0", 
+                "Informationsstufe 3": "150.0", 
+                "MHW": "86.0", 
+                "MNW": "39.0", 
+                "Mittel": "45.0", 
+                "Name": "Burg_Veynau", 
+                "east": "338642", 
+                "north": "5612063"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2970452, 
+                    51.6952067
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Glenne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Cappel", 
+                "east": "451415", 
+                "north": "5727373"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7651849, 
+                    51.7383605
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Issel (Ijssel)", 
+                "Informationsstufe 1": "165.0", 
+                "Informationsstufe 2": "195.0", 
+                "Informationsstufe 3": "205.0", 
+                "MHW": "133.0", 
+                "MNW": "7.0", 
+                "Mittel": "21.0", 
+                "Name": "Daemmerwald", 
+                "east": "345695", 
+                "north": "5734302"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2669868, 
+                    52.0565214
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Vechte", 
+                "Informationsstufe 1": "198.0", 
+                "Informationsstufe 2": "255.0", 
+                "Informationsstufe 3": "315.0", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Darfeld", 
+                "east": "381182", 
+                "north": "5768742"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3618314, 
+                    50.5852457
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "147.0", 
+                "MNW": "7.0", 
+                "Mittel": "33.0", 
+                "Name": "Dedenborn", 
+                "east": "313248", 
+                "north": "5607027"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8983627, 
+                    51.9726288
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Ems", 
+                "Informationsstufe 1": "355.0", 
+                "Informationsstufe 2": "450.0", 
+                "Informationsstufe 3": "490.0", 
+                "MHW": "365.0", 
+                "MNW": "59.0", 
+                "Mittel": "115.0", 
+                "Name": "Einen", 
+                "east": "424327", 
+                "north": "5758567"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3825376, 
+                    50.5777166
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Erkensruhr", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "118.5", 
+                "MNW": "4.0", 
+                "Mittel": "23.5", 
+                "Name": "Einruhr", 
+                "east": "314684", 
+                "north": "5606138"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4426921, 
+                    50.7769821
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "250.0", 
+                "Informationsstufe 2": "410.0", 
+                "Informationsstufe 3": "460.0", 
+                "MHW": "348.0", 
+                "MNW": "15.0", 
+                "Mittel": "64.0", 
+                "Name": "Eitorf", 
+                "east": "390204", 
+                "north": "5626181"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9174198, 
+                    51.2262769
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "D\u00fcssel", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "191.0", 
+                "MNW": "94.0", 
+                "Mittel": "104.0", 
+                "Name": "Erkrath", 
+                "east": "354585", 
+                "north": "5677049"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.289258, 
+                    50.8149464
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Inde", 
+                "Informationsstufe 1": "190.0", 
+                "Informationsstufe 2": "230.0", 
+                "Informationsstufe 3": "260.0", 
+                "MHW": "179.0", 
+                "MNW": "17.0", 
+                "Mittel": "37.0", 
+                "Name": "Eschweiler", 
+                "east": "309047", 
+                "north": "5632749"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0476923, 
+                    51.3961467
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Hesperbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "119.0", 
+                "MNW": "22.0", 
+                "Mittel": "34.0", 
+                "Name": "Essen-Hespertal", 
+                "east": "364183", 
+                "north": "5695688"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3250793, 
+                    50.9387629
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "Lahn", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "116.0", 
+                "MNW": "24.0", 
+                "Mittel": "39.0", 
+                "Name": "Feudingen", 
+                "east": "452579", 
+                "north": "5643232"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.558632, 
+                    52.3532541
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Gro\u00dfe Aue (Aue)", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "232.0", 
+                "MNW": "100.0", 
+                "Mittel": "120.0", 
+                "Name": "Fiestel", 
+                "east": "469939", 
+                "north": "5800421"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7729809, 
+                    50.755213
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Rotbach", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "150.0", 
+                "Informationsstufe 3": "180.0", 
+                "MHW": "118.0", 
+                "MNW": "18.0", 
+                "Mittel": "28.0", 
+                "Name": "Friesheim", 
+                "east": "342918", 
+                "north": "5624969"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3000406, 
+                    50.7659872
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Hanfbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Geisbach", 
+                "east": "380119", 
+                "north": "5625180"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3293194, 
+                    51.523697
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Gelderner Fleuth", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "166.0", 
+                "MNW": "66.0", 
+                "Mittel": "90.0", 
+                "Name": "Geldern", 
+                "east": "314732", 
+                "north": "5711446"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4912381, 
+                    50.5774476
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Urft", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "215.0", 
+                "Informationsstufe 3": "265.0", 
+                "MHW": "191.0", 
+                "MNW": "24.0", 
+                "Mittel": "45.0", 
+                "Name": "Gemuend", 
+                "east": "322378", 
+                "north": "5605842"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.5957897, 
+                    50.9744193
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Erft", 
+                "Informationsstufe 1": "170.0", 
+                "Informationsstufe 2": "180.0", 
+                "Informationsstufe 3": "195.0", 
+                "MHW": "173.0", 
+                "MNW": "93.0", 
+                "Mittel": "120.0", 
+                "Name": "Glesch", 
+                "east": "331215", 
+                "north": "5649732"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.500974, 
+                    51.2346687
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Gl\u00f6r", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "47.0", 
+                "MNW": "5.0", 
+                "Mittel": "11.0", 
+                "Name": "Gloertalsperre_Zulauf", 
+                "east": "395348", 
+                "north": "5676989"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1216059, 
+                    51.1337034
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Gewaesser": "Wupper", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "222.0", 
+                "MNW": "45.0", 
+                "Mittel": "66.0", 
+                "Name": "Glueder", 
+                "east": "368578", 
+                "north": "5666371"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1506241, 
+                    51.6839561
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Niers", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "169.0", 
+                "MNW": "33.0", 
+                "Mittel": "71.0", 
+                "Name": "Goch", 
+                "east": "303033", 
+                "north": "5729732"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6027921, 
+                    52.0943403
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Ems", 
+                "Informationsstufe 1": "610.0", 
+                "Informationsstufe 2": "810.0", 
+                "Informationsstufe 3": "870.0", 
+                "MHW": "682.0", 
+                "MNW": "108.0", 
+                "Mittel": "241.0", 
+                "Name": "Greven", 
+                "east": "404285", 
+                "north": "5772452"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0246592, 
+                    52.2179548
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Dinkel", 
+                "Informationsstufe 1": "153.0", 
+                "Informationsstufe 2": "177.0", 
+                "Informationsstufe 3": "198.0", 
+                "MHW": "158.0", 
+                "MNW": "6.0", 
+                "Mittel": "27.0", 
+                "Name": "Gronau", 
+                "east": "365058", 
+                "north": "5787119"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1292946, 
+                    50.7949172
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Haarbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "85.0", 
+                "MNW": "8.0", 
+                "Mittel": "14.0", 
+                "Name": "Haaren", 
+                "east": "297694", 
+                "north": "5630948"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.516869, 
+                    51.3234225
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Volme", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "207.0", 
+                "MNW": "32.0", 
+                "Mittel": "58.0", 
+                "Name": "Hagen-Ambrock", 
+                "east": "396657", 
+                "north": "5686836"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4498264, 
+                    51.3852062
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Volme", 
+                "Informationsstufe 1": "170.0", 
+                "Informationsstufe 2": "340.0", 
+                "Informationsstufe 3": "380.0", 
+                "MHW": "242.0", 
+                "MNW": "62.0", 
+                "Mittel": "89.0", 
+                "Name": "Hagen-Eckesey", 
+                "east": "392131", 
+                "north": "5693803"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4186568, 
+                    51.3480185
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ennepe", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "137.0", 
+                "MNW": "22.0", 
+                "Mittel": "38.0", 
+                "Name": "Hagen-Haspe", 
+                "east": "389873", 
+                "north": "5689714"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4870743, 
+                    51.3194803
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Maeckinger-bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "65.0", 
+                "MNW": "6.0", 
+                "Mittel": "22.0", 
+                "Name": "Hagen-Maecking", 
+                "east": "394572", 
+                "north": "5686440"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4816655, 
+                    51.3211728
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Hombecke", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "59.0", 
+                "MNW": "2.0", 
+                "Mittel": "12.0", 
+                "Name": "Hagen-Maecking2", 
+                "east": "394199", 
+                "north": "5686636"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4779202, 
+                    51.3341636
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Maeckinger-bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "53.0", 
+                "MNW": "3.0", 
+                "Mittel": "15.0", 
+                "Name": "Hagen-Selbecke", 
+                "east": "393968", 
+                "north": "5688086"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1865653, 
+                    51.7310886
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "546.0", 
+                "Informationsstufe 2": "606.0", 
+                "Informationsstufe 3": "664.0", 
+                "MHW": "538.0", 
+                "MNW": "144.0", 
+                "Mittel": "216.0", 
+                "Name": "Haltern", 
+                "east": "374767", 
+                "north": "5732686"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3364168, 
+                    51.3906489
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Nette", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "102.0", 
+                "MNW": "32.0", 
+                "Mittel": "50.0", 
+                "Name": "Haus_Langenfeld", 
+                "east": "314686", 
+                "north": "5696635"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.9094816, 
+                    51.0357136
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Saeffeler Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Havert", 
+                "east": "283328", 
+                "north": "5658342"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.117088, 
+                    52.1169944
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Dinkel", 
+                "Informationsstufe 1": "147.0", 
+                "Informationsstufe 2": "183.0", 
+                "Informationsstufe 3": "193.0", 
+                "MHW": "152.0", 
+                "MNW": "11.0", 
+                "Mittel": "25.0", 
+                "Name": "Heek", 
+                "east": "371080", 
+                "north": "5775723"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3727434, 
+                    51.2568769
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Heilenbecke", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "73.0", 
+                "MNW": "8.0", 
+                "Mittel": "20.0", 
+                "Name": "Heilenbecke_Ablauf", 
+                "east": "386451", 
+                "north": "5679649"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7884105, 
+                    51.4006977
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Oese", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "113.0", 
+                "MNW": "6.0", 
+                "Mittel": "16.0", 
+                "Name": "Hemer-Becke", 
+                "east": "415719", 
+                "north": "5695082"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7649347, 
+                    51.3798692
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Westiger Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "111.0", 
+                "MNW": "7.0", 
+                "Mittel": "18.0", 
+                "Name": "Hemer_Hessufer", 
+                "east": "414047", 
+                "north": "5692793"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7696529, 
+                    51.3807551
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Sundwiger Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "83.0", 
+                "MNW": "16.0", 
+                "Mittel": "28.0", 
+                "Name": "Hemer_Uhlenhof", 
+                "east": "414377", 
+                "north": "5692886"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9157817, 
+                    51.670395
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Glasebach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "75.0", 
+                "MNW": "30.0", 
+                "Mittel": "53.0", 
+                "Name": "Herbram_W", 
+                "east": "494176", 
+                "north": "5724383"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6709239, 
+                    52.1334218
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Werre", 
+                "Informationsstufe 1": "400.0", 
+                "Informationsstufe 2": "460.0", 
+                "Informationsstufe 3": "530.0", 
+                "MHW": "396.0", 
+                "MNW": "55.0", 
+                "Mittel": "124.0", 
+                "Name": "Herford_2", 
+                "east": "477476", 
+                "north": "5775929"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1054729, 
+                    51.0874564
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Hundem", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "93.0", 
+                "MNW": "4.0", 
+                "Mittel": "17.0", 
+                "Name": "Herrntrop", 
+                "east": "437350", 
+                "north": "5659931"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.0946916, 
+                    50.8665063
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Wurm", 
+                "Informationsstufe 1": "190.0", 
+                "Informationsstufe 2": "210.0", 
+                "Informationsstufe 3": "240.0", 
+                "MHW": "205.0", 
+                "MNW": "47.0", 
+                "Mittel": "61.0", 
+                "Name": "Herzogenrath_1", 
+                "east": "295569", 
+                "north": "5639002"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1117116, 
+                    50.8668751
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Broicher Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "104.0", 
+                "MNW": "40.0", 
+                "Mittel": "49.0", 
+                "Name": "Herzogenrath_2", 
+                "east": "296768", 
+                "north": "5638996"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9251258, 
+                    51.1603299
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "Itterbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "148.0", 
+                "MNW": "30.0", 
+                "Mittel": "43.0", 
+                "Name": "Hilden_1", 
+                "east": "354916", 
+                "north": "5669701"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.58807, 
+                    52.3202965
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "H\u00f6rsteler Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "87.0", 
+                "MNW": "17.0", 
+                "Mittel": "25.0", 
+                "Name": "Hoerstel", 
+                "east": "403766", 
+                "north": "5797602"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1937959, 
+                    50.9108694
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "S\u00fclz", 
+                "Informationsstufe 1": "240.0", 
+                "Informationsstufe 2": "300.0", 
+                "Informationsstufe 3": "325.0", 
+                "MHW": "262.0", 
+                "MNW": "43.0", 
+                "Mittel": "74.0", 
+                "Name": "Hoffnungsthal", 
+                "east": "373021", 
+                "north": "5641467"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2802444, 
+                    51.0087911
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "K\u00fcrtener S\u00fclz", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "108.0", 
+                "MNW": "20.0", 
+                "Mittel": "32.0", 
+                "Name": "Hommerich", 
+                "east": "379352", 
+                "north": "5652210"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1816739, 
+                    51.0047685
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Beeckflies", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "99.0", 
+                "MNW": "15.0", 
+                "Mittel": "25.0", 
+                "Name": "Honsdorf", 
+                "east": "302276", 
+                "north": "5654136"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5992998, 
+                    52.3735407
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Hopstener Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "120.0", 
+                "MNW": "11.0", 
+                "Mittel": "23.0", 
+                "Name": "Hopsten", 
+                "east": "404646", 
+                "north": "5803509"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7006234, 
+                    51.4009262
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Baarbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "129.0", 
+                "MNW": "8.0", 
+                "Mittel": "15.0", 
+                "Name": "Iserlohn", 
+                "east": "409613", 
+                "north": "5695212"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6621599, 
+                    51.4479552
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Baarbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "137.0", 
+                "MNW": "23.0", 
+                "Mittel": "34.0", 
+                "Name": "Iserlohn-Hennen", 
+                "east": "407033", 
+                "north": "5700490"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4722898, 
+                    51.8325726
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Issel (Ijssel)", 
+                "Informationsstufe 1": "141.0", 
+                "Informationsstufe 2": "189.0", 
+                "Informationsstufe 3": "199.0", 
+                "MHW": "126.0", 
+                "MNW": "6.0", 
+                "Mittel": "28.0", 
+                "Name": "Isselburg", 
+                "east": "325838", 
+                "north": "5745438"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6163899, 
+                    51.1676823
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Jubach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "66.0", 
+                "MNW": "8.0", 
+                "Mittel": "28.0", 
+                "Name": "Jubachtalsperre_Zulauf", 
+                "east": "403265", 
+                "north": "5669382"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3492297, 
+                    50.9248997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "205.0", 
+                "Informationsstufe 2": "250.0", 
+                "Informationsstufe 3": "290.0", 
+                "MHW": "211.0", 
+                "MNW": "103.0", 
+                "Mittel": "119.0", 
+                "Name": "Juelich-Stadion", 
+                "east": "313710", 
+                "north": "5644820"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.5538144, 
+                    50.5444824
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Urft", 
+                "Informationsstufe 1": "155.0", 
+                "Informationsstufe 2": "180.0", 
+                "Informationsstufe 3": "230.0", 
+                "MHW": "157.0", 
+                "MNW": "19.0", 
+                "Mittel": "36.0", 
+                "Name": "Kall-Sportplatz", 
+                "east": "326687", 
+                "north": "5602029"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3595206, 
+                    51.5700787
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Issumer Fleuth", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "72.0", 
+                "MNW": "15.0", 
+                "Mittel": "26.0", 
+                "Name": "Kapellen", 
+                "east": "317013", 
+                "north": "5716527"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0893846, 
+                    51.662975
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "439.0", 
+                "Informationsstufe 2": "461.0", 
+                "Informationsstufe 3": "473.0", 
+                "MHW": "413.0", 
+                "MNW": "30.0", 
+                "Mittel": "120.0", 
+                "Name": "Kesseler_3", 
+                "east": "437018", 
+                "north": "5723947"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1004026, 
+                    51.1088738
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Lenne", 
+                "Informationsstufe 1": "220.0", 
+                "Informationsstufe 2": "270.0", 
+                "Informationsstufe 3": "290.0", 
+                "MHW": "239.0", 
+                "MNW": "60.0", 
+                "Mittel": "94.0", 
+                "Name": "Kickenbach", 
+                "east": "437024", 
+                "north": "5662317"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6149193, 
+                    51.1398951
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Volme", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "88.0", 
+                "MNW": "7.0", 
+                "Mittel": "19.0", 
+                "Name": "Kierspe", 
+                "east": "403104", 
+                "north": "5666294"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3586105, 
+                    50.8922012
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Inde", 
+                "Informationsstufe 1": "170.0", 
+                "Informationsstufe 2": "195.0", 
+                "Informationsstufe 3": "215.0", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Kirchberg1", 
+                "east": "314239", 
+                "north": "5641161"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3599761, 
+                    50.8921962
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "M\u00fchlenteich", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Kirchberg2", 
+                "east": "314335", 
+                "north": "5641157"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1584193, 
+                    51.2555712
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Gewaesser": "Wupper", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "172.0", 
+                "MNW": "17.0", 
+                "Mittel": "32.0", 
+                "Name": "Kluserbruecke", 
+                "east": "371493", 
+                "north": "5679857"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1833081, 
+                    50.7281514
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Inde", 
+                "Informationsstufe 1": "150.0", 
+                "Informationsstufe 2": "170.0", 
+                "Informationsstufe 3": "210.0", 
+                "MHW": "134.0", 
+                "MNW": "10.0", 
+                "Mittel": "26.0", 
+                "Name": "KornelimuensterW", 
+                "east": "301217", 
+                "north": "5623379"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2336425, 
+                    51.2392576
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Gewaesser": "Kranenbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "105.0", 
+                "MNW": "56.0", 
+                "Mittel": "65.0", 
+                "Name": "Kranenbruch", 
+                "east": "306902", 
+                "north": "5680068"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9951596, 
+                    50.9587553
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Ferndorf", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "109.0", 
+                "MNW": "9.0", 
+                "Mittel": "23.0", 
+                "Name": "Kreuztal", 
+                "east": "429429", 
+                "north": "5645719"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3544744, 
+                    50.8522612
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Inde", 
+                "Informationsstufe 1": "160.0", 
+                "Informationsstufe 2": "200.0", 
+                "Informationsstufe 3": "235.0", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Lamersdorf", 
+                "east": "313789", 
+                "north": "5636731"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.0878507, 
+                    51.2283158
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Gewaesser": "Schwalm", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "116.0", 
+                "MNW": "21.0", 
+                "Mittel": "36.0", 
+                "Name": "Landesgrenze", 
+                "east": "296679", 
+                "north": "5679245"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6726626, 
+                    50.8643327
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Neffelbach", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "140.0", 
+                "Informationsstufe 3": "160.0", 
+                "MHW": "122.0", 
+                "MNW": "40.0", 
+                "Mittel": "50.0", 
+                "Name": "Langenich", 
+                "east": "336225", 
+                "north": "5637319"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0820708, 
+                    52.0398444
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Dinkel", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "148.0", 
+                "MNW": "7.0", 
+                "Mittel": "24.0", 
+                "Name": "Legden", 
+                "east": "368456", 
+                "north": "5767206"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7393482, 
+                    52.2612464
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Ibbenb\u00fcrener Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "106.0", 
+                "MNW": "7.0", 
+                "Mittel": "16.0", 
+                "Name": "Lehen_2", 
+                "east": "413962", 
+                "north": "5790844"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2975661, 
+                    51.7148997
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "527.0", 
+                "Informationsstufe 2": "642.0", 
+                "Informationsstufe 3": "723.0", 
+                "MHW": "489.0", 
+                "MNW": "58.0", 
+                "Mittel": "131.0", 
+                "Name": "Leven", 
+                "east": "382390", 
+                "north": "5730701"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8502296, 
+                    52.0297348
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Ilse", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "165.0", 
+                "MNW": "27.0", 
+                "Mittel": "40.0", 
+                "Name": "Liemergrund", 
+                "east": "489725", 
+                "north": "5764356"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7666934, 
+                    52.0549354
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Bega", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "402.0", 
+                "MNW": "136.0", 
+                "Mittel": "168.0", 
+                "Name": "Lindemannsheide_Alt", 
+                "east": "484003", 
+                "north": "5767174"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7716018, 
+                    52.0533537
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Bega", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "328.0", 
+                "MNW": "64.0", 
+                "Mittel": "96.0", 
+                "Name": "Lindemannsheide_neu", 
+                "east": "484339", 
+                "north": "5766997"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2744896, 
+                    50.9812835
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "195.0", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "188.0", 
+                "MNW": "92.0", 
+                "Mittel": "107.0", 
+                "Name": "Linnich", 
+                "east": "308690", 
+                "north": "5651280"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8214704, 
+                    51.780506
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "60.0", 
+                "MNW": "23.0", 
+                "Mittel": "35.0", 
+                "Name": "Lippspringe1", 
+                "east": "487684", 
+                "north": "5736641"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3346, 
+                    51.6768668
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "192.0", 
+                "MNW": "14.0", 
+                "Mittel": "60.0", 
+                "Name": "Lippstadt-Nordumflut", 
+                "east": "453992", 
+                "north": "5725309"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3325414, 
+                    51.6722784
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Lippstadt2", 
+                "east": "453845", 
+                "north": "5724800"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3361761, 
+                    51.6739264
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "350.0", 
+                "Informationsstufe 2": "392.0", 
+                "Informationsstufe 3": "405.0", 
+                "MHW": "338.0", 
+                "MNW": "41.0", 
+                "Mittel": "80.0", 
+                "Name": "Lippstadt_1", 
+                "east": "454098", 
+                "north": "5724981"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7101571, 
+                    52.1978804
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Werre", 
+                "Informationsstufe 1": "470.0", 
+                "Informationsstufe 2": "520.0", 
+                "Informationsstufe 3": "570.0", 
+                "MHW": "416.0", 
+                "MNW": "70.0", 
+                "Mittel": "109.0", 
+                "Name": "Loehne", 
+                "east": "480190", 
+                "north": "5783087"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2013295, 
+                    50.8416182
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Agger", 
+                "Informationsstufe 1": "250.0", 
+                "Informationsstufe 2": "390.0", 
+                "Informationsstufe 3": "430.0", 
+                "MHW": "333.0", 
+                "MNW": "21.0", 
+                "Mittel": "69.0", 
+                "Name": "Lohmar", 
+                "east": "373363", 
+                "north": "5633754"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2217808, 
+                    51.9841908
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Berkel", 
+                "Informationsstufe 1": "181.0", 
+                "Informationsstufe 2": "229.0", 
+                "Informationsstufe 3": "260.0", 
+                "MHW": "200.0", 
+                "MNW": "30.0", 
+                "Mittel": "50.0", 
+                "Name": "Lutum", 
+                "east": "377886", 
+                "north": "5760773"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0073725, 
+                    51.0382527
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Gewaesser": "Dh\u00fcnn", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "156.0", 
+                "MNW": "24.0", 
+                "Mittel": "41.0", 
+                "Name": "Manfort", 
+                "east": "360299", 
+                "north": "5655968"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2554092, 
+                    51.9483731
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Lutter", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "145.0", 
+                "MNW": "30.0", 
+                "Mittel": "45.0", 
+                "Name": "Marienfeld_W", 
+                "east": "448825", 
+                "north": "5755558"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1591442, 
+                    50.7978982
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "220.0", 
+                "Informationsstufe 2": "410.0", 
+                "Informationsstufe 3": "440.0", 
+                "MHW": "363.0", 
+                "MNW": "16.0", 
+                "Mittel": "71.0", 
+                "Name": "Menden_1", 
+                "east": "370272", 
+                "north": "5628966"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8422078, 
+                    51.3989036
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "H\u00f6nne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "109.0", 
+                "MNW": "11.0", 
+                "Mittel": "26.0", 
+                "Name": "Menden_Oberroedingh", 
+                "east": "419458", 
+                "north": "5694822"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7774102, 
+                    51.4471456
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "H\u00f6nne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "191.0", 
+                "MNW": "22.5", 
+                "Mittel": "46.8", 
+                "Name": "Menden_Sauerland", 
+                "east": "415040", 
+                "north": "5700260"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.280217, 
+                    51.3478574
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "160.0", 
+                "Informationsstufe 2": "320.0", 
+                "Informationsstufe 3": "380.0", 
+                "MHW": "172.0", 
+                "MNW": "29.0", 
+                "Mittel": "50.0", 
+                "Name": "Meschede", 
+                "east": "449872", 
+                "north": "5688755"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.284012, 
+                    51.3420537
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Henne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Meschede4", 
+                "east": "450130", 
+                "north": "5688107"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7603566, 
+                    50.571558
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Eschweiler Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Moeschemer-Muehle", 
+                "east": "341410", 
+                "north": "5604577"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2732801, 
+                    51.1618744
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Gewaesser": "Schwalm", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "87.0", 
+                "MNW": "28.0", 
+                "Mittel": "35.0", 
+                "Name": "Molzmuehle", 
+                "east": "309349", 
+                "north": "5671361"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2458863, 
+                    50.5543512
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "120.0", 
+                "Informationsstufe 2": "145.0", 
+                "Informationsstufe 3": "170.0", 
+                "MHW": "128.0", 
+                "MNW": "7.0", 
+                "Mittel": "31.0", 
+                "Name": "Monschau", 
+                "east": "304914", 
+                "north": "5603891"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9527572, 
+                    50.6647275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Swistbach", 
+                "Informationsstufe 1": "160.0", 
+                "Informationsstufe 2": "195.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "154.0", 
+                "MNW": "14.0", 
+                "Mittel": "27.0", 
+                "Name": "Morenhoven", 
+                "east": "355319", 
+                "north": "5614542"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7406621, 
+                    50.8612943
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Wisserbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "139.0", 
+                "MNW": "15.0", 
+                "Mittel": "35.0", 
+                "Name": "Morsbach", 
+                "east": "411371", 
+                "north": "5635156"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2839666, 
+                    51.0495234
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Eder", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "159.0", 
+                "MNW": "39.0", 
+                "Mittel": "62.0", 
+                "Name": "Muesse", 
+                "east": "449810", 
+                "north": "5655576"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2099583, 
+                    50.6910674
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Vichtbach", 
+                "Informationsstufe 1": "100.0", 
+                "Informationsstufe 2": "115.0", 
+                "Informationsstufe 3": "160.0", 
+                "MHW": "109.0", 
+                "MNW": "16.0", 
+                "Mittel": "26.0", 
+                "Name": "Mulartshuette", 
+                "east": "302942", 
+                "north": "5619185"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.593746, 
+                    51.490519
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Alme", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "135.0", 
+                "MNW": "45.0", 
+                "Mittel": "65.0", 
+                "Name": "Multhaeupter Hammer", 
+                "east": "471795", 
+                "north": "5704453"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9538502, 
+                    51.4554531
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Neheim3", 
+                "east": "427314", 
+                "north": "5700994"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6488262, 
+                    51.1321659
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Erft", 
+                "Informationsstufe 1": "180.0", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "141.0", 
+                "MNW": "66.0", 
+                "Mittel": "85.0", 
+                "Name": "Neubrueck", 
+                "east": "335498", 
+                "north": "5667151"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7312429, 
+                    51.7448905
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "163.0", 
+                "MNW": "14.0", 
+                "Mittel": "38.0", 
+                "Name": "Neuhaus1", 
+                "east": "481445", 
+                "north": "5732699"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7093536, 
+                    51.7341297
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Alme", 
+                "Informationsstufe 1": "170.0", 
+                "Informationsstufe 2": "230.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "119.0", 
+                "MNW": "19.0", 
+                "Mittel": "38.0", 
+                "Name": "Neuhaus2", 
+                "east": "479929", 
+                "north": "5731508"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7178303, 
+                    51.7658179
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Thune", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "110.0", 
+                "MNW": "45.0", 
+                "Mittel": "55.0", 
+                "Name": "Neuhaus3", 
+                "east": "480528", 
+                "north": "5735030"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.748513, 
+                    50.383099
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "Ahr", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "128.0", 
+                "MNW": "12.0", 
+                "Mittel": "25.0", 
+                "Name": "Neuhof", 
+                "east": "339936", 
+                "north": "5583650"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1796224, 
+                    50.6465388
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "Mehlemer Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Niederbachem", 
+                "east": "371301", 
+                "north": "5612101"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0801016, 
+                    50.8631775
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Weiss", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "153.0", 
+                "MNW": "21.0", 
+                "Mittel": "41.0", 
+                "Name": "Niederdielfen", 
+                "east": "435262", 
+                "north": "5635013"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6812635, 
+                    51.6410221
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Alme", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "285.0", 
+                "MNW": "33.0", 
+                "Mittel": "100.0", 
+                "Name": "Niederntudorf", 
+                "east": "477944", 
+                "north": "5721161"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2157163, 
+                    50.7735052
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Pleisbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "170.0", 
+                "MNW": "12.0", 
+                "Mittel": "27.0", 
+                "Name": "Niederpleis", 
+                "east": "374193", 
+                "north": "5626156"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9667369, 
+                    50.8451062
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "282.0", 
+                "MNW": "52.0", 
+                "Mittel": "91.0", 
+                "Name": "Niederschelden", 
+                "east": "427256", 
+                "north": "5633109"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.718337, 
+                    51.6633799
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Altenau", 
+                "Informationsstufe 1": "175.0", 
+                "Informationsstufe 2": "210.0", 
+                "Informationsstufe 3": "225.0", 
+                "MHW": "150.0", 
+                "MNW": "12.0", 
+                "Mittel": "35.0", 
+                "Name": "Nordborchen", 
+                "east": "480519", 
+                "north": "5723637"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.664606, 
+                    50.9867482
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Steinagger", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "68.0", 
+                "MNW": "6.0", 
+                "Mittel": "18.0", 
+                "Name": "Oberagger", 
+                "east": "406271", 
+                "north": "5649200"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5142722, 
+                    52.1886865
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Else", 
+                "Informationsstufe 1": "240.0", 
+                "Informationsstufe 2": "280.0", 
+                "Informationsstufe 3": "310.0", 
+                "MHW": "225.0", 
+                "MNW": "18.0", 
+                "Mittel": "38.0", 
+                "Name": "Oberahle", 
+                "east": "466795", 
+                "north": "5782136"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3719219, 
+                    51.3219542
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Niers", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "149.0", 
+                "MNW": "49.0", 
+                "Mittel": "79.0", 
+                "Name": "Oedt", 
+                "east": "316882", 
+                "north": "5688908"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1306361, 
+                    51.3972618
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "330.0", 
+                "Informationsstufe 3": "370.0", 
+                "MHW": "249.0", 
+                "MNW": "28.0", 
+                "Mittel": "69.0", 
+                "Name": "Oeventrop", 
+                "east": "439520", 
+                "north": "5694362"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3498567, 
+                    51.7215897
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Stever", 
+                "Informationsstufe 1": "210.0", 
+                "Informationsstufe 2": "260.0", 
+                "Informationsstufe 3": "350.0", 
+                "MHW": "241.0", 
+                "MNW": "17.0", 
+                "Mittel": "51.0", 
+                "Name": "Olfen-Fuecht.Muehle", 
+                "east": "386019", 
+                "north": "5731362"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.488024, 
+                    51.3514046
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "160.0", 
+                "Informationsstufe 2": "270.0", 
+                "Informationsstufe 3": "295.0", 
+                "MHW": "183.0", 
+                "MNW": "27.0", 
+                "Mittel": "62.0", 
+                "Name": "Olsberg", 
+                "east": "464347", 
+                "north": "5689028"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9941662, 
+                    51.0702147
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Gewaesser": "Wupper", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "269.0", 
+                "MNW": "57.0", 
+                "Mittel": "86.0", 
+                "Name": "Opladen", 
+                "east": "359470", 
+                "north": "5659547"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1605051, 
+                    51.127834
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Myhler Bach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Orsbeck", 
+                "east": "301319", 
+                "north": "5667875"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.3215691, 
+                    51.7084326
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Nethe", 
+                "Informationsstufe 1": "310.0", 
+                "Informationsstufe 2": "330.0", 
+                "Informationsstufe 3": "350.0", 
+                "MHW": "297.0", 
+                "MNW": "95.0", 
+                "Mittel": "123.0", 
+                "Name": "Ottbergen", 
+                "east": "522219", 
+                "north": "5728659"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2921915, 
+                    50.9338178
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Agger", 
+                "Informationsstufe 1": "250.0", 
+                "Informationsstufe 2": "315.0", 
+                "Informationsstufe 3": "355.0", 
+                "MHW": "276.0", 
+                "MNW": "32.0", 
+                "Mittel": "73.0", 
+                "Name": "Overath", 
+                "east": "379997", 
+                "north": "5643854"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3274029, 
+                    51.6481875
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Gieseler", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "225.0", 
+                "MNW": "29.0", 
+                "Mittel": "50.0", 
+                "Name": "Overhagen", 
+                "east": "453465", 
+                "north": "5722124"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7501527, 
+                    51.7224807
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Pader", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "120.0", 
+                "MNW": "60.0", 
+                "Mittel": "80.0", 
+                "Name": "Paderborn1", 
+                "east": "482742", 
+                "north": "5730202"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7442066, 
+                    51.7269007
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Rothebach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "100.0", 
+                "MNW": "13.0", 
+                "Mittel": "23.0", 
+                "Name": "Paderborn2", 
+                "east": "482333", 
+                "north": "5730695"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2298589, 
+                    51.1994487
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Gewaesser": "Schwalm", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "78.0", 
+                "MNW": "18.0", 
+                "Mittel": "25.0", 
+                "Name": "Pannenmuehle", 
+                "east": "306471", 
+                "north": "5675652"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4563515, 
+                    51.7613077
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Stever", 
+                "Informationsstufe 1": "260.0", 
+                "Informationsstufe 2": "290.0", 
+                "Informationsstufe 3": "420.0", 
+                "MHW": "300.0", 
+                "MNW": "52.0", 
+                "Mittel": "77.0", 
+                "Name": "Patzlar", 
+                "east": "393468", 
+                "north": "5735618"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.750004, 
+                    52.0165999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Werre", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "185.0", 
+                "MNW": "60.0", 
+                "Mittel": "80.0", 
+                "Name": "Pottenhausen", 
+                "east": "482844", 
+                "north": "5762914"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1797791, 
+                    51.0150847
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Wurm", 
+                "Informationsstufe 1": "230.0", 
+                "Informationsstufe 2": "250.0", 
+                "Informationsstufe 3": "275.0", 
+                "MHW": "250.0", 
+                "MNW": "77.0", 
+                "Mittel": "94.0", 
+                "Name": "Randerath", 
+                "east": "302187", 
+                "north": "5655288"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.186285, 
+                    51.0738601
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Flo\u00dfbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Ratheim", 
+                "east": "302893", 
+                "north": "5661805"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8124185, 
+                    51.3038183
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Gewaesser": "Angerbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "163.0", 
+                "MNW": "28.0", 
+                "Mittel": "47.0", 
+                "Name": "Ratingen", 
+                "east": "347511", 
+                "north": "5685884"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3862686, 
+                    51.0314458
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Odeborn", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "150.0", 
+                "MNW": "13.0", 
+                "Mittel": "42.0", 
+                "Name": "Raumland", 
+                "east": "456964", 
+                "north": "5653501"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6010152, 
+                    51.0043497
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Agger", 
+                "Informationsstufe 1": "100.0", 
+                "Informationsstufe 2": "165.0", 
+                "Informationsstufe 3": "200.0", 
+                "MHW": "126.0", 
+                "MNW": "9.0", 
+                "Mittel": "26.0", 
+                "Name": "Rebbelroth", 
+                "east": "401845", 
+                "north": "5651240"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2961217, 
+                    51.8524978
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Ems", 
+                "Informationsstufe 1": "390.0", 
+                "Informationsstufe 2": "435.0", 
+                "Informationsstufe 3": "500.0", 
+                "MHW": "386.0", 
+                "MNW": "188.0", 
+                "Mittel": "226.0", 
+                "Name": "Rheda", 
+                "east": "451520", 
+                "north": "5744867"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7522012, 
+                    51.8277002
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Bocholter Aa", 
+                "Informationsstufe 1": "172.0", 
+                "Informationsstufe 2": "240.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "191.0", 
+                "MNW": "11.0", 
+                "Mittel": "32.0", 
+                "Name": "Rhedebruegge", 
+                "east": "345105", 
+                "north": "5744264"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8782432, 
+                    52.2822266
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Bastau", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "117.0", 
+                "MNW": "22.0", 
+                "Mittel": "42.0", 
+                "Name": "Rodenbeck", 
+                "east": "491694", 
+                "north": "5792436"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9545846, 
+                    51.2162462
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Lenne", 
+                "Informationsstufe 1": "190.0", 
+                "Informationsstufe 2": "390.0", 
+                "Informationsstufe 3": "440.0", 
+                "MHW": "292.0", 
+                "MNW": "42.0", 
+                "Mittel": "75.0", 
+                "Name": "Roenkhausen", 
+                "east": "426986", 
+                "north": "5674392"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6723697, 
+                    51.2450118
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Fuelbecke", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "51.0", 
+                "MNW": "18.0", 
+                "Mittel": "27.0", 
+                "Name": "Rosmart", 
+                "east": "407334", 
+                "north": "5677909"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.119391, 
+                    51.1402928
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rothenbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Rothenbach_Grenze", 
+                "east": "298497", 
+                "north": "5669372"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5627966, 
+                    51.9537342
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Roxeler Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Roxeler", 
+                "east": "401236", 
+                "north": "5756868"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3539185, 
+                    50.6154871
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Weidenbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "74.0", 
+                "MNW": "14.0", 
+                "Mittel": "29.0", 
+                "Name": "RurbergVA", 
+                "east": "312808", 
+                "north": "5610409"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1345613, 
+                    51.7064848
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Aa", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "246.0", 
+                "MNW": "78.0", 
+                "Mittel": "97.0", 
+                "Name": "Rustenhof", 
+                "east": "509298", 
+                "north": "5728402"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6851676, 
+                    51.7616259
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Boker Kanal", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Sande2", 
+                "east": "478272", 
+                "north": "5734573"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1522279, 
+                    51.1278484
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Schaagbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Schaufenberg", 
+                "east": "300740", 
+                "north": "5667899"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8511256, 
+                    51.6738664
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Lippe", 
+                "Informationsstufe 1": "513.0", 
+                "Informationsstufe 2": "626.0", 
+                "Informationsstufe 3": "728.0", 
+                "MHW": "497.0", 
+                "MNW": "177.0", 
+                "Mittel": "227.0", 
+                "Name": "Schermbeck_1", 
+                "east": "351417", 
+                "north": "5726952"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1448928, 
+                    51.9140806
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Niese", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "119.0", 
+                "MNW": "12.0", 
+                "Mittel": "30.0", 
+                "Name": "Schieder", 
+                "east": "509966", 
+                "north": "5751492"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1300832, 
+                    51.910915
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Emmer", 
+                "Informationsstufe 1": "230.0", 
+                "Informationsstufe 2": "300.0", 
+                "Informationsstufe 3": "370.0", 
+                "MHW": "275.0", 
+                "MNW": "65.0", 
+                "Mittel": "87.0", 
+                "Name": "Schieder-Nessenberg", 
+                "east": "508948", 
+                "north": "5751138"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1933383, 
+                    51.9349692
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Emmer", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "306.0", 
+                "MNW": "71.0", 
+                "Mittel": "94.0", 
+                "Name": "Schieder-Stausee", 
+                "east": "513292", 
+                "north": "5753823"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1338054, 
+                    51.5709654
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Schledde", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Schledde", 
+                "east": "439969", 
+                "north": "5713677"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4686993, 
+                    50.5248973
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Olef", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "210.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "217.0", 
+                "MNW": "89.0", 
+                "Mittel": "103.0", 
+                "Name": "Schleiden", 
+                "east": "320583", 
+                "north": "5600054"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9238744, 
+                    51.7166165
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Ellerbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "75.0", 
+                "MNW": "10.0", 
+                "Mittel": "20.0", 
+                "Name": "Schwaney", 
+                "east": "494741", 
+                "north": "5729523"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4336071, 
+                    50.8597229
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "148.0", 
+                "MNW": "51.0", 
+                "Mittel": "77.0", 
+                "Name": "Selhausen", 
+                "east": "319387", 
+                "north": "5637364"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4916215, 
+                    51.7078311
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Funne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "128.0", 
+                "MNW": "1.0", 
+                "Mittel": "16.0", 
+                "Name": "Selm-Ondrup", 
+                "east": "395779", 
+                "north": "5729620"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4655722, 
+                    51.8401985
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Stever", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "260.0", 
+                "Informationsstufe 3": "300.0", 
+                "MHW": "182.0", 
+                "MNW": "8.0", 
+                "Mittel": "24.0", 
+                "Name": "Senden-Schoelling", 
+                "east": "394289", 
+                "north": "5744378"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8812969, 
+                    51.833513
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Angel", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "230.0", 
+                "MNW": "35.0", 
+                "Mittel": "63.0", 
+                "Name": "Sendenhorst", 
+                "east": "422917", 
+                "north": "5743113"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2572275, 
+                    50.7976514
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "480.0", 
+                "Informationsstufe 2": "480.0", 
+                "Informationsstufe 3": "520.0", 
+                "MHW": "414.0", 
+                "MNW": "33.0", 
+                "Mittel": "90.0", 
+                "Name": "Siegburg_Kald.", 
+                "east": "377183", 
+                "north": "5628771"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1011121, 
+                    51.5758988
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Soestbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Soestbach", 
+                "east": "437710", 
+                "north": "5714253"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9055683, 
+                    51.9956801
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Berkel", 
+                "Informationsstufe 1": "334.0", 
+                "Informationsstufe 2": "364.0", 
+                "Informationsstufe 3": "380.0", 
+                "MHW": "326.0", 
+                "MNW": "58.0", 
+                "Mittel": "103.0", 
+                "Name": "Stadtlohn", 
+                "east": "356210", 
+                "north": "5762629"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1041617, 
+                    51.0976051
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "200.0", 
+                "Informationsstufe 2": "245.0", 
+                "Informationsstufe 3": "265.0", 
+                "MHW": "207.0", 
+                "MNW": "52.0", 
+                "Mittel": "78.0", 
+                "Name": "Stah", 
+                "east": "297245", 
+                "north": "5664668"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5337449, 
+                    51.8183169
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Ems", 
+                "Informationsstufe 1": "105.0", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "111.0", 
+                "MNW": "38.0", 
+                "Mittel": "55.0", 
+                "Name": "Steinhorst", 
+                "east": "467862", 
+                "north": "5740934"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5651965, 
+                    51.2229828
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Volme", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "210.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "158.0", 
+                "MNW": "6.0", 
+                "Mittel": "26.0", 
+                "Name": "Stephansohl", 
+                "east": "399806", 
+                "north": "5675600"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9323534, 
+                    51.6313948
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Salzbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "239.0", 
+                "MNW": "15.0", 
+                "Mittel": "47.0", 
+                "Name": "Sueddinker", 
+                "east": "426106", 
+                "north": "5720582"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.9300615, 
+                    50.9965429
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Maas", 
+                "Gewaesser": "Rodebach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Suesterseel", 
+                "east": "284589", 
+                "north": "5653927"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0991876, 
+                    52.1598674
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Exter", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "161.0", 
+                "MNW": "33.0", 
+                "Mittel": "48.0", 
+                "Name": "Uchtdorf", 
+                "east": "506785", 
+                "north": "5778824"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.6024408, 
+                    51.6565079
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Heder", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Upsprunge", 
+                "east": "472499", 
+                "north": "5722910"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3099909, 
+                    51.5187132
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Nierskanal", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "130.0", 
+                "MNW": "28.0", 
+                "Mittel": "61.0", 
+                "Name": "Veert", 
+                "east": "313371", 
+                "north": "5710941"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4996113, 
+                    51.8873644
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "\u00d6lbach", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "", 
+                "MNW": "", 
+                "Mittel": "", 
+                "Name": "Verl", 
+                "east": "465562", 
+                "north": "5748629"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1607368, 
+                    52.0119786
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Hessel", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "155.0", 
+                "MNW": "25.0", 
+                "Mittel": "50.0", 
+                "Name": "Versmold_W", 
+                "east": "442400", 
+                "north": "5762703"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5810769, 
+                    51.4359951
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Ruhr", 
+                "Informationsstufe 1": "340.0", 
+                "Informationsstufe 2": "410.0", 
+                "Informationsstufe 3": "460.0", 
+                "MHW": "353.0", 
+                "MNW": "108.0", 
+                "Mittel": "142.0", 
+                "Name": "Villigst", 
+                "east": "401373", 
+                "north": "5699266"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9594759, 
+                    52.0161029
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Bega", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "133.0", 
+                "MNW": "36.0", 
+                "Mittel": "47.0", 
+                "Name": "Vossheide", 
+                "east": "497219", 
+                "north": "5762830"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9588839, 
+                    52.0101687
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Passade", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "158.0", 
+                "MNW": "9.0", 
+                "Mittel": "34.0", 
+                "Name": "Vossheide_1", 
+                "east": "497178", 
+                "north": "5762170"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2125255, 
+                    51.6264332
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Gewaesser": "Niers", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "196.0", 
+                "MNW": "66.0", 
+                "Mittel": "102.0", 
+                "Name": "Weeze", 
+                "east": "307067", 
+                "north": "5723171"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0264422, 
+                    50.8940197
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Sieg", 
+                "Informationsstufe 1": "90.0", 
+                "Informationsstufe 2": "130.0", 
+                "Informationsstufe 3": "185.0", 
+                "MHW": "145.0", 
+                "MNW": "8.0", 
+                "Mittel": "34.0", 
+                "Name": "Weidenau", 
+                "east": "431531", 
+                "north": "5638491"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.02318, 
+                    50.8956652
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Gewaesser": "Ferndorf", 
+                "Informationsstufe 1": "110.0", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "179.0", 
+                "MNW": "24.0", 
+                "Mittel": "49.0", 
+                "Name": "Weidenau2", 
+                "east": "431304", 
+                "north": "5638677"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8460133, 
+                    50.7660742
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Erft", 
+                "Gewaesser": "Swistbach", 
+                "Informationsstufe 1": "160.0", 
+                "Informationsstufe 2": "205.0", 
+                "Informationsstufe 3": "235.0", 
+                "MHW": "168.0", 
+                "MNW": "20.0", 
+                "Mittel": "36.0", 
+                "Name": "Weilerswist", 
+                "east": "348104", 
+                "north": "5626024"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5256869, 
+                    51.5420202
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Alme", 
+                "Informationsstufe 1": "130.0", 
+                "Informationsstufe 2": "210.0", 
+                "Informationsstufe 3": "260.0", 
+                "MHW": "161.0", 
+                "MNW": "38.0", 
+                "Mittel": "59.0", 
+                "Name": "Weine", 
+                "east": "467107", 
+                "north": "5710209"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1154525, 
+                    51.4536431
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Twiste", 
+                "Informationsstufe 1": "130.0", 
+                "Informationsstufe 2": "225.0", 
+                "Informationsstufe 3": "250.0", 
+                "MHW": "172.0", 
+                "MNW": "34.0", 
+                "Mittel": "51.0", 
+                "Name": "Welda", 
+                "east": "508022", 
+                "north": "5700280"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1749073, 
+                    51.2942708
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Wenne", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "173.0", 
+                "MNW": "29.0", 
+                "Mittel": "48.0", 
+                "Name": "Wenholthausen", 
+                "east": "442471", 
+                "north": "5682873"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9141079, 
+                    51.492378
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Gewaesser": "Diemel", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "130.0", 
+                "MNW": "31.0", 
+                "Mittel": "52.0", 
+                "Name": "Westheim", 
+                "east": "494037", 
+                "north": "5704585"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.866911, 
+                    51.6663355
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Gewaesser": "Ahse", 
+                "Informationsstufe 1": "311.0", 
+                "Informationsstufe 2": "365.0", 
+                "Informationsstufe 3": "406.0", 
+                "MHW": "303.0", 
+                "MNW": "77.0", 
+                "Mittel": "120.0", 
+                "Name": "Westtuennen", 
+                "east": "421637", 
+                "north": "5724536"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3418311, 
+                    51.4008766
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Gewaesser": "Elbsche", 
+                "Informationsstufe 1": "", 
+                "Informationsstufe 2": "", 
+                "Informationsstufe 3": "", 
+                "MHW": "83.0", 
+                "MNW": "31.0", 
+                "Mittel": "42.0", 
+                "Name": "Wetter_Wengern_1", 
+                "east": "384656", 
+                "north": "5695710"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3239572, 
+                    52.2150599
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ijssel", 
+                "Gewaesser": "Steinfurter Aa", 
+                "Informationsstufe 1": "130.0", 
+                "Informationsstufe 2": "169.0", 
+                "Informationsstufe 3": "208.0", 
+                "MHW": "123.0", 
+                "MNW": "9.0", 
+                "Mittel": "28.0", 
+                "Name": "Wettringen_B70", 
+                "east": "385495", 
+                "north": "5786282"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7812102, 
+                    51.902896
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Gewaesser": "Angel", 
+                "Informationsstufe 1": "265.0", 
+                "Informationsstufe 2": "283.0", 
+                "Informationsstufe 3": "305.0", 
+                "MHW": "266.0", 
+                "MNW": "65.0", 
+                "Mittel": "91.0", 
+                "Name": "Wolbeck", 
+                "east": "416150", 
+                "north": "5750940"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.4525361, 
+                    50.6927119
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Gewaesser": "Rur", 
+                "Informationsstufe 1": "130.0", 
+                "Informationsstufe 2": "145.0", 
+                "Informationsstufe 3": "220.0", 
+                "MHW": "121.0", 
+                "MNW": "39.0", 
+                "Mittel": "62.0", 
+                "Name": "Zerkall", 
+                "east": "320079", 
+                "north": "5618750"
+            }, 
+            "type": "Feature"
+        }
+    ], 
     "type": "FeatureCollection"
 }
