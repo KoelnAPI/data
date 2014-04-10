@@ -17,10 +17,12 @@ curl -s $URL2 > _source/latest/latest.zip
 cd $ROOT/_source/historic
 unzip historic.zip
 rm historic.zip
+rm _source/historic/*.html
 
 cd $ROOT/_source/latest/
 unzip latest.zip
 rm latest.zip
+rm _source/latest/*.html
 
 cd $ROOT
 
