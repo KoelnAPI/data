@@ -1,16 +1,48 @@
 {
     "Autor": "", 
     "additional_info": "", 
-    "aktualisiert": "Mittwoch, 18. Dezember 2013 - 13:49", 
+    "aktualisiert": "Donnerstag, 6. M\u00e4rz 2014 - 16:15", 
     "created": "Mittwoch, 18. Dezember 2013 - 13:49", 
     "data_dictionary": "", 
-    "description": "Strassenverzeichnis der Stadt K\u00f6ln vom 01.01.2013 in der Standard Ausf\u00fchrung und nach Stadtviertelgliederung", 
+    "description": "Strassenverzeichnis der Stadt K\u00f6ln in der Standard Ausf\u00fchrung und nach Stadtviertelgliederung", 
     "frequency": "", 
     "granularity": "", 
     "id": "11a04964-26c5-41e2-ab01-ee3259b3c66f", 
     "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
+        {
+            "created": "Donnerstag, 6. M\u00e4rz 2014 - 16:21", 
+            "description": "Strassenverzeichnis vom 01.01.2014", 
+            "file_id": "39f8a281-198b-4560-b5f8-68c0cfd4ed34", 
+            "file_link": null, 
+            "file_name": "2014-01-01_Stra\u00dfenverzeichnis_Standard.csv", 
+            "file_size": "341.84 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2014-01-01_Stra%C3%9Fenverzeichnis_Standard.csv", 
+            "format": "csv", 
+            "id": "0be5a9d3-886f-46ce-8b18-5585c8cc4a5b", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 6. M\u00e4rz 2014 - 16:21", 
+            "title": "Strassenverzeichnis Standard 2014", 
+            "url": "/dataset/0be5a9d3-886f-46ce-8b18-5585c8cc4a5b/resource/0be5a9d3-886f-46ce-8b18-5585c8cc4a5b"
+        }, 
+        {
+            "created": "Donnerstag, 6. M\u00e4rz 2014 - 16:17", 
+            "description": "Strassenverzeichnis mit Stadtviertelgliederung vom 01.01.2014", 
+            "file_id": "09f2c61b-a93d-49cb-9321-e15dd656035d", 
+            "file_link": null, 
+            "file_name": "2014-01-01_Stra\u00dfenverzeichnis_Stadtviertel.csv", 
+            "file_size": "518.41 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2014-01-01_Stra%C3%9Fenverzeichnis_Stadtviertel.csv", 
+            "format": "csv", 
+            "id": "6428b9e1-04cd-459c-95f9-0367b321589e", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 6. M\u00e4rz 2014 - 16:19", 
+            "title": "Strassenverzeichnis Stadtviertel 2014", 
+            "url": "/dataset/6428b9e1-04cd-459c-95f9-0367b321589e/resource/6428b9e1-04cd-459c-95f9-0367b321589e"
+        }, 
         {
             "created": "Mittwoch, 18. Dezember 2013 - 13:55", 
             "description": "Strassenverzeichnis mit Stadtviertelgliederung vom 01.01.2013", 
@@ -23,8 +55,8 @@
             "id": "7eeab302-9dc2-4fe7-a832-0a974c9bcbcc", 
             "link_to_api": null, 
             "mime_type": "text/csv", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 13:55", 
-            "title": "Strassenverzeichnis Stadtviertel", 
+            "modified": "Donnerstag, 6. M\u00e4rz 2014 - 16:18", 
+            "title": "Strassenverzeichnis Stadtviertel 2013", 
             "url": "/dataset/7eeab302-9dc2-4fe7-a832-0a974c9bcbcc/resource/7eeab302-9dc2-4fe7-a832-0a974c9bcbcc"
         }, 
         {
@@ -39,8 +71,8 @@
             "id": "c6a2e2cc-65b1-4470-a532-dfd34f67b737", 
             "link_to_api": null, 
             "mime_type": "text/csv", 
-            "modified": "Mittwoch, 18. Dezember 2013 - 13:50", 
-            "title": "Strassenverzeichnis Standard", 
+            "modified": "Donnerstag, 6. M\u00e4rz 2014 - 16:18", 
+            "title": "Strassenverzeichnis Standard 2013", 
             "url": "/dataset/c6a2e2cc-65b1-4470-a532-dfd34f67b737/resource/c6a2e2cc-65b1-4470-a532-dfd34f67b737"
         }
     ], 

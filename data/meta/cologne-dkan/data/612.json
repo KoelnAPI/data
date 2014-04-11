@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 6. M\u00e4rz 2014 - 11:42", 
+    "created": "Donnerstag, 6. M\u00e4rz 2014 - 11:40", 
+    "data_dictionary": "", 
+    "description": "Auflistung der Stadtteile in K\u00f6ln (Stadtteilbezeichnung und Stadtteilnummer)", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "be3ae326-618d-4988-bde1-a84404d2da81", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Donnerstag, 6. M\u00e4rz 2014 - 11:44", 
+            "description": "Sortiert nach der Stadtteilnummer", 
+            "file_id": "e1924e54-8f04-4a25-bcca-fa71f2492ce8", 
+            "file_link": null, 
+            "file_name": "Stadtteilnummern_Koeln.csv", 
+            "file_size": "1.28 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Stadtteilnummern_Koeln.csv", 
+            "format": "csv", 
+            "id": "06054487-ceb5-4b94-9bd7-eb530dd267f7", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 6. M\u00e4rz 2014 - 11:44", 
+            "title": "Stadtteile Koeln", 
+            "url": "/dataset/06054487-ceb5-4b94-9bd7-eb530dd267f7/resource/06054487-ceb5-4b94-9bd7-eb530dd267f7"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Stadtteil", 
+    "temporal_coverage": "", 
+    "title": "Stadtteile Koeln"
+}

@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Freitag, 24. Januar 2014 - 9:20", 
+    "created": "Freitag, 24. Januar 2014 - 9:20", 
+    "data_dictionary": "", 
+    "description": "Standort\u00fcbersicht der Defibrillatoren in gr\u00f6\u00dferen Verwaltungsgeb\u00e4uden der Stadt K\u00f6ln inklusive \u00d6ffnungszeiten der jeweiligen Geb\u00e4ude ", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "41daadf7-7a49-48bc-b162-6a21af3239b8", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Freitag, 24. Januar 2014 - 9:25", 
+            "description": null, 
+            "file_id": "0c2fc843-1616-412a-92dd-1bce8b086239", 
+            "file_link": null, 
+            "file_name": "Standort\u00fcbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten.csv", 
+            "file_size": "3.45 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Standort%C3%BCbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten.csv", 
+            "format": "csv", 
+            "id": "4a0b1669-ced1-4b85-8c2b-76d8361bb0bd", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Freitag, 24. Januar 2014 - 9:25", 
+            "title": "Standort\u00fcbersicht Defibrillatoren Stadt Koeln Oeffnungszeiten", 
+            "url": "/dataset/4a0b1669-ced1-4b85-8c2b-76d8361bb0bd/resource/4a0b1669-ced1-4b85-8c2b-76d8361bb0bd"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Defibrillatoren Stadt K\u00f6ln"
+}

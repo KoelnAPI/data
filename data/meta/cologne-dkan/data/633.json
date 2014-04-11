@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Freitag, 11. April 2014 - 11:08", 
+    "created": "Freitag, 11. April 2014 - 10:56", 
+    "data_dictionary": "", 
+    "description": "Das Stra\u00dfenverzeichnis (Stand 01.03.2014) verkn\u00fcpft die K\u00f6lner Strassen mit den jeweiligen Stimmbezirken und Wahlkreisen. \nKW = KommunalwahlLW = LandtagswahlBW = Bundestagswahl", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "18501418-165c-4d8e-be20-c723c06a2f20", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Freitag, 11. April 2014 - 11:05", 
+            "description": "Stand 01.03.2014", 
+            "file_id": "cfa2a27f-6b2c-4fa6-b08b-d898a122527d", 
+            "file_link": null, 
+            "file_name": "20140301_Strassenverzeichnis_Wahlen.csv", 
+            "file_size": "442.12 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/20140301_Strassenverzeichnis_Wahlen.csv", 
+            "format": "csv", 
+            "id": "760ac636-3230-4c4a-b291-0ca0ac4015fe", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Freitag, 11. April 2014 - 11:05", 
+            "title": "Strassenverzeichnis_Wahlen", 
+            "url": "/dataset/760ac636-3230-4c4a-b291-0ca0ac4015fe/resource/760ac636-3230-4c4a-b291-0ca0ac4015fe"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Wahlen", 
+    "temporal_coverage": "", 
+    "title": "Strassenverzeichnis Wahlkreise"
+}
