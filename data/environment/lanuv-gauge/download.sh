@@ -14,12 +14,6 @@ URL2="http://luadb.lds.nrw.de/LUA/hygon/messwerte/pegeldaten.tar.gz"
 # Bestand an Rohdaten
 #http://luadb.lds.nrw.de/LUA/hygon/messwerte/temperaturdaten.tar.gz
 
-## Niederschläge
-# aktuelle Messwerte
-#http://luadb.lds.nrw.de/LUA/wiski/messwerte/niederschlag.tar.gz
-# Bestand an Rohdaten
-#http://luadb.lds.nrw.de/LUA/hygon/messwerte/niederschlagsdaten.tar.gz
-
 ## Gewässergüte
 # Bestand an Rohdaten
 #http://luadb.lds.nrw.de/LUA/hygon/messwerte/guetedaten.tar.gz
