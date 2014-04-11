@@ -8,3 +8,11 @@ ausgibt.
 
 Quelle: http://earthquake.usgs.gov/earthquakes/search/
 
+## Tools
+
+### Download script `download.sh`
+
+Downloads all earthquakes since 1980 and generates the GeoJSON file `earthquakes.geojson`.
+No parameters required. Simply call it like this:
+
+   sh download.sh
