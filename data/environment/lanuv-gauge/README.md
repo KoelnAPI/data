@@ -17,6 +17,15 @@ http://www.lanuv.nrw.de/wasser/pegeldaten.htm
 
 Unknown
 
+## Tools
+
+### Download script `download.sh`
+
+Downloads all data and merges new values into `gauge_values_daily.csv`.
+Call without arguments like this:
+
+    sh download.sh
+
 ## Beschreibung
 
 Dieser Ordner enthält ungeprüfte Pegeldaten des LANUV mit täglichen Werten ab Januar 2013.
