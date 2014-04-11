@@ -23,6 +23,10 @@ Air quality data from the North-Rhine Westphalian environmental agency (LANUV).
 
 Water gauge (Pegel) data from the North-Rhine Westphalian environmental agency (LANUV).
 
+### lanuv-precipitation
+
+Rainfall/precipitation data from the North-Rhine Westphalian environmental agency (LANUV).
+
 ### uba-airquality
 
 Air quality data from the Umweltbundesamt (UBA)
