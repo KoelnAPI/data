@@ -1,0 +1,2833 @@
+{
+    "crs": {
+        "properties": {
+            "name": "urn:ogc:def:crs:OGC:1.3:CRS84"
+        }, 
+        "type": "name"
+    }, 
+    "features": [
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1730882, 
+                    51.5761943
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ahse", 
+                "Name": "Aakgraben", 
+                "east": "442698", 
+                "north": "5714227", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.3931374, 
+                    50.749783
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Althubertushoehe", 
+                "east": "316108", 
+                "north": "5625241", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3173447, 
+                    51.0499119
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Eder", 
+                "Name": "Aue", 
+                "east": "452150", 
+                "north": "5655597", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.710075, 
+                    51.9018275
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "AugustdorfKA2", 
+                "east": "480053", 
+                "north": "5750159", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1057088, 
+                    51.7147414
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Aa", 
+                "Name": "BadDriburgHersteKA", 
+                "east": "507303", 
+                "north": "5729317", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.304182, 
+                    50.6753189
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "BadHonnefBruengsberg", 
+                "east": "380180", 
+                "north": "5615092", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8214658, 
+                    52.2174222
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Werre", 
+                "Name": "BadOeynhausenKA", 
+                "east": "487803", 
+                "north": "5785236", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8789408, 
+                    51.3422765
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "H\u00f6nne", 
+                "Name": "BalveKA", 
+                "east": "421917", 
+                "north": "5688485", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.359925, 
+                    51.9650561
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "M\u00fcnsterische AA", 
+                "Name": "Baumberg", 
+                "east": "387324", 
+                "north": "5758422", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6636152, 
+                    51.0331407
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "BergneustadtWiedenest", 
+                "east": "406295", 
+                "north": "5654360", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5425258, 
+                    52.0353885
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Aa", 
+                "Name": "BielefeldStadtwerke", 
+                "east": "468619", 
+                "north": "5765073", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.0359439, 
+                    50.7263935
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Bildchen", 
+                "east": "290811", 
+                "north": "5623590", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.0415535, 
+                    51.011619
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Birgden", 
+                "east": "292478", 
+                "north": "5655283", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.5376081, 
+                    51.8158557
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Bocholter Aa", 
+                "Name": "BocholtMussumKA", 
+                "east": "330275", 
+                "north": "5743425", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2414825, 
+                    50.7278757
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Bockeroth", 
+                "east": "375889", 
+                "north": "5621039", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5340763, 
+                    51.725644
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Boke", 
+                "east": "467819", 
+                "north": "5730627", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0483959, 
+                    50.725999
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "BonnLessenich", 
+                "east": "362257", 
+                "north": "5621172", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7146337, 
+                    51.6751947
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "BorchenKA2", 
+                "east": "480268", 
+                "north": "5724952", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3087028, 
+                    52.1064465
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Else", 
+                "Name": "BorgholzhausenRUEB", 
+                "east": "452655", 
+                "north": "5773103", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8318361, 
+                    51.8515697
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Bocholter Aa", 
+                "Name": "BorkenKA", 
+                "east": "350671", 
+                "north": "5746752", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0140769, 
+                    50.7769187
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "BornheimEichenkamp", 
+                "east": "359987", 
+                "north": "5626898", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.913333, 
+                    50.7721733
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "BornheimMertenerHeide", 
+                "east": "352870", 
+                "north": "5626566", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9509635, 
+                    51.5492653
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Emscher", 
+                "Name": "BottropVestische", 
+                "east": "357931", 
+                "north": "5712898", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1893049, 
+                    51.7123796
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Brucht", 
+                "Name": "BrakelKA2", 
+                "east": "513079", 
+                "north": "5729066", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4661994, 
+                    51.2482828
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "BreckerfeldHBWengeberg", 
+                "east": "392952", 
+                "north": "5678553", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.599267, 
+                    50.8677678
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Broel", 
+                "Name": "Brenzingen", 
+                "east": "401434", 
+                "north": "5636055", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5820283, 
+                    51.3967736
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Moehne", 
+                "Name": "BrilonWasserwerk", 
+                "east": "470922", 
+                "north": "5694032", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8552717, 
+                    51.5411263
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ahse", 
+                "Name": "Buederich", 
+                "east": "420614", 
+                "north": "5710624", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5508975, 
+                    51.5444932
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "Bueren2", 
+                "east": "468857", 
+                "north": "5710473", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9495032, 
+                    51.7358089
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Buke", 
+                "east": "496513", 
+                "north": "5731656", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.155814, 
+                    51.1958575
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wenne", 
+                "Name": "Cobbenrode", 
+                "east": "441014", 
+                "north": "5671944", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.133944, 
+                    51.9352809
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Berkel", 
+                "Name": "CoesfeldKA", 
+                "east": "371715", 
+                "north": "5755485", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3561656, 
+                    51.6689834
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "DattelSchleuse", 
+                "east": "386323", 
+                "north": "5725502", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5403895, 
+                    51.8168954
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "DelbrueckSteinhorst", 
+                "east": "468319", 
+                "north": "5740773", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1720982, 
+                    51.7353494
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Diestedde", 
+                "east": "442830", 
+                "north": "5731928", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9444255, 
+                    51.6721016
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "DorstenKA", 
+                "east": "357862", 
+                "north": "5726570", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7325228, 
+                    51.8049476
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Werse", 
+                "Name": "DrensteinfurtKA", 
+                "east": "412611", 
+                "north": "5740104", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7635214, 
+                    51.0224149
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "Drolshagen", 
+                "east": "413280", 
+                "north": "5653045", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7420491, 
+                    51.1899448
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "DuesseldorfLUA", 
+                "east": "342217", 
+                "north": "5673371", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7374673, 
+                    51.2343749
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "DuesseldorfStUA", 
+                "east": "342049", 
+                "north": "5678321", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3574793, 
+                    51.526545
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Effeln", 
+                "east": "455427", 
+                "north": "5708577", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4216558, 
+                    50.7749005
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "EitorfN", 
+                "east": "388716", 
+                "north": "5625981", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0730233, 
+                    51.1514465
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "Elspetal", 
+                "east": "435167", 
+                "north": "5667075", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2702396, 
+                    51.8294749
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "EmmerichN", 
+                "east": "311906", 
+                "north": "5745596", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.5181487, 
+                    52.1480821
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Werre", 
+                "Name": "EngerDreyen", 
+                "east": "467030", 
+                "north": "5777618", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2511767, 
+                    50.9914323
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Eder", 
+                "Name": "Erndtebrueck", 
+                "east": "447446", 
+                "north": "5649139", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3402799, 
+                    51.6084364
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Erwitte", 
+                "east": "454316", 
+                "north": "5717695", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1196106, 
+                    50.7783806
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "EschmarMuellekoven", 
+                "east": "367431", 
+                "north": "5626866", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9652957, 
+                    51.4063818
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "EssenBRWLANUV", 
+                "east": "358483", 
+                "north": "5696982", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0434456, 
+                    51.3679816
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "EssenHespertalN", 
+                "east": "363804", 
+                "north": "5692564", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.914298, 
+                    51.3645479
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "EssenKettwigLUA", 
+                "east": "354804", 
+                "north": "5692430", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0473257, 
+                    51.3966532
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Hesperbach", 
+                "Name": "EssenPoertingsiepenN", 
+                "east": "364159", 
+                "north": "5695745", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.938523, 
+                    51.8236127
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Heubach", 
+                "Name": "FeldromTB", 
+                "east": "495763", 
+                "north": "5741422", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9494406, 
+                    51.9224919
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "FreckenhorstKA", 
+                "east": "427755", 
+                "north": "5752939", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8847035, 
+                    50.9083364
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Freudenberg", 
+                "east": "421587", 
+                "north": "5640224", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4196803, 
+                    51.0463287
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "Frielingsdorf", 
+                "east": "389223", 
+                "north": "5656165", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2235351, 
+                    51.0960237
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Gerderath", 
+                "east": "305595", 
+                "north": "5664170", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4897291, 
+                    51.6368663
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Geseke", 
+                "east": "464687", 
+                "north": "5720774", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0145661, 
+                    52.2243316
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Issel", 
+                "Name": "GronauKA", 
+                "east": "364388", 
+                "north": "5787847", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3873383, 
+                    51.9064343
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Dalke", 
+                "Name": "GueterslohWWK2", 
+                "east": "457853", 
+                "north": "5750809", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4260529, 
+                    50.8357109
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Broel", 
+                "Name": "Haenscheid", 
+                "east": "389170", 
+                "north": "5632736", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4554995, 
+                    51.3460372
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "HagenEugenRichterTurm", 
+                "east": "392434", 
+                "north": "5689439", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5456184, 
+                    51.3487646
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "HagenHolthausen", 
+                "east": "398716", 
+                "north": "5689614", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4834825, 
+                    51.3222126
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "HagenMaeckingerBach", 
+                "east": "394328", 
+                "north": "5686749", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5128872, 
+                    51.1668168
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "HalverHagebuecherhoeh", 
+                "east": "396027", 
+                "north": "5669427", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6031813, 
+                    51.7376038
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Issel", 
+                "Name": "HamminkelnN", 
+                "east": "334508", 
+                "north": "5734573", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8239906, 
+                    51.6910279
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "HammMattenbeckeKA", 
+                "east": "418713", 
+                "north": "5727329", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3470874, 
+                    50.7114246
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Hanfmuehle", 
+                "east": "383301", 
+                "north": "5619038", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1431725, 
+                    51.4221326
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "HattingenAmStade", 
+                "east": "370898", 
+                "north": "5698405", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6185458, 
+                    50.8754187
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "HausForst", 
+                "east": "332457", 
+                "north": "5638673", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0867483, 
+                    52.1392017
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Dinkel", 
+                "Name": "HeekNienborgKA", 
+                "east": "369068", 
+                "north": "5778247", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9268174, 
+                    51.8225009
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Bocholter Aa", 
+                "Name": "HeidenKA", 
+                "east": "357120", 
+                "north": "5743329", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9145221, 
+                    51.6711764
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "Herbram", 
+                "east": "494089", 
+                "north": "5724470", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1054751, 
+                    51.0873395
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "HerrntropN", 
+                "east": "437350", 
+                "north": "5659918", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7722683, 
+                    51.211382
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "HerscheidWellin", 
+                "east": "414244", 
+                "north": "5674048", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.111033, 
+                    51.6635185
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Herzfeld", 
+                "east": "438516", 
+                "north": "5723989", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.3690738, 
+                    51.7659549
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Weser", 
+                "Name": "HoexterFH", 
+                "east": "525469", 
+                "north": "5735072", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1365605, 
+                    50.7390197
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lahn", 
+                "Name": "Holzhausen", 
+                "east": "439074", 
+                "north": "5621159", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5235371, 
+                    50.9134913
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Broel", 
+                "Name": "HomburgBroel", 
+                "east": "396207", 
+                "north": "5641243", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6687075, 
+                    51.4454939
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Baarbach", 
+                "Name": "IserlohnHennenKA", 
+                "east": "407483", 
+                "north": "5700208", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7078832, 
+                    51.3412248
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "IserlohnKesbern", 
+                "east": "410001", 
+                "north": "5688564", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7333916, 
+                    51.3736873
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "IserlohnWermingsen", 
+                "east": "411840", 
+                "north": "5692143", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1957779, 
+                    51.3269418
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Niers", 
+                "Name": "Kaldenkirchen", 
+                "east": "304632", 
+                "north": "5689917", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9569467, 
+                    52.0703351
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Strothe", 
+                "Name": "KalletalNiedermeien", 
+                "east": "497049", 
+                "north": "5768862", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.1942403, 
+                    50.525529
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Kalterherberg", 
+                "east": "301135", 
+                "north": "5600824", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4423564, 
+                    51.5382728
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Kellinghausen", 
+                "east": "461325", 
+                "north": "5709833", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6144691, 
+                    51.1406092
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "KierspeKA", 
+                "east": "403074", 
+                "north": "5666374", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9709608, 
+                    51.5836533
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Kleinenberg", 
+                "east": "497988", 
+                "north": "5714733", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2388281, 
+                    51.8188031
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "Kleve", 
+                "east": "309697", 
+                "north": "5744491", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    5.9847471, 
+                    51.7766264
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "KranenburgN", 
+                "east": "291995", 
+                "north": "5740496", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.544396, 
+                    51.329234
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "Krefeld", 
+                "east": "328925", 
+                "north": "5689301", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9884242, 
+                    50.9574561
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "KreuztalKLG", 
+                "east": "428954", 
+                "north": "5645581", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3139624, 
+                    50.746772
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Kuchenbach", 
+                "east": "381052", 
+                "north": "5623021", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7842062, 
+                    52.2808588
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "Laggenbeck", 
+                "east": "417060", 
+                "north": "5792973", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.2426505, 
+                    50.8945165
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lahn", 
+                "Name": "Lahnhof1N", 
+                "east": "446737", 
+                "north": "5638368", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1313874, 
+                    51.3555773
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Deilbach", 
+                "Name": "LangenbergSender", 
+                "east": "369890", 
+                "north": "5691025", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.453592, 
+                    50.7535641
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Lascheid", 
+                "east": "390918", 
+                "north": "5623561", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1870444, 
+                    51.4084841
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Moehne", 
+                "Name": "Lattenberg", 
+                "east": "443458", 
+                "north": "5695565", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0874048, 
+                    52.0491301
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Dinkel", 
+                "Name": "LegdenKA", 
+                "east": "368849", 
+                "north": "5768229", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1971792, 
+                    50.934116
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "Lehmbach", 
+                "east": "373322", 
+                "north": "5644046", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8313679, 
+                    52.1703401
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Glane", 
+                "Name": "LengerichKA", 
+                "east": "420079", 
+                "north": "5780628", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9030568, 
+                    51.6159866
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "Lichtenau", 
+                "east": "493288", 
+                "north": "5718333", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.9111507, 
+                    51.5390428
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "LichtenauBlankenrodeStUA", 
+                "east": "493838", 
+                "north": "5709775", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5935956, 
+                    51.2159085
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "LuedenscheidLoesenbach", 
+                "east": "401774", 
+                "north": "5674775", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1864155, 
+                    50.9669887
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Eder", 
+                "Name": "Luetzel", 
+                "east": "442871", 
+                "north": "5646469", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7344883, 
+                    51.4401723
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Alme", 
+                "Name": "MadfeldKA", 
+                "east": "481546", 
+                "north": "5698809", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4355036, 
+                    50.8847711
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Broel", 
+                "Name": "Marienfeld", 
+                "east": "389951", 
+                "north": "5638177", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8304891, 
+                    51.4074648
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "H\u00f6nne", 
+                "Name": "MendenWWLendringsen", 
+                "east": "418658", 
+                "north": "5695787", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.7848419, 
+                    52.3438652
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Mettinger AA", 
+                "Name": "MettingenKA", 
+                "east": "417221", 
+                "north": "5799980", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9518415, 
+                    51.2497368
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "D\u00fcssel", 
+                "Name": "MettmannPaul", 
+                "east": "357061", 
+                "north": "5679590", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8767159, 
+                    51.423219
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "MuelheimBhAB1N", 
+                "east": "352377", 
+                "north": "5699029", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6511057, 
+                    52.0069124
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "M\u00fcnsterische AA", 
+                "Name": "MuensterHKA", 
+                "east": "407414", 
+                "north": "5762666", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6143215, 
+                    51.3938226
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Volme", 
+                "Name": "NachrodtWiblingwerdeLohagen", 
+                "east": "403595", 
+                "north": "5694532", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8636132, 
+                    51.8513685
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "Nassesand", 
+                "east": "490606", 
+                "north": "5744516", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8527195, 
+                    51.2757125
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "H\u00f6nne", 
+                "Name": "NeuenradeAffeln", 
+                "east": "419975", 
+                "north": "5681111", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0097433, 
+                    50.800352
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Neunkirchen1", 
+                "east": "430217", 
+                "north": "5628091", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3386049, 
+                    50.8358474
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Broel", 
+                "Name": "NeunkirchenSeelscheid", 
+                "east": "383013", 
+                "north": "5632886", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.1325239, 
+                    51.3103155
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Hardenberger Bach", 
+                "Name": "NevigesL107", 
+                "east": "369841", 
+                "north": "5685990", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.0794223, 
+                    50.8630373
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "NiederdielfenKLG", 
+                "east": "435214", 
+                "north": "5634998", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2248596, 
+                    51.201165
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Name": "Niederkr\u00fcchten", 
+                "east": "306129", 
+                "north": "5675856", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Schwalm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.8925708, 
+                    51.4874418
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Diemel", 
+                "Name": "Niedermarsberg", 
+                "east": "492541", 
+                "north": "5704038", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0948693, 
+                    51.8263508
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Emmer", 
+                "Name": "NieheimKA", 
+                "east": "506538", 
+                "north": "5741729", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.03935, 
+                    51.3570913
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "OchsenkopfDeponie", 
+                "east": "433111", 
+                "north": "5689974", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.819869, 
+                    51.1661353
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "Oestertalsperre", 
+                "east": "417488", 
+                "north": "5668962", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8294226, 
+                    52.0382033
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Bever-Ems", 
+                "Name": "OstbevernKA", 
+                "east": "419709", 
+                "north": "5765934", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6515824, 
+                    51.2664449
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "Osterath", 
+                "east": "336168", 
+                "north": "5682075", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.7709028, 
+                    51.7159143
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "PaderbornP4", 
+                "east": "484173", 
+                "north": "5729467", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1384094, 
+                    51.5920814
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ugge", 
+                "Name": "Peckelsheim", 
+                "east": "509588", 
+                "north": "5715679", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.8693051, 
+                    51.2273145
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "PlettenbergRKB1N", 
+                "east": "421049", 
+                "north": "5675711", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7926059, 
+                    50.9852944
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "PulheimGeyen", 
+                "east": "345067", 
+                "north": "5650509", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7950618, 
+                    51.7497705
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Issel", 
+                "Name": "RaesfeldKA", 
+                "east": "347796", 
+                "north": "5735508", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0567193, 
+                    51.8050443
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lippe", 
+                "Name": "RekenBhfRUEB", 
+                "east": "366020", 
+                "north": "5741141", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2825658, 
+                    51.1872953
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenneper Bach", 
+                "Name": "RemscheidLennep", 
+                "east": "379978", 
+                "north": "5672055", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3093583, 
+                    51.8603987
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "RhedaN", 
+                "east": "452440", 
+                "north": "5745737", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6859726, 
+                    51.8274764
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Bocholter Aa", 
+                "Name": "RhedeKA", 
+                "east": "340541", 
+                "north": "5744382", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4078177, 
+                    51.8126072
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "RietbergKA", 
+                "east": "459177", 
+                "north": "5740362", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9533946, 
+                    51.216946
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lenne", 
+                "Name": "Roenkhausen_N", 
+                "east": "426904", 
+                "north": "5674471", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.6024202, 
+                    50.8098258
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Rosbach", 
+                "east": "401534", 
+                "north": "5629608", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3188348, 
+                    51.075732
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "RoteFurth", 
+                "east": "382229", 
+                "north": "5659591", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4405148, 
+                    50.9871008
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "Ruenderoth", 
+                "east": "390544", 
+                "north": "5649548", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9545809, 
+                    51.5141689
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ahse", 
+                "Name": "Ruhne", 
+                "east": "427458", 
+                "north": "5707523", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4040275, 
+                    51.9418068
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Stever", 
+                "Name": "Schapdetten", 
+                "east": "390297", 
+                "north": "5755769", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.7669237, 
+                    51.7383486
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Issel", 
+                "Name": "SchermbeckDaemmerwaldN", 
+                "east": "345815", 
+                "north": "5734297", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.391667, 
+                    50.7994099
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rur", 
+                "Name": "Schlich", 
+                "east": "316199", 
+                "north": "5630762", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rur"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.6642893, 
+                    50.9155312
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "Sindorf", 
+                "east": "335816", 
+                "north": "5643030", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0538998, 
+                    51.1828689
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Lochbach", 
+                "Name": "SolingenWald", 
+                "east": "363986", 
+                "north": "5671961", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2620075, 
+                    51.320151
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "SprockhoevelSchevenerStrasse", 
+                "east": "378891", 
+                "north": "5686862", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3923777, 
+                    52.2178642
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ems", 
+                "Name": "StArnoldLys", 
+                "east": "390176", 
+                "north": "5786488", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0981224, 
+                    51.8810236
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Emmer", 
+                "Name": "SteinheimKA", 
+                "east": "506754", 
+                "north": "5747810", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.9320785, 
+                    51.6314103
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ahse", 
+                "Name": "SueddinkerN", 
+                "east": "426087", 
+                "north": "5720584", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.5527284, 
+                    51.7101194
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Stever", 
+                "Name": "Suedkirchen", 
+                "east": "400006", 
+                "north": "5729789", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.272167, 
+                    51.0232231
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Agger", 
+                "Name": "Suelze", 
+                "east": "378823", 
+                "north": "5653828", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0694238, 
+                    50.8220889
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rhein", 
+                "Name": "Uckendorf", 
+                "east": "364020", 
+                "north": "5631817", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1600282, 
+                    52.0109126
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Hessel", 
+                "Name": "Versmold", 
+                "east": "442350", 
+                "north": "5762585", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ems"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1296327, 
+                    50.9937825
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Sieg", 
+                "Name": "Vormwald", 
+                "east": "438919", 
+                "north": "5649494", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Sieg"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8107956, 
+                    52.0370842
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Berkel", 
+                "Name": "VredenKA", 
+                "east": "349843", 
+                "north": "5767425", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ijssel"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.1160428, 
+                    51.4537234
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Diemel", 
+                "Name": "WarburgWelda", 
+                "east": "508063", 
+                "north": "5700289", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.3501798, 
+                    51.4336995
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Moehne", 
+                "Name": "WarsteinSteinbruch", 
+                "east": "454829", 
+                "north": "5698256", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.2750667, 
+                    51.1517074
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Schwalm", 
+                "Name": "Wegberg", 
+                "east": "309432", 
+                "north": "5670226", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Schwalm"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.1681637, 
+                    51.2872721
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "WenholthausenN", 
+                "east": "441992", 
+                "north": "5682100", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    8.4303868, 
+                    52.0769685
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Aa", 
+                "Name": "Werther", 
+                "east": "460963", 
+                "north": "5769752", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.0860902, 
+                    51.6124198
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Rappshofs M\u00fchlenbach", 
+                "Name": "WesterholtKA", 
+                "east": "367483", 
+                "north": "5719667", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Lippe"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    9.0346008, 
+                    51.6280522
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Nethe", 
+                "Name": "Willebadessen", 
+                "east": "502395", 
+                "north": "5719671", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Weser"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.3579114, 
+                    51.4103116
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "WittenGedern1", 
+                "east": "385798", 
+                "north": "5696734", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.4222487, 
+                    51.4315278
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Ruhr", 
+                "Name": "WittenSchnee", 
+                "east": "390323", 
+                "north": "5698995", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Ruhr"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    7.2464425, 
+                    51.3098199
+                ], 
+                "type": "Point"
+            }, 
+            "properties": {
+                "Einzugsgebiet": "Wupper", 
+                "Name": "WuppertalNaechstebreck", 
+                "east": "377779", 
+                "north": "5685739", 
+                "\u00fcbergeordnetes Einzugsgebiet": "Rhein"
+            }, 
+            "type": "Feature"
+        }
+    ], 
+    "type": "FeatureCollection"
+}
