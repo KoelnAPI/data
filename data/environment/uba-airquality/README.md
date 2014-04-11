@@ -74,9 +74,13 @@ Not all stations in the Cologne area seem to provide data. Reasons for this are 
 
 Should be free for any use by the terms of the german federal law on environmental information (Umweltinformationsgesetz, UIG).
 
-## Fetching data
+## Tools
 
-In order to acquire data for a month not yet contained in the repository, call the script get_values.py with the month as a parameter in YYYYMM format, for example:
+### Fetching data with `get_values.py`
+
+In order to acquire data for a month not yet contained in the repository,
+call the script get_values.py with the month as a parameter in YYYYMM format,
+for example:
 
     python get_values.py 201406
 
