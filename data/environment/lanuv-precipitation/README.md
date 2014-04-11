@@ -1,6 +1,13 @@
 Precipitation data from LANUV / Niederschlagsdaten vom LANUV
 ============================================================
 
+Hourly precipitation sum values (rain, snow) measured at stations
+throughout NRW.
+
+`stations.csv` and `stations.geojson` contain information on
+measurement stations.
+
+`values.csv` contains hourly sum values.
 
 ## Source
 
@@ -13,6 +20,12 @@ http://www.lanuv.nrw.de/wasser/niederschlag/nieder.htm
 Unknown
 
 ## Beschreibung
+
+Stündliche Niederschlagsdaten von Messstationen in NRW.
+
+`stations.csv` und `stations.geojson` enthalten Daten zu den Stationen.
+
+`values.csv` enthält die stündlichen Summenwerte.
 
 ## Tools
 
