@@ -2807,6 +2807,32 @@
                 "source": "FH K\u00f6ln"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9633555, 
+                    50.9215191
+                ], 
+                "type": "Point"
+            }, 
+            "id": 143, 
+            "properties": {
+                "address": "Ubierring 40, 50678 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-S\u00fcd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-14", 
+                "last_edited_by": "marian", 
+                "location_details": "Erdgeschoss, rechts von der Pf\u00f6rtnerloge", 
+                "name": "FH K\u00f6ln, KISD", 
+                "opening_hours": null, 
+                "osm_node_id": 2791209472, 
+                "source": "FH K\u00f6ln, eigene Beobachtung"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
