@@ -52,6 +52,11 @@ In diesem Ordner werden unveränderte Kopien von Dateien abglegt, die wir aus ve
 * `_source/aed_defikoeln.html`: Standortdaten von [defiköln](http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/)
 * `_source/aed_stadt_koeln.csv`: Standortdaten der [Stadt Köln](http://www.offenedaten-koeln.de/dataset/defibrillatoren-stadt-k%C3%B6ln). Lizenz: Creative Commons Namensnennung ([CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/de/))
 
+## Der Ordner `todo`
+
+Hier werden Listen mit noch ungeprüften, möglichen Standortdaten hinterlegt.
+
+Hinweis für Bearbeiter: Bitte Einträge darin löschen, sobald sie in aed.csv übernommen wurden.
 
 ## Haftungsausschluss
 
