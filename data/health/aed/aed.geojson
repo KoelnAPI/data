@@ -2885,6 +2885,32 @@
                 "source": "FH K\u00f6ln, eigene Beobachtung"
             }, 
             "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9256638, 
+                    50.8596897
+                ], 
+                "type": "Point"
+            }, 
+            "id": 144, 
+            "properties": {
+                "address": "Br\u00fchler Landstra\u00dfe 431", 
+                "aed4eu_id": null, 
+                "city_district": "Rodenkirchen", 
+                "city_subdistrict": "Meschenich", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-30", 
+                "last_edited_by": "marian", 
+                "location_details": "Vorraum bei den Geldautomaten, Zugang mit EC-Karte/Kundenkarte", 
+                "name": "VR-Bank", 
+                "opening_hours": null, 
+                "osm_node_id": 2826026249, 
+                "source": "http://www.rettungswache-golzheim.org/AED-Tabelle.pdf"
+            }, 
+            "type": "Feature"
         }
     ], 
     "type": "FeatureCollection"
