@@ -21,7 +21,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 20,Innenstadt,Altstadt-Nord,Sparkasse KölnBonn,im Hauptbahnhof,,,6.9581128,50.9431837,2634947257,,,defiköln,2014-01-24,marian,
 21,Innenstadt,,Sparkasse KölnBonn,,Ebertplatz 1,,6.9562411,50.9505568,2660994495,,,defiköln,2014-02-08,marian,
 22,Innenstadt,,Sparkasse KölnBonn,,Barbarossaplatz 2,,6.9415515,50.9287722,283622259,,7116,defiköln,2014-02-08,marian,
-23,Innenstadt,Altstadt-Süd,Sparkasse KölnBonn,,Chlodwigplatz 18,,,,,,,defiköln,2014-03-20,marian,"Offensichtlich kein AED, nur ein Außen-Geldautomat"
+23,Innenstadt,Altstadt-Süd,Sparkasse KölnBonn,,"Ubierring 3, 50678 Köln",,6.9602284,50.9213788,533914916,,,defiköln,2014-04-30,marian,
 24,Innenstadt,,Sparkasse KölnBonn,,Gürzenichstr. 19,,6.9572986,50.9363873,259198814,,7113,defiköln,2014-02-08,marian,
 25,Innenstadt,,Sparkasse KölnBonn,,An den Dominikanern 6,,6.9542728,50.9429199,2103595703,,7112,defiköln,2014-01-20,marian,
 26,Innenstadt,,Sparkasse KölnBonn,,Kaiser-Wilhelm-Ring 20,,6.9417141,50.9433635,286416915,,,defiköln,2014-02-08,marian,
