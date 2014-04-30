@@ -185,6 +185,32 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.8899895, 
+                    50.9851249
+                ], 
+                "type": "Point"
+            }, 
+            "id": 9, 
+            "properties": {
+                "address": "Adolf-Grimme-Allee 2", 
+                "aed4eu_id": null, 
+                "city_district": "Ehrenfeld", 
+                "city_subdistrict": "Butzweilerhof", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-30", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2825946453, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.9202781, 
                     50.9481728
                 ], 
@@ -464,6 +490,32 @@
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 283622259, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9602284, 
+                    50.9213788
+                ], 
+                "type": "Point"
+            }, 
+            "id": 23, 
+            "properties": {
+                "address": "Ubierring 3, 50678 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-S\u00fcd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-04-30", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 533914916, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2376,13 +2428,13 @@
             }, 
             "id": 113, 
             "properties": {
-                "address": "Aachener Stra\u00dfe 220, 50931K\u00f6ln", 
+                "address": "Aachener Stra\u00dfe 220, 50931 K\u00f6ln", 
                 "aed4eu_id": null, 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
                 "crowdsav_id": null, 
-                "last_edited": "2014-03-20", 
+                "last_edited": "2014-04-30", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke", 
                 "name": "B\u00fcrgeramt Lindenthal", 
