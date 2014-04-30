@@ -7,7 +7,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 6,Ehrenfeld,Butzweilerhof,NetCologne,,Am Coloneum 9,,6.8902456,50.9869509,2630064524,,,defiköln,2014-01-20,marian,
 7,Ehrenfeld,Bickendorf,Sparkasse KölnBonn,,Venloer Str. 628,,6.9009467,50.9575192,224445220,,,defiköln,2014-01-20,marian,
 8,Ehrenfeld,Bocklemünd,Sparkasse KölnBonn,,Görlinger Zentrum 25,,6.8678883,50.9801707,244296667,,,defiköln,2014-01-23,marian,
-9,Ehrenfeld,Butzweilerhof,Sparkasse KölnBonn,,Adolf-Grimme-Allee 1,,,,,,,defiköln,2014-01-23,marian,Hausnummer widerspricht OSM-Daten. Muss lokal überprüft werden.
+9,Ehrenfeld,Butzweilerhof,Sparkasse KölnBonn,,Adolf-Grimme-Allee 2,,6.8899895,50.9851249,2825946453,,,defiköln,2014-04-30,marian,
 10,Ehrenfeld,Ehrenfeld,Sparkasse KölnBonn,,Venloer Str. 295,,6.9202781,50.9481728,419010439,,,defiköln,2014-01-26,marian,
 11,Ehrenfeld,Ehrenfeld,Sparkasse KölnBonn,,Iltisstr. 20,,6.9184582,50.9587984,2638236794,,,defiköln,2014-01-26,marian,
 12,Ehrenfeld,Ossendorf,Sparkasse KölnBonn,,Frohnhofstr. 130,,6.8997524,50.9678877,230226555,,,defiköln,2014-01-26,marian,
