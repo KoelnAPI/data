@@ -7,6 +7,7 @@ from lxml import etree
 import csv
 
 # Bounding box for data scraping: Cologne plus margins
+# order: west, south, east, north
 BBOX = (6.77, 50.82, 7.19, 51.09)
 
 # step with in degrees for partial worj through bounding box
