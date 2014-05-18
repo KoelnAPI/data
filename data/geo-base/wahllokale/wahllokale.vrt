@@ -1,0 +1,8 @@
+<OGRVRTDataSource>
+    <OGRVRTLayer name="wahllokale">
+        <SrcDataSource>wahllokale.csv</SrcDataSource>
+        <GeometryType>wkbPoint</GeometryType>
+        <LayerSRS>EPSG:3857</LayerSRS>
+        <GeometryField encoding="PointFromColumns" x="KOORX" y="KOORY"/>
+    </OGRVRTLayer>
+</OGRVRTDataSource>
