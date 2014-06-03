@@ -128,7 +128,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 127,Kalk,Kalk,Bezirksamt Kalk,Eingangsbereich neben Sanitätsraum,"Kalker Hauptstraße 247 -273, 51103 Köln","Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00",,,,,,,Stadt Köln,2014-01-24,marian,
 128,Innenstadt,Altstadt-Süd,Gesundheitsamt Stadt Köln,Bereich Infotheke,"Neumarkt 15-21, 50667 Köln","Mo-Do 8:00 - 16:00, Fr 8:00 - 12:00",,,,,,,Stadt Köln,2014-01-24,marian,
 129,Chorweiler,Chorweiler,Stadthaus Chorweiler,Eingangsbereich in der Pforte,"Athener Ring 4, 50765 Köln","Mo,Do 8:00 - 16:00, Di 8:00 - 18:00, Mi,Fr 8:00 - 12:00",,,,,,,Stadt Köln,2014-01-24,marian,
-130,Innenstadt,Altstadt-Süd,Standesamt Haus Neuerburg,Bereich Infotheke,"Gülichplatz 1-3, 50667 Köln","Mo,Do 8:00 - 16:00, Di 8:00 - 18:00, Mi,Fr 8:00 - 12:00",,,,,,,Stadt Köln,2014-01-24,marian,
+130,Innenstadt,Altstadt-Süd,Standesamt Haus Neuerburg,Links neben Eingang,"Gülichplatz 1-3, 50667 Köln","Mo,Do 8:00 - 16:00, Di 8:00 - 18:00, Mi,Fr 8:00 - 12:00",6.9579547,50.9374705,2897189103,,,,Stadt Köln,2014-06-03,marian,
 131,Innenstadt,Neustadt-Nord,KOMED im Mediapark,Bereich Seiteneingang neben der Brandmeldezentrale,"Im Mediapark 7, 50670 Köln ",Mo - Fr 09:00 - 18:00 Uhr und zu Veranstaltungen,6.9435459,50.9485749,2729284149,,,,Stadt Köln,2014-03-20,marian,
 132,Innenstadt,Altstadt-Süd,Historisches Rathaus,Bereich Infotheke,"Historisches Rathaus, 50667 Köln",Mo - Fr 08:00 - 16:00 Uhr und zu Veranstaltungen,,,,,,,Stadt Köln,2014-01-24,marian,
 133,Innenstadt,Altstadt-Süd,Rathaus Spanischer Bau,Bereich Infotheke,"Rathaus Spanischer Bau, 50667 Köln",Mo - Fr 08:00 - 16:00 Uhr und zu Veranstaltungen,6.9588287,50.9385724,2660970270,,,,Stadt Köln,2014-02-08,marian,
