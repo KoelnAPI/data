@@ -12,7 +12,7 @@
             "properties": {
                 "address": "Mail\u00e4nder Passage 51", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "113", 
                 "city_district": "Chorweiler", 
                 "city_subdistrict": "Chorweiler", 
                 "comment": null, 
@@ -39,7 +39,7 @@
             "properties": {
                 "address": "Haselnu\u00dfhof 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "289", 
                 "city_district": "Chorweiler", 
                 "city_subdistrict": "Heimersdorf", 
                 "comment": null, 
@@ -66,7 +66,7 @@
             "properties": {
                 "address": "Merkenicher Hauptstr. 123", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "290", 
                 "city_district": "Chorweiler", 
                 "city_subdistrict": "Merkenich", 
                 "comment": null, 
@@ -93,7 +93,7 @@
             "properties": {
                 "address": "Hackhauser Weg 19", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "292", 
                 "city_district": "Chorweiler", 
                 "city_subdistrict": "Worringen", 
                 "comment": null, 
@@ -120,7 +120,7 @@
             "properties": {
                 "address": "Am Coloneum 9", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "288", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Butzweilerhof", 
                 "comment": null, 
@@ -147,7 +147,7 @@
             "properties": {
                 "address": "Venloer Str. 628", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "293", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Bickendorf", 
                 "comment": null, 
@@ -174,7 +174,7 @@
             "properties": {
                 "address": "G\u00f6rlinger Zentrum 25", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "294", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Bocklem\u00fcnd", 
                 "comment": null, 
@@ -201,7 +201,7 @@
             "properties": {
                 "address": "Adolf-Grimme-Allee 2", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "3174", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Butzweilerhof", 
                 "comment": null, 
@@ -228,7 +228,7 @@
             "properties": {
                 "address": "Venloer Str. 295", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "296", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
@@ -255,7 +255,7 @@
             "properties": {
                 "address": "Iltisstr. 20", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "297", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
@@ -282,7 +282,7 @@
             "properties": {
                 "address": "Frohnhofstr. 130", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "298", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ossendorf", 
                 "comment": null, 
@@ -309,7 +309,7 @@
             "properties": {
                 "address": "Subbelrather Str. 243", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "299", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Subbelrath", 
                 "comment": null, 
@@ -336,7 +336,7 @@
             "properties": {
                 "address": "Vogelsanger Str. 452 a", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "301", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Vogelsang", 
                 "comment": null, 
@@ -363,7 +363,7 @@
             "properties": {
                 "address": "Sch\u00f6nsteinstr. 63", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4932", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
@@ -390,7 +390,7 @@
             "properties": {
                 "address": "Custodisstr. 3-17", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "279", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -417,7 +417,7 @@
             "properties": {
                 "address": null, 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "161", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -471,7 +471,7 @@
             "properties": {
                 "address": "Ebertplatz 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "302", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -498,7 +498,7 @@
             "properties": {
                 "address": "Barbarossaplatz 2", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "303", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -552,7 +552,7 @@
             "properties": {
                 "address": "G\u00fcrzenichstr. 19", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "305", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -579,7 +579,7 @@
             "properties": {
                 "address": "An den Dominikanern 6", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "306", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -606,7 +606,7 @@
             "properties": {
                 "address": "Kaiser-Wilhelm-Ring 20", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "307", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -633,7 +633,7 @@
             "properties": {
                 "address": "Hahnenstr. 57", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "115", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": null, 
                 "comment": null, 
@@ -660,7 +660,7 @@
             "properties": {
                 "address": "Neumarkt 1d", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "308", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -687,7 +687,7 @@
             "properties": {
                 "address": "Gotenring 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "309", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -712,9 +712,9 @@
             }, 
             "id": 30, 
             "properties": {
-                "address": "Severinstr.149/Im Dau", 
+                "address": "Severinstr. 149/Im Dau", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "310", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Severin", 
                 "comment": null, 
@@ -741,7 +741,7 @@
             "properties": {
                 "address": "Olpener Str. 795-799", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "311", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Br\u00fcck", 
                 "comment": null, 
@@ -768,7 +768,7 @@
             "properties": {
                 "address": "Olpener Str. 156 - 158", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "312", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "H\u00f6henberg", 
                 "comment": null, 
@@ -795,7 +795,7 @@
             "properties": {
                 "address": "Gremberger Str. 32", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "313", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Humbold", 
                 "comment": null, 
@@ -822,7 +822,7 @@
             "properties": {
                 "address": "Kalker Hauptstr. 129-133", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "314", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Kalk", 
                 "comment": null, 
@@ -849,7 +849,7 @@
             "properties": {
                 "address": "Olpener Str. 397", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "315", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Merheim", 
                 "comment": null, 
@@ -876,7 +876,7 @@
             "properties": {
                 "address": "An St. Adelheid 14", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "316", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Neubr\u00fcck", 
                 "comment": null, 
@@ -903,7 +903,7 @@
             "properties": {
                 "address": "Frankfurter Str. 705", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "317", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Ostheim", 
                 "comment": null, 
@@ -930,7 +930,7 @@
             "properties": {
                 "address": "R\u00f6srather Str. 605-607", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "318", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Rath/Heumar", 
                 "comment": null, 
@@ -957,7 +957,7 @@
             "properties": {
                 "address": "Ostheimer Str. 48-50", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "319", 
                 "city_district": "Kalk", 
                 "city_subdistrict": "Vingst", 
                 "comment": null, 
@@ -984,7 +984,7 @@
             "properties": {
                 "address": "Aachener Str. 523", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "320", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Braunsfeld", 
                 "comment": null, 
@@ -1011,7 +1011,7 @@
             "properties": {
                 "address": "Kirchweg 128-130", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "321", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Junkersdorf", 
                 "comment": null, 
@@ -1038,7 +1038,7 @@
             "properties": {
                 "address": "S\u00fclzburgstr. 56", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "322", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Klettenberg", 
                 "comment": null, 
@@ -1065,7 +1065,7 @@
             "properties": {
                 "address": "Luxemburger Str. 331", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "323", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Klettenberg", 
                 "comment": null, 
@@ -1092,7 +1092,7 @@
             "properties": {
                 "address": "Hermeskeiler Str. 16", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "324", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Kriel", 
                 "comment": null, 
@@ -1119,7 +1119,7 @@
             "properties": {
                 "address": "Lindenthalg\u00fcrtel 97", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "325", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
@@ -1146,7 +1146,7 @@
             "properties": {
                 "address": "D\u00fcrener Str. 187", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "326", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
@@ -1173,7 +1173,7 @@
             "properties": {
                 "address": "Aachener Str. 744-750", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "328", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "M\u00fcngersdorf", 
                 "comment": null, 
@@ -1200,7 +1200,7 @@
             "properties": {
                 "address": "Z\u00fclpicher Str. 292-294", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "329", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "S\u00fclz", 
                 "comment": null, 
@@ -1227,7 +1227,7 @@
             "properties": {
                 "address": "Goethestr. 8", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "330", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Weiden", 
                 "comment": null, 
@@ -1254,7 +1254,7 @@
             "properties": {
                 "address": "Aachener Str. 1253", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "331", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Weiden", 
                 "comment": null, 
@@ -1281,7 +1281,7 @@
             "properties": {
                 "address": "Z\u00fclpicher Str. 70", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4933", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "S\u00fclz", 
                 "comment": null, 
@@ -1308,7 +1308,7 @@
             "properties": {
                 "address": "Waldecker Str. 42", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "333", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Buchforst", 
                 "comment": null, 
@@ -1335,7 +1335,7 @@
             "properties": {
                 "address": "Adam-Stegerwald-Stra\u00dfe 5", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "334", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Buchforst", 
                 "comment": null, 
@@ -1362,7 +1362,7 @@
             "properties": {
                 "address": "Alte Wipperf\u00fcrther Str. 32", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "335", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Buchheim", 
                 "comment": null, 
@@ -1389,7 +1389,7 @@
             "properties": {
                 "address": "Dellbr\u00fccker Hauptstr. 121", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "3220", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Dellbr\u00fcck", 
                 "comment": null, 
@@ -1416,7 +1416,7 @@
             "properties": {
                 "address": "Berliner Str. 964", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "337", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "D\u00fcnnwald", 
                 "comment": null, 
@@ -1443,7 +1443,7 @@
             "properties": {
                 "address": "Paulinenhofstra\u00dfe 17-21", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "338", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Flittard", 
                 "comment": null, 
@@ -1470,7 +1470,7 @@
             "properties": {
                 "address": "Thymianweg 2", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "339", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "H\u00f6henhaus", 
                 "comment": null, 
@@ -1497,7 +1497,7 @@
             "properties": {
                 "address": "Bergisch Gladbacher Str. 591", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "340", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Holweide", 
                 "comment": null, 
@@ -1524,7 +1524,7 @@
             "properties": {
                 "address": "Wiener Platz 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "341", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "M\u00fchlheim", 
                 "comment": null, 
@@ -1551,7 +1551,7 @@
             "properties": {
                 "address": "Berliner Str. 32", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "342", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "M\u00fchlheim", 
                 "comment": null, 
@@ -1578,7 +1578,7 @@
             "properties": {
                 "address": "Gisbertstr. 97", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "343", 
                 "city_district": "M\u00fclheim", 
                 "city_subdistrict": "Stammheim", 
                 "comment": null, 
@@ -1605,7 +1605,7 @@
             "properties": {
                 "address": "Longericher Str. 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "344", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Bilderst\u00f6ckchen", 
                 "comment": null, 
@@ -1632,7 +1632,7 @@
             "properties": {
                 "address": "Rambouxstr. 134", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "345", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Gartenstadt", 
                 "comment": null, 
@@ -1659,7 +1659,7 @@
             "properties": {
                 "address": "Niehler Str. 286", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "346", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Mauenheim", 
                 "comment": null, 
@@ -1686,7 +1686,7 @@
             "properties": {
                 "address": "Sebastianstr. 162", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "347", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Niehl", 
                 "comment": null, 
@@ -1713,7 +1713,7 @@
             "properties": {
                 "address": "Neusser Str. 236-238", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "348", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
@@ -1740,7 +1740,7 @@
             "properties": {
                 "address": "Siebachstr. 28-30", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "349", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
@@ -1767,7 +1767,7 @@
             "properties": {
                 "address": "Stammheimer Str. 94", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "350", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Riehl", 
                 "comment": null, 
@@ -1794,7 +1794,7 @@
             "properties": {
                 "address": "Neusser Str. 570", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "351", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Weidenpesch", 
                 "comment": null, 
@@ -1819,16 +1819,16 @@
             }, 
             "id": 84, 
             "properties": {
-                "address": "Merheimer Str. 221-223", 
+                "address": "Merheimer Str. 221-223, 50733 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4934", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": null, 
                 "last_edited": "2014-03-10", 
                 "last_edited_by": "marian", 
-                "location_details": null, 
+                "location_details": "Eingang Kempener Stra\u00dfe", 
                 "name": "St. Vinzenz-Hospital", 
                 "opening_hours": null, 
                 "osm_node_id": 2710679883, 
@@ -1848,7 +1848,7 @@
             "properties": {
                 "address": "Urbacher Weg 25", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "286", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Porz", 
                 "comment": null, 
@@ -1875,7 +1875,7 @@
             "properties": {
                 "address": "Frankfurter Str. 565", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "352", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Eil", 
                 "comment": null, 
@@ -1902,7 +1902,7 @@
             "properties": {
                 "address": "Gilgaustr. 20", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "353", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Ensen/Westhoven", 
                 "comment": null, 
@@ -1929,7 +1929,7 @@
             "properties": {
                 "address": "Konrad-Adenauer-Str. 72", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4935", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Finkenberg", 
                 "comment": null, 
@@ -1956,7 +1956,7 @@
             "properties": {
                 "address": "Rudolf-Diesel-Str. 32-36", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "355", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Gremberghoven", 
                 "comment": null, 
@@ -1983,7 +1983,7 @@
             "properties": {
                 "address": "Akazienweg 33", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "356", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
@@ -2010,7 +2010,7 @@
             "properties": {
                 "address": "L\u00fclsdorfer Str. 128", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "357", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Langel", 
                 "comment": null, 
@@ -2037,7 +2037,7 @@
             "properties": {
                 "address": "Siegburger Str. 358", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "358", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Poll", 
                 "comment": null, 
@@ -2064,7 +2064,7 @@
             "properties": {
                 "address": "An der Sparkasse 1", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "359", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Porz", 
                 "comment": null, 
@@ -2091,7 +2091,7 @@
             "properties": {
                 "address": "Kaiserstr. 20", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "360", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Urbach", 
                 "comment": null, 
@@ -2118,7 +2118,7 @@
             "properties": {
                 "address": "Max-Reichpietsch-Str.2", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "361", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Wahnheide", 
                 "comment": null, 
@@ -2145,7 +2145,7 @@
             "properties": {
                 "address": "Schmittgasse 63-65", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "362", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Z\u00fcndorf", 
                 "comment": null, 
@@ -2172,7 +2172,7 @@
             "properties": {
                 "address": "Bonner Str. 226", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "363", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Bayenthal", 
                 "comment": null, 
@@ -2199,7 +2199,7 @@
             "properties": {
                 "address": "Immendorfer Str. 26", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "364", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Godorf", 
                 "comment": null, 
@@ -2226,7 +2226,7 @@
             "properties": {
                 "address": "Br\u00fchler Landstr. 417", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "365", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Meschenich", 
                 "comment": null, 
@@ -2253,7 +2253,7 @@
             "properties": {
                 "address": "Markusstr. 45", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "366", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Raderthal", 
                 "comment": null, 
@@ -2280,7 +2280,7 @@
             "properties": {
                 "address": "Maternusplatz 10", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "367", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Rodenkirchen", 
                 "comment": null, 
@@ -2307,7 +2307,7 @@
             "properties": {
                 "address": "Rodenkirchener Str. 129", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "368", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Rondorf", 
                 "comment": null, 
@@ -2334,7 +2334,7 @@
             "properties": {
                 "address": "S\u00fcrther Hauptstr. 112", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "369", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "S\u00fcrth", 
                 "comment": null, 
@@ -2361,7 +2361,7 @@
             "properties": {
                 "address": "Wei\u00dfer Hauptstr. 75", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "370", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Weiss", 
                 "comment": null, 
@@ -2388,7 +2388,7 @@
             "properties": {
                 "address": "H\u00f6ninger Weg 206", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "371", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Zollstock", 
                 "comment": null, 
@@ -2415,7 +2415,7 @@
             "properties": {
                 "address": "Heinrich-Steinmann-Stra\u00dfe", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "3241", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
@@ -2442,7 +2442,7 @@
             "properties": {
                 "address": "Heinrich-Steinmann-Stra\u00dfe", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4936", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
@@ -2469,7 +2469,7 @@
             "properties": {
                 "address": "Roncalliplatz 4, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4937", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
@@ -2496,7 +2496,7 @@
             "properties": {
                 "address": "Heinrich-B\u00f6ll-Platz, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4938", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
@@ -2523,7 +2523,7 @@
             "properties": {
                 "address": "Obenmarspforten, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4939", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -2550,7 +2550,7 @@
             "properties": {
                 "address": "Aachener Stra\u00dfe 220, 50931 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4940", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
@@ -2577,7 +2577,7 @@
             "properties": {
                 "address": "Venloer Stra\u00dfe 419-421, 50825 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4941", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
@@ -2604,7 +2604,7 @@
             "properties": {
                 "address": "Neusser Stra\u00dfe 450, 50733 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4942", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Weidenpesch", 
                 "comment": null, 
@@ -2631,7 +2631,7 @@
             "properties": {
                 "address": "Willy-Brandt-Platz 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4943", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -2658,7 +2658,7 @@
             "properties": {
                 "address": "Willy-Brandt-Platz 3, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4944", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -2685,7 +2685,7 @@
             "properties": {
                 "address": "Friedrich-Ebert-Ufer 64 -70, 51143 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4945", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Porz", 
                 "comment": null, 
@@ -2712,7 +2712,7 @@
             "properties": {
                 "address": "Laurenzplatz 1-3, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4946", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -2739,7 +2739,7 @@
             "properties": {
                 "address": "Neumarkt 15-21, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4947", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
@@ -2766,7 +2766,7 @@
             "properties": {
                 "address": "G\u00fclichplatz 1-3, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4948", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
@@ -2793,7 +2793,7 @@
             "properties": {
                 "address": "Im Mediapark 7, 50670 K\u00f6ln ", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4949", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Neustadt-Nord", 
                 "comment": null, 
@@ -2820,7 +2820,7 @@
             "properties": {
                 "address": "Rathaus Spanischer Bau, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4950", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
@@ -2847,7 +2847,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4951", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -2855,7 +2855,7 @@
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Hauptgeb\u00e4ude, Zentrales Treppenhaus, Ebene 5, S\u00fcdseite, neben Herren-WC", 
-                "name": "FH K\u00f6ln, IWZ Deutz", 
+                "name": "FH K\u00f6ln, IWZ Deutz, Zentrales Treppenhaus", 
                 "opening_hours": null, 
                 "osm_node_id": 2759043337, 
                 "source": "eigene Beobachtung"
@@ -2874,7 +2874,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4952", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -2901,7 +2901,7 @@
             "properties": {
                 "address": "Apellhofplatz/Kupfergasse, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4953", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -2926,16 +2926,16 @@
             }, 
             "id": 137, 
             "properties": {
-                "address": "Merheimer Str. 221-223", 
+                "address": "Merheimer Str. 221-223, 50733 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4960", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": 7219, 
                 "last_edited": "2014-03-10", 
                 "last_edited_by": "marian", 
-                "location_details": null, 
+                "location_details": "Eingang Merheimer Stra\u00dfe", 
                 "name": "St. Vinzenz-Hospital", 
                 "opening_hours": null, 
                 "osm_node_id": 2710679523, 
@@ -2955,7 +2955,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4954", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -2982,7 +2982,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4955", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -3009,7 +3009,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4956", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -3036,7 +3036,7 @@
             "properties": {
                 "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4957", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
@@ -3061,9 +3061,9 @@
             }, 
             "id": 142, 
             "properties": {
-                "address": "An den Dominikanern 2", 
+                "address": "An den Dominikanern 2, 50668 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4958", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -3090,7 +3090,7 @@
             "properties": {
                 "address": "Ubierring 40, 50678 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4959", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
