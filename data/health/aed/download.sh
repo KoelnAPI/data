@@ -28,7 +28,8 @@ FILENAME=aed_crowdsav.json
 echo "Downloading $NAME to _source/$FILENAME"
 cd _source
 rm $FILENAME
-wget -q -U $USER_AGENT -O $FILENAME $SOURCE_URL
+UA="Mozilla/5.0 (Macintosh; Intel Mac OS X 10_9_3) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/35.0.1916.114 Safari/537.36"
+wget -q -U $UA -O $FILENAME $SOURCE_URL
 cd ..
 
 # Konvertiere Crowdsav JSON zu CSV-Datei
