@@ -24,6 +24,7 @@ ggplot(data=gesamt.decomp.trend.df, aes(x=datum, y = V1)) +
   xlab("Date") +
   ylim(0, max(gesamt.decomp.trend.df$V1, na.rm=TRUE) + 500) +
   ylab("People unemployed")
+ggsave(filename="unemployment_trend.png", width=7, height=5, dpi=100)
 
 # Time series plot of "gesamt"
 ggplot(unemployed.df, aes(datum, gesamt)) + geom_line(size=0.2) + geom_smooth() + ggtitle("Unemployment data for Cologne") + xlab("Date") + ylab("Unemployed people")
@@ -41,3 +42,4 @@ ggplot(unemployed.df, aes(datum)) +
   ggtitle("Unemployment data for Cologne - male and female") +
   xlab("Date") +
   ylab("Unemployed people")
+
