@@ -13,22 +13,6 @@
     "resources": [
         {
             "created": "Donnerstag, 28. November 2013 - 8:41", 
-            "description": "Shape Dateien zu den Ampelanlagen (Lichtzeichenanlagen) in K\u00f6ln. Die Verortung erfolgt \u00fcber Gauss Kr\u00fcger Koordinaten.", 
-            "file_id": "f606020e-53aa-4dd2-9d67-446e14cd1e87", 
-            "file_link": null, 
-            "file_name": "20131118_shape_lsa_koeln_gk.zip", 
-            "file_size": "50.72 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/20131118_shape_lsa_koeln_gk.zip", 
-            "format": "zip", 
-            "id": "e49a9e63-ec79-4322-a4b8-9e7d574cf690", 
-            "link_to_api": null, 
-            "mime_type": "application/zip", 
-            "modified": "Donnerstag, 28. November 2013 - 10:49", 
-            "title": "Ampelanlagen in K\u00f6ln Shape (GK)", 
-            "url": "/dataset/resource/e49a9e63-ec79-4322-a4b8-9e7d574cf690"
-        }, 
-        {
-            "created": "Donnerstag, 28. November 2013 - 8:41", 
             "description": "Die Verortung \u00fcber Gau\u00df-Kr\u00fcger Koordinaten.", 
             "file_id": "ce72168f-4368-45fe-87bb-b4f278b12d7a", 
             "file_link": null, 
@@ -42,6 +26,22 @@
             "modified": "Donnerstag, 28. November 2013 - 11:50", 
             "title": "Ampelanlagen in K\u00f6ln (GK)", 
             "url": "/dataset/resource/d4d42ba0-bd7e-409a-947a-d832bb02a663"
+        }, 
+        {
+            "created": "Donnerstag, 28. November 2013 - 8:41", 
+            "description": "Shape Dateien zu den Ampelanlagen (Lichtzeichenanlagen) in K\u00f6ln. Die Verortung erfolgt \u00fcber Gauss Kr\u00fcger Koordinaten.", 
+            "file_id": "f606020e-53aa-4dd2-9d67-446e14cd1e87", 
+            "file_link": null, 
+            "file_name": "20131118_shape_lsa_koeln_gk.zip", 
+            "file_size": "50.72 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/20131118_shape_lsa_koeln_gk.zip", 
+            "format": "zip", 
+            "id": "e49a9e63-ec79-4322-a4b8-9e7d574cf690", 
+            "link_to_api": null, 
+            "mime_type": "application/zip", 
+            "modified": "Donnerstag, 28. November 2013 - 10:49", 
+            "title": "Ampelanlagen in K\u00f6ln Shape (GK)", 
+            "url": "/dataset/resource/e49a9e63-ec79-4322-a4b8-9e7d574cf690"
         }
     ], 
     "spatial": "", 

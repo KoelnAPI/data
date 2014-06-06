@@ -12,6 +12,38 @@
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {
+            "created": "Dienstag, 13. Mai 2014 - 16:18", 
+            "description": "Georeferenzierte Auflistung der K\u00f6lner Wahllokale zur kommenden Verbundwahl.", 
+            "file_id": "4ef798da-7822-4361-a24e-eab4eab70ca6", 
+            "file_link": null, 
+            "file_name": "20140513_Wahllokale_geo.csv", 
+            "file_size": "102.91 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/20140513_Wahllokale_geo.csv", 
+            "format": "csv", 
+            "id": "c23150fc-457c-4127-a390-8546dbde77e0", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Dienstag, 13. Mai 2014 - 16:18", 
+            "title": "2014 Wahllokale georeferenziert", 
+            "url": "/dataset/c23150fc-457c-4127-a390-8546dbde77e0/resource/c23150fc-457c-4127-a390-8546dbde77e0"
+        }, 
+        {
+            "created": "Montag, 28. April 2014 - 13:25", 
+            "description": "Auflistung der Wahllokale mit den Zuordnungen von Stimmbezirk und Briefwahlbezirk zu Wahlkreisen Kommunal- und Europawahl)\n<b>Ein Briefwahllokal fehlt: Deutz, Messe (Ausz\u00e4hlort f\u00fcr die Briefwahlergebnisse).</b>", 
+            "file_id": "c06f311b-7eeb-42bd-a92f-d1f7e7c0b503", 
+            "file_link": null, 
+            "file_name": "20140424_Wahllokale.csv", 
+            "file_size": "62.92 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/20140424_Wahllokale.csv", 
+            "format": "csv", 
+            "id": "cdc21fdd-a4f5-45e2-ae30-c9e896e05cfe", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Montag, 28. April 2014 - 13:25", 
+            "title": "2014 Wahllokale", 
+            "url": "/dataset/cdc21fdd-a4f5-45e2-ae30-c9e896e05cfe/resource/cdc21fdd-a4f5-45e2-ae30-c9e896e05cfe"
+        }, 
+        {
             "created": "Mittwoch, 14. August 2013 - 16:43", 
             "description": null, 
             "file_id": "5c88046b-2ef5-4482-931f-bcd8ebd9d00f", 

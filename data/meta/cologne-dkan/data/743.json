@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Freitag, 6. Juni 2014 - 8:23", 
+    "created": "Freitag, 6. Juni 2014 - 8:23", 
+    "data_dictionary": "", 
+    "description": "Die einheitliche Beh\u00f6rdenrufnummer 115 ist ein Projekt der Projektgruppe D115, die vom Bundesministerium des Innern und dem Land Hessen eingesetzt wurde. \n\nMit einer einzigen, leicht zu merkenden Rufnummer erhalten alle B\u00fcrgerinnen und B\u00fcrger kompetente Ausk\u00fcnfte \u00fcber Leistungen der \u00f6ffentlichen Verwaltung. Der Vorteil f\u00fcr die B\u00fcrgerin/den B\u00fcrger: Es entf\u00e4llt die aufw\u00e4ndige Recherche nach der zust\u00e4ndigen Beh\u00f6rde.\n", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "2d664538-6cd0-4699-9fd0-aff779d9bd69", 
+    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "publisher": "", 
+    "resources": [
+        {
+            "created": "Freitag, 6. Juni 2014 - 8:24", 
+            "description": "Die einheitliche Beh\u00f6rdenrufnummer 115 ist ein Projekt der Projektgruppe D115, die vom Bundesministerium des Innern und dem Land Hessen eingesetzt wurde. \n\nMit einer einzigen, leicht zu merkenden Rufnummer erhalten alle B\u00fcrgerinnen und B\u00fcrger kompetente Ausk\u00fcnfte \u00fcber Leistungen der \u00f6ffentlichen Verwaltung. Der Vorteil f\u00fcr die B\u00fcrgerin/den B\u00fcrger: Es entf\u00e4llt die aufw\u00e4ndige Recherche nach der zust\u00e4ndigen Beh\u00f6rde.\n\nIn dieser Datei werden die aktuellen Leistungsstatistiken (Abruf der einzelnen Leistungen) dargestellt", 
+            "file_id": "649ec4a5-73e2-436f-8e01-b7e676d62fb3", 
+            "file_link": null, 
+            "file_name": "Top100_K\u00f6ln.xls", 
+            "file_size": "292.5 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Top100_K%C3%B6ln.xls", 
+            "format": "xls", 
+            "id": "98f90936-c2d9-492f-ba74-3952c0c7540f", 
+            "link_to_api": null, 
+            "mime_type": "application/vnd.ms-excel", 
+            "modified": "Freitag, 6. Juni 2014 - 8:44", 
+            "title": "115 Leistungsberichte", 
+            "url": "/dataset/98f90936-c2d9-492f-ba74-3952c0c7540f/resource/98f90936-c2d9-492f-ba74-3952c0c7540f"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "D115"
+}

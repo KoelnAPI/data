@@ -29,22 +29,6 @@
         }, 
         {
             "created": "Donnerstag, 28. November 2013 - 8:41", 
-            "description": "Verortung \u00fcber UTM (WSG84) Koordinaten.", 
-            "file_id": "17aa8aff-d1b5-4670-b50f-77c10cd9d406", 
-            "file_link": null, 
-            "file_name": "20131118_lsa_koordinaten_wsg84.csv", 
-            "file_size": "63.74 KB", 
-            "file_url": "http://offenedaten-koeln.de/sites/default/files/20131118_lsa_koordinaten_wsg84.csv", 
-            "format": "csv", 
-            "id": "faeb05bb-5a36-4a98-ad44-bf0a363f6cb0", 
-            "link_to_api": null, 
-            "mime_type": "text/csv", 
-            "modified": "Donnerstag, 28. November 2013 - 11:51", 
-            "title": "Ampelanlagen in K\u00f6ln (WSG84)", 
-            "url": "/dataset/resource/faeb05bb-5a36-4a98-ad44-bf0a363f6cb0"
-        }, 
-        {
-            "created": "Donnerstag, 28. November 2013 - 8:41", 
             "description": "Shape Dateien zu den Ampelanlagen (Lichtzeichenanlagen) in K\u00f6ln. Die Verortung erfolgt \u00fcber UTM (WSG84) Koordinaten.", 
             "file_id": "85ca30a0-7926-4c49-85cd-9cd2e36d27c6", 
             "file_link": null, 
@@ -58,6 +42,22 @@
             "modified": "Donnerstag, 28. November 2013 - 10:58", 
             "title": "Ampelanlagen in K\u00f6ln Shape (WSG84)", 
             "url": "/dataset/resource/887116da-1128-4577-8e57-96d1a3e46b4b"
+        }, 
+        {
+            "created": "Donnerstag, 28. November 2013 - 8:41", 
+            "description": "Verortung \u00fcber UTM (WSG84) Koordinaten.", 
+            "file_id": "17aa8aff-d1b5-4670-b50f-77c10cd9d406", 
+            "file_link": null, 
+            "file_name": "20131118_lsa_koordinaten_wsg84.csv", 
+            "file_size": "63.74 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/20131118_lsa_koordinaten_wsg84.csv", 
+            "format": "csv", 
+            "id": "faeb05bb-5a36-4a98-ad44-bf0a363f6cb0", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Donnerstag, 28. November 2013 - 11:51", 
+            "title": "Ampelanlagen in K\u00f6ln (WSG84)", 
+            "url": "/dataset/resource/faeb05bb-5a36-4a98-ad44-bf0a363f6cb0"
         }
     ], 
     "spatial": "", 

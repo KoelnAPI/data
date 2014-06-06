@@ -12,6 +12,38 @@
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {
+            "created": "Mittwoch, 4. Juni 2014 - 14:09", 
+            "description": null, 
+            "file_id": "37694141-f103-4df9-be5a-9bb31badf267", 
+            "file_link": null, 
+            "file_name": "Standort\u00fcbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten.csv", 
+            "file_size": "3.92 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Standort%C3%BCbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten_1.csv", 
+            "format": "csv", 
+            "id": "e7f9d818-41a9-4fab-b819-fcf2cde2bde6", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Mittwoch, 4. Juni 2014 - 14:09", 
+            "title": "Standort\u00fcbersicht Defibrillatoren Stadt Koeln Oeffnungszeiten Map", 
+            "url": "/dataset/e7f9d818-41a9-4fab-b819-fcf2cde2bde6/resource/e7f9d818-41a9-4fab-b819-fcf2cde2bde6"
+        }, 
+        {
+            "created": "Mittwoch, 4. Juni 2014 - 14:08", 
+            "description": null, 
+            "file_id": "6f68f5a7-7c1b-4e35-96fe-f9d1af1c68bb", 
+            "file_link": null, 
+            "file_name": "Standort\u00fcbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten.csv", 
+            "file_size": "3.92 KB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Standort%C3%BCbersicht_Defibrillatoren_Stadt_Koeln_Oeffnungszeiten_0.csv", 
+            "format": "csv", 
+            "id": "2c994175-47ca-42ea-b1ae-eb5d369de080", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Mittwoch, 4. Juni 2014 - 14:11", 
+            "title": "Standort\u00fcbersicht Defibrillatoren Stadt Koeln Standorte", 
+            "url": "/dataset/2c994175-47ca-42ea-b1ae-eb5d369de080/resource/2c994175-47ca-42ea-b1ae-eb5d369de080"
+        }, 
+        {
             "created": "Freitag, 24. Januar 2014 - 9:25", 
             "description": null, 
             "file_id": "0c2fc843-1616-412a-92dd-1bce8b086239", 
