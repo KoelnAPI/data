@@ -32,7 +32,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 31,Innenstadt,Altstadt-Nord,St. Marien-Hospital,,Kunibertskloster 11-13,,,,,,,,defiköln,2014-06-02,marian,Existiert nicht (mehr).
 32,Kalk,Kalk,Ev. Krankenhaus Kalk,,Buchforststr. 2,,,,,281,,,defiköln,,,
 33,Kalk,Brück,Sparkasse KölnBonn,,Olpener Str. 795-799,,7.074945,50.9454596,2661041117,311,,7163,defiköln,2014-02-08,marian,
-34,Kalk,Höhenberg,Sparkasse KölnBonn,,Olpener Str. 156 - 158,,7.0242056,50.9400832,637570861,312,,,defiköln,2014-02-08,marian,
+34,Kalk,Höhenberg,Sparkasse KölnBonn,,Olpener Str. 156 - 158,,7.0242174,50.9401384,637570861,312,,,defiköln,2014-02-08,marian,
 35,Kalk,Humbold,Sparkasse KölnBonn,,Gremberger Str. 32,,6.9956233,50.9303164,1427508090,313,,,defiköln,2014-02-08,marian,
 36,Kalk,Kalk,Sparkasse KölnBonn,,Kalker Hauptstr. 129-133,,7.0014664,50.9378688,2661133855,314,,,defiköln,2014-02-08,marian,
 37,Kalk,Merheim,Sparkasse KölnBonn,,Olpener Str. 397,,7.0455762,50.9429305,2127984949,315,,7164,defiköln,2014-02-10,marian,
