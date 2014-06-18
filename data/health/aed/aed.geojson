@@ -327,8 +327,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.8803851, 
-                    50.9558199
+                    6.8804414, 
+                    50.9557969
                 ], 
                 "type": "Point"
             }, 
@@ -759,8 +759,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0242056, 
-                    50.9400832
+                    7.0242174, 
+                    50.9401384
                 ], 
                 "type": "Point"
             }, 
@@ -1434,8 +1434,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9793012, 
-                    51.0022505
+                    6.9793727, 
+                    51.0022035
                 ], 
                 "type": "Point"
             }, 
@@ -1623,8 +1623,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9263657, 
-                    50.9943144
+                    6.9264002, 
+                    50.9942987
                 ], 
                 "type": "Point"
             }, 
@@ -1637,12 +1637,12 @@
                 "city_subdistrict": "Gartenstadt", 
                 "comment": null, 
                 "crowdsav_id": 7213, 
-                "last_edited": "2014-02-19", 
+                "last_edited": "2014-06-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
-                "osm_node_id": 766067626, 
+                "osm_node_id": 2921855321, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1812,8 +1812,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9453818, 
-                    50.9668463
+                    6.9453666, 
+                    50.9668501
                 ], 
                 "type": "Point"
             }, 
@@ -1974,8 +1974,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0982254, 
-                    50.8759464
+                    7.0982338, 
+                    50.8759329
                 ], 
                 "type": "Point"
             }, 
@@ -1993,7 +1993,7 @@
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
-                "osm_node_id": 2681191896, 
+                "osm_node_id": 2921858927, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2082,8 +2082,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0810949, 
-                    50.8815842
+                    7.0810832, 
+                    50.8816109
                 ], 
                 "type": "Point"
             }, 
@@ -2325,8 +2325,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0109656, 
-                    50.864071
+                    7.0108745, 
+                    50.8640028
                 ], 
                 "type": "Point"
             }, 
@@ -2344,7 +2344,7 @@
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
-                "osm_node_id": 1421014624, 
+                "osm_node_id": 2921861358, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2406,8 +2406,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.1223733, 
-                    50.878861
+                    7.12239, 
+                    50.8788998
                 ], 
                 "type": "Point"
             }, 
@@ -2595,8 +2595,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9518834, 
-                    50.9726836
+                    6.9517763, 
+                    50.97265
                 ], 
                 "type": "Point"
             }, 
@@ -2919,8 +2919,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9471037, 
-                    50.9669511
+                    6.9471065, 
+                    50.966941
                 ], 
                 "type": "Point"
             }, 
@@ -3144,7 +3144,7 @@
             "properties": {
                 "address": "C\u00e4cilienstra\u00dfe 29-33, 50667 K\u00f6ln", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4972", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
