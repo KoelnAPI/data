@@ -1,5 +1,5 @@
 id,city_district,city_subdistrict,name,location_details,address,opening_hours,longitude,latitude,osm_node_id,aedkatasternet_id,aed4eu_id,crowdsav_id,source,last_edited,last_edited_by,comment
-1,Chorweiler,Chorweiler,Sparkasse KölnBonn,,Mailänder Passage 51,,6.897402,51.0216619,1668102576,113,,,defiköln,2014-01-20,marian,
+1,Chorweiler,Chorweiler,Sparkasse KölnBonn,,"Mailänder Passage 51, 50765 Köln",,6.897402,51.0216619,1668102576,113,,,defiköln,2014-01-20,marian,
 2,Chorweiler,Heimersdorf,Sparkasse KölnBonn,,Haselnußhof 1,,6.9061345,51.0117479,475012301,289,,,defiköln,2014-01-20,marian,
 3,Chorweiler,Merkenich,Sparkasse KölnBonn,,Merkenicher Hauptstr. 123,,6.9587787,51.0252249,247388977,290,,,defiköln,2014-01-20,marian,
 4,Chorweiler,Pesch,Sparkasse KölnBonn,,Longericher Str. 26,,,,,,,,defiköln,2014-01-20,marian,In SK KölnBonn Filialsuche nicht mehr zu finden
