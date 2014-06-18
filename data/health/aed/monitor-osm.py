@@ -5,6 +5,31 @@ This script watches the Cologne area for
 AED entries and looks for matches in our
 aed.csv source
 
+If no changes are detected, no output occurs.
+
+Examples of change notices:
+
+OSM ID 621969295, our ID 67: position is: x=6.9793727, y=51.0022035, distance: 7.25 m
+OSM ID 2920841194 is not in aed.csv:
+{
+    "changeset": 22991636, 
+    "uid": 16478, 
+    "tags": {
+        "description": "An der Kasse", 
+        "emergency": "defibrillator"
+    }, 
+    "timestamp": "2014-06-17T19:40:12Z", 
+    "lon": 6.9505214, 
+    "version": 1, 
+    "user": "Raymond", 
+    "lat": 50.9348959, 
+    "type": "node", 
+    "id": 2920841194
+}
+OSM ID 766067626 (our ID 123) is no longer an AED node in OSM
+
+-----
+
 Dieses Script lädt Defibrillatoren-Daten
 innerhalb der Kölner Stadtgrenzen und prüft,
 ob diese in unserer Quelle aed.csv enthalten
@@ -83,9 +108,10 @@ def distance(x1, y1, x2, y2):
     return Point(x1, y1).distance(Point(x2, y2))
 
 
-if __name__ == "__main__":
-    aeds = load_csv_aeds()
-    osm_aeds = load_osm_aeds()
+def find_changes(aeds, osm_aeds):
+    """
+    Check which OSM nodes have been modified
+    """
     for osm_id in osm_aeds.keys():
         found = False
         changes = []
@@ -113,3 +139,20 @@ if __name__ == "__main__":
         if not found:
             sys.stderr.write("OSM ID %s is not in aed.csv:\n" % osm_id)
             sys.stderr.write(json.dumps(osm_aeds[osm_id], indent=4))
+
+    # other way around: check which OSM nodes have been deleted
+    for aed in aeds:
+        if aed["osm_node_id"] is None:
+            continue
+        osm_id = str(aed["osm_node_id"])
+        if osm_id == "":
+            continue
+        if osm_id not in osm_aeds:
+            sys.stderr.write("OSM ID %s, our ID %s, is no longer an AED node in OSM\n" % (
+                osm_id, aed["id"]))
+
+
+if __name__ == "__main__":
+    aeds = load_csv_aeds()
+    osm_aeds = load_osm_aeds()
+    find_changes(aeds, osm_aeds)
