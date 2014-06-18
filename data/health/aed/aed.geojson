@@ -10,7 +10,7 @@
             }, 
             "id": 1, 
             "properties": {
-                "address": "Mail\u00e4nder Passage 51", 
+                "address": "Mail\u00e4nder Passage 51, 50765 K\u00f6ln", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "113", 
                 "city_district": "Chorweiler", 
@@ -1812,8 +1812,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.945381760597229, 
-                    50.96684633299065
+                    6.9453818, 
+                    50.9668463
                 ], 
                 "type": "Point"
             }, 
@@ -2595,8 +2595,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.951883435249329, 
-                    50.972683753937
+                    6.9518834, 
+                    50.9726836
                 ], 
                 "type": "Point"
             }, 
@@ -2919,8 +2919,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.94710373878479, 
-                    50.96695106170407
+                    6.9471037, 
+                    50.9669511
                 ], 
                 "type": "Point"
             }, 
@@ -3129,6 +3129,33 @@
                 "opening_hours": null, 
                 "osm_node_id": 2826026249, 
                 "source": "http://www.rettungswache-golzheim.org/AED-Tabelle.pdf"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9505214, 
+                    50.9348959
+                ], 
+                "type": "Point"
+            }, 
+            "id": 145, 
+            "properties": {
+                "address": "C\u00e4cilienstra\u00dfe 29-33, 50667 K\u00f6ln", 
+                "aed4eu_id": null, 
+                "aedkatasternet_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-S\u00fcd", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-06-18", 
+                "last_edited_by": "Raymond", 
+                "location_details": "An der Kasse", 
+                "name": "Rautenstrauch-Joest-Museum", 
+                "opening_hours": "Di, Mi, Fr, Sa, So 10-18 Uhr; Do 10-20 Uhr; 1. Do im Monat 10-22 Uhr", 
+                "osm_node_id": 2920841194, 
+                "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
         }
