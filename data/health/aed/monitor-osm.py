@@ -40,21 +40,10 @@ import sys
 import json
 import csv
 import requests
+from bs4 import BeautifulSoup
 from shapely.geometry import Polygon, Point
-from pyproj import Proj
-from pyproj import transform
+import util
 
-
-def get_bounds():
-    """
-    Importiere Grenze von Köln
-    als Shapely-Polygon
-    """
-    f = open("../../geo-base/city-boundary/cityboundary.geojson")
-    data = json.loads(f.read())
-    f.close()
-    coords = data["coordinates"][0]
-    return Polygon(coords)
 
 def load_osm_aeds():
     xml = """<osm-script output="json" timeout="25">
@@ -64,7 +53,7 @@ def load_osm_aeds():
       </query>
       <print mode="meta"/>
     </osm-script>"""
-    bounds = get_bounds()
+    bounds = util.get_bounds()
     out = {}
     r = requests.post("http://overpass-api.de/api/interpreter", data=xml)
     for item in r.json()["elements"]:
@@ -72,40 +61,6 @@ def load_osm_aeds():
         if bounds.contains(position):
             out[str(item["id"])] = item
     return out
-
-
-def load_csv_aeds():
-    out = []
-    headers = []
-    with open("aed.csv", "rb") as csvfile:
-        reader = csv.reader(csvfile)
-        rowcount = -1
-        for row in reader:
-            rowcount += 1
-            if rowcount == 0:
-                headers = row
-            else:
-                record = {}
-                for n in range(len(row)):
-                    if row[n] == "":
-                        row[n] = None
-                    if row[n] is not None:
-                        if headers[n] in ["latitude", "longitude"]:
-                            row[n] = float(row[n])
-                    record[headers[n]] = row[n]
-                out.append(record)
-    return out
-
-wgs84_projection = Proj(init="epsg:4326")
-metric_projection = Proj(init="epsg:25832")
-
-def distance(x1, y1, x2, y2):
-    x1, y1 = transform(wgs84_projection,
-        metric_projection, float(x1), float(y1), radians=False)
-    x2, y2 = transform(wgs84_projection,
-        metric_projection, float(x2), float(y2), radians=False)
-    #print x1, y1, x2, y2
-    return Point(x1, y1).distance(Point(x2, y2))
 
 
 def find_changes(aeds, osm_aeds):
@@ -125,7 +80,7 @@ def find_changes(aeds, osm_aeds):
                 if (str(osm_aeds[osm_id]["lon"]) != str(aed["longitude"]) or 
                     str(osm_aeds[osm_id]["lat"]) != str(aed["latitude"])):
                     # distance form our to OSM position
-                    dist = distance(osm_aeds[osm_id]["lon"],
+                    dist = util.distance(osm_aeds[osm_id]["lon"],
                             osm_aeds[osm_id]["lat"],
                             aed["longitude"], aed["latitude"])
                     if dist > 0.1:
@@ -153,6 +108,6 @@ def find_changes(aeds, osm_aeds):
 
 
 if __name__ == "__main__":
-    aeds = load_csv_aeds()
+    aeds = util.load_csv_aeds()
     osm_aeds = load_osm_aeds()
     find_changes(aeds, osm_aeds)
