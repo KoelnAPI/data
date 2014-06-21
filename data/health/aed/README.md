@@ -27,6 +27,7 @@ Zur Bedeutung der Spalten:
 * `longitude`: Geografischer Längengrad (WGS84-Koordinatensystem)
 * `latitude`: Geografischer Breitengrad (WGS84-Koordinatensystem)
 * `osm_node_id`: Falls dieser Standort bereits in der OpenStreetMap eingetragen ist, wird hier die ID des Knotens erfasst
+* `aedkatasternet_id`: ID dieses Standaorts bei aed-kataster.net
 * `aed4eu_id`: ID dieses Standorts bei AED4.EU
 * `crowdsav_id`: ID dieses Standorts bei CrowdSav
 * `source`: Quelle, aus der der Eintrag stammt
@@ -34,6 +35,7 @@ Zur Bedeutung der Spalten:
 * `last_edited_by`: Name des letzten Bearbeiters
 * `comment`: Bearbeitungskommentar (nur angeben falls nötig)
 
+Zu aed-kataster.net: http://aed-kataster.net/
 Zu AED4EU: http://aed4.eu/
 Zu CrowdSav: https://www.crowdsav.com/aeds
 
