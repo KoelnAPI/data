@@ -55,7 +55,7 @@ id,city_district,city_subdistrict,name,location_details,address,opening_hours,lo
 54,Lindenthal,Sülz,Sparkasse KölnBonn,,Zülpicher Str. 292-294,,6.9213791,50.922279,425897167,329,,7131,defiköln,2014-02-14,marian,
 55,Lindenthal,Weiden,Sparkasse KölnBonn,,Goethestr. 8,,6.834015,50.9421126,739048812,330,,7223,defiköln,2014-02-14,marian,
 56,Lindenthal,Weiden,Sparkasse KölnBonn,"In Sparkassen-Filiale, linke Wand",Aachener Str. 1253,,6.836623,50.9365379,2758239367,331,,7224,defiköln,2014-04-01,marian,
-57,Lindenthal,Widdersdorf,Sparkasse KölnBonn,,Hauptstr. 54,,,,,332,,,defiköln,2014-02-14,marian,Existiert vermutlich nicht mehr. Sollte durch Rücksprache mit Sparkasse überprüft werden.
+57,Lindenthal,Widdersdorf,Sparkasse KölnBonn,,Hauptstr. 54,,,,,,,,defiköln,2014-02-14,marian,Existiert vermutlich nicht mehr. Sollte durch Rücksprache mit Sparkasse überprüft werden.
 58,Lindenthal,Lindenthal,St. Elisabeth-Krankenhaus,,Werthmannstr. 1,,,,,,,,defiköln,,,
 59,Lindenthal,Lindenthal,Uniklinik,,Kerpener Str. 62,,,,,160,,,defiköln,,,
 60,Lindenthal,Sülz,Unimensa,Foyer im MG neben den Toiletten,Zülpicher Str. 70,,6.9328268,50.9276933,1609157079,4933,,,OSM,2014-01-20,marian,
