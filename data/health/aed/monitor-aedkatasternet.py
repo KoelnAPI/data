@@ -25,8 +25,9 @@ def load_aedkataster_aeds():
     r = requests.post(url)
     if r.status_code != 200:
         return
-    exp = r'GLatLng\(([\.0-9]+),([\.0-9]+)\);\s+SobiCatOverMap\.addOverlay\(\s+createSobiMarker\(\s+MarkerPoint,\s+\'<div><a href="http://aed-kataster\.net/nw\.html\?sobi2Task=sobi2Details&amp;sobi2Id=([0-9]+)">'
+    exp = r'GLatLng\(([\.0-9]+),([\.0-9]+)\);\s+SobiCatOverMap\.addOverlay\(\s+createSobiMarker\(\s+MarkerPoint,\s+\'<div><a href="[^\?]+\?sobi2Task=sobi2Details&amp;sobi2Id=([0-9]+)">'
     for item in re.findall(exp, r.text):
+        #print item
         y = float(item[0])
         x = float(item[1])
         aedk_id = int(item[2])
