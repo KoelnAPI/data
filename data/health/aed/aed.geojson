@@ -444,7 +444,7 @@
             "properties": {
                 "address": null, 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "3138", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
@@ -975,6 +975,33 @@
         {
             "geometry": {
                 "coordinates": [
+                    6.9250819, 
+                    50.9276551
+                ], 
+                "type": "Point"
+            }, 
+            "id": 43, 
+            "properties": {
+                "address": "Weyertal 76", 
+                "aed4eu_id": null, 
+                "aedkatasternet_id": "280", 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Weyertal", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-06-23", 
+                "last_edited_by": "marian", 
+                "location_details": "Haupteingang, neben Empfangstheke", 
+                "name": "Ev. Krankenhaus K\u00f6ln-Weyertal", 
+                "opening_hours": null, 
+                "osm_node_id": 2929022704, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
                     6.89886, 
                     50.9370049
                 ], 
@@ -1265,6 +1292,33 @@
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2758239367, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9199195, 
+                    50.9237296
+                ], 
+                "type": "Point"
+            }, 
+            "id": 59, 
+            "properties": {
+                "address": "Kerpener Str. 62", 
+                "aed4eu_id": null, 
+                "aedkatasternet_id": null, 
+                "city_district": "Lindenthal", 
+                "city_subdistrict": "Lindenthal", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "last_edited": "2014-06-23", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Uniklinik", 
+                "opening_hours": null, 
+                "osm_node_id": 2929046201, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -3115,7 +3169,7 @@
             }, 
             "id": 144, 
             "properties": {
-                "address": "Br\u00fchler Landstra\u00dfe 431", 
+                "address": "Br\u00fchler Landstra\u00dfe 431, 50997 K\u00f6ln", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": null, 
                 "city_district": "Rodenkirchen", 
