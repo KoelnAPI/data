@@ -28,6 +28,7 @@ Zur Bedeutung der Spalten:
 * `latitude`: Geografischer Breitengrad (WGS84-Koordinatensystem)
 * `osm_node_id`: Falls dieser Standort bereits in der OpenStreetMap eingetragen ist, wird hier die ID des Knotens erfasst
 * `aedkatasternet_id`: ID dieses Standaorts bei aed-kataster.net
+* `definow_id`: ID dieses Standaorts bei definow.org
 * `aed4eu_id`: ID dieses Standorts bei AED4.EU
 * `crowdsav_id`: ID dieses Standorts bei CrowdSav
 * `source`: Quelle, aus der der Eintrag stammt
@@ -38,6 +39,7 @@ Zur Bedeutung der Spalten:
 Zu aed-kataster.net: http://aed-kataster.net/
 Zu AED4EU: http://aed4.eu/
 Zu CrowdSav: https://www.crowdsav.com/aeds
+Zu Defi Now!: https://www.definow.org/
 
 ## Derivate `aed.geojson` und `aed.min.geojson`
 
