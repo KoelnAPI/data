@@ -43,7 +43,7 @@ id,city_district,city_subdistrict,name,location_details,address,postalcode,openi
 42,Kalk,Merheim,Städt. Krankenhaus Köln-Merheim,,Ostmerheimer Str. 200,,,,,,380,,,,defiköln,,,
 43,Lindenthal,Weyertal,Ev. Krankenhaus Köln-Weyertal,"Haupteingang, neben Empfangstheke",Weyertal 76,,,6.9250819,50.9276551,2929022704,280,12925,,,defiköln,2014-06-23,marian,
 44,Lindenthal,Lindenthal,Herzzentrum,"Am Haupteingang links, in der Aufnahme",Kerpener Str. 62,,,,,,283,,,,defiköln,,,
-45,Lindenthal,Lindenthal,Malteser-Krankenhaus St. Hildegardis,,Bachemer Str. 29,,,,,,287,,,,defiköln,,,
+45,Lindenthal,Lindenthal,Malteser-Krankenhaus St. Hildegardis,,Bachemer Str. 29,,,,,,287,12932,,,defiköln,,,
 46,Lindenthal,Braunsfeld,Sparkasse KölnBonn,,Aachener Str. 523,,,6.89886,50.9370049,2665512062,320,12965,,7227,defiköln,2014-02-10,marian,
 47,Lindenthal,Junkersdorf,Sparkasse KölnBonn,,Kirchweg 128-130,,,6.8580512,50.9327136,1613007921,321,12966,,7225,defiköln,2014-02-11,marian,
 48,Lindenthal,Klettenberg,Sparkasse KölnBonn,,Sülzburgstr. 56,,,6.9257415,50.9166093,313929830,322,12967,,7135,defiköln,2014-02-11,marian,
