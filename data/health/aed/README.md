@@ -23,7 +23,8 @@ Zur Bedeutung der Spalten:
 * `name`: Name des Standorts/Gebäudes. Dieser soll möglichst knapp und so beschrieben sein, dass jemand im direkten Umfeld das Gebäude identifizieren kann.
 * `location_details`: Beschreibung des Standorts innerhalb des Gebäudes
 * `address`: Straße und Hausnummer des Gebäudes
-* `opening_hours`: Öffnunszeiten
+* `postalcode`: Postleitzahl
+* `opening_hours`: Öffnungszeiten
 * `longitude`: Geografischer Längengrad (WGS84-Koordinatensystem)
 * `latitude`: Geografischer Breitengrad (WGS84-Koordinatensystem)
 * `osm_node_id`: Falls dieser Standort bereits in der OpenStreetMap eingetragen ist, wird hier die ID des Knotens erfasst
