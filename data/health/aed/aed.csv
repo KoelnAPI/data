@@ -2,7 +2,7 @@ id,city_district,city_subdistrict,name,location_details,address,postalcode,openi
 1,Chorweiler,Chorweiler,Sparkasse KölnBonn,,Mailänder Passage 51,50765,,6.897402,51.0216619,1668102576,113,12871,,,defiköln,2014-01-20,marian,
 2,Chorweiler,Heimersdorf,Sparkasse KölnBonn,,Haselnußhof 1,,,6.9061345,51.0117479,475012301,289,12934,,,defiköln,2014-01-20,marian,
 3,Chorweiler,Merkenich,Sparkasse KölnBonn,,Merkenicher Hauptstr. 123,,,6.9587787,51.0252249,247388977,290,12935,,,defiköln,2014-01-20,marian,
-4,Chorweiler,Pesch,Sparkasse KölnBonn,,Longericher Str. 26,,,,,,291,,,,defiköln,2014-01-20,marian,In SK KölnBonn Filialsuche nicht mehr zu finden
+4,Chorweiler,Pesch,Sparkasse KölnBonn,,Longericher Str. 26,50767,,6.8790753,50.9992525,2932858901,291,12936,,,defiköln,2014-06-25,marian,
 5,Chorweiler,Worringen,Sparkasse KölnBonn,,Hackhauser Weg 19,,,6.8610260,51.0630931,1341151971,292,12937,,,defiköln,2014-01-20,marian,
 6,Ehrenfeld,Butzweilerhof,NetCologne,,Am Coloneum 9,50829,,6.8902456,50.9869509,2630064524,288,18415,,,defiköln,2014-01-20,marian,
 7,Ehrenfeld,Bickendorf,Sparkasse KölnBonn,,Venloer Str. 628,,,6.9009467,50.9575192,224445220,293,12938,,,defiköln,2014-01-20,marian,

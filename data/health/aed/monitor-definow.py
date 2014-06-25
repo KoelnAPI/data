@@ -82,7 +82,7 @@ def find_changes(aeds, definow_aeds):
                     print(json.dumps(definow_aeds[definow_id], indent=4))
                     print(json.dumps(aed, indent=4))
                 if dist > 0.1:
-                    sys.stderr.write("definow.org ID %s, our ID %s: position is: x=%s, y=%s, distance: %.2f m\n" % (
+                    print("definow.org ID %s, our ID %s: position is: x=%s, y=%s, distance: %.2f m" % (
                         definow_id, aed["id"], definow_aeds[definow_id]["x"],
                         definow_aeds[definow_id]["y"], dist))
                     changes.append("position")
@@ -90,9 +90,7 @@ def find_changes(aeds, definow_aeds):
                 continue
 
         if not found:
-            sys.stderr.write("definow.org ID %s is not in aed.csv:\n" % definow_id)
-            sys.stderr.write(json.dumps(definow_aeds[definow_id], indent=4))
-            sys.stderr.write("\n")
+            print("This definow.org AED is not in aed.csv: http://definow.org/de/node/%s" % definow_id)
 
     # other way around: check which OSM nodes have been deleted
     for aed in aeds:
@@ -102,7 +100,7 @@ def find_changes(aeds, definow_aeds):
         if definow_id == "":
             continue
         if definow_id not in definow_aeds:
-            sys.stderr.write("definow.org ID %s, our ID %s, is no longer in AED-Kataster.net\n" % (
+            print("definow.org ID %s, our ID %s, is no longer in definow" % (
                 definow_id, aed["id"]))
 
 
