@@ -63,6 +63,14 @@ Hier werden Listen mit noch ungeprüften, möglichen Standortdaten hinterlegt.
 
 Hinweis für Bearbeiter: Bitte Einträge darin löschen, sobald sie in aed.csv übernommen wurden.
 
+## Die Datei [aed_not_existent.md](aed_not_existent.md)
+
+Diese Liste enthält von uns geprüfte Standorte, an denen möglicherweise
+früher einmal ein AED zu finden war, nun aber nicht mehr. Wir sammeln diese
+Information, um die Entfernung solcher Einträge aus anderen Datenbanken
+zu erleichtern und eine aufwändige, mehrfache Prüfung zu vermeiden.
+
+
 ## Haftungsausschluss
 
 Die Daten werden ohne jegliche Garantie der Richtigkeit oder Vollständigkeit veröffentlicht.
@@ -170,6 +178,15 @@ In this folder we hold and track copies of the data we download from different s
 * `_source/aed_crowdsav.csv`: Location data from CrowdSav converted to CSV
 * `_source/aed_defikoeln.html`: Location data from [defiköln](http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/)
 * `_source/aed_stadt_koeln.csv`: Location data from the [City of Cologne](http://www.offenedaten-koeln.de/dataset/defibrillatoren-stadt-k%C3%B6ln). License: Creative Commons Attribution ([CC-BY 3.0](http://creativecommons.org/licenses/by/3.0/de/))
+
+
+## Die Datei [aed_not_existent.md](aed_not_existent.md)
+
+This is a list of places where **no AED** can be found. They
+might have been announced in the past, but the AED has meanwhile
+been removed etc. We maintain this list for future reference,
+since outdated records are still spread out over variaous data
+stores.
 
 
 ## Disclaimer
