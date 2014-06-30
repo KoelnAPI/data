@@ -69,16 +69,14 @@ def find_changes(aeds, aedk_aeds):
                         print(json.dumps(aedk_aeds[aedk_id], indent=4))
                         print(json.dumps(aed, indent=4))
                     if dist > 0.1:
-                        sys.stderr.write("AED-Kataster.net ID %s, our ID %s: position is: x=%s, y=%s, distance: %.2f m\n" % (
-                            aedk_id, aed["id"], aedk_aeds[aedk_id]["x"],
-                            aedk_aeds[aedk_id]["y"], dist))
+                        print("Position offset: AED-Kataster.net ID %s, our ID %s, distance: %.1f m" % (
+                            aedk_id, aed["id"], dist))
                         changes.append("position")
                 continue
 
         if not found:
-            sys.stderr.write("AED-Kataster.net ID %s is not in aed.csv:\n" % aedk_id)
-            sys.stderr.write(json.dumps(aedk_aeds[aedk_id], indent=4))
-            sys.stderr.write("\n")
+            print("Not in aed.csv: http://aed-kataster.net/component/sobi2/?sobi2Task=sobi2Details&sobi2Id=%s, x=%s, y=%s" % (
+                aedk_id, aedk_aeds[aedk_id]["x"], aedk_aeds[aedk_id]["y"]))
 
     # other way around: check which OSM nodes have been deleted
     for aed in aeds:
@@ -88,7 +86,7 @@ def find_changes(aeds, aedk_aeds):
         if aedk_id == "":
             continue
         if aedk_id not in aedk_aeds:
-            sys.stderr.write("AED-Kataster.net ID %s, our ID %s, is no longer in AED-Kataster.net\n" % (
+            print("AED-Kataster.net ID %s, our ID %s, is no longer in AED-Kataster.net\n" % (
                 aedk_id, aed["id"]))
 
 
