@@ -10,7 +10,7 @@ stores.
 The list is sorted by removal date. New entries should be added
 at the top.
 
-(AED-Standorte, die nicht existieren)
+**AED-Standorte, die nicht existieren**
 
 Dies ist eine Liste der Standorte, die wir überprüft haben und
 an denen wir **keine** Defibrillatoren/AEDs vorgefunden haben. Diese
