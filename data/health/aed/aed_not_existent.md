@@ -32,3 +32,17 @@ oben angefügt werden.
 		http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/
 		http://aed-kataster.net/component/sobi2/?sobi2Task=sobi2Details&sobi2Id=114
 
+	Sparkasse KölnBonn im Philosophikum
+	Universitätsstraße 41
+	50931 Köln
+	As announced at:
+		http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/
+		http://definow.org/de/content/k%C3%B6ln-sparkasse-k%C3%B6lnbonn-10
+		http://aed-kataster.net/nw.html?sobi2Task=sobi2Details&catid=13&sobi2Id=300
+
+	Krankenhaus der Augustinerinnen
+	Jakobstr. 27-31
+	As announced at:
+		http://www.defikoeln.de/defi-in-koeln/standorte-nach-stadtbezirken/
+		http://aed-kataster.net/component/sobi2/?sobi2Task=sobi2Details&catid=2&sobi2Id=284
+
