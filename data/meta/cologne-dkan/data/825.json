@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 8:04", 
+    "created": "Mittwoch, 23. Juli 2014 - 16:27", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der st\u00e4dtischen Baustellen in K\u00f6ln.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Name, Length: 255 )</li>\n<li>DATUM_VON (Type: esriFieldTypeDate, Alias: Datum von, Length: 36 )</li>\n<li>DATUM_BIS (Type: esriFieldTypeDate, Alias: Datum bis, Length: 36 )</li>\n<li>LINK (Type: esriFieldTypeString, Alias: Link, Length: 100 )</li>\n<li>TYP (Type: esriFieldTypeInteger, Alias: Typ, Domain: Coded Values: [1: Aktuelle Verkehrsnachricht: Achtung], [2: Baustelle, Verbot der Einfahrt], [3: Baustelle], ...12 more... )</li>\n<li>ANZEIGE (Type: esriFieldTypeInteger, Alias: Anzeige, Domain: Coded Values: [0: Keine Anzeige], [1: Anzeige] )</li>\n<li>BESCHREIBUNG (Type: esriFieldTypeString, Alias: Beschreibung, Length: 255 )</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: SHAPE)</li>\n</ul>Information:\n\nDie Koordinaten im Feld \"geometry\" werden im Bezugssystem GCS_ETRS_1989 ausgegeben.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "9f3c3a46-d30d-4c7d-8b4a-7d47f6a7a71f", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 16:30", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "ba25cbbc-80f6-4f05-8b16-183b3e96b675", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/WebVerkehr_DataOSM/MapServer/0?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 8:04", 
+            "title": "Metadaten Baustellen in K\u00f6ln", 
+            "url": "/dataset/ba25cbbc-80f6-4f05-8b16-183b3e96b675/resource/ba25cbbc-80f6-4f05-8b16-183b3e96b675"
+        }, 
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 16:29", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "ec46d98b-b66d-4b8d-9344-10837b7c4f7a", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/WebVerkehr_DataOSM/MapServer/0/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 8:04", 
+            "title": "Baustellen in K\u00f6ln", 
+            "url": "/dataset/ec46d98b-b66d-4b8d-9344-10837b7c4f7a/resource/ec46d98b-b66d-4b8d-9344-10837b7c4f7a"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Baustellen in K\u00f6ln"
+}

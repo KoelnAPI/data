@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Dienstag, 10. Juni 2014 - 13:55", 
+    "created": "Dienstag, 10. Juni 2014 - 13:55", 
+    "data_dictionary": "", 
+    "description": "\u00dcbersicht der Quartalsberichte f\u00fcr die B\u00fchnen der Stadt K\u00f6ln.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "00e260f0-69a6-4182-82e7-a1a86259c5eb", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Dienstag, 10. Juni 2014 - 13:56", 
+            "description": "Zeitraum 01.09.2013 - 28.02.1014", 
+            "file_id": "9c11623b-c343-49f8-87d6-d7566ba02668", 
+            "file_link": null, 
+            "file_name": "2014_Quartal1_Besucherstatistiken_Buehnen_Koeln.pdf", 
+            "file_size": "7.44 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/2014_Quartal1_Besucherstatistiken_Buehnen_Koeln.pdf", 
+            "format": "pdf", 
+            "id": "2e4414a8-4656-41af-9eb5-167fd48a8a88", 
+            "link_to_api": null, 
+            "mime_type": "application/pdf", 
+            "modified": "Dienstag, 10. Juni 2014 - 13:57", 
+            "title": "2014 Quartal 1 Besucherstatistiken", 
+            "url": "/dataset/2e4414a8-4656-41af-9eb5-167fd48a8a88/resource/2e4414a8-4656-41af-9eb5-167fd48a8a88"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Besucherstatistiken f\u00fcr die B\u00fchnen der Stadt K\u00f6ln"
+}

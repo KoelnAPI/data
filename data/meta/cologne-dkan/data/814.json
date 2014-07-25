@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:45", 
+    "created": "Mittwoch, 23. Juli 2014 - 9:15", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der K\u00f6lner Bauprojekte.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>Shape (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Name - Bezeichnung, Length: 150 )</li>\n<li>UMSETZUNG (Type: esriFieldTypeString, Alias: Umsetzung, Length: 50 )</li>\n<li>TYP (Type: esriFieldTypeString, Alias: Typ, Length: 20 )</li>\n<li>HYPERLINK (Type: esriFieldTypeString, Alias: Link, Length: 200 )</li>\n<li>KOORX (Type: esriFieldTypeDouble, Alias: X-Koordinate)</li>\n<li>KOORY (Type: esriFieldTypeDouble, Alias: Y-Koordinate)</li>\n<li>HYPERLINK2 (Type: esriFieldTypeString, Alias: Bilder, Length: 2147483647 )</li>\n<li>KURZTEXT (Type: esriFieldTypeString, Alias: KURZTEXT, Length: 2147483647 )</li>\n<li>HIGHLIGHT (Type: esriFieldTypeSmallInteger, Alias: HIGHLIGHT)</li>\n<li>TYPUS (Type: esriFieldTypeString, Alias: TYPUS, Length: 150 )</li>\n<li>NR_STADTBEZIRK (Type: esriFieldTypeString, Alias: NR_STADTBEZIRK, Length: 1 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: STADTBEZIRK, Length: 40 )</li>\n</ul>\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "7767eaf8-76a9-4b8a-85cb-ac742d549f69", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 9:18", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "af1895e3-f2e7-44ae-b284-297becc1761a", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Positivliste/MapServer/0?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:45", 
+            "title": "Metadaten Bauprojekte in K\u00f6ln", 
+            "url": "/dataset/af1895e3-f2e7-44ae-b284-297becc1761a/resource/af1895e3-f2e7-44ae-b284-297becc1761a"
+        }, 
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 9:17", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "55244af5-6c69-40ac-97a1-9694aea92e2d", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Positivliste/MapServer/0/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:45", 
+            "title": "Bauprojekte in K\u00f6ln", 
+            "url": "/dataset/55244af5-6c69-40ac-97a1-9694aea92e2d/resource/55244af5-6c69-40ac-97a1-9694aea92e2d"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Bauprojekte in K\u00f6ln"
+}

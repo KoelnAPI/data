@@ -1,16 +1,32 @@
 {
     "Autor": "", 
     "additional_info": "", 
-    "aktualisiert": "Dienstag, 21. Januar 2014 - 13:18", 
+    "aktualisiert": "Mittwoch, 16. Juli 2014 - 15:23", 
     "created": "Freitag, 10. Januar 2014 - 12:41", 
     "data_dictionary": "", 
-    "description": "Der Fl\u00e4chennutzungsplan (FNP) umfasst das gesamte Stadtgebiet und stellt auf der Ebene der vorbereitenden Bauleitplanung dessen vorhandene und geplante Nutzung dar. Die Aussagen dieses Plans beziehen sich auf die beabsichtigte st\u00e4dtebauliche Entwicklung f\u00fcr einen l\u00e4ngeren Zeitraum (i.d.R. zwischen 10 und 15 Jahre). Der Fl\u00e4chennutzungsplan entwickelt keine unmittelbaren Rechtswirkungen gegen\u00fcber den B\u00fcrgern, insbesondere schafft er kein Baurecht. Er ist verwaltungsinterne Vorgabe f\u00fcr nachfolgende Bebauungspl\u00e4ne sowie f\u00fcr Planungen anderer Planungstr\u00e4ger und Fachbeh\u00f6rden. Dar\u00fcber hinaus ist er beh\u00f6rdenverbindliche Vorgabe zur Steuerung des Baugeschehens im Au\u00dfenbereich. \nZum Fl\u00e4chennutzungsplan und seinen \u00c4nderungen geh\u00f6ren Anlagepl\u00e4ne und Erl\u00e4uterungstexte, in dem die Plandarstellungen ausf\u00fchrlich dargestellt werden\n\nDie Aktualisierung des FNP erfolgt auf Ratsbeschluss. Die hier vorliegenden Daten werden entsprechend fortgef\u00fchrt.\n\nGeodaten des Fl\u00e4chennutzungsplans liegen im shape Format und als Feature Class in einem File-Geodatabase von der Firma ESRI vor.\n\n\n\nInformationen\n<a href=\"http://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html\" title=\"PlanZV\">PlanZV</a> - Verordnung \u00fcber die Ausarbeitung der Bauleitpl\u00e4ne und die Darstellung des Planinhalts \n<a href=\"http://de.wikipedia.org/wiki/Planzeichenverordnung_1990\" title=\"Planzeichenverordnung 1990\">Planzeichenverordnung 1990</a> - Wikipedia", 
+    "description": "Der Fl\u00e4chennutzungsplan (FNP) umfasst das gesamte Stadtgebiet und stellt auf der Ebene der vorbereitenden Bauleitplanung dessen vorhandene und geplante Nutzung dar. Die Aussagen dieses Plans beziehen sich auf die beabsichtigte st\u00e4dtebauliche Entwicklung f\u00fcr einen l\u00e4ngeren Zeitraum (i.d.R. zwischen 10 und 15 Jahre). Der Fl\u00e4chennutzungsplan entwickelt keine unmittelbaren Rechtswirkungen gegen\u00fcber den B\u00fcrgern, insbesondere schafft er kein Baurecht. Er ist verwaltungsinterne Vorgabe f\u00fcr nachfolgende Bebauungspl\u00e4ne sowie f\u00fcr Planungen anderer Planungstr\u00e4ger und Fachbeh\u00f6rden. Dar\u00fcber hinaus ist er beh\u00f6rdenverbindliche Vorgabe zur Steuerung des Baugeschehens im Au\u00dfenbereich. \nZum Fl\u00e4chennutzungsplan und seinen \u00c4nderungen geh\u00f6ren Anlagepl\u00e4ne und Erl\u00e4uterungstexte, in dem die Plandarstellungen ausf\u00fchrlich dargestellt werden\n\nDie Aktualisierung des FNP erfolgt auf Ratsbeschluss. Die hier vorliegenden Daten werden entsprechend fortgef\u00fchrt.\n\nGeodaten des Fl\u00e4chennutzungsplans liegen im shape Format und als Feature Class in einem File-Geodatabase von der Firma ESRI vor.\n\n\n\nInformationen\n<a href=\"http://www.gesetze-im-internet.de/planzv_90/BJNR000580991.html\" title=\"PlanZV\">PlanZV</a> - Verordnung \u00fcber die Ausarbeitung der Bauleitpl\u00e4ne und die Darstellung des Planinhalts \n<a href=\"http://de.wikipedia.org/wiki/Planzeichenverordnung_1990\" title=\"Planzeichenverordnung 1990\">Planzeichenverordnung 1990</a> - Wikipedia\n\nFehler werden sukzessive im Datenbestand behoben und in folgenden Aktualisierungsstufen des Fl\u00e4chennutzungsplans ber\u00fccksichtigt.", 
     "frequency": "", 
     "granularity": "", 
     "id": "e4ec291f-10b4-47fc-a147-6cbf268f9a38", 
-    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
+        {
+            "created": "Mittwoch, 16. Juli 2014 - 14:40", 
+            "description": "Fl\u00e4chennutzungsplan Stand Juli 2014", 
+            "file_id": "4dc017d9-5e69-4549-abdd-e8150357c6b1", 
+            "file_link": null, 
+            "file_name": "201407_Flaechennutzungsplan.zip", 
+            "file_size": "2.09 MB", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/201407_Flaechennutzungsplan.zip", 
+            "format": "zip", 
+            "id": "148139db-9ae1-4e4c-bae5-19f307b1d864", 
+            "link_to_api": null, 
+            "mime_type": "application/zip", 
+            "modified": "Mittwoch, 16. Juli 2014 - 15:24", 
+            "title": "Aktueller Fl\u00e4chennutzungsplan", 
+            "url": "/dataset/148139db-9ae1-4e4c-bae5-19f307b1d864/resource/148139db-9ae1-4e4c-bae5-19f307b1d864"
+        }, 
         {
             "created": "Freitag, 10. Januar 2014 - 12:45", 
             "description": "Der Fl\u00e4chennutzungsplan (FNP) umfasst das gesamte Stadtgebiet der Stadt K\u00f6ln", 
@@ -23,8 +39,8 @@
             "id": "2b2606f0-56ca-4a6c-8252-fb84514cf5aa", 
             "link_to_api": null, 
             "mime_type": "application/zip", 
-            "modified": "Freitag, 10. Januar 2014 - 12:49", 
-            "title": "Fl\u00e4chennutzungsplan", 
+            "modified": "Mittwoch, 16. Juli 2014 - 15:24", 
+            "title": "Fl\u00e4chennutzungsplan g\u00fcltig bis Juli 2014", 
             "url": "/dataset/2b2606f0-56ca-4a6c-8252-fb84514cf5aa/resource/2b2606f0-56ca-4a6c-8252-fb84514cf5aa"
         }
     ], 

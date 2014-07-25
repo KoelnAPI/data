@@ -1,14 +1,14 @@
 {
     "Autor": "", 
     "additional_info": "", 
-    "aktualisiert": "Montag, 18. November 2013 - 14:29", 
+    "aktualisiert": "Mittwoch, 23. Juli 2014 - 16:02", 
     "created": "Freitag, 25. Januar 2013 - 14:18", 
     "data_dictionary": "", 
-    "description": "\u00dcber die Daten des Verkehrskalenders bietet sich Ihnen verschiedene M\u00f6glichkeiten, einen \u00dcberblick \u00fcber die Verkehrslage in K\u00f6ln zu erhalten. Neben Verkehrsbelastung und Parkhausbelegung (in Version 1.5) finden sich hier aktuelle Daten zu Baustellen und Veranstaltungen.\n", 
+    "description": "\u00dcber die Daten des Verkehrskalenders bietet sich Ihnen verschiedene M\u00f6glichkeiten, einen \u00dcberblick \u00fcber die Verkehrslage in K\u00f6ln zu erhalten.\n\n\n\n<ul><li>[IDENTIFIER] =&gt; ID Bsp.: ST035 </li>\n<li>[NAME] =&gt; NAME - Bsp:G\u00fcrtel - A 57 - Ausfahrt Ehrenfeld bis Aachener Stra\u00dfe</li>\n<li>[AUSLASTUNG] =&gt; AUSLASTUNG - Bsp. (0,1 oder 2) 0 = frei 1 = z\u00e4hflie\u00dfend 2 = Stau 16 = keine Anzeige, vermutlich wegen defekter Sensoren 32 = zus\u00e4tzlicher Hinweis im Feld Link (etwa bei Gro\u00dfveranstaltungen)</li>\n<li> [LINK] =&gt; LINK - Bsp. Link zu weiteren Informationen</li>\n<li> [geometryType] =&gt; esriGeometryPolyline [spatialReference] =&gt; stdClass Object</li>\n</ul>\n\nDie Aktualisierungszeiten betragen in etwa 5 bis 10 Minuten.\n", 
     "frequency": "", 
     "granularity": "", 
     "id": "ad7eff28-5c20-43bc-8503-9808646aeca3", 
-    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {

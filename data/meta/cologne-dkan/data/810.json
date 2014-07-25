@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:50", 
+    "created": "Mittwoch, 23. Juli 2014 - 8:59", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der Busparkpl\u00e4tze in K\u00f6ln.\n\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>BEZEICHNUN (Type: esriFieldTypeString, Alias: Bezeichnung, Length: 50 )</li>\n<li>GEBUEHREN (Type: esriFieldTypeString, Alias: GEBUEHREN, Length: 254 )</li>\n<li>KOORMX (Type: esriFieldTypeDouble, Alias: KOORMX)</li>\n<li>KOORMY (Type: esriFieldTypeDouble, Alias: KOORMY)</li>\n<li>NUTZUNGSART (Type: esriFieldTypeString, Alias: NUTZUNGSART, Length: 50 )</li>\n<li>ID_NUTZUNGSART (Type: esriFieldTypeSmallInteger, Alias: ID_NUTZUNGSART)</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: SHAPE)</li>\n<li>HYPERLINK (Type: esriFieldTypeString, Alias: HYPERLINK, Length: 250 )</li>\n<li>SHAPE.AREA (Type: esriFieldTypeDouble, Alias: SHAPE.AREA)</li>\n<li>SHAPE.LEN (Type: esriFieldTypeDouble, Alias: SHAPE.LEN)</li>\n</ul>\nInformation:\n\nDie Koordinaten im Feld \"geometry\" werden im Bezugssystem GCS_ETRS_1989 ausgegeben.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "07df618f-105b-4b37-8823-2949f66589fa", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 9:01", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "ea8a6ad0-12ec-43c5-bcdf-ca32c8c43c4e", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/WebVerkehr_DataOSM/MapServer/7?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:51", 
+            "title": "Metadaten Busparkpl\u00e4tze in K\u00f6ln", 
+            "url": "/dataset/ea8a6ad0-12ec-43c5-bcdf-ca32c8c43c4e/resource/ea8a6ad0-12ec-43c5-bcdf-ca32c8c43c4e"
+        }, 
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 9:01", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "478dc4ef-601a-4656-8bd3-cae0037590dd", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/WebVerkehr_DataOSM/MapServer/7/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:50", 
+            "title": "Busparklp\u00e4tze in K\u00f6ln", 
+            "url": "/dataset/478dc4ef-601a-4656-8bd3-cae0037590dd/resource/478dc4ef-601a-4656-8bd3-cae0037590dd"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Busparkpl\u00e4tze in K\u00f6ln"
+}

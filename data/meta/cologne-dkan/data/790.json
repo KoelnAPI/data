@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:55", 
+    "created": "Mittwoch, 23. Juli 2014 - 7:15", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der Schulen in K\u00f6ln.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>NR_STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk-Nr., Length: 1 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 40 )</li>\n<li>NR_STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil-Nr., Length: 3 )</li>\n<li>STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil, Length: 40 )</li>\n<li>ADRESSE (Type: esriFieldTypeString, Alias: Adresse, Length: 50 )</li>\n<li>POSTZUSTELLBEZIRK (Type: esriFieldTypeString, Alias: Postzustellbezirk, Length: 5 )</li>\n<li>SCHULART (Type: esriFieldTypeString, Alias: Schulart, Length: 75 )</li>\n<li>SCHULTYP (Type: esriFieldTypeString, Alias: Schultyp, Length: 50 )</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Schulname, Length: 100 )</li>\n<li>SCHULSTRASSE (Type: esriFieldTypeString, Alias: Schulstra\u00dfe, Length: 100 )</li>\n<li>SCHULNAME (Type: esriFieldTypeString, Alias: Schulname mit K\u00fcrzel, Length: 80 )</li>\n<li>TRAEGER (Type: esriFieldTypeString, Alias: Tr\u00e4ger, Length: 30 )</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n<li>XKOOR (Type: esriFieldTypeDouble, Alias: X-Koordinate)</li>\n<li>YKOOR (Type: esriFieldTypeDouble, Alias: Y-Koordinate)</li>\n</ul>\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "f4fe9c34-a53e-4ab8-a6fa-04553897d81e", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 7:17", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "5ed2e643-f9aa-4b3f-a2cf-5921d9cbe539", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/6?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:56", 
+            "title": "Metadaten Schulen in K\u00f6ln", 
+            "url": "/dataset/5ed2e643-f9aa-4b3f-a2cf-5921d9cbe539/resource/5ed2e643-f9aa-4b3f-a2cf-5921d9cbe539"
+        }, 
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 7:16", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "54d02836-dec0-40e8-b974-d51831be5db4", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/6/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:55", 
+            "title": "Schulen in K\u00f6ln", 
+            "url": "/dataset/54d02836-dec0-40e8-b974-d51831be5db4/resource/54d02836-dec0-40e8-b974-d51831be5db4"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Schulen in K\u00f6ln"
+}

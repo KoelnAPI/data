@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:40", 
+    "created": "Montag, 21. Juli 2014 - 9:58", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der K\u00f6lner Baul\u00fccken\n \nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 40 )</li>\n<li>STRASSENNAME (Type: esriFieldTypeString, Alias: Stra\u00dfenname, Length: 100 )</li>\n<li>HAUSNUMMER (Type: esriFieldTypeString, Alias: Hausnummer, Length: 20 )</li>\n<li>FLAECHE (Type: esriFieldTypeDouble, Alias: Fl\u00e4che (qm))</li>\n<li>WOHNEINHEITEN (Type: esriFieldTypeDouble, Alias: Wohneinheiten)</li>\n<li>TYP_NUTZUNG (Type: esriFieldTypeString, Alias: Nutzungstyp, Length: 40 )</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n\nInformation:\n\nDie Koordinaten im Feld \"geometry\" werden im Bezugssystem GCS_ETRS_1989 ausgegeben.</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "764eb7d4-c7d9-46a5-a20a-ca00d9ea0314", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 21. Juli 2014 - 10:04", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "7cc28b24-71ac-45c2-a094-01a0629af44c", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/BLKataster/Baulueckenkataster/MapServer/1?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Montag, 21. Juli 2014 - 10:04", 
+            "title": "Metadaten Baul\u00fccken in K\u00f6ln", 
+            "url": "/dataset/7cc28b24-71ac-45c2-a094-01a0629af44c/resource/7cc28b24-71ac-45c2-a094-01a0629af44c"
+        }, 
+        {
+            "created": "Montag, 21. Juli 2014 - 9:59", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "5d6736fc-2834-4cc2-add8-4b02d324c15a", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/BLKataster/Baulueckenkataster/MapServer/1/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:40", 
+            "title": "Baul\u00fccken in K\u00f6ln", 
+            "url": "/dataset/5d6736fc-2834-4cc2-add8-4b02d324c15a/resource/5d6736fc-2834-4cc2-add8-4b02d324c15a"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Geo", 
+    "temporal_coverage": "", 
+    "title": "Baul\u00fcckenkataster K\u00f6ln"
+}

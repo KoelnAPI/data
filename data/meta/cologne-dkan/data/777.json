@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 8:00", 
+    "created": "Montag, 21. Juli 2014 - 10:11", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der st\u00e4dtischen Kindertagesst\u00e4tten in K\u00f6ln.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>X_KOORD (Type: esriFieldTypeDouble, Alias: X-Koordinate)</li>\n<li>Y_KOORD (Type: esriFieldTypeDouble, Alias: Y-Koordinate)</li>\n<li>POSTZUSTELLBEZIRK (Type: esriFieldTypeString, Alias: Postzustellbezirk, Length: 5 )</li>\n<li>NR_STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil-Nr., Length: 3 )</li>\n<li>STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil, Length: 40 )</li>\n<li>NR_STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk-Nr., Length: 1 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 40 )</li>\n<li>ADRESSE (Type: esriFieldTypeString, Alias: Adresse, Length: 60 )</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n<li>TRAEGER_TYP (Type: esriFieldTypeString, Alias: Traeger (Art), Length: 20 )</li>\n\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.</ul>", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "712844f7-fa0a-449c-a83a-758a99820ad7", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 21. Juli 2014 - 10:12", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "34b0c2d5-4a48-41d6-9540-db21683f45ab", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/9?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 8:00", 
+            "title": "Metadaten Kindertagesst\u00e4tten in K\u00f6ln", 
+            "url": "/dataset/34b0c2d5-4a48-41d6-9540-db21683f45ab/resource/34b0c2d5-4a48-41d6-9540-db21683f45ab"
+        }, 
+        {
+            "created": "Montag, 21. Juli 2014 - 10:11", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "c1ec4ea0-2d09-4890-a8bb-e7a18714a996", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/9/query?geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 8:00", 
+            "title": "Kindertagesst\u00e4tten in K\u00f6ln", 
+            "url": "/dataset/c1ec4ea0-2d09-4890-a8bb-e7a18714a996/resource/c1ec4ea0-2d09-4890-a8bb-e7a18714a996"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Kindertagesst\u00e4tten in K\u00f6ln"
+}

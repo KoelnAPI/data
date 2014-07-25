@@ -8,9 +8,25 @@
     "frequency": "", 
     "granularity": "", 
     "id": "b14d181c-efa1-4efa-b5b5-c429c9603cfb", 
-    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 9:07", 
+            "description": "<b>Information:</b>\n<p></p>\nDie Koordinaten im Feld \"geometry\" werden im Bezugssystem GCS_ETRS_1989 ausgegeben.", 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "08d62ab3-e3c5-4c44-b39c-6cf6bd7a84f9", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/WebVerkehr_DataOSM/MapServer/6/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:53", 
+            "title": "Umweltzone", 
+            "url": "/dataset/08d62ab3-e3c5-4c44-b39c-6cf6bd7a84f9/resource/08d62ab3-e3c5-4c44-b39c-6cf6bd7a84f9"
+        }, 
         {
             "created": "Mittwoch, 25. September 2013 - 13:45", 
             "description": null, 

@@ -1,14 +1,14 @@
 {
     "Autor": "", 
     "additional_info": "", 
-    "aktualisiert": "Montag, 18. November 2013 - 14:28", 
+    "aktualisiert": "Mittwoch, 23. Juli 2014 - 16:05", 
     "created": "Dienstag, 19. Februar 2013 - 14:15", 
     "data_dictionary": "", 
-    "description": "\u00dcber die Daten der Parkhausbelegung bietet sich Ihnen die M\u00f6glichkeit, einen \u00dcberblick \u00fcber die aktuelle Parkhausauslastung in K\u00f6ln zu erhalten.\n Die Aktualisierungszeiten betragen in etwa 5 bis 10 Minuten.\n", 
+    "description": "\u00dcber die Daten der Parkhausbelegung bietet sich Ihnen die M\u00f6glichkeit, einen \u00dcberblick \u00fcber die aktuelle Parkhausauslastung in K\u00f6ln zu erhalten.\n Die Aktualisierungszeiten betragen in etwa 5 bis 10 Minuten.\n\n\n\nFelder:\n\n<ul><li>IDENTIFIER: Datensatz-Schl\u00fcssel f\u00fcr das Parkhaus (z.B. PH01 f\u00fcr Hauptbahnhof)</li>\n<li>PARKHAUS: Name des Parkhauses KAPAZITAET: Anzahl der freien Pl\u00e4tze ( -1 = Keine Daten verf\u00fcgbar, zum Beispiel bei St\u00f6rungen etc.). </li><li>TENDENZ: -1 =&gt; nicht verf\u00fcgbar 0 =&gt; gleichbleibend 1 =&gt; weniger freie Pl\u00e4tze 2 =&gt; mehr freie Pl\u00e4tze</li>\n</ul>", 
     "frequency": "", 
     "granularity": "", 
     "id": "647ed189-ce31-40db-9b9d-353a7768dadf", 
-    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {

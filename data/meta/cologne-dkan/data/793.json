@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:47", 
+    "created": "Mittwoch, 23. Juli 2014 - 7:22", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der K\u00f6lner Museen.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>ADRESS_NR (Type: esriFieldTypeString, Alias: Adress-Nr_, Length: 12 )</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Name, Length: 26 )</li>\n<li>ADRESSE (Type: esriFieldTypeString, Alias: Adresse, Length: 41 )</li>\n<li>HAUSNR (Type: esriFieldTypeString, Alias: Hausnummer, Length: 5 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 25 )</li>\n<li>STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil, Length: 25 )</li>\n<li>STADTVIERTEL (Type: esriFieldTypeString, Alias: Stadtviertel, Length: 25 )</li>\n<li>POSTLEITZAHL (Type: esriFieldTypeString, Alias: Postzustellbezirk, Length: 5 )</li>\n<li>HYPERLINK (Type: esriFieldTypeString, Alias: Link, Length: 75 )</li>\n<li>NAME_LANG (Type: esriFieldTypeString, Alias: Langname, Length: 60 )</li>\n<li>TRAEGER (Type: esriFieldTypeString, Alias: Tr\u00e4ger, Length: 20 )</li>\n<li>X_KOORDINATE (Type: esriFieldTypeDouble, Alias: X-Koordinate)</li>\n<li>Y_KOORDINATE (Type: esriFieldTypeDouble, Alias: Y-Koordinate)</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n</ul>\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "4220a5b0-7b65-44a3-8125-47bd635af20f", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 7:24", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "84349094-cfe9-4f20-bded-89df1a765114", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/5?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:48", 
+            "title": "Metadaten Museen in K\u00f6ln", 
+            "url": "/dataset/84349094-cfe9-4f20-bded-89df1a765114/resource/84349094-cfe9-4f20-bded-89df1a765114"
+        }, 
+        {
+            "created": "Mittwoch, 23. Juli 2014 - 7:23", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "8d0d3625-04cf-48fd-bf2d-1f34f109911d", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/5/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:47", 
+            "title": "Museen in K\u00f6ln Standorte", 
+            "url": "/dataset/8d0d3625-04cf-48fd-bf2d-1f34f109911d/resource/8d0d3625-04cf-48fd-bf2d-1f34f109911d"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Museen in K\u00f6ln - Standorte"
+}

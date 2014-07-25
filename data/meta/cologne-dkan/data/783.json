@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:58", 
+    "created": "Montag, 21. Juli 2014 - 10:38", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der Sehensw\u00fcrdigkeiten in K\u00f6ln.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>ADRESS_NR (Type: esriFieldTypeString, Alias: Adress-Nr_, Length: 12 )</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Name, Length: 26 )</li>\n<li>ADRESSE (Type: esriFieldTypeString, Alias: Adresse, Length: 41 )</li>\n<li>HAUSNR (Type: esriFieldTypeString, Alias: Hausnummer, Length: 5 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 25 )</li>\n<li>STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil, Length: 25 )</li>\n<li>STADTVIERTEL (Type: esriFieldTypeString, Alias: Stadtviertel, Length: 25 )</li>\n<li>POSTLEITZAHL (Type: esriFieldTypeString, Alias: Postzustellbezirk, Length: 5 )</li>\n<li>HYPERLINK (Type: esriFieldTypeString, Alias: Link, Length: 75 )</li>\n<li>NAME_LANG (Type: esriFieldTypeString, Alias: Langname, Length: 60 )</li>\n<li>X_KOORDINATE (Type: esriFieldTypeDouble, Alias: X-Koordinate)</li>\n<li>Y_KOORDINATE (Type: esriFieldTypeDouble, Alias: Y-Koordinate)</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n</ul>\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "6ff16c29-52a8-48c5-8c47-17dadb2afd3f", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 21. Juli 2014 - 10:40", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "14fbdbdf-0a93-48d6-9dcd-ea94e822c2ea", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/7?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:59", 
+            "title": "Metadaten Sehensw\u00fcrdigkeiten in K\u00f6ln", 
+            "url": "/dataset/14fbdbdf-0a93-48d6-9dcd-ea94e822c2ea/resource/14fbdbdf-0a93-48d6-9dcd-ea94e822c2ea"
+        }, 
+        {
+            "created": "Montag, 21. Juli 2014 - 10:38", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "39a0a951-b258-44f4-a41a-8ca050e0c777", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/7/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:59", 
+            "title": "Sehensw\u00fcrdigkeiten in K\u00f6ln", 
+            "url": "/dataset/39a0a951-b258-44f4-a41a-8ca050e0c777/resource/39a0a951-b258-44f4-a41a-8ca050e0c777"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Sehensw\u00fcrdigkeiten in K\u00f6ln"
+}

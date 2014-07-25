@@ -8,7 +8,7 @@
     "frequency": "", 
     "granularity": "", 
     "id": "0be719f4-c4a4-4993-a465-671b4147fd7c", 
-    "license": "Creative Commons Namensnennung 3.0 Deutschland Lizenz\r", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
     "publisher": "Stadt K\u00f6ln", 
     "resources": [
         {
@@ -21,9 +21,9 @@
             "file_url": "", 
             "format": "xml", 
             "id": "2c576a84-337d-483f-ae72-15c9527049b5", 
-            "link_to_api": "http://www.stadt-koeln.de/php/modules/hochwasser/pegel_ws.php", 
+            "link_to_api": "http://www.stadt-koeln.de/interne-dienste/hochwasser/pegel_ws.php", 
             "mime_type": "", 
-            "modified": "Montag, 18. November 2013 - 13:58", 
+            "modified": "Donnerstag, 24. Juli 2014 - 8:52", 
             "title": "Pegelstand", 
             "url": "/dataset/resource/2c576a84-337d-483f-ae72-15c9527049b5"
         }

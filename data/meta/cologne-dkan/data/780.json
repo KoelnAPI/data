@@ -1,0 +1,51 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Donnerstag, 24. Juli 2014 - 7:42", 
+    "created": "Montag, 21. Juli 2014 - 10:29", 
+    "data_dictionary": "", 
+    "description": "Georeferenzierte Auflistung der Geb\u00e4ude der Stadtverwaltung K\u00f6ln.\n\nFelder:\n<ul><li>OBJECTID (Type: esriFieldTypeOID, Alias: OBJECTID)</li>\n<li>NUMMER (Type: esriFieldTypeString, Alias: Nummer, Length: 8 )</li>\n<li>NAME (Type: esriFieldTypeString, Alias: Name, Length: 26 )</li>\n<li>ID_NUTZUNG (Type: esriFieldTypeDouble, Alias: Nutzungsschl\u00fcssel)</li>\n<li>NUTZUNG (Type: esriFieldTypeString, Alias: Nutzung, Length: 81 )</li>\n<li>ADRESS_NR (Type: esriFieldTypeString, Alias: Adress-Nr., Length: 12 )</li>\n<li>ADRESSE (Type: esriFieldTypeString, Alias: Adresse, Length: 41 )</li>\n<li>STADTBEZIRK (Type: esriFieldTypeString, Alias: Stadtbezirk, Length: 25 )</li>\n<li>STADTTEIL (Type: esriFieldTypeString, Alias: Stadtteil, Length: 25 )</li>\n<li>STADTVIERTEL (Type: esriFieldTypeString, Alias: Stadtviertel, Length: 25 )</li>\n<li>BLOCK (Type: esriFieldTypeString, Alias: Block, Length: 6 )</li>\n<li>POSTLEITZAHL (Type: esriFieldTypeString, Alias: Postzustellbezirk, Length: 5 )</li>\n<li>SHAPE (Type: esriFieldTypeGeometry, Alias: Shape)</li>\n\n</ul>\nInformation:\n\nNeben den oben angegebenen X,Y Koordinaten mit dem Bezugssystem WGS_1984_UTM_Zone_32N, gibt es ein weiteres Feld \"geometry\", welches die X/Y Koordinaten im Bezugssystem GCS_ETRS_1989 ausgibt.", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "71713f64-c704-4fd7-9d1f-5187999360a4", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Montag, 21. Juli 2014 - 10:31", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "982c91f9-4711-4b64-a861-240c0de24949", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/8?f=json&pretty=true", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:42", 
+            "title": "Metadaten Geb\u00e4ude Stadtverwaltung K\u00f6ln", 
+            "url": "/dataset/982c91f9-4711-4b64-a861-240c0de24949/resource/982c91f9-4711-4b64-a861-240c0de24949"
+        }, 
+        {
+            "created": "Montag, 21. Juli 2014 - 10:30", 
+            "description": null, 
+            "file_id": "", 
+            "file_link": null, 
+            "file_name": "", 
+            "file_size": "", 
+            "file_url": "", 
+            "format": "json", 
+            "id": "6ab54bfd-b4bd-48e1-824d-9891d32baafb", 
+            "link_to_api": "http://geoportal1.stadt-koeln.de/ArcGIS/rest/services/Stadtplanthemen/MapServer/8/query?text=&geometry=&geometryType=esriGeometryPoint&inSR=&spatialRel=esriSpatialRelIntersects&relationParam=&objectIds=&where=objectid%20is%20not%20null&time=&returnCountOnly=false&returnIdsOnly=false&returnGeometry=true&maxAllowableOffset=&outSR=4258&outFields=%2A&f=json", 
+            "mime_type": "", 
+            "modified": "Donnerstag, 24. Juli 2014 - 7:42", 
+            "title": "Geb\u00e4ude Stadtverwaltung K\u00f6ln", 
+            "url": "/dataset/6ab54bfd-b4bd-48e1-824d-9891d32baafb/resource/6ab54bfd-b4bd-48e1-824d-9891d32baafb"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Geb\u00e4ude der Stadtverwaltung K\u00f6ln"
+}

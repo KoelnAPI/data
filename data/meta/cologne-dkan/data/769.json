@@ -1,0 +1,35 @@
+{
+    "Autor": "", 
+    "additional_info": "", 
+    "aktualisiert": "Montag, 21. Juli 2014 - 11:27", 
+    "created": "Mittwoch, 9. Juli 2014 - 14:59", 
+    "data_dictionary": "", 
+    "description": "Auflistung der K\u00f6lner Stadtbezirke", 
+    "frequency": "", 
+    "granularity": "", 
+    "id": "bb680968-e933-40a9-a5cc-23961e46ff99", 
+    "license": "Creative Commons Namensnennung 3.0 DE\r", 
+    "publisher": "Stadt K\u00f6ln", 
+    "resources": [
+        {
+            "created": "Mittwoch, 9. Juli 2014 - 15:01", 
+            "description": null, 
+            "file_id": "ad876c4a-1636-4fdc-af53-7da22beae80c", 
+            "file_link": null, 
+            "file_name": "Stadtbezirke_Koeln.csv", 
+            "file_size": "126 Bytes", 
+            "file_url": "http://offenedaten-koeln.de/sites/default/files/Stadtbezirke_Koeln.csv", 
+            "format": "csv", 
+            "id": "edd9918c-b7c4-45b8-99d6-084a1af67e48", 
+            "link_to_api": null, 
+            "mime_type": "text/csv", 
+            "modified": "Mittwoch, 9. Juli 2014 - 15:02", 
+            "title": "Stadtbezirke K\u00f6ln", 
+            "url": "/dataset/edd9918c-b7c4-45b8-99d6-084a1af67e48/resource/edd9918c-b7c4-45b8-99d6-084a1af67e48"
+        }
+    ], 
+    "spatial": "", 
+    "tags": "Informationen", 
+    "temporal_coverage": "", 
+    "title": "Stadtbezirke K\u00f6ln"
+}
