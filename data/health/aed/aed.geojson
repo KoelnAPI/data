@@ -10,19 +10,21 @@
             }, 
             "id": 1, 
             "properties": {
-                "address": "Mail\u00e4nder Passage 51, 50765 K\u00f6ln", 
+                "address": "Mail\u00e4nder Passage 51", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "113", 
                 "city_district": "Chorweiler", 
                 "city_subdistrict": "Chorweiler", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12871", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1668102576, 
+                "postalcode": "50765", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -44,12 +46,14 @@
                 "city_subdistrict": "Heimersdorf", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12934", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 475012301, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -71,12 +75,43 @@
                 "city_subdistrict": "Merkenich", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12935", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 247388977, 
+                "postalcode": null, 
+                "source": "defik\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.8790753, 
+                    50.9992525
+                ], 
+                "type": "Point"
+            }, 
+            "id": 4, 
+            "properties": {
+                "address": "Longericher Str. 26", 
+                "aed4eu_id": null, 
+                "aedkatasternet_id": "291", 
+                "city_district": "Chorweiler", 
+                "city_subdistrict": "Pesch", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "definow_id": "12936", 
+                "last_edited": "2014-06-25", 
+                "last_edited_by": "marian", 
+                "location_details": null, 
+                "name": "Sparkasse K\u00f6lnBonn", 
+                "opening_hours": null, 
+                "osm_node_id": 2932858901, 
+                "postalcode": "50767", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -98,12 +133,14 @@
                 "city_subdistrict": "Worringen", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12937", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1341151971, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -125,12 +162,14 @@
                 "city_subdistrict": "Butzweilerhof", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18415", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "NetCologne", 
                 "opening_hours": null, 
                 "osm_node_id": 2630064524, 
+                "postalcode": "50829", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -152,12 +191,14 @@
                 "city_subdistrict": "Bickendorf", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12938", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 224445220, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -179,12 +220,14 @@
                 "city_subdistrict": "Bocklem\u00fcnd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12939", 
                 "last_edited": "2014-01-23", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 244296667, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -206,12 +249,14 @@
                 "city_subdistrict": "Butzweilerhof", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "13635", 
                 "last_edited": "2014-04-30", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2825946453, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -233,12 +278,14 @@
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12941", 
                 "last_edited": "2014-01-26", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 419010439, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -260,12 +307,14 @@
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12942", 
                 "last_edited": "2014-01-26", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2638236794, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -287,12 +336,14 @@
                 "city_subdistrict": "Ossendorf", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12943", 
                 "last_edited": "2014-01-26", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 230226555, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -314,12 +365,14 @@
                 "city_subdistrict": "Subbelrath", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12944", 
                 "last_edited": "2014-01-26", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 196170706, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -341,12 +394,14 @@
                 "city_subdistrict": "Vogelsang", 
                 "comment": null, 
                 "crowdsav_id": 7222, 
+                "definow_id": "12946", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 224392074, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -368,12 +423,14 @@
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "13019", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "St. Franziskus-Hospital", 
                 "opening_hours": null, 
                 "osm_node_id": 2660981735, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -395,12 +452,14 @@
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": 7178, 
+                "definow_id": "12924", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Eduardus-Krankenhaus", 
                 "opening_hours": null, 
                 "osm_node_id": 2660988163, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -422,12 +481,14 @@
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": 7110, 
+                "definow_id": "12914", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": "Nordeingang (Richtung Bahnhof)", 
                 "name": "K\u00f6lner Dom", 
                 "opening_hours": "6.00-19.30 Uhr", 
                 "osm_node_id": 2629536675, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -449,12 +510,14 @@
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "16117", 
                 "last_edited": "2014-01-24", 
                 "last_edited_by": "marian", 
                 "location_details": "im Hauptbahnhof", 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2634947257, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -476,12 +539,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12947", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2660994495, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -503,12 +568,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": 7116, 
+                "definow_id": "12948", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 283622259, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -523,19 +590,21 @@
             }, 
             "id": 23, 
             "properties": {
-                "address": "Ubierring 3, 50678 K\u00f6ln", 
+                "address": "Ubierring 3", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "3146", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12949", 
                 "last_edited": "2014-05-05", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 533914916, 
+                "postalcode": "50678", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -557,12 +626,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": 7113, 
+                "definow_id": "12950", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 259198814, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -570,8 +641,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    6.9542728, 
-                    50.9429199
+                    6.9542629, 
+                    50.9428248
                 ], 
                 "type": "Point"
             }, 
@@ -584,12 +655,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": 7112, 
+                "definow_id": "12951", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2103595703, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -611,12 +684,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12952", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 286416915, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -638,12 +713,14 @@
                 "city_subdistrict": null, 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12873", 
                 "last_edited": "2014-02-05", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2655934640, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -665,12 +742,14 @@
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": 7114, 
+                "definow_id": "12953", 
                 "last_edited": "2014-02-06", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 255239657, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -692,12 +771,14 @@
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": 7179, 
+                "definow_id": "12954", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2661022368, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -719,12 +800,14 @@
                 "city_subdistrict": "Severin", 
                 "comment": null, 
                 "crowdsav_id": 7117, 
+                "definow_id": "12955", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2661030909, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -746,12 +829,14 @@
                 "city_subdistrict": "Br\u00fcck", 
                 "comment": null, 
                 "crowdsav_id": 7163, 
+                "definow_id": "12956", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2661041117, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -773,12 +858,14 @@
                 "city_subdistrict": "H\u00f6henberg", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12957", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 637570861, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -800,12 +887,14 @@
                 "city_subdistrict": "Humbold", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12958", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1427508090, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -813,8 +902,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0014664, 
-                    50.9378688
+                    7.0015639, 
+                    50.9378944
                 ], 
                 "type": "Point"
             }, 
@@ -827,12 +916,14 @@
                 "city_subdistrict": "Kalk", 
                 "comment": null, 
                 "crowdsav_id": null, 
-                "last_edited": "2014-02-08", 
+                "definow_id": "12959", 
+                "last_edited": "2014-07-21", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2661133855, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -854,12 +945,14 @@
                 "city_subdistrict": "Merheim", 
                 "comment": null, 
                 "crowdsav_id": 7164, 
+                "definow_id": "12960", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2127984949, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -881,12 +974,14 @@
                 "city_subdistrict": "Neubr\u00fcck", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12961", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2665197233, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -908,12 +1003,14 @@
                 "city_subdistrict": "Ostheim", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12962", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2181249590, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -935,12 +1032,14 @@
                 "city_subdistrict": "Rath/Heumar", 
                 "comment": null, 
                 "crowdsav_id": 7162, 
+                "definow_id": "12963", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 698868715, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -962,12 +1061,14 @@
                 "city_subdistrict": "Vingst", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12964", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 903911992, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -989,12 +1090,14 @@
                 "city_subdistrict": "Weyertal", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12925", 
                 "last_edited": "2014-06-23", 
                 "last_edited_by": "marian", 
                 "location_details": "Haupteingang, neben Empfangstheke", 
                 "name": "Ev. Krankenhaus K\u00f6ln-Weyertal", 
                 "opening_hours": null, 
                 "osm_node_id": 2929022704, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1016,12 +1119,14 @@
                 "city_subdistrict": "Braunsfeld", 
                 "comment": null, 
                 "crowdsav_id": 7227, 
+                "definow_id": "12965", 
                 "last_edited": "2014-02-10", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2665512062, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1043,12 +1148,14 @@
                 "city_subdistrict": "Junkersdorf", 
                 "comment": null, 
                 "crowdsav_id": 7225, 
+                "definow_id": "12966", 
                 "last_edited": "2014-02-11", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1613007921, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1070,12 +1177,14 @@
                 "city_subdistrict": "Klettenberg", 
                 "comment": null, 
                 "crowdsav_id": 7135, 
+                "definow_id": "12967", 
                 "last_edited": "2014-02-11", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 313929830, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1097,12 +1206,14 @@
                 "city_subdistrict": "Klettenberg", 
                 "comment": null, 
                 "crowdsav_id": 7136, 
+                "definow_id": "12968", 
                 "last_edited": "2014-02-11", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 265728727, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1124,12 +1235,14 @@
                 "city_subdistrict": "Kriel", 
                 "comment": null, 
                 "crowdsav_id": 7134, 
+                "definow_id": "12969", 
                 "last_edited": "2014-02-11", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2666893705, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1151,12 +1264,14 @@
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
                 "crowdsav_id": 7129, 
+                "definow_id": "12970", 
                 "last_edited": "2014-02-14", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 315646189, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1178,12 +1293,14 @@
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
                 "crowdsav_id": 7127, 
+                "definow_id": "12971", 
                 "last_edited": "2014-02-14", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 280961557, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1205,12 +1322,14 @@
                 "city_subdistrict": "M\u00fcngersdorf", 
                 "comment": null, 
                 "crowdsav_id": 7226, 
+                "definow_id": "12973", 
                 "last_edited": "2014-02-14", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 262073154, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1232,12 +1351,14 @@
                 "city_subdistrict": "S\u00fclz", 
                 "comment": null, 
                 "crowdsav_id": 7131, 
+                "definow_id": "12974", 
                 "last_edited": "2014-02-14", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 425897167, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1259,12 +1380,14 @@
                 "city_subdistrict": "Weiden", 
                 "comment": null, 
                 "crowdsav_id": 7223, 
+                "definow_id": "12975", 
                 "last_edited": "2014-02-14", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 739048812, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1286,12 +1409,14 @@
                 "city_subdistrict": "Weiden", 
                 "comment": null, 
                 "crowdsav_id": 7224, 
+                "definow_id": "12976", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "In Sparkassen-Filiale, linke Wand", 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2758239367, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1313,12 +1438,14 @@
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12913", 
                 "last_edited": "2014-06-23", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Uniklinik", 
                 "opening_hours": null, 
                 "osm_node_id": 2929046201, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1340,12 +1467,14 @@
                 "city_subdistrict": "S\u00fclz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18416", 
                 "last_edited": "2014-01-20", 
                 "last_edited_by": "marian", 
                 "location_details": "Foyer im MG neben den Toiletten", 
                 "name": "Unimensa", 
                 "opening_hours": null, 
                 "osm_node_id": 1609157079, 
+                "postalcode": "50937", 
                 "source": "OSM"
             }, 
             "type": "Feature"
@@ -1367,12 +1496,14 @@
                 "city_subdistrict": "Buchforst", 
                 "comment": null, 
                 "crowdsav_id": 7181, 
+                "definow_id": "12978", 
                 "last_edited": null, 
                 "last_edited_by": null, 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 304060421, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1394,12 +1525,14 @@
                 "city_subdistrict": "Buchforst", 
                 "comment": null, 
                 "crowdsav_id": 7180, 
+                "definow_id": "12979", 
                 "last_edited": null, 
                 "last_edited_by": null, 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 673347141, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1421,12 +1554,14 @@
                 "city_subdistrict": "Buchheim", 
                 "comment": null, 
                 "crowdsav_id": 7182, 
+                "definow_id": "12980", 
                 "last_edited": "2014-02-16", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2675150633, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1448,12 +1583,14 @@
                 "city_subdistrict": "Dellbr\u00fcck", 
                 "comment": null, 
                 "crowdsav_id": 7188, 
+                "definow_id": "13639", 
                 "last_edited": "2014-02-16", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 280572117, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1475,12 +1612,14 @@
                 "city_subdistrict": "D\u00fcnnwald", 
                 "comment": null, 
                 "crowdsav_id": 7192, 
+                "definow_id": "12981", 
                 "last_edited": "2014-02-16", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1115991480, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1502,12 +1641,14 @@
                 "city_subdistrict": "Flittard", 
                 "comment": null, 
                 "crowdsav_id": 7191, 
+                "definow_id": "12982", 
                 "last_edited": "2014-02-16", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 621969295, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1529,12 +1670,14 @@
                 "city_subdistrict": "H\u00f6henhaus", 
                 "comment": null, 
                 "crowdsav_id": 7189, 
+                "definow_id": "12983", 
                 "last_edited": "2014-02-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 318720315, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1556,12 +1699,14 @@
                 "city_subdistrict": "Holweide", 
                 "comment": null, 
                 "crowdsav_id": 7187, 
+                "definow_id": "12984", 
                 "last_edited": "2014-02-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 274119034, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1583,12 +1728,14 @@
                 "city_subdistrict": "M\u00fchlheim", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18417", 
                 "last_edited": "2014-02-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1309260588, 
+                "postalcode": "51065", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1610,12 +1757,14 @@
                 "city_subdistrict": "M\u00fchlheim", 
                 "comment": null, 
                 "crowdsav_id": 7184, 
+                "definow_id": "12986", 
                 "last_edited": "2014-02-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 340350854, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1637,12 +1786,14 @@
                 "city_subdistrict": "Stammheim", 
                 "comment": null, 
                 "crowdsav_id": 7190, 
+                "definow_id": "12987", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1602470675, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1664,12 +1815,14 @@
                 "city_subdistrict": "Bilderst\u00f6ckchen", 
                 "comment": null, 
                 "crowdsav_id": 7220, 
+                "definow_id": "12988", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 246829498, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1691,12 +1844,14 @@
                 "city_subdistrict": "Gartenstadt", 
                 "comment": null, 
                 "crowdsav_id": 7213, 
+                "definow_id": "12989", 
                 "last_edited": "2014-06-18", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2921855321, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1718,12 +1873,14 @@
                 "city_subdistrict": "Mauenheim", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12990", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 471841250, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1745,12 +1902,14 @@
                 "city_subdistrict": "Niehl", 
                 "comment": null, 
                 "crowdsav_id": 7215, 
+                "definow_id": "12991", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 366725735, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1772,12 +1931,14 @@
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": 7218, 
+                "definow_id": "12992", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2681118466, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1799,12 +1960,14 @@
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12993", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 232284761, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1826,12 +1989,14 @@
                 "city_subdistrict": "Riehl", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12994", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2681141625, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1853,12 +2018,14 @@
                 "city_subdistrict": "Weidenpesch", 
                 "comment": null, 
                 "crowdsav_id": 7214, 
+                "definow_id": "12995", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 287571416, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1873,19 +2040,21 @@
             }, 
             "id": 84, 
             "properties": {
-                "address": "Merheimer Str. 221-223, 50733 K\u00f6ln", 
+                "address": "Merheimer Str. 221-223", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4934", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": null, 
                 "last_edited": "2014-03-10", 
                 "last_edited_by": "marian", 
                 "location_details": "Eingang Kempener Stra\u00dfe", 
                 "name": "St. Vinzenz-Hospital", 
                 "opening_hours": null, 
                 "osm_node_id": 2710679883, 
+                "postalcode": "50733", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1907,12 +2076,14 @@
                 "city_subdistrict": "Porz", 
                 "comment": null, 
                 "crowdsav_id": 7158, 
+                "definow_id": "12931", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Gesundheitszentrum, Eingangsbereich hinter 2. Glast\u00fcr an Wand links", 
                 "name": "Krankenhaus Porz am Rhein", 
                 "opening_hours": null, 
                 "osm_node_id": 2758954758, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1934,12 +2105,14 @@
                 "city_subdistrict": "Eil", 
                 "comment": null, 
                 "crowdsav_id": 7160, 
+                "definow_id": "12996", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 277805255, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1961,12 +2134,14 @@
                 "city_subdistrict": "Ensen/Westhoven", 
                 "comment": null, 
                 "crowdsav_id": 7175, 
+                "definow_id": "12997", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 423830101, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -1988,12 +2163,14 @@
                 "city_subdistrict": "Finkenberg", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18418", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1562448841, 
+                "postalcode": "51149", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2015,12 +2192,14 @@
                 "city_subdistrict": "Gremberghoven", 
                 "comment": null, 
                 "crowdsav_id": 7161, 
+                "definow_id": "12999", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": "Im Real-Einkaufszentrum", 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1344434779, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2042,12 +2221,14 @@
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
                 "crowdsav_id": 7154, 
+                "definow_id": "18419", 
                 "last_edited": "2014-02-19", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2921858927, 
+                "postalcode": "51147", 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2069,12 +2250,14 @@
                 "city_subdistrict": "Langel", 
                 "comment": null, 
                 "crowdsav_id": 7148, 
+                "definow_id": "13001", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2681204245, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2096,12 +2279,14 @@
                 "city_subdistrict": "Poll", 
                 "comment": null, 
                 "crowdsav_id": 7176, 
+                "definow_id": "13002", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 455225288, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2123,12 +2308,14 @@
                 "city_subdistrict": "Porz", 
                 "comment": null, 
                 "crowdsav_id": 7157, 
+                "definow_id": "13003", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 432472640, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2150,12 +2337,14 @@
                 "city_subdistrict": "Urbach", 
                 "comment": null, 
                 "crowdsav_id": 7155, 
+                "definow_id": "13004", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 412472648, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2163,8 +2352,8 @@
         {
             "geometry": {
                 "coordinates": [
-                    7.0936461, 
-                    50.8583185
+                    7.0937174, 
+                    50.8583751
                 ], 
                 "type": "Point"
             }, 
@@ -2177,12 +2366,14 @@
                 "city_subdistrict": "Wahnheide", 
                 "comment": null, 
                 "crowdsav_id": 7151, 
-                "last_edited": "2014-03-20", 
+                "definow_id": "13005", 
+                "last_edited": "2014-07-21", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2729105278, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2204,12 +2395,14 @@
                 "city_subdistrict": "Z\u00fcndorf", 
                 "comment": null, 
                 "crowdsav_id": 7150, 
+                "definow_id": "13006", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1447350851, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2231,12 +2424,14 @@
                 "city_subdistrict": "Bayenthal", 
                 "comment": null, 
                 "crowdsav_id": 7139, 
+                "definow_id": "13007", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 354534104, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2258,12 +2453,14 @@
                 "city_subdistrict": "Godorf", 
                 "comment": null, 
                 "crowdsav_id": 7145, 
+                "definow_id": "13008", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2729149359, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2285,12 +2482,14 @@
                 "city_subdistrict": "Meschenich", 
                 "comment": null, 
                 "crowdsav_id": 7144, 
+                "definow_id": "13009", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2729159058, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2312,12 +2511,14 @@
                 "city_subdistrict": "Raderthal", 
                 "comment": null, 
                 "crowdsav_id": 7141, 
+                "definow_id": "13010", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 366955070, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2339,12 +2540,14 @@
                 "city_subdistrict": "Rodenkirchen", 
                 "comment": null, 
                 "crowdsav_id": 7142, 
+                "definow_id": "13011", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 877180648, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2366,12 +2569,14 @@
                 "city_subdistrict": "Rondorf", 
                 "comment": null, 
                 "crowdsav_id": 7143, 
+                "definow_id": "13012", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1719170082, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2393,12 +2598,14 @@
                 "city_subdistrict": "S\u00fcrth", 
                 "comment": null, 
                 "crowdsav_id": 7146, 
+                "definow_id": "13013", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 2921861358, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2420,12 +2627,14 @@
                 "city_subdistrict": "Weiss", 
                 "comment": null, 
                 "crowdsav_id": 7147, 
+                "definow_id": "13014", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 1446805957, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2447,12 +2656,14 @@
                 "city_subdistrict": "Zollstock", 
                 "comment": null, 
                 "crowdsav_id": 7137, 
+                "definow_id": "13015", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": null, 
                 "name": "Sparkasse K\u00f6lnBonn", 
                 "opening_hours": null, 
                 "osm_node_id": 690259794, 
+                "postalcode": null, 
                 "source": "defik\u00f6ln"
             }, 
             "type": "Feature"
@@ -2474,12 +2685,14 @@
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "15625", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Ankunft B.C an S\u00e4ule, N\u00e4he Info-Schalter", 
                 "name": "Flughafen K\u00f6ln/Bonn Terminal 1", 
                 "opening_hours": null, 
                 "osm_node_id": 2629647242, 
+                "postalcode": null, 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -2501,12 +2714,14 @@
                 "city_subdistrict": "Grengel", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18420", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Check-In-Bereich (oberste Ebene), am Info-Schalter vor Sicherheitsschleuse", 
                 "name": "Flughafen K\u00f6ln/Bonn Terminal 2", 
                 "opening_hours": null, 
                 "osm_node_id": 2629647241, 
+                "postalcode": "51147", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -2521,19 +2736,21 @@
             }, 
             "id": 109, 
             "properties": {
-                "address": "Roncalliplatz 4, 50667 K\u00f6ln", 
+                "address": "Roncalliplatz 4", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4937", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18421", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Hinter der Kasse am Eingang", 
                 "name": "R\u00f6misch Germanisches Museum", 
                 "opening_hours": "Di-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00 ", 
                 "osm_node_id": 2758103873, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2548,19 +2765,21 @@
             }, 
             "id": 110, 
             "properties": {
-                "address": "Heinrich-B\u00f6ll-Platz, 50667 K\u00f6ln", 
+                "address": "Heinrich-B\u00f6ll-Platz", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4938", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18422", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": "Kassenbereich", 
                 "name": "Museum Ludwig", 
                 "opening_hours": "Di-So 10:00 - 18:00, 1.Do im Monat 10:00 - 22:00 ", 
                 "osm_node_id": 2729268381, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2575,19 +2794,50 @@
             }, 
             "id": 111, 
             "properties": {
-                "address": "Obenmarspforten, 50667 K\u00f6ln", 
+                "address": "Obenmarspforten", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4939", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18423", 
                 "last_edited": "2014-06-03", 
                 "last_edited_by": "marian", 
                 "location_details": "Sanit\u00e4ter-Raum links neben Theke", 
                 "name": "Wallraf-Richartz-Museum", 
                 "opening_hours": "Di-So 10:00 - 18:00, Do 10:00 - 21:00, Feiertags 10:00 - 18:00, 1.Do im Monat 10:00 - 22:00 ", 
                 "osm_node_id": 2897225301, 
+                "postalcode": "50667", 
+                "source": "Stadt K\u00f6ln"
+            }, 
+            "type": "Feature"
+        }, 
+        {
+            "geometry": {
+                "coordinates": [
+                    6.9499024, 
+                    50.9412355
+                ], 
+                "type": "Point"
+            }, 
+            "id": 112, 
+            "properties": {
+                "address": "Zeughausstra\u00dfe 1-3", 
+                "aed4eu_id": null, 
+                "aedkatasternet_id": null, 
+                "city_district": "Innenstadt", 
+                "city_subdistrict": "Altstadt-Nord", 
+                "comment": null, 
+                "crowdsav_id": null, 
+                "definow_id": null, 
+                "last_edited": "2014-08-13", 
+                "last_edited_by": "marian", 
+                "location_details": "Hinter dem Kassenschalter", 
+                "name": "K\u00f6lnisches Stadtmuseum", 
+                "opening_hours": "Di 10:00 - 20:00, Feiertags 10:00 - 17:00, Mi-So 10:00 - 17:00, 1.Do im Monat 10:00 - 22:00", 
+                "osm_node_id": 3013885685, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2602,19 +2852,21 @@
             }, 
             "id": 113, 
             "properties": {
-                "address": "Aachener Stra\u00dfe 220, 50931 K\u00f6ln", 
+                "address": "Aachener Stra\u00dfe 220", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4940", 
                 "city_district": "Lindenthal", 
                 "city_subdistrict": "Lindenthal", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18424", 
                 "last_edited": "2014-04-30", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke", 
                 "name": "B\u00fcrgeramt Lindenthal", 
                 "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
                 "osm_node_id": 2729261446, 
+                "postalcode": "50931", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2629,19 +2881,21 @@
             }, 
             "id": 114, 
             "properties": {
-                "address": "Venloer Stra\u00dfe 419-421, 50825 K\u00f6ln", 
+                "address": "Venloer Stra\u00dfe 419-421", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4941", 
                 "city_district": "Ehrenfeld", 
                 "city_subdistrict": "Ehrenfeld", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18425", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke", 
                 "name": "B\u00fcrgeramt Ehrenfeld", 
                 "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
                 "osm_node_id": 2729239392, 
+                "postalcode": "50825", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2656,19 +2910,21 @@
             }, 
             "id": 115, 
             "properties": {
-                "address": "Neusser Stra\u00dfe 450, 50733 K\u00f6ln", 
+                "address": "Neusser Stra\u00dfe 450", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4942", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Weidenpesch", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18426", 
                 "last_edited": "2014-03-11", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke", 
                 "name": "B\u00fcrgeramt Nippes", 
                 "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
                 "osm_node_id": 2712532672, 
+                "postalcode": "50733", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2683,19 +2939,21 @@
             }, 
             "id": 116, 
             "properties": {
-                "address": "Willy-Brandt-Platz 2, 50679 K\u00f6ln", 
+                "address": "Willy-Brandt-Platz 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4943", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18427", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke am Haupteingang, N\u00e4he Stra\u00dfenbahn", 
                 "name": "Stadthaus Deutz Westgeb\u00e4ude", 
                 "opening_hours": "Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00", 
                 "osm_node_id": 2758070253, 
+                "postalcode": "50679", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2710,19 +2968,21 @@
             }, 
             "id": 117, 
             "properties": {
-                "address": "Willy-Brandt-Platz 3, 50679 K\u00f6ln", 
+                "address": "Willy-Brandt-Platz 3", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4944", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18428", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "S\u00e4ule direkt am Eingang von Seite Arena", 
                 "name": "Stadthaus Deutz Ostgeb\u00e4ude", 
                 "opening_hours": "Mo,Mi,Do 8:00 - 16:00, Di 8:00 - 18:00, Fr 8:00 - 14:00", 
                 "osm_node_id": 2758084998, 
+                "postalcode": "50679", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2737,19 +2997,21 @@
             }, 
             "id": 125, 
             "properties": {
-                "address": "Friedrich-Ebert-Ufer 64 -70, 51143 K\u00f6ln", 
+                "address": "Friedrich-Ebert-Ufer 64 -70", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4945", 
                 "city_district": "Porz", 
                 "city_subdistrict": "Porz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18429", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Eingangsbereich an der Pforte", 
                 "name": "Bezirksamt Porz", 
                 "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
                 "osm_node_id": 2758938635, 
+                "postalcode": "51143", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2764,19 +3026,21 @@
             }, 
             "id": 126, 
             "properties": {
-                "address": "Laurenzplatz 1-3, 50667 K\u00f6ln", 
+                "address": "Laurenzplatz 1-3", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4946", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18430", 
                 "last_edited": "2014-06-03", 
                 "last_edited_by": "marian", 
                 "location_details": "S\u00e4ule im Wartebereich", 
                 "name": "Bezirksamt Innenstadt", 
                 "opening_hours": "Mo,Mi,Fr 7:30 - 12:00, Di 9:30 - 18:00, Do 7:30 - 16:00", 
                 "osm_node_id": 2897234101, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2791,19 +3055,21 @@
             }, 
             "id": 128, 
             "properties": {
-                "address": "Neumarkt 15-21, 50667 K\u00f6ln", 
+                "address": "Neumarkt 15-21", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4947", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18431", 
                 "last_edited": "2014-06-03", 
                 "last_edited_by": "marian", 
                 "location_details": "Rechts neben Pf\u00f6rtnerloge", 
                 "name": "Gesundheitsamt Stadt K\u00f6ln", 
                 "opening_hours": "Mo-Do 8:00 - 16:00, Fr 8:00 - 12:00", 
                 "osm_node_id": 2897187710, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2818,19 +3084,21 @@
             }, 
             "id": 130, 
             "properties": {
-                "address": "G\u00fclichplatz 1-3, 50667 K\u00f6ln", 
+                "address": "G\u00fclichplatz 1-3", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4948", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18432", 
                 "last_edited": "2014-06-03", 
                 "last_edited_by": "marian", 
                 "location_details": "Links neben Eingang", 
                 "name": "Standesamt Haus Neuerburg", 
                 "opening_hours": "Mo,Do 8:00 - 16:00, Di 8:00 - 18:00, Mi,Fr 8:00 - 12:00", 
                 "osm_node_id": 2897189103, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2845,19 +3113,21 @@
             }, 
             "id": 131, 
             "properties": {
-                "address": "Im Mediapark 7, 50670 K\u00f6ln ", 
+                "address": "Im Mediapark 7", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4949", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Neustadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18433", 
                 "last_edited": "2014-03-20", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Seiteneingang neben der Brandmeldezentrale", 
                 "name": "KOMED im Mediapark", 
                 "opening_hours": "Mo - Fr 09:00 - 18:00 Uhr und zu Veranstaltungen", 
                 "osm_node_id": 2729284149, 
+                "postalcode": "50670", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2872,19 +3142,21 @@
             }, 
             "id": 133, 
             "properties": {
-                "address": "Rathaus Spanischer Bau, 50667 K\u00f6ln", 
+                "address": "Rathaus Spanischer Bau", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4950", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18434", 
                 "last_edited": "2014-02-08", 
                 "last_edited_by": "marian", 
                 "location_details": "Bereich Infotheke", 
                 "name": "Rathaus Spanischer Bau", 
                 "opening_hours": "Mo - Fr 08:00 - 16:00 Uhr und zu Veranstaltungen", 
                 "osm_node_id": 2660970270, 
+                "postalcode": "50667", 
                 "source": "Stadt K\u00f6ln"
             }, 
             "type": "Feature"
@@ -2899,19 +3171,21 @@
             }, 
             "id": 134, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4951", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18435", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Hauptgeb\u00e4ude, Zentrales Treppenhaus, Ebene 5, S\u00fcdseite, neben Herren-WC", 
                 "name": "FH K\u00f6ln, IWZ Deutz, Zentrales Treppenhaus", 
                 "opening_hours": null, 
                 "osm_node_id": 2759043337, 
+                "postalcode": "50679", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -2926,19 +3200,21 @@
             }, 
             "id": 135, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4952", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18444", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Ebene 1, Bereich Et (Elektrische Energietechnik), Flur, neben Raum HW-1-57", 
                 "name": "FH K\u00f6ln, IWZ Deutz, Halle West", 
                 "opening_hours": null, 
                 "osm_node_id": 2758029034, 
+                "postalcode": "50679", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -2953,19 +3229,21 @@
             }, 
             "id": 136, 
             "properties": {
-                "address": "Apellhofplatz/Kupfergasse, 50667 K\u00f6ln", 
+                "address": "Apellhofplatz/Kupfergasse", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4953", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18437", 
                 "last_edited": "2014-02-04", 
                 "last_edited_by": "marian", 
                 "location_details": "Haupteingang Empfang", 
                 "name": "WDR Vierscheibenhaus", 
                 "opening_hours": null, 
                 "osm_node_id": 2656318761, 
+                "postalcode": "50667", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -2980,19 +3258,21 @@
             }, 
             "id": 137, 
             "properties": {
-                "address": "Merheimer Str. 221-223, 50733 K\u00f6ln", 
+                "address": "Merheimer Str. 221-223", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4960", 
                 "city_district": "Nippes", 
                 "city_subdistrict": "Nippes", 
                 "comment": null, 
                 "crowdsav_id": 7219, 
+                "definow_id": "13021", 
                 "last_edited": "2014-03-10", 
                 "last_edited_by": "marian", 
                 "location_details": "Eingang Merheimer Stra\u00dfe", 
                 "name": "St. Vinzenz-Hospital", 
                 "opening_hours": null, 
                 "osm_node_id": 2710679523, 
+                "postalcode": "50733", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -3007,19 +3287,21 @@
             }, 
             "id": 138, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4954", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "12765", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Hauptgeb\u00e4ude, links neben Pf\u00f6rtnerloge (Ebene 2)", 
                 "name": "FH K\u00f6ln, IWZ Deutz Haupteingang", 
                 "opening_hours": null, 
                 "osm_node_id": 2758971784, 
+                "postalcode": "50679", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -3034,19 +3316,21 @@
             }, 
             "id": 139, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4955", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18438", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "An der Ausleihe", 
                 "name": "FH K\u00f6ln, IWZ Deutz Bibliothek", 
                 "opening_hours": null, 
                 "osm_node_id": 2759066131, 
+                "postalcode": "50679", 
                 "source": "FH K\u00f6ln"
             }, 
             "type": "Feature"
@@ -3061,19 +3345,21 @@
             }, 
             "id": 140, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4956", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18439", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Ebene 2, Bereich N, Flur rechts von Raum 20", 
                 "name": "FH K\u00f6ln, IWZ Deutz, Halle Nord", 
                 "opening_hours": null, 
                 "osm_node_id": 2759116263, 
+                "postalcode": "50679", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -3088,19 +3374,21 @@
             }, 
             "id": 141, 
             "properties": {
-                "address": "Betzdorfer Stra\u00dfe 2, 50679 K\u00f6ln", 
+                "address": "Betzdorfer Stra\u00dfe 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4957", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Deutz", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18440", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "Ebene 1, zwischen Lt (Landmaschinentechnik) und Ft (Fahrzeugtechnik), Flur vor Herren-WC", 
                 "name": "FH K\u00f6ln, IWZ Deutz, Halle Ost", 
                 "opening_hours": null, 
                 "osm_node_id": 2758000293, 
+                "postalcode": "50679", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -3115,19 +3403,21 @@
             }, 
             "id": 142, 
             "properties": {
-                "address": "An den Dominikanern 2, 50668 K\u00f6ln", 
+                "address": "An den Dominikanern 2", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4958", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-Nord", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18441", 
                 "last_edited": "2014-04-01", 
                 "last_edited_by": "marian", 
                 "location_details": "3. Stock, Poststelle (Raum 308)", 
                 "name": "FH K\u00f6ln im Sozialgericht", 
                 "opening_hours": null, 
                 "osm_node_id": 2759147315, 
+                "postalcode": "50668", 
                 "source": "FH K\u00f6ln"
             }, 
             "type": "Feature"
@@ -3142,19 +3432,21 @@
             }, 
             "id": 143, 
             "properties": {
-                "address": "Ubierring 40, 50678 K\u00f6ln", 
+                "address": "Ubierring 40", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4959", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18442", 
                 "last_edited": "2014-04-14", 
                 "last_edited_by": "marian", 
                 "location_details": "Erdgeschoss, rechts von der Pf\u00f6rtnerloge", 
                 "name": "FH K\u00f6ln, KISD", 
                 "opening_hours": null, 
                 "osm_node_id": 2791209472, 
+                "postalcode": "50678", 
                 "source": "FH K\u00f6ln, eigene Beobachtung"
             }, 
             "type": "Feature"
@@ -3169,19 +3461,21 @@
             }, 
             "id": 144, 
             "properties": {
-                "address": "Br\u00fchler Landstra\u00dfe 431, 50997 K\u00f6ln", 
+                "address": "Br\u00fchler Landstra\u00dfe 431", 
                 "aed4eu_id": null, 
-                "aedkatasternet_id": null, 
+                "aedkatasternet_id": "4974", 
                 "city_district": "Rodenkirchen", 
                 "city_subdistrict": "Meschenich", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18443", 
                 "last_edited": "2014-04-30", 
                 "last_edited_by": "marian", 
                 "location_details": "Vorraum bei den Geldautomaten, Zugang mit EC-Karte/Kundenkarte", 
                 "name": "VR-Bank", 
                 "opening_hours": null, 
                 "osm_node_id": 2826026249, 
+                "postalcode": "50997", 
                 "source": "http://www.rettungswache-golzheim.org/AED-Tabelle.pdf"
             }, 
             "type": "Feature"
@@ -3196,19 +3490,21 @@
             }, 
             "id": 145, 
             "properties": {
-                "address": "C\u00e4cilienstra\u00dfe 29-33, 50667 K\u00f6ln", 
+                "address": "C\u00e4cilienstra\u00dfe 29-33", 
                 "aed4eu_id": null, 
                 "aedkatasternet_id": "4972", 
                 "city_district": "Innenstadt", 
                 "city_subdistrict": "Altstadt-S\u00fcd", 
                 "comment": null, 
                 "crowdsav_id": null, 
+                "definow_id": "18390", 
                 "last_edited": "2014-06-18", 
                 "last_edited_by": "Raymond", 
                 "location_details": "An der Kasse", 
                 "name": "Rautenstrauch-Joest-Museum", 
                 "opening_hours": "Di, Mi, Fr, Sa, So 10-18 Uhr; Do 10-20 Uhr; 1. Do im Monat 10-22 Uhr", 
                 "osm_node_id": 2920841194, 
+                "postalcode": "50667", 
                 "source": "eigene Beobachtung"
             }, 
             "type": "Feature"
